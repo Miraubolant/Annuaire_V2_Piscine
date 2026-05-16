@@ -1,0 +1,28 @@
+{
+    "region": {
+        "id": 12,
+        "code": "11",
+        "nom": "La Réunion",
+        "slug": "la-reunion"
+    },
+    "departements": [
+        {
+            "code": "974",
+            "nom": "La Réunion",
+            "slug": "la-reunion",
+            "population_totale": 871157,
+            "communes_count": 24,
+            "communes_avec_artisans": 22,
+            "artisans_vmc": 119,
+            "voisins": []
+        }
+    ],
+    "stats": {
+        "communes_total": 24,
+        "communes_avec_artisans": 22,
+        "artisans_vmc": 119,
+        "population_totale": 871157
+    },
+    "zones_climatiques": [],
+    "zone_climatique_dominante": null
+}

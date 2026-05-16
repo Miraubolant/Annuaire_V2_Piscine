@@ -1,0 +1,52 @@
+{
+    "region": {
+        "id": 6,
+        "code": "05",
+        "nom": "Corse",
+        "slug": "corse"
+    },
+    "departements": [
+        {
+            "code": "2A",
+            "nom": "Corse-du-Sud",
+            "slug": "corse-du-sud",
+            "population_totale": 163663,
+            "communes_count": 124,
+            "communes_avec_artisans": 26,
+            "artisans_vmc": 177,
+            "voisins": [
+                {
+                    "dep_code": "2B",
+                    "dep_nom": "Haute-Corse",
+                    "dep_slug": "haute-corse"
+                }
+            ]
+        },
+        {
+            "code": "2B",
+            "nom": "Haute-Corse",
+            "slug": "haute-corse",
+            "population_totale": 185493,
+            "communes_count": 236,
+            "communes_avec_artisans": 24,
+            "artisans_vmc": 116,
+            "voisins": [
+                {
+                    "dep_code": "2A",
+                    "dep_nom": "Corse-du-Sud",
+                    "dep_slug": "corse-du-sud"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 360,
+        "communes_avec_artisans": 50,
+        "artisans_vmc": 293,
+        "population_totale": 349156
+    },
+    "zones_climatiques": {
+        "H2": 360
+    },
+    "zone_climatique_dominante": "H2"
+}
