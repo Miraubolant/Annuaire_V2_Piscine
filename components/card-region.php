@@ -1,8 +1,8 @@
 <?php
-// $region (array) — {region:{slug,nom}, stats:{communes_total,artisans_isolation_thermique}, departements:[]}
+// $region (array) — {region:{slug,nom}, stats:{communes_total,artisans_vmc}, departements:[]}
 $url = urlRegion($region['region']['slug']);
 $nbDepts = count($region['departements'] ?? []);
-$nbArtisans = $region['stats']['artisans_isolation_thermique'] ?? 0;
+$nbArtisans = $region['stats']['artisans_vmc'] ?? 0;
 $nbCommunes = $region['stats']['communes_avec_artisans'] ?? 0;
 ?>
 <a href="<?= htmlspecialchars($url) ?>"
@@ -15,5 +15,5 @@ $nbCommunes = $region['stats']['communes_avec_artisans'] ?? 0;
             <?= number_format($nbArtisans, 0, ',', ' ') ?> <?= METIER_PLURIEL ?>
         </p>
     </div>
-    <p class="text-blue-500 text-xs mt-3">Voir les isolants →</p>
+    <p class="text-blue-500 text-xs mt-3">Voir les installateurs VMC →</p>
 </a>

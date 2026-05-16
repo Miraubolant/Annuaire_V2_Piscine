@@ -3,7 +3,7 @@ http_response_code(404);
 require_once __DIR__ . '/../config.php';
 require_once __DIR__ . '/../functions.php';
 $title       = 'Page introuvable — ' . SITE_NAME;
-$description = 'La page que vous recherchez n\'existe pas. Trouvez un isolant près de chez vous.';
+$description = 'La page que vous recherchez n\'existe pas. Trouvez un installateur VMC près de chez vous.';
 $robots      = 'noindex,follow';
 $canonical_url = SITE_URL . '/';
 $jsonLd      = [];
@@ -15,7 +15,7 @@ require __DIR__ . '/header.php';
     <h1 class="text-4xl font-bold text-gray-800 mb-4">Page introuvable</h1>
     <p class="text-gray-500 text-lg mb-8">
         Cette page n'existe pas ou a été déplacée.
-        Cherchez un isolant dans votre ville ci-dessous.
+        Cherchez un installateur VMC dans votre ville ci-dessous.
     </p>
 
     <!-- Barre de recherche -->
@@ -35,7 +35,7 @@ require __DIR__ . '/header.php';
                     <a :href="r.url"
                        class="flex items-center justify-between px-4 py-3 hover:bg-blue-50 text-sm border-b border-gray-100 last:border-0">
                         <span x-text="r.nom + ' (' + r.cp + ')'"></span>
-                        <span class="text-gray-400 text-xs" x-text="r.artisans + ' isolants'"></span>
+                        <span class="text-gray-400 text-xs" x-text="r.artisans + ' installateurs'"></span>
                     </a>
                 </template>
             </div>

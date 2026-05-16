@@ -47,11 +47,11 @@ $nbArt      = getCompteurArtisans($commune);
         <!-- ── Droite : widget sur fond blanc ─────────────────────────────── -->
         <div class="hero-widget-col">
             <div style="padding:20px 24px 16px;border-bottom:1px solid #f0ebe1;">
-                <p style="font-weight:700;font-size:14px;color:#3D4A52;margin-bottom:2px;">Devis gratuit isolation</p>
-                <p style="font-size:12px;color:#6b6762;">Comparez les isolants qualifiés · Sans engagement</p>
+                <p style="font-weight:700;font-size:14px;color:#0B6B7E;margin-bottom:2px;">Devis gratuit installation VMC</p>
+                <p style="font-size:12px;color:#6b6762;">Comparez les installateurs VMC qualifiés · Sans engagement</p>
             </div>
 
-            <!-- Widget ViteUnDevis — catégorie isolation toiture -->
+            <!-- Widget ViteUnDevis — catégorie VMC -->
             <div style="flex:1;padding:16px 24px;background:#ffffff;color:#1a1a1a;">
                 <div id="v2e29b6034ad"></div>
                 <script>

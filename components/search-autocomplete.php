@@ -33,7 +33,7 @@ $inputClass = $size === 'lg'
                 <div class="text-right ml-4">
                     <span class="text-gray-400 text-sm" x-text="r.cp"></span>
                     <br>
-                    <span class="text-blue-500 text-xs font-semibold" x-text="r.artisans + ' isolants'"></span>
+                    <span class="text-blue-500 text-xs font-semibold" x-text="r.artisans + ' installateurs'"></span>
                 </div>
             </a>
         </template>
