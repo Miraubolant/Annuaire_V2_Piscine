@@ -1,0 +1,731 @@
+{
+  "villepinte": {
+    "artisans": [
+      {
+        "id": "9263110713889964366",
+        "nom": "Piscine municipale de Villepinte",
+        "slug": "piscine-municipale-de-villepinte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villepinte, France",
+        "note": 3.8,
+        "avis": 223,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "14108458880800410781",
+        "nom": "Activités Nautiques de Villepinte",
+        "slug": "activites-nautiques-de-villepinte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villepinte, France",
+        "note": 4.3,
+        "avis": 36,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "aubervilliers": {
+    "artisans": [
+      {
+        "id": "16617629592325454543",
+        "nom": "Centre Aquatique Aubervilliers Camille Muffat",
+        "slug": "centre-aquatique-aubervilliers-camille-muffat",
+        "telephone": "+33 1 86 78 69 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 134,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "3341060886189668035",
+        "nom": "CMA NATATION AUBERVILLIERS",
+        "slug": "cma-natation-aubervilliers",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rue Edouard Poisson",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Swim club"
+      },
+      {
+        "id": "8507914129165666541",
+        "nom": "Centre Nautique Marlène Peratou",
+        "slug": "centre-nautique-marlene-peratou",
+        "telephone": "+33 1 48 33 14 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 346,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "aulnay-sous-bois": {
+    "artisans": [
+      {
+        "id": "13758932976972151919",
+        "nom": "Piscine du parc",
+        "slug": "piscine-du-parc",
+        "telephone": "+33 1 48 67 08 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 327,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "16364593484567767638",
+        "nom": "DIMASCOMPANY",
+        "slug": "dimascompany",
+        "telephone": "+33 6 30 22 44 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 15,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bagnolet": {
+    "artisans": [
+      {
+        "id": "4289259975288388398",
+        "nom": "Piscine Les Malassis",
+        "slug": "piscine-les-malassis",
+        "telephone": "+33 1 83 74 56 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 113,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "bondy": {
+    "artisans": [
+      {
+        "id": "5906321654817404728",
+        "nom": "Piscine Edouard Herriot",
+        "slug": "piscine-edouard-herriot",
+        "telephone": "+33 1 83 74 57 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 290,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "11488351299437318099",
+        "nom": "Piscine Tournesol",
+        "slug": "piscine-tournesol",
+        "telephone": "+33 1 83 74 57 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 179,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "le-bourget": {
+    "artisans": [
+      {
+        "id": "11946489710250014514",
+        "nom": "Piscine du Bourget",
+        "slug": "piscine-du-bourget",
+        "telephone": "+33 1 43 11 27 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 115,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "clichy-sous-bois": {
+    "artisans": [
+      {
+        "id": "2368222311662588475",
+        "nom": "Piscine Rosa Parks",
+        "slug": "piscine-rosa-parks",
+        "telephone": "+33 1 43 81 76 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 418,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "coubron": {
+    "artisans": [
+      {
+        "id": "2231574532283347461",
+        "nom": "Origine",
+        "slug": "origine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Coubron, France",
+        "note": 5,
+        "avis": 24,
+        "type": "Wellness center"
+      },
+      {
+        "id": "1938501716330304408",
+        "nom": "Villa Yucatán – Private Spa near Paris",
+        "slug": "villa-yucatan-private-spa-near-paris",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Coubron, France",
+        "note": 4.9,
+        "avis": 299,
+        "type": "Spa"
+      }
+    ]
+  },
+  "la-courneuve": {
+    "artisans": [
+      {
+        "id": "1077517038912161648",
+        "nom": "Piscine de fiona",
+        "slug": "piscine-de-fiona",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "63 Rue Edgar Quinet",
+        "note": null,
+        "avis": null,
+        "type": "Housing authority"
+      },
+      {
+        "id": "12588030440785732",
+        "nom": "Centre Sportif et Piscine Béatrice Hess",
+        "slug": "centre-sportif-et-piscine-beatrice-hess",
+        "telephone": "+33 1 43 11 83 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 189,
+        "type": "Sports complex"
+      },
+      {
+        "id": "3042603465457535007",
+        "nom": "Centre Aquatique Départemental Annette Kellermann",
+        "slug": "centre-aquatique-departemental-annette-kellermann",
+        "telephone": "+33 1 88 53 00 05",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 158,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2850119689871918376",
+        "nom": "Interdepartmental Pool Marville",
+        "slug": "interdepartmental-pool-marville",
+        "telephone": "+33 1 71 29 25 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 212,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "8719394118339597285",
+        "nom": "Municipal Pool La Baleine",
+        "slug": "municipal-pool-la-baleine",
+        "telephone": "+33 1 48 21 01 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 738,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "drancy": {
+    "artisans": [
+      {
+        "id": "311272709369016399",
+        "nom": "Stade Nautique de Drancy",
+        "slug": "stade-nautique-de-drancy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "37 Bd Paul Vaillant Couturier",
+        "note": 3.7,
+        "avis": 578,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "dugny": {
+    "artisans": [
+      {
+        "id": "1189014410925752780",
+        "nom": "Parc Georges-Valbon",
+        "slug": "parc-georges-valbon",
+        "telephone": "+33 1 43 11 13 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 9,
+        "type": "Park"
+      }
+    ]
+  },
+  "epinay-sur-seine": {
+    "artisans": [
+      {
+        "id": "4374889210013492544",
+        "nom": "Le Canyon",
+        "slug": "le-canyon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rue Henri Wallon",
+        "note": 3.6,
+        "avis": 630,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "gagny": {
+    "artisans": [
+      {
+        "id": "16425895178269203537",
+        "nom": "Sel-Tech - Etanchéiste piscine",
+        "slug": "sel-tech-etancheiste-piscine",
+        "telephone": "+33 1 85 10 56 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Flooring contractor"
+      }
+    ]
+  },
+  "gournay-sur-marne": {
+    "artisans": [
+      {
+        "id": "7660300275670016027",
+        "nom": "Piscine Plein Soleil",
+        "slug": "piscine-plein-soleil",
+        "telephone": "+33 1 43 08 62 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.3,
+        "avis": 125,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "l-ile-saint-denis": {
+    "artisans": [
+      {
+        "id": "17287390100467534413",
+        "nom": "Design Piscines O.I - Construction et renovation de piscine à la Réunion",
+        "slug": "design-piscines-oi-construction-et-renovation-de-piscine-a-la-reunion",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Clotilde, Réunion",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10587401580076978924",
+        "nom": "Piscinadom Le Shop",
+        "slug": "piscinadom-le-shop",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Store"
+      },
+      {
+        "id": "13755868094339790981",
+        "nom": "Olympic Aquatics Centre",
+        "slug": "olympic-aquatics-centre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, France",
+        "note": 4.4,
+        "avis": 312,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "les-lilas": {
+    "artisans": [
+      {
+        "id": "2729076045334365610",
+        "nom": "Piscine R-Mulinghausen",
+        "slug": "piscine-r-mulinghausen",
+        "telephone": "+33 1 83 74 56 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 160,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "3943780950510159362",
+        "nom": "Piscine Fernand Blanluet",
+        "slug": "piscine-fernand-blanluet",
+        "telephone": "+33 1 83 74 57 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 176,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "14045165692853927469",
+        "nom": "Piscine Jean Guimier",
+        "slug": "piscine-jean-guimier",
+        "telephone": "+33 1 83 74 58 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 236,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "14108241670974215436",
+        "nom": "Miriaform Spa Grand Paris 93",
+        "slug": "miriaform-spa-grand-paris-93",
+        "telephone": "+33 1 41 71 31 93",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 674,
+        "type": "Spa"
+      }
+    ]
+  },
+  "livry-gargan": {
+    "artisans": [
+      {
+        "id": "3008144329809108217",
+        "nom": "Centre nautique Roger-Lebas",
+        "slug": "centre-nautique-roger-lebas",
+        "telephone": "+33 1 41 70 18 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 416,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "montfermeil": {
+    "artisans": [
+      {
+        "id": "13566508459184208050",
+        "nom": "Maison d'une chambre avec piscine privee jardin clos et wifi a Montfermeil",
+        "slug": "maison-d-une-chambre-avec-piscine-privee-jardin-clos-et-wifi-a-montfermeil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "montreuil": {
+    "artisans": [
+      {
+        "id": "3368076076562395674",
+        "nom": "Stade Nautique Maurice Thorez",
+        "slug": "stade-nautique-maurice-thorez",
+        "telephone": "+33 1 83 74 57 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 855,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "8090607187282197184",
+        "nom": "LES REDS NATATION MONTREUIL",
+        "slug": "les-reds-natation-montreuil",
+        "telephone": "+33 7 65 64 64 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Swim club"
+      },
+      {
+        "id": "8183941811462710631",
+        "nom": "Les murs à pêches",
+        "slug": "les-murs-a-peches",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Impasse Gobétue, 61 Rue Pierre de Montreuil",
+        "note": 4.5,
+        "avis": 237,
+        "type": "Association / Organization"
+      }
+    ]
+  },
+  "neuilly-plaisance": {
+    "artisans": [
+      {
+        "id": "17082330270349673820",
+        "nom": "Piscine de Neuilly-Plaisance",
+        "slug": "piscine-de-neuilly-plaisance",
+        "telephone": "+33 1 43 00 02 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 173,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "neuilly-sur-marne": {
+    "artisans": [
+      {
+        "id": "15750909561479657058",
+        "nom": "Piscine Municipale L'Hippocampe",
+        "slug": "piscine-municipale-l-hippocampe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-sur-Marne, France",
+        "note": 4,
+        "avis": 320,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "3884107646017226199",
+        "nom": "C.N.N.M CLub Natation Neuilly Sur Marne",
+        "slug": "cnnm-club-natation-neuilly-sur-marne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Neuilly-sur-Marne, France",
+        "note": 4,
+        "avis": 1,
+        "type": "Sports club"
+      }
+    ]
+  },
+  "noisy-le-grand": {
+    "artisans": [
+      {
+        "id": "8370389441367210151",
+        "nom": "Centre Aquatique Les Nymphéas",
+        "slug": "centre-aquatique-les-nympheas",
+        "telephone": "+33 9 71 00 93 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "noisy-le-sec": {
+    "artisans": [
+      {
+        "id": "10351052776667201388",
+        "nom": "Boite à livres piscine",
+        "slug": "boite-a-livres-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Noisy-le-Sec, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Tourist attraction"
+      },
+      {
+        "id": "10551019443560248592",
+        "nom": "🥇Entreprise Recherche de fuite d'eau",
+        "slug": "entreprise-recherche-de-fuite-d-eau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Noisy-le-Sec, France",
+        "note": 4.8,
+        "avis": 71,
+        "type": "Contractor"
+      }
+    ]
+  },
+  "pantin": {
+    "artisans": [
+      {
+        "id": "2101845910778260087",
+        "nom": "La Piscine Studio – Espace évènementiel, tournages et shootings, salles de montage et d'étalonnage, bureaux à louer.",
+        "slug": "la-piscine-studio-espace-evenementiel-tournages-et-shootings-salles-de-montage-et-d-etalonnage-bureaux-a-louer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rue Lépine",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Event venue"
+      },
+      {
+        "id": "16877563743605021272",
+        "nom": "Piscine Alice Milliat",
+        "slug": "piscine-alice-milliat",
+        "telephone": "+33 1 83 74 56 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 322,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "7500649313556129018",
+        "nom": "BELLAQUITA ROOM",
+        "slug": "bellaquita-room",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "60 Rue Denis Papin",
+        "note": 5,
+        "avis": 1,
+        "type": "Spa"
+      },
+      {
+        "id": "14282238521959568060",
+        "nom": "Bassin du parc Diderot",
+        "slug": "bassin-du-parc-diderot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "47 Rue Gabrielle Josserand",
+        "note": 3,
+        "avis": 2,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "les-pavillons-sous-bois": {
+    "artisans": [
+      {
+        "id": "8573536454593925292",
+        "nom": "HYDRALIANS SOMAIR GERVAT Les Pavillons-sous-Bois",
+        "slug": "hydralians-somair-gervat-les-pavillons-sous-bois",
+        "telephone": "+33 1 83 09 00 01",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.3,
+        "avis": 3,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "pierrefitte-sur-seine": {
+    "artisans": [
+      {
+        "id": "6700270173185676212",
+        "nom": "Piscine Municipale Claire Supiot",
+        "slug": "piscine-municipale-claire-supiot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Av. Maurice Utrillo",
+        "note": 4.1,
+        "avis": 133,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "le-raincy": {
+    "artisans": [
+      {
+        "id": "7972565343483634355",
+        "nom": "Parc aquatique du Raincy",
+        "slug": "parc-aquatique-du-raincy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Raincy, France",
+        "note": 3.8,
+        "avis": 307,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "10339967326079743547",
+        "nom": "Paysagiste Le Raincy - PRO JARDIN ET TERRASSE: Paysagiste 93 - Entreprise Espace Vert 93",
+        "slug": "paysagiste-le-raincy-pro-jardin-et-terrasse-paysagiste-93-entreprise-espace-vert-93",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Raincy, France",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "rosny-sous-bois": {
+    "artisans": [
+      {
+        "id": "14369485206044390176",
+        "nom": "Aquanautique Camille Muffat Center",
+        "slug": "aquanautique-camille-muffat-center",
+        "telephone": null,
+        "site_web": "http://centre-aquanautique-rosny93.fr/",
+        "adresse": "18 Mail Jean Pierre Timbaud",
+        "note": 3.7,
+        "avis": 598,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "14182768266035961679",
+        "nom": "SOR NATATION ROSNY SOUS BOIS",
+        "slug": "sor-natation-rosny-sous-bois",
+        "telephone": null,
+        "site_web": "https://www.sornatation.fr/",
+        "adresse": "18 Mail Jean Pierre Timbaud",
+        "note": 5,
+        "avis": 3,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "sevran": {
+    "artisans": [
+      {
+        "id": "11207386822411665851",
+        "nom": "Piscine de Sevran",
+        "slug": "piscine-de-sevran",
+        "telephone": "+33 1 41 52 43 22",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 184,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "tremblay-en-france": {
+    "artisans": [
+      {
+        "id": "12903333497562220883",
+        "nom": "Auguste Delaune Pool",
+        "slug": "auguste-delaune-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "72 Av. Gilbert Berger",
+        "note": 3.7,
+        "avis": 318,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "villemomble": {
+    "artisans": [
+      {
+        "id": "7935556576385024899",
+        "nom": "Pool Villemomble",
+        "slug": "pool-villemomble",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22 Rte de Noisy",
+        "note": 3.8,
+        "avis": 307,
+        "type": "Public swimming pool"
+      }
+    ]
+  }
+}

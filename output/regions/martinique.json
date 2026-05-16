@@ -12,15 +12,15 @@
             "slug": "martinique",
             "population_totale": 360704,
             "communes_count": 34,
-            "communes_avec_artisans": 27,
-            "artisans_vmc": 206,
+            "communes_avec_artisans": 19,
+            "artisans_piscine": 37,
             "voisins": []
         }
     ],
     "stats": {
         "communes_total": 34,
-        "communes_avec_artisans": 27,
-        "artisans_vmc": 206,
+        "communes_avec_artisans": 19,
+        "artisans_piscine": 37,
         "population_totale": 360704
     },
     "zones_climatiques": [],

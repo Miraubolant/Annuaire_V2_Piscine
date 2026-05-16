@@ -12,15 +12,15 @@
             "slug": "mayotte",
             "population_totale": 256518,
             "communes_count": 17,
-            "communes_avec_artisans": 16,
-            "artisans_vmc": 83,
+            "communes_avec_artisans": 6,
+            "artisans_piscine": 12,
             "voisins": []
         }
     ],
     "stats": {
         "communes_total": 17,
-        "communes_avec_artisans": 16,
-        "artisans_vmc": 83,
+        "communes_avec_artisans": 6,
+        "artisans_piscine": 12,
         "population_totale": 256518
     },
     "zones_climatiques": [],

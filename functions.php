@@ -441,30 +441,26 @@ function seoTitle(string $type, array $data): string {
 function seoDescription(string $type, array $data): string {
     switch ($type) {
         case 'home':
-            return 'Trouvez votre ' . METIER . ' parmi 65 000 artisans référencés en France. Label RGE, prime CEE et Éco-PTZ disponibles. Devis gratuit en 2 minutes.';
+            return 'Trouvez votre ' . METIER . ' parmi 10 000 piscinistes référencés en France. Construction, rénovation, entretien. Devis gratuit en 2 minutes.';
 
         case 'region':
             $nom = nomRegion($data['slug']);
-            $nb = $data['stats']['artisans_vmc'] ?? 0;
+            $nb = $data['stats']['artisans_piscine'] ?? 0;
             $c  = $data['stats']['communes_total'] ?? 0;
             return "Trouvez un {$nom} " . articleRegion($data['slug']) . ". {$nb} artisans dans {$c} communes. Devis gratuit.";
 
         case 'departement':
             $art  = articleDepartement($data['code']);
-            $nb   = $data['artisans_vmc'] ?? 0;
+            $nb   = $data['artisans_piscine'] ?? 0;
             $zone = $data['zone'] ?? '';
-            return "{$nb} " . METIER_PLURIEL . " {$art}. Zone {$zone}, primes CEE BAR-TH-125/187, artisans certifiés RGE. Devis gratuit.";
+            return "{$nb} " . METIER_PLURIEL . " {$art}. TVA 10%, financement disponible, devis gratuit en 48h.";
 
         case 'ville':
-            $cp   = $data['code_postal'] ?? '';
-            $nb   = getCompteurArtisans($data);
-            $zone = $data['aides_etat']['zone_climatique'] ?? '';
-            $log  = $data['logement']['logements_avant_1990'] ?? 0;
-            $tot  = $data['logement']['logements_total'] ?? 1;
-            $pct  = $tot > 0 ? round($log / $tot * 100) : 0;
-            $qpv  = ($data['aides_etat']['qpv'] ?? false) ? ', QPV' : '';
+            $cp  = $data['code_postal'] ?? '';
+            $nb  = getCompteurArtisans($data);
+            $qpv = ($data['aides_etat']['qpv'] ?? false) ? ', QPV' : '';
             return getCompteurLabel($nb) . ' ' . articleVille($data['nom'])
-                . " ({$cp}). Zone {$zone}{$qpv}, prime CEE BAR-EN-101, TVA 5,5%. {$pct}% logements avant 1990.";
+                . " ({$cp}){$qpv}. Construction, rénovation et entretien piscine. TVA 10%, financement disponible. Devis gratuit.";
 
         case 'modele':
             $cp  = $data['commune']['code_postal'] ?? '';
@@ -513,7 +509,7 @@ function jsonLdOrganization(): string {
         'contactPoint' => [
             '@type'       => 'ContactPoint',
             'contactType' => 'customer service',
-            'email'       => 'contact@annuaire-isolation-france.fr',
+            'email'       => 'contact@annuaire-pisciniste-france.fr',
         ],
     ];
     return '<script type="application/ld+json">' . json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>';

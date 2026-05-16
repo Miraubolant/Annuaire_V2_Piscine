@@ -12,8 +12,8 @@
             "slug": "cotes-d-armor",
             "population_totale": 605546,
             "communes_count": 344,
-            "communes_avec_artisans": 162,
-            "artisans_vmc": 1263,
+            "communes_avec_artisans": 83,
+            "artisans_piscine": 177,
             "voisins": [
                 {
                     "dep_code": "29",
@@ -38,8 +38,8 @@
             "slug": "finistere",
             "population_totale": 922301,
             "communes_count": 277,
-            "communes_avec_artisans": 181,
-            "artisans_vmc": 1367,
+            "communes_avec_artisans": 99,
+            "artisans_piscine": 226,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -64,8 +64,8 @@
             "slug": "ille-et-vilaine",
             "population_totale": 1098406,
             "communes_count": 332,
-            "communes_avec_artisans": 216,
-            "artisans_vmc": 1862,
+            "communes_avec_artisans": 102,
+            "artisans_piscine": 164,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -90,8 +90,8 @@
             "slug": "morbihan",
             "population_totale": 769527,
             "communes_count": 249,
-            "communes_avec_artisans": 178,
-            "artisans_vmc": 1373,
+            "communes_avec_artisans": 75,
+            "artisans_piscine": 159,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -113,8 +113,8 @@
     ],
     "stats": {
         "communes_total": 1202,
-        "communes_avec_artisans": 737,
-        "artisans_vmc": 5865,
+        "communes_avec_artisans": 359,
+        "artisans_piscine": 726,
         "population_totale": 3395780
     },
     "zones_climatiques": {

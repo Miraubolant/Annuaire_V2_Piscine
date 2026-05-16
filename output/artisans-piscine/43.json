@@ -1,0 +1,735 @@
+{
+  "rosieres": {
+    "artisans": [
+      {
+        "id": "17690899337855309161",
+        "nom": "BTV Piscines et Spas",
+        "slug": "btv-piscines-et-spas",
+        "telephone": "+33 4 28 09 01 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "aiguilhe": {
+    "artisans": [
+      {
+        "id": "3659554388944728882",
+        "nom": "Aquilus Piscines et Spas Brives Charensac",
+        "slug": "aquilus-piscines-et-spas-brives-charensac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brives-Charensac, France",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "arsac-en-velay": {
+    "artisans": [
+      {
+        "id": "13351080137189164180",
+        "nom": "Irripiscine by Irrijardin Brives-Charensac",
+        "slug": "irripiscine-by-irrijardin-brives-charensac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brives-Charensac, France",
+        "note": 4.7,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "352306317346321134",
+        "nom": "Defay TP",
+        "slug": "defay-tp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Germain-Laprade, France",
+        "note": 5,
+        "avis": 11,
+        "type": "Earth works company"
+      },
+      {
+        "id": "11120727099737677368",
+        "nom": "Allo Piscine",
+        "slug": "allo-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Puy, France",
+        "note": 5,
+        "avis": 7,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "aurec-sur-loire": {
+    "artisans": [
+      {
+        "id": "14693471078186590155",
+        "nom": "Piscine à Aurec sur Loire",
+        "slug": "piscine-a-aurec-sur-loire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Base de Loisirs",
+        "note": 3.7,
+        "avis": 132,
+        "type": "Water park"
+      }
+    ]
+  },
+  "bains": {
+    "artisans": [
+      {
+        "id": "11649668789452517911",
+        "nom": "Beni Boni Climatisation Chauffe-Piscine inc.",
+        "slug": "beni-boni-climatisation-chauffe-piscine-inc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3+ years in business",
+        "note": 5,
+        "avis": 21,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "2931500524037504798",
+        "nom": "Pisciniste ASP",
+        "slug": "pisciniste-asp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Aix-les-Bains, France",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "blavozy": {
+    "artisans": [
+      {
+        "id": "5274003044369643227",
+        "nom": "Concept Piscines Inox",
+        "slug": "concept-piscines-inox",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Espaly-Saint-Marcel, France",
+        "note": 5,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bournoncle-saint-pierre": {
+    "artisans": [
+      {
+        "id": "15395571993055639368",
+        "nom": "Technique Piscines",
+        "slug": "technique-piscines",
+        "telephone": "+33 6 60 77 91 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 3,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "12614028608745858897",
+        "nom": "Confort Plein Air",
+        "slug": "confort-plein-air",
+        "telephone": "+33 6 08 17 06 66",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "brioude": {
+    "artisans": [
+      {
+        "id": "6696770074445161422",
+        "nom": "L'Aquabulle",
+        "slug": "l-aquabulle",
+        "telephone": "+33 4 71 50 84 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 382,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "chadrac": {
+    "artisans": [
+      {
+        "id": "17741759835846968755",
+        "nom": "Piscines Desjoyaux",
+        "slug": "piscines-desjoyaux",
+        "telephone": "+33 4 71 02 37 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 24,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "le-chambon-sur-lignon": {
+    "artisans": [
+      {
+        "id": "7222710591992259624",
+        "nom": "Outdoor Swimming Pool",
+        "slug": "outdoor-swimming-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Chambon-sur-Lignon, France",
+        "note": 4.1,
+        "avis": 16,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "coubon": {
+    "artisans": [
+      {
+        "id": "536393043447670903",
+        "nom": "Poseidon Spa Le Puy-en-Velay",
+        "slug": "poseidon-spa-le-puy-en-velay",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Espace, 355 avenue du chambon, Rue de Chirel",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "5493373349608107841",
+        "nom": "Aqualudique Center Wave",
+        "slug": "aqualudique-center-wave",
+        "telephone": "+33 4 71 00 57 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 1,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "13130287688507975946",
+        "nom": "Gîte Le Temps d'une Pause - proche Puy en Velay - piscine",
+        "slug": "gite-le-temps-d-une-pause-proche-puy-en-velay-piscine",
+        "telephone": "+33 6 31 44 57 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Holiday apartment rental"
+      }
+    ]
+  },
+  "craponne-sur-arzon": {
+    "artisans": [
+      {
+        "id": "13303295932241172281",
+        "nom": "Piscine à Craponne sur Arzon",
+        "slug": "piscine-a-craponne-sur-arzon",
+        "telephone": "+33 4 71 08 51 87",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 71,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "dunieres": {
+    "artisans": [
+      {
+        "id": "18034399313912340658",
+        "nom": "Piscine intercommunale Haut Pays du Velay",
+        "slug": "piscine-intercommunale-haut-pays-du-velay",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue du Stade",
+        "note": 4,
+        "avis": 115,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "langeac": {
+    "artisans": [
+      {
+        "id": "3315655404448462314",
+        "nom": "Aquadôme des Gorges du Haut-Allier",
+        "slug": "aquadome-des-gorges-du-haut-allier",
+        "telephone": "+33 4 71 77 12 09",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 87,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "lempdes-sur-allagnon": {
+    "artisans": [
+      {
+        "id": "11774925214042289215",
+        "nom": "Piscines Ibiza Lempdes",
+        "slug": "piscines-ibiza-lempdes",
+        "telephone": "+33 6 27 95 86 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 27,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "14434878040464243886",
+        "nom": "Piscine Marcel-Boubat de Lempdes",
+        "slug": "piscine-marcel-boubat-de-lempdes",
+        "telephone": "+33 4 63 66 96 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 353,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7798979838177933855",
+        "nom": "HORIZON PISCINES ISSOIRE",
+        "slug": "horizon-piscines-issoire",
+        "telephone": "+33 4 12 10 10 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 24,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14099761493298674903",
+        "nom": "ESSENTIEL PISCINE ET SPA - ISSOIRE",
+        "slug": "essentiel-piscine-et-spa-issoire",
+        "telephone": "+33 6 52 57 47 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 19,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "14864502706232827058",
+        "nom": "Agitaform Lempdes-sur-Allagnon",
+        "slug": "agitaform-lempdes-sur-allagnon",
+        "telephone": "+33 4 71 74 68 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 241,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-monastier-sur-gazeille": {
+    "artisans": [
+      {
+        "id": "10168489709441097606",
+        "nom": "Détente et piscine",
+        "slug": "detente-et-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bourgs-sur-Colagne, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13613795748634321804",
+        "nom": "FAURE Gabriel SAS",
+        "slug": "faure-gabriel-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Monastier-sur-Gazeille, France",
+        "note": null,
+        "avis": null,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "monistrol-sur-loire": {
+    "artisans": [
+      {
+        "id": "8055533481451967927",
+        "nom": "Aquatic Center L'ozen",
+        "slug": "aquatic-center-l-ozen",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monistrol-sur-Loire, France",
+        "note": 3.8,
+        "avis": 660,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "11111060975527034226",
+        "nom": "EDENS CREEKS",
+        "slug": "edens-creeks",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monistrol-sur-Loire, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6962660589828675986",
+        "nom": "Spa Ozen",
+        "slug": "spa-ozen",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monistrol-sur-Loire, France",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Spa"
+      },
+      {
+        "id": "10121491812575339790",
+        "nom": "Ph Piscines",
+        "slug": "ph-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monistrol-sur-Loire, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "retournac": {
+    "artisans": [
+      {
+        "id": "5511173213753991970",
+        "nom": "Snack de la piscine",
+        "slug": "snack-de-la-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Retournac, France",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "riotord": {
+    "artisans": [
+      {
+        "id": "6417156581368718599",
+        "nom": "EP PISCINE",
+        "slug": "ep-piscine",
+        "telephone": "+33 7 50 00 42 80",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-didier-en-velay": {
+    "artisans": [
+      {
+        "id": "3268709144841071095",
+        "nom": "Piscine de Saint-Didier-en-Velay",
+        "slug": "piscine-de-saint-didier-en-velay",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte du Prege",
+        "note": 3.6,
+        "avis": 121,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "sainte-florine": {
+    "artisans": [
+      {
+        "id": "5931760012970206543",
+        "nom": "Chevalier paysage",
+        "slug": "chevalier-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 5,
+        "avis": 55,
+        "type": "Landscaper"
+      },
+      {
+        "id": "1177981192171416088",
+        "nom": "Piscine Municipale de Brassac-les-Mines",
+        "slug": "piscine-municipale-de-brassac-les-mines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Florine, France",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "saint-germain-laprade": {
+    "artisans": [
+      {
+        "id": "1502949175407767743",
+        "nom": "ROCHE PAYSAGE",
+        "slug": "roche-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Germain-Laprade, France",
+        "note": 4.7,
+        "avis": 21,
+        "type": "Landscaper"
+      },
+      {
+        "id": "9020910290454501064",
+        "nom": "Velay Aménagement",
+        "slug": "velay-amenagement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Germain-Laprade, France",
+        "note": 5,
+        "avis": 9,
+        "type": "General contractor"
+      }
+    ]
+  },
+  "saint-julien-chapteuil": {
+    "artisans": [
+      {
+        "id": "11937641634539940022",
+        "nom": "Piscine Municipale de Saint-Julien-Chapteuil",
+        "slug": "piscine-municipale-de-saint-julien-chapteuil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "L'Holme",
+        "note": 4.4,
+        "avis": 52,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "saint-pal-de-chalencon": {
+    "artisans": [
+      {
+        "id": "6043263453982936930",
+        "nom": "Denaux Daniel",
+        "slug": "denaux-daniel",
+        "telephone": "+33 6 98 90 66 74",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Heating contractor"
+      }
+    ]
+  },
+  "saint-paulien": {
+    "artisans": [
+      {
+        "id": "16568794083329719852",
+        "nom": "Wellness Center - Swimming pool - Saint Paulien",
+        "slug": "wellness-center-swimming-pool-saint-paulien",
+        "telephone": "+33 4 71 00 53 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.4,
+        "avis": 200,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "saint-pierre-eynac": {
+    "artisans": [
+      {
+        "id": "11204744804663959889",
+        "nom": "EURL ROMU",
+        "slug": "eurl-romu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-Eynac, France",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14003793220014605755",
+        "nom": "Daniel Moquet signe vos allées - Ent. HELBIK",
+        "slug": "daniel-moquet-signe-vos-allees-ent-helbik",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-Eynac, France",
+        "note": 5,
+        "avis": 32,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "saint-vincent": {
+    "artisans": [
+      {
+        "id": "9295026040711336482",
+        "nom": "Piscine St-Vincent",
+        "slug": "piscine-st-vincent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Laval, Quebec, Canada",
+        "note": 4.4,
+        "avis": 491,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "saugues": {
+    "artisans": [
+      {
+        "id": "4551317104722188651",
+        "nom": "Piscine de Saugues",
+        "slug": "piscine-de-saugues",
+        "telephone": "+33 4 71 77 81 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 32,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7677825947893427983",
+        "nom": "Baignade biologique de Saugues",
+        "slug": "baignade-biologique-de-saugues",
+        "telephone": "+33 6 65 15 04 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 104,
+        "type": "Recreation center"
+      }
+    ]
+  },
+  "vergongheon": {
+    "artisans": [
+      {
+        "id": "12242289090492322398",
+        "nom": "Petit Tony",
+        "slug": "petit-tony",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vergongheon, France",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Plumber"
+      },
+      {
+        "id": "5047493999158185883",
+        "nom": "Spas HotSpring Jaune & Bleu Aubière",
+        "slug": "spas-hotspring-jaune-bleu-aubiere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Aubière, France",
+        "note": 4.7,
+        "avis": 32,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "6574583212683714009",
+        "nom": "Aux jardins de Pierrot",
+        "slug": "aux-jardins-de-pierrot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3+ years in business",
+        "note": 5,
+        "avis": 30,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "les-villettes": {
+    "artisans": [
+      {
+        "id": "255278207571903782",
+        "nom": "INOBAT",
+        "slug": "inobat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Maurice-de-Lignon, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "vorey": {
+    "artisans": [
+      {
+        "id": "11142809689145584284",
+        "nom": "Centre Aqua Passion",
+        "slug": "centre-aqua-passion",
+        "telephone": "+33 4 71 08 15 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 231,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "6045747752046305329",
+        "nom": "Domaine Le Pra de Mars - Camping Auvergne Haute Loire",
+        "slug": "domaine-le-pra-de-mars-camping-auvergne-haute-loire",
+        "telephone": "+33 4 71 03 40 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 242,
+        "type": "Campground"
+      },
+      {
+        "id": "12895195356856679849",
+        "nom": "Aquafolie",
+        "slug": "aquafolie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. des Gravières",
+        "note": 3.9,
+        "avis": 133,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "yssingeaux": {
+    "artisans": [
+      {
+        "id": "3155921725495751602",
+        "nom": "Centre aquatique L'O' des Sucs",
+        "slug": "centre-aquatique-l-o-des-sucs",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Yssingeaux, France",
+        "note": 4.4,
+        "avis": 135,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "10594209608454488874",
+        "nom": "RPTP",
+        "slug": "rptp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Yssingeaux, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Earth works company"
+      }
+    ]
+  }
+}

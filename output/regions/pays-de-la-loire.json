@@ -12,8 +12,8 @@
             "slug": "loire-atlantique",
             "population_totale": 1458455,
             "communes_count": 207,
-            "communes_avec_artisans": 188,
-            "artisans_vmc": 1580,
+            "communes_avec_artisans": 95,
+            "artisans_piscine": 154,
             "voisins": [
                 {
                     "dep_code": "49",
@@ -43,8 +43,8 @@
             "slug": "maine-et-loire",
             "population_totale": 841772,
             "communes_count": 177,
-            "communes_avec_artisans": 109,
-            "artisans_vmc": 892,
+            "communes_avec_artisans": 54,
+            "artisans_piscine": 95,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -74,8 +74,8 @@
             "slug": "mayenne",
             "population_totale": 305700,
             "communes_count": 240,
-            "communes_avec_artisans": 68,
-            "artisans_vmc": 542,
+            "communes_avec_artisans": 25,
+            "artisans_piscine": 39,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -105,8 +105,8 @@
             "slug": "sarthe",
             "population_totale": 565501,
             "communes_count": 353,
-            "communes_avec_artisans": 115,
-            "artisans_vmc": 903,
+            "communes_avec_artisans": 51,
+            "artisans_piscine": 75,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -136,8 +136,8 @@
             "slug": "vendee",
             "population_totale": 702144,
             "communes_count": 254,
-            "communes_avec_artisans": 165,
-            "artisans_vmc": 1374,
+            "communes_avec_artisans": 72,
+            "artisans_piscine": 154,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -164,8 +164,8 @@
     ],
     "stats": {
         "communes_total": 1231,
-        "communes_avec_artisans": 645,
-        "artisans_vmc": 5291,
+        "communes_avec_artisans": 297,
+        "artisans_piscine": 517,
         "population_totale": 3873572
     },
     "zones_climatiques": {

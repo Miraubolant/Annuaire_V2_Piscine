@@ -1,0 +1,392 @@
+{
+  "bonnat": {
+    "artisans": [
+      {
+        "id": "2018603066732696102",
+        "nom": "Alliance piscines Creuse",
+        "slug": "alliance-piscines-creuse",
+        "telephone": "+33 5 55 62 17 61",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bourganeuf": {
+    "artisans": [
+      {
+        "id": "3861005531948871980",
+        "nom": "DESJOYAUX LOISIRS PISCINES NATURE CONCESS. EXCLUSIF SARL",
+        "slug": "desjoyaux-loisirs-piscines-nature-concess-exclusif-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guéret, France",
+        "note": 4.7,
+        "avis": 35,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "boussac": {
+    "artisans": [
+      {
+        "id": "10950333250938976362",
+        "nom": "Priant Piscines - Mondial Piscine",
+        "slug": "priant-piscines-mondial-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Boussac, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bussiere-dunoise": {
+    "artisans": [
+      {
+        "id": "17999850352681854371",
+        "nom": "AQUA-LOISIRS 23",
+        "slug": "aqua-loisirs-23",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Fiel, France",
+        "note": 4.3,
+        "avis": 62,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "16657387815293849678",
+        "nom": "Mondial Piscine 23 - Piscines et Paysagiste",
+        "slug": "mondial-piscine-23-piscines-et-paysagiste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Souterraine, France",
+        "note": 4,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5886473256470659781",
+        "nom": "Domaine de la Caure",
+        "slug": "domaine-de-la-caure",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bussière-Dunoise, France",
+        "note": 3.8,
+        "avis": 6,
+        "type": "Lodge"
+      },
+      {
+        "id": "13587413155459533545",
+        "nom": "Les Charmettes : Gîte de charme avec piscine au calme pleine nature dans la Creuse",
+        "slug": "les-charmettes-gite-de-charme-avec-piscine-au-calme-pleine-nature-dans-la-creuse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bussière-Dunoise, France",
+        "note": 4,
+        "avis": 2,
+        "type": "Lodge"
+      }
+    ]
+  },
+  "dun-le-palestel": {
+    "artisans": [
+      {
+        "id": "10855818083594279949",
+        "nom": "ADN Piscines & SPAS 23",
+        "slug": "adn-piscines-spas-23",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guéret, France",
+        "note": 3.6,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14208009980900676338",
+        "nom": "Priant Bâtiment - Travaux Maçonnerie - Terrassement",
+        "slug": "priant-batiment-travaux-maconnerie-terrassement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dun-le-Palestel, France",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Masonry contractor"
+      }
+    ]
+  },
+  "evaux-les-bains": {
+    "artisans": [
+      {
+        "id": "10774043215971485897",
+        "nom": "Piscine Adolphe Duméry à Evaux les Bains",
+        "slug": "piscine-adolphe-dumery-a-evaux-les-bains",
+        "telephone": "+33 5 55 65 69 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 104,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "felletin": {
+    "artisans": [
+      {
+        "id": "15100282067344075611",
+        "nom": "Piscine du LMB à Felletin",
+        "slug": "piscine-du-lmb-a-felletin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte d'Aubusson",
+        "note": 4,
+        "avis": 2,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "gouzon": {
+    "artisans": [
+      {
+        "id": "17025419107465515260",
+        "nom": "LA KAZA PISCINE",
+        "slug": "la-kaza-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 5,
+        "avis": 1,
+        "type": "Villa"
+      },
+      {
+        "id": "7616937049940617786",
+        "nom": "Quality Piscine Limoges",
+        "slug": "quality-piscine-limoges",
+        "telephone": "+33 6 09 05 16 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 12,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "1243135687475271631",
+        "nom": "VB Piscines",
+        "slug": "vb-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6398580872903942188",
+        "nom": "Mia Piscines",
+        "slug": "mia-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17099800693025120683",
+        "nom": "ETS Diolez - Desjoyaux",
+        "slug": "ets-diolez-desjoyaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "252161555059907781",
+        "nom": "Ma Piscine Tranquille",
+        "slug": "ma-piscine-tranquille",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11789375937194788020",
+        "nom": "La Compagnie du Bien-être",
+        "slug": "la-compagnie-du-bien-etre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6258832422633127336",
+        "nom": "SolidPool Calvisson - Aquazone Piscines",
+        "slug": "solidpool-calvisson-aquazone-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Calvisson, France",
+        "note": 4.4,
+        "avis": 88,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "gueret": {
+    "artisans": [
+      {
+        "id": "13674723470959696543",
+        "nom": "Avenir Rénovations Guéret        ",
+        "slug": "avenir-renovations-gueret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "General Contractor",
+        "note": 5,
+        "avis": 8,
+        "type": null
+      },
+      {
+        "id": "15027990111410022943",
+        "nom": "Piscine Municipale de Guéret",
+        "slug": "piscine-municipale-de-gueret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guéret, France",
+        "note": 3.4,
+        "avis": 195,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "saint-agnant-de-versillat": {
+    "artisans": [
+      {
+        "id": "414374706716559589",
+        "nom": "Toti Rocco Et Fils SAS",
+        "slug": "toti-rocco-et-fils-sas",
+        "telephone": "+33 5 55 63 82 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Masonry contractor"
+      }
+    ]
+  },
+  "saint-dizier-masbaraud": {
+    "artisans": [
+      {
+        "id": "13863681360114719523",
+        "nom": "Aquablue piscine",
+        "slug": "aquablue-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Dizier, France",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6429834807583791775",
+        "nom": "Irripiscine by Irrijardin Bettancourt-la-Ferrée",
+        "slug": "irripiscine-by-irrijardin-bettancourt-la-ferree",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bettancourt-la-Ferrée, France",
+        "note": 4,
+        "avis": 108,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "fursac": {
+    "artisans": [
+      {
+        "id": "11721249544657529736",
+        "nom": "Aquafix Renovate Piscine",
+        "slug": "aquafix-renovate-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dions, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "saint-maurice-la-souterraine": {
+    "artisans": [
+      {
+        "id": "2359077050565713975",
+        "nom": "Centre Aquatique du Pays Sostranien",
+        "slug": "centre-aquatique-du-pays-sostranien",
+        "telephone": "+33 5 55 63 97 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 241,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "1509934875890796340",
+        "nom": "Mairie - piscine",
+        "slug": "mairie-piscine",
+        "telephone": "+33 5 55 63 17 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "4602904759916899632",
+        "nom": "Limousin Spas",
+        "slug": "limousin-spas",
+        "telephone": "+33 5 55 63 26 20",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "saint-sulpice-le-gueretois": {
+    "artisans": [
+      {
+        "id": "3120278055209469728",
+        "nom": "S.o.s.piscine",
+        "slug": "sospiscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Gaultier, France",
+        "note": 4,
+        "avis": 1,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "saint-vaury": {
+    "artisans": [
+      {
+        "id": "3670540398299472819",
+        "nom": "CSD",
+        "slug": "csd",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": 2.8,
+        "avis": 4,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  }
+}

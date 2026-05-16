@@ -1,0 +1,1031 @@
+{
+  "saint-saturnin": {
+    "artisans": [
+      {
+        "id": "294200713865275983",
+        "nom": "Magasin Be Spa Concept - Le Mans Nord",
+        "slug": "magasin-be-spa-concept-le-mans-nord",
+        "telephone": "+33 2 43 29 82 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 60,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-georges-du-bois": {
+    "artisans": [
+      {
+        "id": "13797235717870839523",
+        "nom": "BEST PISCINE SERVICE",
+        "slug": "best-piscine-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mbour",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "571715775849600133",
+        "nom": "Les Piscines Bel-Eau",
+        "slug": "les-piscines-bel-eau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Georges, Quebec, Canada",
+        "note": 4.6,
+        "avis": 49,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "4754005755624766050",
+        "nom": "Ets ousmane ba piscine",
+        "slug": "ets-ousmane-ba-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dakar",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1786147260502038962",
+        "nom": "BEST PISCINE SERVICES",
+        "slug": "best-piscine-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mbour",
+        "note": 5,
+        "avis": 8,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "14938215300386651770",
+        "nom": "SP Piscine",
+        "slug": "sp-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dole, France",
+        "note": 4.3,
+        "avis": 31,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15168270622454276568",
+        "nom": "PMI Traitement des Eaux Piscines",
+        "slug": "pmi-traitement-des-eaux-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dakar",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "18361856729748777006",
+        "nom": "EBN Entreprise & Co",
+        "slug": "ebn-entreprise-co",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dakar",
+        "note": 1,
+        "avis": 1,
+        "type": "Corporate office"
+      },
+      {
+        "id": "8624020532462298170",
+        "nom": "SP PISCINE SAS",
+        "slug": "sp-piscine-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Couternon, France",
+        "note": 4,
+        "avis": 21,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "allonnes": {
+    "artisans": [
+      {
+        "id": "12384745448950451692",
+        "nom": "Piscin'Mans votre - Mondial Piscine",
+        "slug": "piscin-mans-votre-mondial-piscine",
+        "telephone": "+33 2 43 50 06 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 59,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11259095847285817908",
+        "nom": "Piscine Municipale d'Allones",
+        "slug": "piscine-municipale-d-allones",
+        "telephone": "+33 2 43 80 75 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 317,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "arnage": {
+    "artisans": [
+      {
+        "id": "14943495242271205060",
+        "nom": "Dutertre Terrassement Piscine",
+        "slug": "dutertre-terrassement-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Arnage, France",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "aubigne-racan": {
+    "artisans": [
+      {
+        "id": "5062962260855675243",
+        "nom": "Everblue - SARTHE PISCINES",
+        "slug": "everblue-sarthe-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Champagné, France",
+        "note": 4.2,
+        "avis": 23,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10768316468086817692",
+        "nom": "Royer Bâtiment",
+        "slug": "royer-batiment",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Aubigné-Racan, France",
+        "note": 3.3,
+        "avis": 12,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "auvers-le-hamon": {
+    "artisans": [
+      {
+        "id": "6762237776481282230",
+        "nom": "Mondial Piscine - Siège",
+        "slug": "mondial-piscine-siege",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cérans-Foulletourte, France",
+        "note": 3.4,
+        "avis": 52,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8801108794566474086",
+        "nom": "Cash Pools Le Mans",
+        "slug": "cash-pools-le-mans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ruaudin, France",
+        "note": 3.9,
+        "avis": 541,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "12115037492375279865",
+        "nom": "Piscines Ibiza Le Mans",
+        "slug": "piscines-ibiza-le-mans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mulsanne, France",
+        "note": 4,
+        "avis": 31,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "ballon-saint-mars": {
+    "artisans": [
+      {
+        "id": "7169642678268624493",
+        "nom": "Etp Ruillard",
+        "slug": "etp-ruillard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Souligné-sous-Ballon, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Outdoor swimming pool"
+      },
+      {
+        "id": "136396860395305977",
+        "nom": "Flash Piscines",
+        "slug": "flash-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Chapelle-Saint-Aubin, France",
+        "note": 4.6,
+        "avis": 91,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "beaumont-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "10465372781032621079",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 2 43 33 09 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 28,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "besse-sur-braye": {
+    "artisans": [
+      {
+        "id": "10181323077911549142",
+        "nom": "Swimming pool Besse sur Braye",
+        "slug": "swimming-pool-besse-sur-braye",
+        "telephone": "+33 2 43 63 09 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 221,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "brette-les-pins": {
+    "artisans": [
+      {
+        "id": "2881624630260047578",
+        "nom": "Piscine 72",
+        "slug": "piscine-72",
+        "telephone": "+33 2 43 46 28 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 11,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "brulon": {
+    "artisans": [
+      {
+        "id": "8175160296306038725",
+        "nom": "Camping Le Septentrion proche Le Mans",
+        "slug": "camping-le-septentrion-proche-le-mans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brûlon, France",
+        "note": 4.1,
+        "avis": 483,
+        "type": "Campground"
+      },
+      {
+        "id": "16660279135239860052",
+        "nom": "Base Aqualudique",
+        "slug": "base-aqualudique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Loué, France",
+        "note": 4.1,
+        "avis": 117,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "cerans-foulletourte": {
+    "artisans": [
+      {
+        "id": "7661638219076084692",
+        "nom": "Sofatec",
+        "slug": "sofatec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cérans-Foulletourte, France",
+        "note": 3.4,
+        "avis": 58,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13274922600707841529",
+        "nom": "LESNE SPA & BAIN",
+        "slug": "lesne-spa-bain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cérans-Foulletourte, France",
+        "note": 5,
+        "avis": 52,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "2849833691430632875",
+        "nom": "Clic Pool",
+        "slug": "clic-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cérans-Foulletourte, France",
+        "note": 2,
+        "avis": 4,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "challes": {
+    "artisans": [
+      {
+        "id": "13208385816109903241",
+        "nom": "MN PISCINES",
+        "slug": "mn-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Challes-les-Eaux, France",
+        "note": 3.9,
+        "avis": 23,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "champfleur": {
+    "artisans": [
+      {
+        "id": "6188832542519981800",
+        "nom": "La Garencière - Gîtes et lieu de vie en famille, domaine avec piscine.",
+        "slug": "la-garenciere-gites-et-lieu-de-vie-en-famille-domaine-avec-piscine",
+        "telephone": "+33 6 20 43 69 51",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 18,
+        "type": "Cottage"
+      }
+    ]
+  },
+  "la-chartre-sur-le-loir": {
+    "artisans": [
+      {
+        "id": "15079382683248892039",
+        "nom": "Piscine à La Chartre sur le Loir",
+        "slug": "piscine-a-la-chartre-sur-le-loir",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Jacques Peletier",
+        "note": 3.5,
+        "avis": 29,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "chaufour-notre-dame": {
+    "artisans": [
+      {
+        "id": "11727857590950507719",
+        "nom": "Design Piscines - Carré Bleu Le Mans",
+        "slug": "design-piscines-carre-bleu-le-mans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Mans, France",
+        "note": 3.8,
+        "avis": 44,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "conlie": {
+    "artisans": [
+      {
+        "id": "15964897954721093261",
+        "nom": "FONCIA | Agence Immobilière | Achat-Vente | Conlie | Rue du Docteur Repin",
+        "slug": "foncia-agence-immobiliere-achat-vente-conlie-rue-du-docteur-repin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Conlie, France",
+        "note": 4.7,
+        "avis": 74,
+        "type": "Real estate agency"
+      },
+      {
+        "id": "12716327620333235031",
+        "nom": "Entreprise Lazennec",
+        "slug": "entreprise-lazennec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Conlie, France",
+        "note": null,
+        "avis": null,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "connerre": {
+    "artisans": [
+      {
+        "id": "1475339657930017401",
+        "nom": "JBE PISCINES",
+        "slug": "jbe-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montfort-le-Gesnois, France",
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "coulaines": {
+    "artisans": [
+      {
+        "id": "1738349921103901572",
+        "nom": "Piscine de Coulaines",
+        "slug": "piscine-de-coulaines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Jean-Claude Boulard",
+        "note": 4.1,
+        "avis": 269,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "crosmieres": {
+    "artisans": [
+      {
+        "id": "9841965071938160755",
+        "nom": "Piscines et Spas du Belinois",
+        "slug": "piscines-et-spas-du-belinois",
+        "telephone": null,
+        "site_web": "https://www.piscines-spas-72.fr/magasin-de-piscine-belinois/",
+        "adresse": "Écommoy, France",
+        "note": 4.3,
+        "avis": 24,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "dollon": {
+    "artisans": [
+      {
+        "id": "9984417677440709257",
+        "nom": "Camping municipal de Dollon",
+        "slug": "camping-municipal-de-dollon",
+        "telephone": "+33 7 70 15 84 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 45,
+        "type": "Campground"
+      }
+    ]
+  },
+  "fresnay-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "15916662148445101218",
+        "nom": "Pool Fresnay sur Sarthe",
+        "slug": "pool-fresnay-sur-sarthe",
+        "telephone": "+33 2 43 33 27 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 110,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-grand-luce": {
+    "artisans": [
+      {
+        "id": "3921364591145225031",
+        "nom": "Piscine Municipale du Grand Lucé",
+        "slug": "piscine-municipale-du-grand-luce",
+        "telephone": "+33 2 43 40 92 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 28,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "guecelard": {
+    "artisans": [
+      {
+        "id": "10821921412285817201",
+        "nom": "Brunet Samuel",
+        "slug": "brunet-samuel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guécélard, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-fleche": {
+    "artisans": [
+      {
+        "id": "7236881727241083454",
+        "nom": "The Aquatic Center Ilébulle",
+        "slug": "the-aquatic-center-ilebulle",
+        "telephone": "+33 2 43 94 00 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 456,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "louplande": {
+    "artisans": [
+      {
+        "id": "18350462690173149896",
+        "nom": "Concept Piscine",
+        "slug": "concept-piscine",
+        "telephone": "+33 6 69 01 51 93",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "le-luart": {
+    "artisans": [
+      {
+        "id": "11924226663676969933",
+        "nom": "Pisciculture Cardon",
+        "slug": "pisciculture-cardon",
+        "telephone": null,
+        "site_web": "http://www.pisciculture-cardon.com/",
+        "adresse": "Le Luart, France",
+        "note": 4.7,
+        "avis": 58,
+        "type": "Fish farm"
+      }
+    ]
+  },
+  "luceau": {
+    "artisans": [
+      {
+        "id": "1907069542989362347",
+        "nom": "Le Moulin Calme",
+        "slug": "le-moulin-calme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Luceau, France",
+        "note": 4.3,
+        "avis": 77,
+        "type": "Bed & breakfast"
+      }
+    ]
+  },
+  "luche-pringe": {
+    "artisans": [
+      {
+        "id": "17638883180067858378",
+        "nom": "Piscine plage à Luché Pringé",
+        "slug": "piscine-plage-a-luche-pringe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pl. des Tilleuls",
+        "note": 4.1,
+        "avis": 44,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-lude": {
+    "artisans": [
+      {
+        "id": "4804723353468309820",
+        "nom": "L'Aqualud - Piscine municipale du Lude",
+        "slug": "l-aqualud-piscine-municipale-du-lude",
+        "telephone": "+33 2 43 94 62 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 137,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "3838098265862865492",
+        "nom": "LPC - La Piscine Collective",
+        "slug": "lpc-la-piscine-collective",
+        "telephone": "+33 2 43 45 19 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 4,
+        "type": "Import export company"
+      }
+    ]
+  },
+  "malicorne-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "15271659453065067833",
+        "nom": "Piscine à Malicorne sur Sarthe",
+        "slug": "piscine-a-malicorne-sur-sarthe",
+        "telephone": "+33 2 43 45 60 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 9,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "mamers": {
+    "artisans": [
+      {
+        "id": "4769606599495179593",
+        "nom": "Piscine à Mamers",
+        "slug": "piscine-a-mamers",
+        "telephone": "+33 2 43 33 56 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 122,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-mans": {
+    "artisans": [
+      {
+        "id": "13806447610501129689",
+        "nom": "Aquatic Centre Atlantides",
+        "slug": "aquatic-centre-atlantides",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Mans, France",
+        "note": 4.1,
+        "avis": 2,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "mansigne": {
+    "artisans": [
+      {
+        "id": "683051069922031121",
+        "nom": "Piscine",
+        "slug": "piscine",
+        "telephone": "+33 2 43 79 20 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 16,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "16037630265881773307",
+        "nom": "Leisure Center of Mansigné",
+        "slug": "leisure-center-of-mansigne",
+        "telephone": "+33 2 43 46 14 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Country club"
+      }
+    ]
+  },
+  "marolles-les-braults": {
+    "artisans": [
+      {
+        "id": "8499385420478206944",
+        "nom": "MENUISERIE NICOLAS BESNARD - Concessionnaire Renoval Vérandas et Pergolas",
+        "slug": "menuiserie-nicolas-besnard-concessionnaire-renoval-verandas-et-pergolas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marolles-les-Braults, France",
+        "note": 4,
+        "avis": 99,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "mayet": {
+    "artisans": [
+      {
+        "id": "16805801872389423319",
+        "nom": "Piscine municipale de Mayet (ouvre à partir 1er Juillet)",
+        "slug": "piscine-municipale-de-mayet-ouvre-a-partir-1er-juillet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayet, France",
+        "note": 3.9,
+        "avis": 17,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "la-milesse": {
+    "artisans": [
+      {
+        "id": "14366270505241755326",
+        "nom": "D'SPAS HOTSPRING LE MANS NORD",
+        "slug": "d-spas-hotspring-le-mans-nord",
+        "telephone": "+33 2 44 51 02 99",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "mulsanne": {
+    "artisans": [
+      {
+        "id": "1039602756702586370",
+        "nom": "Piscines Desjoyaux",
+        "slug": "piscines-desjoyaux",
+        "telephone": "+33 2 43 75 35 71",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "montfort-le-gesnois": {
+    "artisans": [
+      {
+        "id": "2218099077891741184",
+        "nom": "Centre Aquatique Sittellia",
+        "slug": "centre-aquatique-sittellia",
+        "telephone": "+33 2 43 54 01 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 937,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "precigne": {
+    "artisans": [
+      {
+        "id": "144606081204414644",
+        "nom": "Piscine des Lices",
+        "slug": "piscine-des-lices",
+        "telephone": "+33 2 43 95 41 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 55,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "roeze-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "12510985335611312592",
+        "nom": "My Pool",
+        "slug": "my-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rle du Pont de l'Orne",
+        "note": 5,
+        "avis": 1,
+        "type": "Sports complex"
+      },
+      {
+        "id": "9541894793528484090",
+        "nom": "Piscine Municipal",
+        "slug": "piscine-municipal",
+        "telephone": "+33 2 43 77 31 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 162,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "rouillon": {
+    "artisans": [
+      {
+        "id": "11302504598977673853",
+        "nom": "inpool",
+        "slug": "inpool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bordj Bou Arreridj",
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sable-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "16426210736224291242",
+        "nom": "Centre Aquatique Communauté de Communes du Pays sabolien",
+        "slug": "centre-aquatique-communaute-de-communes-du-pays-sabolien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sablé-sur-Sarthe, France",
+        "note": 4,
+        "avis": 440,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "saint-paterne-le-chevain": {
+    "artisans": [
+      {
+        "id": "1609081829387498153",
+        "nom": "Le Jardin Deco Coulon Ludovic",
+        "slug": "le-jardin-deco-coulon-ludovic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "St Paterne - Le Chevain, France",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "sarge-les-le-mans": {
+    "artisans": [
+      {
+        "id": "17183294574432068970",
+        "nom": "Les Océades - Sargé-Lès-Le Mans",
+        "slug": "les-oceades-sarge-les-le-mans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sargé-lès-le-Mans, France",
+        "note": 4.2,
+        "avis": 188,
+        "type": "Fitness center"
+      }
+    ]
+  },
+  "sille-le-guillaume": {
+    "artisans": [
+      {
+        "id": "3769947748703387149",
+        "nom": "Gite du Jouteau",
+        "slug": "gite-du-jouteau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mont, France",
+        "note": 4.4,
+        "avis": 36,
+        "type": "Cottage"
+      },
+      {
+        "id": "10020474846121232900",
+        "nom": "Centre Sportif Ernest Chevreuil",
+        "slug": "centre-sportif-ernest-chevreuil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sillé-le-Guillaume, France",
+        "note": 3.8,
+        "avis": 64,
+        "type": "Sports complex"
+      },
+      {
+        "id": "4180024556595322282",
+        "nom": "Coco plage",
+        "slug": "coco-plage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sillé plage, France",
+        "note": 4.4,
+        "avis": 1,
+        "type": "Swimming lake"
+      },
+      {
+        "id": "17375803328769685734",
+        "nom": "Sillé-le-Guillaume",
+        "slug": "sille-le-guillaume",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      },
+      {
+        "id": "6223185882338066869",
+        "nom": "Gaudemer Sarl - Electricien Plombier Chauffagiste - Sillé le Guillaume - Le Mans",
+        "slug": "gaudemer-sarl-electricien-plombier-chauffagiste-sille-le-guillaume-le-mans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sillé-le-Guillaume, France",
+        "note": 4.2,
+        "avis": 24,
+        "type": "Heating contractor"
+      }
+    ]
+  },
+  "spay": {
+    "artisans": [
+      {
+        "id": "6265390821938809494",
+        "nom": "SPA Piscines Var",
+        "slug": "spa-piscines-var",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Roquebrune-sur-Argens, France",
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "torce-en-vallee": {
+    "artisans": [
+      {
+        "id": "10389586776909653463",
+        "nom": "Les jardins du Maine",
+        "slug": "les-jardins-du-maine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Torcé-en-Vallée, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "tuffe-val-de-la-cheronne": {
+    "artisans": [
+      {
+        "id": "15990133216284170989",
+        "nom": "Plan d'eau de Tuffé",
+        "slug": "plan-d-eau-de-tuffe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 4.4,
+        "avis": 273,
+        "type": "Swimming lake"
+      }
+    ]
+  },
+  "vibraye": {
+    "artisans": [
+      {
+        "id": "13508630550912185220",
+        "nom": "Piscine municipale de Vibraye",
+        "slug": "piscine-municipale-de-vibraye",
+        "telephone": "+33 2 43 93 62 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 25,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "villaines-sous-malicorne": {
+    "artisans": [
+      {
+        "id": "4200066880721341527",
+        "nom": "Prechais Services",
+        "slug": "prechais-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villaines-sous-Malicorne, France",
+        "note": 4.6,
+        "avis": 15,
+        "type": "Plumber"
+      },
+      {
+        "id": "14182954541969710125",
+        "nom": "SARL Plard",
+        "slug": "sarl-plard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villaines-sous-Malicorne, France",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Plumber"
+      }
+    ]
+  }
+}

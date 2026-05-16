@@ -1,0 +1,1314 @@
+{
+  "bassens": {
+    "artisans": [
+      {
+        "id": "3475266078768989420",
+        "nom": "Piscine Intercommunale Nelson Mandela",
+        "slug": "piscine-intercommunale-nelson-mandela",
+        "telephone": "+33 9 67 50 01 53",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 206,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "11648916108336085603",
+        "nom": "SEREM Motion",
+        "slug": "serem-motion",
+        "telephone": "+33 5 56 85 25 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 34,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "beaufort": {
+    "artisans": [
+      {
+        "id": "10256950229445872955",
+        "nom": "Piscine Michel Beaufort",
+        "slug": "piscine-michel-beaufort",
+        "telephone": "+33 1 83 74 57 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 461,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "1596626307703806231",
+        "nom": "Outdoor pool",
+        "slug": "outdoor-pool",
+        "telephone": "+352 83 60 99 300",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 184,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "7751450627903458052",
+        "nom": "Pool Beaufortain - Arlysère",
+        "slug": "pool-beaufortain-arlysere",
+        "telephone": "+33 4 79 38 35 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 168,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "grand-aigueblanche": {
+    "artisans": [
+      {
+        "id": "13175687296004200015",
+        "nom": "Piscine du Morel",
+        "slug": "piscine-du-morel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grand-Aigueblanche, France",
+        "note": 4.1,
+        "avis": 287,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "aime-la-plagne": {
+    "artisans": [
+      {
+        "id": "4914452419144895057",
+        "nom": "Magic Pool - Piscine de la plagne Bellecôte",
+        "slug": "magic-pool-piscine-de-la-plagne-bellecote",
+        "telephone": "+33 4 79 09 05 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.9,
+        "avis": 113,
+        "type": "Outdoor swimming pool"
+      },
+      {
+        "id": "9260686953413243624",
+        "nom": "Espace Paradisio",
+        "slug": "espace-paradisio",
+        "telephone": "+33 4 79 09 33 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 218,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "10843051643864777718",
+        "nom": "Les Bains de Belle Plagne",
+        "slug": "les-bains-de-belle-plagne",
+        "telephone": "+33 4 58 35 00 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 428,
+        "type": "Spa"
+      },
+      {
+        "id": "11019880491007970732",
+        "nom": "Spa Deep Nature - Les Hauts Bois",
+        "slug": "spa-deep-nature-les-hauts-bois",
+        "telephone": "+33 4 79 55 14 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 24,
+        "type": "Spa and health club"
+      }
+    ]
+  },
+  "aix-les-bains": {
+    "artisans": [
+      {
+        "id": "13369343977776121983",
+        "nom": "ABSOLUE piscine",
+        "slug": "absolue-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grésy-sur-Aix, France",
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9199496060010661108",
+        "nom": "M2GP Aménagements",
+        "slug": "m2gp-amenagements",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Drumettaz-Clarafond, France",
+        "note": 4.6,
+        "avis": 31,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2775193068738891109",
+        "nom": "Irripiscine by Irrijardin Drumettaz-Clarafond",
+        "slug": "irripiscine-by-irrijardin-drumettaz-clarafond",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Drumettaz-Clarafond, France",
+        "note": 4.1,
+        "avis": 54,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5938269370754357247",
+        "nom": "Mantione Calogéro",
+        "slug": "mantione-calogero",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mouxy, France",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "albertville": {
+    "artisans": [
+      {
+        "id": "10947325920689327772",
+        "nom": "Aquilus Piscines et Spas Albertville",
+        "slug": "aquilus-piscines-et-spas-albertville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Césarches, France",
+        "note": 1,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "3622342219485692905",
+        "nom": "DESJOYAUX Albertville",
+        "slug": "desjoyaux-albertville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Albertville, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "les-allues": {
+    "artisans": [
+      {
+        "id": "14814427433712933576",
+        "nom": "SPA du Ruitor - SPA & Massages Méribel",
+        "slug": "spa-du-ruitor-spa-massages-meribel",
+        "telephone": null,
+        "site_web": "https://www.alpenruitor.com/spa/",
+        "adresse": "200 Chem. des Bleuets",
+        "note": 4.9,
+        "avis": 85,
+        "type": "Spa"
+      },
+      {
+        "id": "6911558531305758182",
+        "nom": "My spa Méribel",
+        "slug": "my-spa-meribel",
+        "telephone": null,
+        "site_web": "https://www.meribel.net/equipement/my-spa-pure-altitude-espace-detente-meribel/",
+        "adresse": "510 Rte Albert Gacon",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Spa"
+      },
+      {
+        "id": "400124896297708549",
+        "nom": "Duplex lumineux avec terrasse, piscine et spa à Méribel, accès direct aux pistes - FR-1-566-49",
+        "slug": "duplex-lumineux-avec-terrasse-piscine-et-spa-a-meribel-acces-direct-aux-pistes-fr-1-566-49",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "13128857356819179128",
+        "nom": "Charmant 2 pièces avec piscine, spa et accès direct pistes à Méribel Village - FR-1-566-60",
+        "slug": "charmant-2-pieces-avec-piscine-spa-et-acces-direct-pistes-a-meribel-village-fr-1-566-60",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "11208894926002278656",
+        "nom": "PARK MERIBEL OLYMPIC",
+        "slug": "park-meribel-olympic",
+        "telephone": null,
+        "site_web": "https://www.meribel.net/activites-en-interieur/parc-olympique/",
+        "adresse": "Rte Albert Gacon",
+        "note": 4.3,
+        "avis": 271,
+        "type": "Sports complex"
+      },
+      {
+        "id": "6912112473753554872",
+        "nom": "Chalet des Amis in Meribel with swimming pool",
+        "slug": "chalet-des-amis-in-meribel-with-swimming-pool",
+        "telephone": null,
+        "site_web": "https://chaletdesamis.lodgify.com/listing/en/754374",
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "15425378318517178252",
+        "nom": "Chalet Menor - A Luxurious Chalet with Swimming Pool, Jacuzzi Sauna in Meribel",
+        "slug": "chalet-menor-a-luxurious-chalet-with-swimming-pool-jacuzzi-sauna-in-meribel",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/68126f791a0d3c624b00ce76?dest=bpex&cat=Villa&lat=45.40311&lng=6.56097&language=pt",
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "13296856195205442263",
+        "nom": "Appartement ski aux pieds avec piscine, spa et terrasse ensoleillée à Méribel Village - FR-1-566-57",
+        "slug": "appartement-ski-aux-pieds-avec-piscine-spa-et-terrasse-ensoleillee-a-meribel-village-fr-1-566-57",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "14633121441271347989",
+        "nom": "Charmant Duplex 4P avec Terrasse, Piscine et Garage - Méribel Centre, 8 Pers. - FR-1-411-71",
+        "slug": "charmant-duplex-4p-avec-terrasse-piscine-et-garage-meribel-centre-8-pers-fr-1-411-71",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9156919781076614853",
+        "nom": "Spa Deep Nature - L'Hévana Méribel",
+        "slug": "spa-deep-nature-l-hevana-meribel",
+        "telephone": null,
+        "site_web": "https://www.deepnature.fr/dn_fr/spa-meribel-hevana",
+        "adresse": "Résidence Pierre & Vacances Premium L’Hévana, Rte Albert Gacon",
+        "note": 4.3,
+        "avis": 34,
+        "type": "Spa"
+      },
+      {
+        "id": "5438128266654270381",
+        "nom": "Studio cosy avec piscine, au pied des pistes - Méribel - FR-1-180-593",
+        "slug": "studio-cosy-avec-piscine-au-pied-des-pistes-meribel-fr-1-180-593",
+        "telephone": null,
+        "site_web": "https://www.booking.com/hotel/fr/appartement-meribel-1-piece-3-personnes-fr-1-180-593.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10505304_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10505304;utm_campaign=en",
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "16940954956489299729",
+        "nom": "Confortable 3 pièces 4 pers. face aux pistes avec accès piscine à Méribel Village - FR-1-411-618",
+        "slug": "confortable-3-pieces-4-pers-face-aux-pistes-avec-acces-piscine-a-meribel-village-fr-1-411-618",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "17599827455104302057",
+        "nom": "Appartement cosy à Méribel avec piscine, spa et proche pistes - FR-1-566-7",
+        "slug": "appartement-cosy-a-meribel-avec-piscine-spa-et-proche-pistes-fr-1-566-7",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/5f736464e24da41bb0df575b?dest=bkng&cat=Apartment&lat=45.41709&lng=6.56533&language=pt",
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "5438011863363101253",
+        "nom": "Chalet Altaïs Piscine & Hammam Meribel",
+        "slug": "chalet-altais-piscine-hammam-meribel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "11532265636636945982",
+        "nom": "Appartement proche des pistes avec piscine, spa et parking couvert à Méribel Village - FR-1-566-50",
+        "slug": "appartement-proche-des-pistes-avec-piscine-spa-et-parking-couvert-a-meribel-village-fr-1-566-50",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Allues, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "barberaz": {
+    "artisans": [
+      {
+        "id": "972483698321201565",
+        "nom": "Irripiscine by Irrijardin Chambery / La Ravoire",
+        "slug": "irripiscine-by-irrijardin-chambery-la-ravoire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Ravoire, France",
+        "note": 4.3,
+        "avis": 72,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "3298433585273787162",
+        "nom": "Cap' Piscine",
+        "slug": "cap-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chambéry, France",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8211130226217710738",
+        "nom": "Cash Pools Chambery",
+        "slug": "cash-pools-chambery",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chambéry, France",
+        "note": 3.7,
+        "avis": 398,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "17916300771923925869",
+        "nom": "PRD Piscines Chambéry",
+        "slug": "prd-piscines-chambery",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chambéry, France",
+        "note": 3.2,
+        "avis": 49,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-bathie": {
+    "artisans": [
+      {
+        "id": "6041910257411629017",
+        "nom": "JBS PISCINES SAVOIE",
+        "slug": "jbs-piscines-savoie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cevins, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "le-bourget-du-lac": {
+    "artisans": [
+      {
+        "id": "14514516232653045654",
+        "nom": "Vert de bleu",
+        "slug": "vert-de-bleu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Motte-Servolex, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Construction company"
+      },
+      {
+        "id": "17413198838462010682",
+        "nom": "Abris 2 Savoie",
+        "slug": "abris-2-savoie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tresserve, France",
+        "note": 5,
+        "avis": 35,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "bourg-saint-maurice": {
+    "artisans": [
+      {
+        "id": "4569240397423050107",
+        "nom": "Showroom Point.P - Bourg-St-Maurice        ",
+        "slug": "showroom-pointp-bourg-st-maurice",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Flooring contractor",
+        "note": 5,
+        "avis": 4,
+        "type": null
+      },
+      {
+        "id": "13914685421210427614",
+        "nom": "AS&P",
+        "slug": "asp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "297 Av. Maréchal Leclerc",
+        "note": 5,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bozel": {
+    "artisans": [
+      {
+        "id": "16795259021223653804",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 4 79 22 06 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 173,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "6706738724181670671",
+        "nom": "Bozel Fun Park",
+        "slug": "bozel-fun-park",
+        "telephone": "+33 6 98 69 55 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 466,
+        "type": "Amusement center"
+      }
+    ]
+  },
+  "la-bridoire": {
+    "artisans": [
+      {
+        "id": "2802337364806663570",
+        "nom": "AquaZenn",
+        "slug": "aquazenn",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Bridoire, France",
+        "note": null,
+        "avis": null,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "brison-saint-innocent": {
+    "artisans": [
+      {
+        "id": "9989177382798157030",
+        "nom": "Oxalli Piscines",
+        "slug": "oxalli-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tresserve, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10484194058037145937",
+        "nom": "Aqualac - Grand Lac",
+        "slug": "aqualac-grand-lac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Aix-les-Bains, France",
+        "note": 3.9,
+        "avis": 1,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "chambery": {
+    "artisans": [
+      {
+        "id": "9564920809818043620",
+        "nom": "Piscines Desjoyaux",
+        "slug": "piscines-desjoyaux",
+        "telephone": null,
+        "site_web": "https://www.desjoyaux.fr/boutiques-desjoyaux/73000-chambery/",
+        "adresse": "Chambéry, France",
+        "note": 4.6,
+        "avis": 69,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5312874089040443066",
+        "nom": "Savoie Acqua Concept",
+        "slug": "savoie-acqua-concept",
+        "telephone": null,
+        "site_web": "https://www.savoie-acqua-concept.com/",
+        "adresse": "Chambéry, France",
+        "note": 3.5,
+        "avis": 68,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13141591883156009101",
+        "nom": "Prop'Color",
+        "slug": "prop-color",
+        "telephone": null,
+        "site_web": "https://www.prop-color.com/",
+        "adresse": "Chambéry, France",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "9684035236678969051",
+        "nom": "Riviera Piscine",
+        "slug": "riviera-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chambéry, France",
+        "note": 3,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10831007990563788629",
+        "nom": "Piscine aqualudique du Stade",
+        "slug": "piscine-aqualudique-du-stade",
+        "telephone": null,
+        "site_web": "https://www.piscine-chambery.fr/",
+        "adresse": "Chambéry, France",
+        "note": 4.1,
+        "avis": 872,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "11235623786954078584",
+        "nom": "Indoor swimming Buisson Rond",
+        "slug": "indoor-swimming-buisson-rond",
+        "telephone": null,
+        "site_web": "https://www.piscine-sportive-chambery.fr/",
+        "adresse": "Chambéry, France",
+        "note": 4.1,
+        "avis": 912,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5831816296321656213",
+        "nom": "Gonthier Jardins - Piscines - Spas",
+        "slug": "gonthier-jardins-piscines-spas",
+        "telephone": null,
+        "site_web": "http://www.gonthier-entreprise.com/",
+        "adresse": "Cognin, France",
+        "note": 4,
+        "avis": 36,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "frontenex": {
+    "artisans": [
+      {
+        "id": "617855080736144166",
+        "nom": "Pool Haute Combe de Savoie - Arlysère",
+        "slug": "pool-haute-combe-de-savoie-arlysere",
+        "telephone": "+33 4 79 31 43 81",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 75,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "gilly-sur-isere": {
+    "artisans": [
+      {
+        "id": "1016708209264033904",
+        "nom": "Pool Gilly sur Isère - Arlysère",
+        "slug": "pool-gilly-sur-isere-arlysere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "514 Chem. des Bauges",
+        "note": 3.7,
+        "avis": 308,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "gresy-sur-aix": {
+    "artisans": [
+      {
+        "id": "1087249633724604367",
+        "nom": "ONDE BLEUE",
+        "slug": "onde-bleue",
+        "telephone": null,
+        "site_web": "https://www.ondebleue.fr/",
+        "adresse": "68 Chem. des Tulipes",
+        "note": 5,
+        "avis": 30,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "gresy-sur-isere": {
+    "artisans": [
+      {
+        "id": "15185471376318971192",
+        "nom": "Base de loisirs de Gresy sur Isere",
+        "slug": "base-de-loisirs-de-gresy-sur-isere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grésy-sur-Isère, France",
+        "note": 4.4,
+        "avis": 74,
+        "type": "Tourist attraction"
+      }
+    ]
+  },
+  "grignon": {
+    "artisans": [
+      {
+        "id": "16467745890935576848",
+        "nom": "Plan d'eau de Grignon - Arlysère",
+        "slug": "plan-d-eau-de-grignon-arlysere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grignon, France",
+        "note": 4,
+        "avis": 812,
+        "type": "Park"
+      }
+    ]
+  },
+  "la-tour-en-maurienne": {
+    "artisans": [
+      {
+        "id": "8446012654815331274",
+        "nom": "Giordano Patrice - Créateur Piscines Minérales sans liner ou avec :) - Espaces Verts",
+        "slug": "giordano-patrice-createur-piscines-minerales-sans-liner-ou-avec-espaces-verts",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Jean-de-Maurienne, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-plagne-tarentaise": {
+    "artisans": [
+      {
+        "id": "4306927002167017696",
+        "nom": "Le Spa Les Balcons de Belle Plagne****",
+        "slug": "le-spa-les-balcons-de-belle-plagne",
+        "telephone": "+33 4 79 55 79 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 6,
+        "type": "Spa"
+      },
+      {
+        "id": "7404865695954848914",
+        "nom": "Spa bellecote",
+        "slug": "spa-bellecote",
+        "telephone": "+33 4 79 09 22 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 154,
+        "type": "Spa"
+      },
+      {
+        "id": "4537412483318361616",
+        "nom": "La Plagne 1800 - Piscine, Appartement 4 Pers. La Plagne 1800 - Piscine, Sauna, Squash",
+        "slug": "la-plagne-1800-piscine-appartement-4-pers-la-plagne-1800-piscine-sauna-squash",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "4185164544004551924",
+        "nom": "Ô Des Cimes Spas d'Altitude Les Granges du Soleil",
+        "slug": "o-des-cimes-spas-d-altitude-les-granges-du-soleil",
+        "telephone": "+33 4 79 23 22 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 22,
+        "type": "Spa"
+      }
+    ]
+  },
+  "marthod": {
+    "artisans": [
+      {
+        "id": "9867826595744520840",
+        "nom": "POOLCO",
+        "slug": "poolco",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Félix, France",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "modane": {
+    "artisans": [
+      {
+        "id": "904374285365486349",
+        "nom": "Modane Swimming Pool",
+        "slug": "modane-swimming-pool",
+        "telephone": "+33 4 79 05 26 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 185,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "montcel": {
+    "artisans": [
+      {
+        "id": "16130648379785922526",
+        "nom": "TechniPISCINES73",
+        "slug": "technipiscines73",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montcel, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "montmelian": {
+    "artisans": [
+      {
+        "id": "16143599364380750172",
+        "nom": "Piscine De Montmelian",
+        "slug": "piscine-de-montmelian",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montmélian, France",
+        "note": 4.2,
+        "avis": 259,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "la-motte-servolex": {
+    "artisans": [
+      {
+        "id": "15913773223129776206",
+        "nom": "RECTIMO PISCINES",
+        "slug": "rectimo-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Motte-Servolex, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6445048432229191123",
+        "nom": "Calyps'eau",
+        "slug": "calyps-eau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Motte-Servolex, France",
+        "note": 4.6,
+        "avis": 62,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "la-lechere": {
+    "artisans": [
+      {
+        "id": "15953003086036491952",
+        "nom": "Õ OF LAUZES",
+        "slug": "of-lauzes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Léchère, France",
+        "note": 4.2,
+        "avis": 282,
+        "type": "Spa"
+      },
+      {
+        "id": "15968071107368073689",
+        "nom": "Piscine de Doucy",
+        "slug": "piscine-de-doucy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Léchère, France",
+        "note": 2.7,
+        "avis": 18,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "la-ravoire": {
+    "artisans": [
+      {
+        "id": "11678229055468449958",
+        "nom": "Reflets d'Altitude",
+        "slug": "reflets-d-altitude",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Ravoire, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "valgelon-la-rochette": {
+    "artisans": [
+      {
+        "id": "9619280287998979857",
+        "nom": "Piscine Aquagelon",
+        "slug": "piscine-aquagelon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "38 Rue de la Neuve",
+        "note": 4,
+        "avis": 103,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "courchevel": {
+    "artisans": [
+      {
+        "id": "7956810613587821961",
+        "nom": "Piscine de la Tania",
+        "slug": "piscine-de-la-tania",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-genix-les-villages": {
+    "artisans": [
+      {
+        "id": "6146519040159431563",
+        "nom": "PACCARD PAYSAGE",
+        "slug": "paccard-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Genix-les-Villages, France",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "sainte-helene-sur-isere": {
+    "artisans": [
+      {
+        "id": "8190947792704829505",
+        "nom": "Plan d'eau de Sainte-Hélène-sur-Isère",
+        "slug": "plan-d-eau-de-sainte-helene-sur-isere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Hélène-sur-Isère, France",
+        "note": 4.2,
+        "avis": 106,
+        "type": "Swimming lake"
+      }
+    ]
+  },
+  "saint-jean-d-arvey": {
+    "artisans": [
+      {
+        "id": "9138899119635694099",
+        "nom": "Aquatech France",
+        "slug": "aquatech-france",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Alban-Leysse, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-julien-mont-denis": {
+    "artisans": [
+      {
+        "id": "6325269050146226961",
+        "nom": "RICHARDSON : SANITAIRE- CHAUFFAGE - PLOMBERIE - PHOTOVOLTAÏQUE",
+        "slug": "richardson-sanitaire-chauffage-plomberie-photovoltaique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Julien-Mont-Denis, France",
+        "note": 4,
+        "avis": 20,
+        "type": "Heating equipment supplier"
+      },
+      {
+        "id": "275708989860460313",
+        "nom": "EP NATURE",
+        "slug": "ep-nature",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Julien-Mont-Denis, France",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "les-belleville": {
+    "artisans": [
+      {
+        "id": "17650399853064611964",
+        "nom": "La Belle Vie - St Martin de Belleville - Sport&Wellness Les Belleville",
+        "slug": "la-belle-vie-st-martin-de-belleville-sportwellness-les-belleville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "107 Rue des Ravines",
+        "note": 4.3,
+        "avis": 52,
+        "type": "Massage spa"
+      },
+      {
+        "id": "14716494261069231930",
+        "nom": "Space Aqualudique & Wellness - Les Bruyeres",
+        "slug": "space-aqualudique-wellness-les-bruyeres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Belleville, France",
+        "note": 3.9,
+        "avis": 447,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "6644112670790752459",
+        "nom": "Swimming pool and sports field of Les Ménuires",
+        "slug": "swimming-pool-and-sports-field-of-les-menuires",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Menuires (Les, France",
+        "note": 3.9,
+        "avis": 548,
+        "type": "Sports complex"
+      },
+      {
+        "id": "327148396547466103",
+        "nom": "Le Spa Leen Paô",
+        "slug": "le-spa-leen-pao",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Belleville, France",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Spa"
+      }
+    ]
+  },
+  "serrieres-en-chautagne": {
+    "artisans": [
+      {
+        "id": "5836542209385032289",
+        "nom": "STIL CERAM",
+        "slug": "stil-ceram",
+        "telephone": "+33 6 22 78 57 27",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 9,
+        "type": "Tile contractor"
+      }
+    ]
+  },
+  "val-cenis": {
+    "artisans": [
+      {
+        "id": "11694523619875163586",
+        "nom": "PISCINE et PATINOIRE du Parc de loisirs des Glières VAL CENIS",
+        "slug": "piscine-et-patinoire-du-parc-de-loisirs-des-glieres-val-cenis",
+        "telephone": "+33 4 79 05 89 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.1,
+        "avis": 146,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "12893509735933886154",
+        "nom": "Le Spa Les Balcons Platinium Val Cenis*****",
+        "slug": "le-spa-les-balcons-platinium-val-cenis",
+        "telephone": "+33 4 79 59 52 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 8,
+        "type": "Spa and health club"
+      },
+      {
+        "id": "10558034240709985783",
+        "nom": "Ô Spa Nature",
+        "slug": "o-spa-nature",
+        "telephone": "+33 6 72 80 61 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 40,
+        "type": "Spa garden"
+      },
+      {
+        "id": "16343260348107056745",
+        "nom": "Val Fontaine - Val Cenis",
+        "slug": "val-fontaine-val-cenis",
+        "telephone": "+33 7 61 61 24 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 3,
+        "type": "Spa and health club"
+      },
+      {
+        "id": "3331408507333699709",
+        "nom": "O'soi - Loisirs, Piscine et Bien-être",
+        "slug": "o-soi-loisirs-piscine-et-bien-etre",
+        "telephone": "+33 4 79 20 42 24",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 120,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "10516740609912679766",
+        "nom": "Résidence Les Balcons De Val Cenis Village 4 étoiles & Spa",
+        "slug": "residence-les-balcons-de-val-cenis-village-4-etoiles-spa",
+        "telephone": "+33 4 79 20 64 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 740,
+        "type": "Extended stay hotel"
+      },
+      {
+        "id": "18352792139289842087",
+        "nom": "Appartement pour 4 personnes avec piscine, pied des pistes à Val Cenis - FR-1-508-132",
+        "slug": "appartement-pour-4-personnes-avec-piscine-pied-des-pistes-a-val-cenis-fr-1-508-132",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "10330102978064881480",
+        "nom": "Appartement à Val-Cenis - 4 pers, pied des pistes, piscine, balcon, parking, WiFi gratuit - FR-1-508-149",
+        "slug": "appartement-a-val-cenis-4-pers-pied-des-pistes-piscine-balcon-parking-wifi-gratuit-fr-1-508-149",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "14974442289855229998",
+        "nom": "Ô Des Cimes Spas d'Altitude Les Chalets de Flambeau",
+        "slug": "o-des-cimes-spas-d-altitude-les-chalets-de-flambeau",
+        "telephone": "+33 4 79 83 47 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 32,
+        "type": "Spa"
+      }
+    ]
+  },
+  "tignes": {
+    "artisans": [
+      {
+        "id": "12564590579840864354",
+        "nom": "Belambra Clubs \"Val Claret\"        ",
+        "slug": "belambra-clubs-val-claret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Resort hotel",
+        "note": 4.2,
+        "avis": 504,
+        "type": null
+      },
+      {
+        "id": "15183240282237860352",
+        "nom": "Skione Tignes - Netski        ",
+        "slug": "skione-tignes-netski",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ski School",
+        "note": 4.8,
+        "avis": 286,
+        "type": null
+      },
+      {
+        "id": "13171597926943117913",
+        "nom": "Le Lagon Tignes",
+        "slug": "le-lagon-tignes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tignes, France",
+        "note": 3.9,
+        "avis": 773,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "18379327077423392253",
+        "nom": "Ô des Cimes Spas d'Altitude Le Télémark",
+        "slug": "o-des-cimes-spas-d-altitude-le-telemark",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tignes, France",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Spa"
+      },
+      {
+        "id": "16988824118989276478",
+        "nom": "Ô des Cimes Spas d'Altitude Kalinda",
+        "slug": "o-des-cimes-spas-d-altitude-kalinda",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tignes, France",
+        "note": 5,
+        "avis": 16,
+        "type": "Spa"
+      },
+      {
+        "id": "17476715118491253217",
+        "nom": "Ô Des Cimes Spas d'Altitude",
+        "slug": "o-des-cimes-spas-d-altitude",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tignes, France",
+        "note": 3.9,
+        "avis": 19,
+        "type": "Hotel"
+      },
+      {
+        "id": "6056236282324905714",
+        "nom": "Luxury Chalet with 6 Suites, Pool, Jacuzzi, and Sauna - Tignes",
+        "slug": "luxury-chalet-with-6-suites-pool-jacuzzi-and-sauna-tignes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "10487260396270419939",
+        "nom": "Tignes 2100 - Le Télémark",
+        "slug": "tignes-2100-le-telemark",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tignes, France",
+        "note": 4.9,
+        "avis": 38,
+        "type": "Holiday apartment rental"
+      },
+      {
+        "id": "5765397254533174932",
+        "nom": "Centre Aquasportif Val d'Isère",
+        "slug": "centre-aquasportif-val-d-isere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Val-d'Isère, France",
+        "note": 4.2,
+        "avis": 612,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "ugine": {
+    "artisans": [
+      {
+        "id": "16127861378136186721",
+        "nom": "Atlantis Center Ugine - Arlysère",
+        "slug": "atlantis-center-ugine-arlysere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ugine, France",
+        "note": 4.1,
+        "avis": 386,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "viviers-du-lac": {
+    "artisans": [
+      {
+        "id": "5795508752472301892",
+        "nom": "Maison Avec Piscine Proche lac D'aix les Bains Avec vue sur le Revard",
+        "slug": "maison-avec-piscine-proche-lac-d-aix-les-bains-avec-vue-sur-le-revard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Drumettaz-Clarafond, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "voglans": {
+    "artisans": [
+      {
+        "id": "12109870054439200041",
+        "nom": "Chambery Piscine & Spa",
+        "slug": "chambery-piscine-spa",
+        "telephone": "+33 4 79 88 82 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.3,
+        "avis": 39,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  }
+}

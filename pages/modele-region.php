@@ -44,19 +44,19 @@ $zone = $zoneByRegion[$regionSlug] ?? 'H2';
 
 $zoneEditorial = [
     'H1' => [
-        'label' => 'Zone H1 — Climat froid',
-        'cee'   => 'maximales en zone H1',
-        'text'  => "La région {$regionNom} est classée en zone climatique H1 (nord de la France). Les hivers rigoureux et les écarts de température importants imposent des exigences élevées en matière de ventilation et de qualité de l'air intérieur. En zone H1, les primes CEE atteignent leurs montants les plus élevés, rendant le recours à un " . METIER . " certifié RGE particulièrement avantageux pour maximiser les aides.",
+        'label' => 'Zone H1 — Climat nordique',
+        'cee'   => 'financement pisciniste disponible',
+        'text'  => "La région {$regionNom} offre un climat nordique où les piscines couvertes ou chauffées sont très appréciées. Une pompe à chaleur piscine permet de profiter de votre bassin même en dehors de la haute saison. Nos " . METIER_PLURIEL . " locaux certifiés Qualipiscine ou FPP vous accompagnent pour un projet sur mesure.",
     ],
     'H2' => [
         'label' => 'Zone H2 — Climat tempéré',
-        'cee'   => 'disponibles en zone H2',
-        'text'  => "La région {$regionNom} est classée en zone climatique H2 (centre de la France). Ce climat tempéré permet des chantiers VMC toute l'année. Les aides CEE et MaPrimeRénov' s'appliquent pleinement aux travaux de ventilation VMC réalisés par un " . METIER . " certifié RGE.",
+        'cee'   => 'financement pisciniste disponible',
+        'text'  => "La région {$regionNom} bénéficie d'un climat tempéré idéal pour une piscine. La saison de baignade s'étend de mai à septembre selon les années. Nos " . METIER_PLURIEL . " certifiés vous proposent construction, rénovation, traitement de l'eau et entretien avec TVA 10% applicable.",
     ],
     'H3' => [
         'label' => 'Zone H3 — Climat méditerranéen',
-        'cee'   => 'disponibles en zone H3',
-        'text'  => "La région {$regionNom} est classée en zone climatique H3 (sud de la France). Les étés chauds et l'humidité liée aux épisodes pluviométriques exigent une ventilation performante pour assurer le confort thermique et la qualité de l'air. Un " . METIER . " qualifié peut vous accompagner pour optimiser votre ventilation VMC et bénéficier des aides à la rénovation énergétique.",
+        'cee'   => 'financement pisciniste disponible',
+        'text'  => "La région {$regionNom} jouit d'un climat méditerranéen ensoleillé, idéal pour profiter d'une piscine de mai à octobre. C'est la région avec le plus grand nombre de piscines en France. Nos " . METIER_PLURIEL . " qualifiés Qualipiscine et FPP réalisent tous vos projets piscine avec financement disponible.",
     ],
 ];
 $editorial = $zoneEditorial[$zone];
@@ -102,15 +102,15 @@ $jsonLd[] = '<script type="application/ld+json">' . json_encode([
 
 $faq = [
     ['q' => "Quel est le coût de \"{$modNom}\" en {$regionNom} ?",
-     'r' => "Le tarif pour {$modNom} en {$regionNom} varie selon les matériaux, la surface et la complexité du chantier. En zone {$zone}, demandez plusieurs devis gratuits aux " . METIER_PLURIEL . " de votre département pour comparer les offres."],
-    ['q' => "Comment bénéficier des aides pour \"{$modNom}\" en {$regionNom} ?",
-     'r' => "Les aides CEE sont {$editorial['cee']}. Pour en bénéficier, faites appel à un " . METIER . " certifié RGE (Reconnu Garant de l'Environnement). MaPrimeRénov' et l'Éco-PTZ sont également accessibles sous conditions."],
+     'r' => "Le tarif pour {$modNom} en {$regionNom} varie selon le type de projet, la taille et les équipements choisis. Demandez plusieurs devis gratuits aux " . METIER_PLURIEL . " de votre département pour comparer les offres."],
+    ['q' => "Comment financer \"{$modNom}\" en {$regionNom} ?",
+     'r' => "Des solutions de financement pisciniste sont {$editorial['cee']}. La TVA à 10% s'applique aux travaux piscine. Pour une pompe à chaleur piscine, un crédit d'impôt peut être accessible. Votre " . METIER . " vous guide dans les démarches."],
     ['q' => "Combien de " . METIER_PLURIEL . " proposent \"{$modNom}\" en {$regionNom} ?",
-     'r' => "{$nbArtisans} " . METIER_PLURIEL . " sont référencés en {$regionNom}. Sélectionnez votre département ci-dessous pour trouver les artisans les plus proches de votre domicile."],
+     'r' => "{$nbArtisans} " . METIER_PLURIEL . " sont référencés en {$regionNom}. Sélectionnez votre département ci-dessous pour trouver les professionnels les plus proches de chez vous."],
     ['q' => "Quelle TVA s'applique pour \"{$modNom}\" en {$regionNom} ?",
-     'r' => "La TVA réduite s'applique aux travaux réalisés dans les logements de plus de 2 ans. Votre " . METIER . " vous confirmera le taux applicable lors de l'établissement du devis."],
+     'r' => "La TVA à 10% s'applique aux travaux piscine. Votre " . METIER . " vous confirmera les conditions lors de l'établissement du devis gratuit."],
     ['q' => "Quelle garantie pour \"{$modNom}\" en {$regionNom} ?",
-     'r' => "Les travaux bénéficient de la garantie décennale (10 ans) couvrant les désordres structurels. Exigez toujours l'attestation d'assurance décennale de votre " . METIER . " avant de signer le devis."],
+     'r' => "Les travaux bénéficient de la garantie décennale (10 ans). Exigez toujours l'attestation d'assurance décennale de votre " . METIER . " avant de signer le devis."],
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
@@ -144,7 +144,7 @@ require __DIR__ . '/../templates/header.php';
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                <?= METIER_CAP ?>s certifiés en <?= htmlspecialchars($regionNom) ?> — Zone <?= htmlspecialchars($zone) ?>, garantie décennale, devis gratuit.
+                <?= METIER_CAP ?>s qualifiés en <?= htmlspecialchars($regionNom) ?> — TVA 10%, financement pisciniste disponible, devis gratuit.
             </p>
 
             <div class="ph-stat-row">
@@ -159,8 +159,8 @@ require __DIR__ . '/../templates/header.php';
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
-                    <div class="ph-stat-num">Zone <?= htmlspecialchars($zone) ?></div>
-                    <div class="ph-stat-label">Aides CEE <?= $editorial['cee'] ?></div>
+                    <div class="ph-stat-num">TVA 10%</div>
+                    <div class="ph-stat-label">Financement <?= $editorial['cee'] ?></div>
                 </div>
             </div>
 
@@ -175,7 +175,7 @@ require __DIR__ . '/../templates/header.php';
                 <div class="ph-badge">
                     <div class="ph-badge-icon">🏅</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Artisans RGE</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Qualipiscine / FPP</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés & Assurés</div>
                     </div>
                 </div>
@@ -262,7 +262,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- Autres services dans la région -->
     <section class="mt-8">
         <h2 class="text-xl font-bold text-gray-800 mb-4">
-            🛠️ Autres services <?= htmlspecialchars(METIER) ?> en <?= htmlspecialchars($regionNom) ?>
+            🛠️ Autres services piscine en <?= htmlspecialchars($regionNom) ?>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
             <?php foreach (MODELES as $m):

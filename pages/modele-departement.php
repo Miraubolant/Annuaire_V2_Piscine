@@ -36,9 +36,9 @@ $zone = array_key_first($zoneCounts) ?? 'H2';
 
 // Éditorial selon zone
 $zoneTexts = [
-    'H1' => "Le département {$deptNom} est classé en zone climatique H1 (nord de la France). Les températures hivernales basses et les écarts thermiques importants imposent une ventilation performante pour renouveler l'air intérieur tout en limitant les déperditions. Les primes CEE atteignent leurs montants maximaux en zone H1 pour les travaux de ventilation VMC. Un " . METIER . " certifié RGE peut constituer le dossier d'aides.",
-    'H2' => "Le département {$deptNom} est classé en zone climatique H2 (centre de la France). Ce climat tempéré est propice aux travaux de ventilation VMC toute l'année. Les aides CEE et MaPrimeRénov' s'appliquent pleinement aux travaux de ventilation VMC réalisés par un " . METIER . " certifié RGE.",
-    'H3' => "Le département {$deptNom} est classé en zone climatique H3 (sud de la France). Les étés chauds et l'humidité liée aux pluies intenses exigent une ventilation efficace pour assurer la qualité de l'air et éviter les problèmes d'humidité. Les travaux d'installation VMC sont éligibles aux aides CEE.",
+    'H1' => "Le département {$deptNom} bénéficie d'un climat nordique favorable à la construction de piscines couvertes ou chauffées. Une pompe à chaleur piscine est particulièrement adaptée pour prolonger la saison de baignade. Un " . METIER . " qualifié Qualipiscine peut vous conseiller sur les meilleures solutions pour votre région.",
+    'H2' => "Le département {$deptNom} offre un climat tempéré idéal pour profiter d'une piscine de mai à septembre. Les piscines avec pompe à chaleur permettent d'étendre la saison. Un " . METIER . " certifié FPP peut réaliser votre projet dans les règles de l'art avec TVA 10% applicable.",
+    'H3' => "Le département {$deptNom} bénéficie d'un climat méditerranéen avec de nombreuses journées ensoleillées : idéal pour une piscine ! La saison de baignade s'étend de mai à octobre. Un " . METIER . " local vous accompagne pour construire, rénover ou entretenir votre piscine.",
 ];
 $editorialText = $zoneTexts[$zone] ?? $zoneTexts['H2'];
 
@@ -66,13 +66,13 @@ $jsonLd[] = '<script type="application/ld+json">' . json_encode([
 
 $faq = [
     ['q' => "Quel est le tarif pour \"{$modNom}\" {$artDept} ?",
-     'r' => "Le tarif pour {$modNom} {$artDept} dépend des matériaux, de la surface et de la complexité des travaux. En zone {$zone}, demandez plusieurs devis gratuits aux " . METIER_PLURIEL . " référencés dans le département."],
+     'r' => "Le tarif pour {$modNom} {$artDept} dépend du type de projet, de la taille et des équipements choisis. Demandez plusieurs devis gratuits aux " . METIER_PLURIEL . " référencés dans le département pour comparer."],
     ['q' => "Quelles aides pour \"{$modNom}\" {$artDept} ?",
-     'r' => "En zone {$zone}, les travaux de ventilation VMC sont éligibles à la prime CEE BAR-TH-125/BAR-TH-187, MaPrimeRénov' et l'Éco-PTZ. Votre " . METIER . " certifié RGE peut constituer le dossier d'aides à votre place."],
+     'r' => "La TVA à 10% s'applique aux travaux piscine {$artDept}. Des solutions de financement pisciniste sont disponibles. Pour une pompe à chaleur piscine, un crédit d'impôt peut s'appliquer. Votre " . METIER . " vous guide dans les démarches."],
     ['q' => "Combien de " . METIER_PLURIEL . " pour \"{$modNom}\" {$artDept} ?",
-     'r' => "{$nbArtisans} " . METIER_PLURIEL . " référencés {$artDept} peuvent réaliser ces travaux. Consultez la liste ci-dessus pour trouver un artisan dans votre commune et demandez un devis."],
+     'r' => "{$nbArtisans} " . METIER_PLURIEL . " référencés {$artDept} peuvent réaliser ces travaux. Consultez la liste ci-dessus pour trouver un professionnel dans votre commune et demandez un devis gratuit."],
     ['q' => "Quelle TVA s'applique pour \"{$modNom}\" {$artDept} ?",
-     'r' => "La TVA réduite s'applique aux travaux dans les logements de plus de 2 ans. Votre " . METIER . " vous confirmera le taux applicable lors de l'établissement du devis gratuit."],
+     'r' => "La TVA à 10% s'applique aux travaux piscine. Votre " . METIER . " vous confirmera les conditions lors de l'établissement du devis gratuit."],
     ['q' => "Quelle garantie pour \"{$modNom}\" {$artDept} ?",
      'r' => "Les travaux bénéficient de la garantie décennale (10 ans). Exigez toujours l'attestation d'assurance décennale de votre " . METIER . " avant de signer le devis."],
 ];
@@ -108,7 +108,7 @@ require __DIR__ . '/../templates/header.php';
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                <?= METIER_CAP ?>s certifiés <?= htmlspecialchars($artDept) ?> — Zone <?= htmlspecialchars($zone) ?>, garantie décennale, devis gratuit.
+                <?= METIER_CAP ?>s qualifiés <?= htmlspecialchars($artDept) ?> — TVA 10%, financement pisciniste disponible, devis gratuit.
             </p>
 
             <div class="ph-stat-row">
@@ -123,8 +123,8 @@ require __DIR__ . '/../templates/header.php';
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
-                    <div class="ph-stat-num">Zone <?= htmlspecialchars($zone) ?></div>
-                    <div class="ph-stat-label">Aides CEE disponibles</div>
+                    <div class="ph-stat-num">TVA 10%</div>
+                    <div class="ph-stat-label">Financement dispo</div>
                 </div>
             </div>
 
@@ -139,7 +139,7 @@ require __DIR__ . '/../templates/header.php';
                 <div class="ph-badge">
                     <div class="ph-badge-icon">🏅</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Artisans RGE</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Qualipiscine / FPP</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés & Assurés</div>
                     </div>
                 </div>
@@ -231,7 +231,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- Autres services dans le département -->
     <section class="mt-8">
         <h2 class="text-xl font-bold text-gray-800 mb-4">
-            🛠️ Autres services <?= htmlspecialchars(METIER) ?> <?= htmlspecialchars($artDept) ?>
+            🛠️ Autres services piscine <?= htmlspecialchars($artDept) ?>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
             <?php foreach (MODELES as $m):

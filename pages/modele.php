@@ -40,20 +40,20 @@ $jsonLd[] = '<script type="application/ld+json">' . json_encode([
     'name'     => $modNom . ' ' . $artVille,
     'provider' => ['@type' => 'Organization', 'name' => SITE_NAME],
     'areaServed' => ['@type' => 'City', 'name' => $commune['nom']],
-    'serviceType' => 'installation VMC',
+    'serviceType' => 'pisciniste',
 ], JSON_UNESCAPED_UNICODE) . '</script>';
 
 $faq = [
     ['q' => "Quel est le prix de \"{$modNom}\" {$artVille} ?",
-     'r' => "Le tarif pour {$modNom} {$artVille} varie selon le type de VMC, la surface et la complexité du chantier. Demandez plusieurs devis gratuits pour comparer les offres des installateurs VMC de {$commune['nom']}."],
+     'r' => "Le tarif pour {$modNom} {$artVille} varie selon la taille du projet, les matériaux et la complexité du chantier. Demandez plusieurs devis gratuits pour comparer les offres des piscinistes de {$commune['nom']}."],
     ['q' => "Quelle TVA s'applique pour \"{$modNom}\" ?",
-     'r' => "La TVA à 5,5% s'applique à tous les travaux de ventilation VMC dans un logement de plus de 2 ans. C'est le taux le plus bas applicable, représentant une économie de 14,5% par rapport au taux normal de 20%. Votre installateur VMC {$artVille} confirme l'éligibilité lors du devis."],
-    ['q' => "Peut-on obtenir la prime CEE pour \"{$modNom}\" {$artVille} ?",
-     'r' => "Les travaux d'installation VMC double flux et VMC hygroréglable sont éligibles à la prime CEE (BAR-TH-125 / BAR-TH-187). En zone {$zone}, les primes peuvent être significatives. Votre installateur VMC RGE peut gérer le dossier."],
+     'r' => "La TVA à 10% s'applique aux travaux piscine. Des solutions de financement pisciniste sont disponibles pour étaler le coût. Votre pisciniste {$artVille} vous confirme les conditions lors du devis."],
+    ['q' => "Peut-on financer \"{$modNom}\" {$artVille} ?",
+     'r' => "Des solutions de financement pisciniste sont disponibles {$artVille}. Pour une pompe à chaleur piscine, un crédit d'impôt peut s'appliquer selon votre situation. Votre pisciniste qualifié peut vous orienter vers les meilleures options."],
     ['q' => "Combien de temps prend \"{$modNom}\" {$artVille} ?",
-     'r' => "La durée des travaux dépend du type de VMC et de la configuration du logement. Contactez les installateurs VMC de {$commune['nom']} pour obtenir un planning précis lors de la visite technique."],
-    ['q' => "Comment choisir un installateur VMC pour \"{$modNom}\" {$artVille} ?",
-     'r' => "Vérifiez la certification RGE (obligatoire pour bénéficier des aides CEE et MaPrimeRénov'), les qualifications (QualiPAC, RGE Eco Artisan) et demandez au moins 3 devis détaillés. Consultez les avis clients en ligne."],
+     'r' => "La durée des travaux dépend du type de projet. Contactez les piscinistes de {$commune['nom']} pour obtenir un planning précis lors de la visite technique gratuite."],
+    ['q' => "Comment choisir un pisciniste pour \"{$modNom}\" {$artVille} ?",
+     'r' => "Vérifiez les certifications (Qualipiscine, FPP), la garantie décennale et demandez au moins 3 devis détaillés. Consultez les avis clients en ligne pour choisir le meilleur pisciniste de {$commune['nom']}."],
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
@@ -87,23 +87,23 @@ require __DIR__ . '/../templates/header.php';
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                Installateurs VMC certifiés RGE <?= htmlspecialchars($artVille) ?> — TVA 5,5%, prime CEE zone <?= htmlspecialchars($zone) ?>, certification RGE, devis gratuit.
+                Piscinistes qualifiés <?= htmlspecialchars($artVille) ?> — TVA 10%, financement pisciniste disponible, devis gratuit.
             </p>
 
             <div class="ph-stat-row">
                 <div class="ph-stat">
                     <div class="ph-stat-num"><?= getCompteurArtisans($commune) ?></div>
-                    <div class="ph-stat-label">Installateurs VMC</div>
+                    <div class="ph-stat-label">Piscinistes</div>
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
-                    <div class="ph-stat-num">Zone <?= htmlspecialchars($zone) ?></div>
-                    <div class="ph-stat-label">Prime CEE majorée</div>
+                    <div class="ph-stat-num">Financement</div>
+                    <div class="ph-stat-label">Pisciniste dispo</div>
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
-                    <div class="ph-stat-num">5,5%</div>
-                    <div class="ph-stat-label">TVA VMC</div>
+                    <div class="ph-stat-num">10%</div>
+                    <div class="ph-stat-label">TVA piscine</div>
                 </div>
             </div>
 
@@ -118,7 +118,7 @@ require __DIR__ . '/../templates/header.php';
                 <div class="ph-badge">
                     <div class="ph-badge-icon">🏅</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Artisans RGE</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Qualipiscine / FPP</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés & Assurés</div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@ require __DIR__ . '/../templates/header.php';
     <?php if (!empty($artisans)): ?>
     <section class="mb-8">
         <h2 class="text-xl font-bold text-gray-800 mb-4">
-            💨 Installateurs VMC <?= htmlspecialchars($artVille) ?> pour ce service
+            🏊 Piscinistes <?= htmlspecialchars($artVille) ?> pour ce service
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <?php foreach ($artisans as $artisan): ?>
@@ -199,8 +199,8 @@ require __DIR__ . '/../templates/header.php';
         <div style="background:#fff;border-radius:var(--radius-lg);border:1px solid var(--stone);overflow:hidden;box-shadow:var(--shadow-sm);">
             <iframe src="<?= htmlspecialchars($mapUrl) ?>" width="100%" height="300" style="border:none;display:block;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="<?= htmlspecialchars($modNom) ?> <?= htmlspecialchars($mapVilleNom) ?>"></iframe>
             <div style="padding:12px 20px;background:var(--cream);display:flex;align-items:center;justify-content:space-between;font-size:12px;color:var(--text-muted);">
-                <span><?= htmlspecialchars($mapVilleNom) ?> · <?= $mapNbArt ?> installateur<?= $mapNbArt > 1 ? 's VMC' : ' VMC' ?> référencé<?= $mapNbArt > 1 ? 's' : '' ?></span>
-                <a href="https://www.google.com/maps/search/installateur+vmc+<?= urlencode($mapVilleNom . ' ' . $villeCp) ?>/" target="_blank" rel="noopener" style="color:var(--forest);font-weight:600;text-decoration:none;">Voir sur Google Maps →</a>
+                <span><?= htmlspecialchars($mapVilleNom) ?> · <?= $mapNbArt ?> pisciniste<?= $mapNbArt > 1 ? 's' : '' ?> référencé<?= $mapNbArt > 1 ? 's' : '' ?></span>
+                <a href="https://www.google.com/maps/search/pisciniste+<?= urlencode($mapVilleNom . ' ' . $villeCp) ?>/" target="_blank" rel="noopener" style="color:var(--forest);font-weight:600;text-decoration:none;">Voir sur Google Maps →</a>
             </div>
         </div>
     </section>
@@ -219,7 +219,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- Autres services dans la ville -->
     <section class="mt-8">
         <h2 class="text-xl font-bold text-gray-800 mb-4">
-            🛠️ Autres services ventilation VMC <?= htmlspecialchars($artVille) ?>
+            🛠️ Autres services piscine <?= htmlspecialchars($artVille) ?>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
             <?php foreach (MODELES as $m):

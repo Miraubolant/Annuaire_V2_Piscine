@@ -1,0 +1,920 @@
+{
+  "chatillon": {
+    "artisans": [
+      {
+        "id": "2472147531674311060",
+        "nom": "Stade Nautique Intercommunal Chatillon-Malakoff",
+        "slug": "stade-nautique-intercommunal-chatillon-malakoff",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châtillon, France",
+        "note": 3.8,
+        "avis": 806,
+        "type": "Outdoor swimming pool"
+      },
+      {
+        "id": "11700851051714143988",
+        "nom": "Swim Stars | Châtillon",
+        "slug": "swim-stars-chatillon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châtillon, France",
+        "note": 5,
+        "avis": 25,
+        "type": "Swimming school"
+      }
+    ]
+  },
+  "antony": {
+    "artisans": [
+      {
+        "id": "13284544123683873213",
+        "nom": "Les Piscines d’Anthony - Pisciniste - Constructeur de piscines",
+        "slug": "les-piscines-danthony-pisciniste-constructeur-de-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gujan-Mestras, France",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "asnieres-sur-seine": {
+    "artisans": [
+      {
+        "id": "17349807614259772771",
+        "nom": "Piscine Franck Esposito",
+        "slug": "piscine-franck-esposito",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Centre sportif des Courtilles, 1 Bd Pierre de Coubertin",
+        "note": 3.7,
+        "avis": 391,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "2573060309307600762",
+        "nom": "Aquatic Center Bois-Colombes",
+        "slug": "aquatic-center-bois-colombes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "30-42 Rue Jean Jaurès",
+        "note": 3.8,
+        "avis": 1,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "7985348063100237310",
+        "nom": "Sports center of Courtilles",
+        "slug": "sports-center-of-courtilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 All. Pierre de Coubertin",
+        "note": 3.9,
+        "avis": 25,
+        "type": "Sports complex"
+      },
+      {
+        "id": "1517063306368127989",
+        "nom": "Recrea",
+        "slug": "recrea",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "30 Rue Jean Jaurès",
+        "note": 4.3,
+        "avis": 30,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "17264663657173240057",
+        "nom": "Aquatic Center Levallois",
+        "slug": "aquatic-center-levallois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15 Rue Raspail",
+        "note": 4.1,
+        "avis": 1,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "bagneux": {
+    "artisans": [
+      {
+        "id": "2475439247181350389",
+        "nom": "Piscine Municipale de Bagneux",
+        "slug": "piscine-municipale-de-bagneux",
+        "telephone": "+33 1 86 63 14 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 503,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "15049775427427209896",
+        "nom": "Karine Massage Piscine Bagneux",
+        "slug": "karine-massage-piscine-bagneux",
+        "telephone": "+33 6 11 15 73 51",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Wellness center"
+      }
+    ]
+  },
+  "boulogne-billancourt": {
+    "artisans": [
+      {
+        "id": "7259920001288425598",
+        "nom": "Piscine de Boulogne-Billancourt",
+        "slug": "piscine-de-boulogne-billancourt",
+        "telephone": "+33 1 46 08 09 09",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 2,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5434392942154603717",
+        "nom": "Aqua by - Boulogne",
+        "slug": "aqua-by-boulogne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "28 Rue du Fief",
+        "note": 4.9,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "8800268227774935168",
+        "nom": "La Piscine Brasserie",
+        "slug": "la-piscine-brasserie",
+        "telephone": "+33 1 41 31 34 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 136,
+        "type": "Restaurant"
+      },
+      {
+        "id": "994852488348160011",
+        "nom": "Swim Stars | Boulogne-Billancourt",
+        "slug": "swim-stars-boulogne-billancourt",
+        "telephone": "+33 6 11 39 57 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 43,
+        "type": "Swimming school"
+      },
+      {
+        "id": "8492452145252818674",
+        "nom": "Alizés Concept Piscines",
+        "slug": "alizes-concept-piscines",
+        "telephone": "+33 6 96 83 12 28",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "chatenay-malabry": {
+    "artisans": [
+      {
+        "id": "769604383502448189",
+        "nom": "Piscines Freedom Paris",
+        "slug": "piscines-freedom-paris",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châtenay-Malabry, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "chaville": {
+    "artisans": [
+      {
+        "id": "2526550298761701204",
+        "nom": "Sports center Alphonse Halimi.",
+        "slug": "sports-center-alphonse-halimi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chaville, France",
+        "note": 3.9,
+        "avis": 38,
+        "type": "Sports complex"
+      },
+      {
+        "id": "7929468773960783091",
+        "nom": "Paysagiste 92 - Céline Bertin",
+        "slug": "paysagiste-92-celine-bertin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chaville, France",
+        "note": 5,
+        "avis": 16,
+        "type": "Landscape architect"
+      }
+    ]
+  },
+  "clamart": {
+    "artisans": [
+      {
+        "id": "16999095429769639073",
+        "nom": "Pool Clamart",
+        "slug": "pool-clamart",
+        "telephone": "+33 1 86 63 14 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 1,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "15756535884524761149",
+        "nom": "Spa Alina Paris",
+        "slug": "spa-alina-paris",
+        "telephone": "+33 4 86 68 80 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 18,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "8755314657342527059",
+        "nom": "Aquazena",
+        "slug": "aquazena",
+        "telephone": "+33 1 46 29 93 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 559,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "3084927123940862095",
+        "nom": "Clamart Natation 92",
+        "slug": "clamart-natation-92",
+        "telephone": "+33 1 46 30 12 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 22,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "clichy": {
+    "artisans": [
+      {
+        "id": "3693839676277164420",
+        "nom": "Piscine municipale de Clichy",
+        "slug": "piscine-municipale-de-clichy",
+        "telephone": "+33 1 47 15 96 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 444,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "70427738743000264",
+        "nom": "C.s Clichy 92 Natation",
+        "slug": "cs-clichy-92-natation",
+        "telephone": "+33 1 47 15 96 93",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 20,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "colombes": {
+    "artisans": [
+      {
+        "id": "17591284286619888848",
+        "nom": "Piscine Claude Chedal-Anglay",
+        "slug": "piscine-claude-chedal-anglay",
+        "telephone": "+33 1 72 42 45 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 199,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "14541610129667901222",
+        "nom": "The Spot 92",
+        "slug": "the-spot-92",
+        "telephone": "+33 6 03 70 24 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 102,
+        "type": "Event planner"
+      },
+      {
+        "id": "5347247202889687686",
+        "nom": "Piscine Municipale de Courbevoie",
+        "slug": "piscine-municipale-de-courbevoie",
+        "telephone": "+33 1 80 03 60 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 760,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "11355320986666094814",
+        "nom": "Colombes Natation",
+        "slug": "colombes-natation",
+        "telephone": "+33 6 49 50 19 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.8,
+        "avis": 25,
+        "type": "Swim club"
+      },
+      {
+        "id": "13618207948839320665",
+        "nom": "Olympic Garennois Natation Snc",
+        "slug": "olympic-garennois-natation-snc",
+        "telephone": "+33 1 47 60 01 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 25,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "courbevoie": {
+    "artisans": [
+      {
+        "id": "16201071548439338231",
+        "nom": "Night Swim",
+        "slug": "night-swim",
+        "telephone": "+33 6 74 90 08 02",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 33,
+        "type": "Sporting goods store"
+      },
+      {
+        "id": "34478353517495927",
+        "nom": "Centre Commercial Charras",
+        "slug": "centre-commercial-charras",
+        "telephone": "+33 1 47 88 05 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.1,
+        "avis": 1,
+        "type": "Shopping mall"
+      },
+      {
+        "id": "17432948657182991804",
+        "nom": "Kinésithérapie Balnéo Borghèse",
+        "slug": "kinesitherapie-balneo-borghese",
+        "telephone": "+33 1 75 61 88 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 93,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "fontenay-aux-roses": {
+    "artisans": [
+      {
+        "id": "4419852516217318648",
+        "nom": "Piscine de Fontenay-aux-Roses",
+        "slug": "piscine-de-fontenay-aux-roses",
+        "telephone": "+33 1 86 63 13 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 177,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5611092264132407184",
+        "nom": "Aquamomento",
+        "slug": "aquamomento",
+        "telephone": "+33 1 41 87 06 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 79,
+        "type": "Medical spa"
+      }
+    ]
+  },
+  "garches": {
+    "artisans": [
+      {
+        "id": "7299424738746458292",
+        "nom": "Piscine de Garches",
+        "slug": "piscine-de-garches",
+        "telephone": "+33 1 47 95 66 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 289,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "15421437146146234081",
+        "nom": "Appartement, piscine, Garches",
+        "slug": "appartement-piscine-garches",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "gennevilliers": {
+    "artisans": [
+      {
+        "id": "8539553029231665524",
+        "nom": "Centre nautique",
+        "slug": "centre-nautique",
+        "telephone": "+33 1 40 85 48 00",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      },
+      {
+        "id": "1335244091338044221",
+        "nom": "Piscine Alice-Milliat",
+        "slug": "piscine-alice-milliat",
+        "telephone": "+33 1 47 98 18 63",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "issy-les-moulineaux": {
+    "artisans": [
+      {
+        "id": "9859026944243076729",
+        "nom": "Alfred Sevestre Pool",
+        "slug": "alfred-sevestre-pool",
+        "telephone": "+33 1 40 93 04 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 691,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "4522693846549416334",
+        "nom": "Piscine Roger Aveneau",
+        "slug": "piscine-roger-aveneau",
+        "telephone": "+33 1 87 42 81 18",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 337,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "malakoff": {
+    "artisans": [
+      {
+        "id": "7153054366273671197",
+        "nom": "Sarl Mission Piscine & Collectivo",
+        "slug": "sarl-mission-piscine-collectivo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Malakoff, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "marnes-la-coquette": {
+    "artisans": [
+      {
+        "id": "14183671186069251634",
+        "nom": "Piscine de Ville-d'Avray",
+        "slug": "piscine-de-ville-d-avray",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ville-d'Avray, France",
+        "note": 4,
+        "avis": 64,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "4177329278325759308",
+        "nom": "Forest Hill - La Marche",
+        "slug": "forest-hill-la-marche",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marnes-la-Coquette, France",
+        "note": 3,
+        "avis": 293,
+        "type": "Fitness center"
+      },
+      {
+        "id": "16519207676589087008",
+        "nom": "La petite maison coquette",
+        "slug": "la-petite-maison-coquette",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marnes-la-Coquette, France",
+        "note": 4,
+        "avis": 42,
+        "type": "Wellness center"
+      }
+    ]
+  },
+  "meudon": {
+    "artisans": [
+      {
+        "id": "15305805835985147499",
+        "nom": "Piscine Guy Bey",
+        "slug": "piscine-guy-bey",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Meudon, France",
+        "note": 3.4,
+        "avis": 105,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "4106385905722831093",
+        "nom": "Piscines Et Jardins",
+        "slug": "piscines-et-jardins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Meudon, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "montrouge": {
+    "artisans": [
+      {
+        "id": "14050316553522989026",
+        "nom": "Aquapol",
+        "slug": "aquapol",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montrouge, France",
+        "note": 3.8,
+        "avis": 909,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "14843693741306246352",
+        "nom": "Egocentrik Center AQUABIKE coached",
+        "slug": "egocentrik-center-aquabike-coached",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montrouge, France",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5013895208813103323",
+        "nom": "Swim Stars I Montrouge",
+        "slug": "swim-stars-i-montrouge",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montrouge, France",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Swimming school"
+      }
+    ]
+  },
+  "nanterre": {
+    "artisans": [
+      {
+        "id": "9108890014244182204",
+        "nom": "Piscine du Palais des sports Maurice-Thorez",
+        "slug": "piscine-du-palais-des-sports-maurice-thorez",
+        "telephone": null,
+        "site_web": "https://www.nanterre.fr/annuaires/equipements/detail/piscine-du-palais-des-sports",
+        "adresse": "136 Av. Frederic et Irene Joliot Curie",
+        "note": 4.1,
+        "avis": 784,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "15145790527457212509",
+        "nom": "Showroom Jacuzzi France",
+        "slug": "showroom-jacuzzi-france",
+        "telephone": null,
+        "site_web": "https://jacuzzi.fr/",
+        "adresse": "61 bis Av. du Maréchal Joffre",
+        "note": 4.5,
+        "avis": 69,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "9951893062810434650",
+        "nom": "Piscine Université Paris Nanterre",
+        "slug": "piscine-universite-paris-nanterre",
+        "telephone": null,
+        "site_web": "https://suaps.parisnanterre.fr/la-piscine",
+        "adresse": "200 Av. de la République",
+        "note": 4.2,
+        "avis": 124,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "1000382159254791440",
+        "nom": "Aquatic Center Arsenal",
+        "slug": "aquatic-center-arsenal",
+        "telephone": null,
+        "site_web": "https://www.centreaquatiquearsenal.fr/",
+        "adresse": "43 Rue Voltaire",
+        "note": 3.8,
+        "avis": 914,
+        "type": "Sports complex"
+      },
+      {
+        "id": "14403115062967096173",
+        "nom": "Sports Palace",
+        "slug": "sports-palace",
+        "telephone": null,
+        "site_web": "https://www.nanterre92.com/partenaires/pratique/acces-palais-des-sports/",
+        "adresse": "136 Av. Frederic et Irene Joliot Curie",
+        "note": 4.4,
+        "avis": 690,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5798708375115607881",
+        "nom": "HPA Plus Débouchage Hydrocurage Pompage Assainissement",
+        "slug": "hpa-plus-debouchage-hydrocurage-pompage-assainissement",
+        "telephone": null,
+        "site_web": "https://hpaplus.fr/",
+        "adresse": "53 Rue des Suisses",
+        "note": 4.8,
+        "avis": 307,
+        "type": "Sanitation service"
+      },
+      {
+        "id": "2270527548124448225",
+        "nom": "Spa Arzana",
+        "slug": "spa-arzana",
+        "telephone": null,
+        "site_web": "https://www.spa-arzana.fr/",
+        "adresse": "43 Rue Voltaire",
+        "note": 3.6,
+        "avis": 531,
+        "type": "Spa"
+      },
+      {
+        "id": "8763401200811874589",
+        "nom": "Leroy Merlin Nanterre",
+        "slug": "leroy-merlin-nanterre",
+        "telephone": null,
+        "site_web": "https://www.leroymerlin.fr/magasins/nanterre.html",
+        "adresse": "140 Rue de Sartrouville",
+        "note": 3.9,
+        "avis": 5,
+        "type": "Do-it-yourself shop"
+      },
+      {
+        "id": "4281191049479968131",
+        "nom": "ESN BÉBÉS NAGEURS",
+        "slug": "esn-bebes-nageurs",
+        "telephone": null,
+        "site_web": "https://www.esnanterre.com/bebe-nageurs/",
+        "adresse": "All. des Marronniers",
+        "note": 1,
+        "avis": 3,
+        "type": "Swim club"
+      },
+      {
+        "id": "17435778193034571690",
+        "nom": "Piscine Paul Vaillant Couturier",
+        "slug": "piscine-paul-vaillant-couturier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "All. des Marronniers",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "neuilly-sur-seine": {
+    "artisans": [
+      {
+        "id": "1638014975154181223",
+        "nom": "La Piscine Neuilly Multisports",
+        "slug": "la-piscine-neuilly-multisports",
+        "telephone": "+33 1 55 62 62 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 1,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "15018221556206119230",
+        "nom": "CIFEC",
+        "slug": "cifec",
+        "telephone": "+33 1 46 40 49 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "puteaux": {
+    "artisans": [
+      {
+        "id": "3737893049391793322",
+        "nom": "Palais des Sports de Puteaux",
+        "slug": "palais-des-sports-de-puteaux",
+        "telephone": "+33 1 46 25 03 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 1,
+        "type": "Sports complex"
+      },
+      {
+        "id": "436987114981312603",
+        "nom": "Piscine Marius Jacotot",
+        "slug": "piscine-marius-jacotot",
+        "telephone": "+33 1 55 23 03 22",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5918677461886129493",
+        "nom": "Ax'eau",
+        "slug": "ax-eau",
+        "telephone": "+33 1 86 95 70 38",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 48,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "8394697578489142438",
+        "nom": "Puteaux Plongée",
+        "slug": "puteaux-plongee",
+        "telephone": "+33 1 40 90 93 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Dive club"
+      }
+    ]
+  },
+  "sceaux": {
+    "artisans": [
+      {
+        "id": "12866612755171448897",
+        "nom": "Sports de la Grenouillère State Park",
+        "slug": "sports-de-la-grenouillere-state-park",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "148 Av. du Général de Gaulle",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Park"
+      },
+      {
+        "id": "7177570204799476095",
+        "nom": "Pisciniste Piscine Jacuzzi Spa Hammam Sauna: Agence H2o WellnesS Spa Haut de Gamme",
+        "slug": "pisciniste-piscine-jacuzzi-spa-hammam-sauna-agence-h2o-wellness-spa-haut-de-gamme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Pond contractor"
+      }
+    ]
+  },
+  "sevres": {
+    "artisans": [
+      {
+        "id": "554477339303171959",
+        "nom": "Piscine de Sèvres",
+        "slug": "piscine-de-sevres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sèvres, France",
+        "note": 4.2,
+        "avis": 399,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "suresnes": {
+    "artisans": [
+      {
+        "id": "13280484503922559199",
+        "nom": "Raguidelles swimming pool",
+        "slug": "raguidelles-swimming-pool",
+        "telephone": "+33 1 41 18 38 39",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 408,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "1868083714521939310",
+        "nom": "Swim Stars The Suresnes",
+        "slug": "swim-stars-the-suresnes",
+        "telephone": "+33 1 87 66 90 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 88,
+        "type": "Swimming school"
+      },
+      {
+        "id": "15753862524488224422",
+        "nom": "Equalia",
+        "slug": "equalia",
+        "telephone": "+33 1 41 06 52 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 20,
+        "type": "Corporate office"
+      }
+    ]
+  },
+  "vanves": {
+    "artisans": [
+      {
+        "id": "14576423701837281775",
+        "nom": "Jean Royer: Reeducation Center and Swimming Pool",
+        "slug": "jean-royer-reeducation-center-and-swimming-pool",
+        "telephone": "+33 1 46 44 33 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 116,
+        "type": "Physical therapist"
+      },
+      {
+        "id": "5064637859260618624",
+        "nom": "Swim Stars | Vanves",
+        "slug": "swim-stars-vanves",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Bd du Lycée",
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming school"
+      },
+      {
+        "id": "17532731171864113971",
+        "nom": "Stade de Vanves Swimming",
+        "slug": "stade-de-vanves-swimming",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12 Rue Larmeroux",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Swim club"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2051 @@
+{
+  "plouhinec": {
+    "artisans": [
+      {
+        "id": "490901065046295219",
+        "nom": "Pools Jms / spirit the pool - Lorient",
+        "slug": "pools-jms-spirit-the-pool-lorient",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baud, France",
+        "note": 4.3,
+        "avis": 66,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "517475686557275710",
+        "nom": "GO Piscines - Pisciniste, installation piscine - VANNES -",
+        "slug": "go-piscines-pisciniste-installation-piscine-vannes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploeren, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15665267390003565167",
+        "nom": "Ker'Bomat Paysagiste - piscine- spa- spa de nage - entretien",
+        "slug": "ker-bomat-paysagiste-piscine-spa-spa-de-nage-entretien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Belz, France",
+        "note": 4.6,
+        "avis": 65,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8802479973551762390",
+        "nom": "Villa groix",
+        "slug": "villa-groix",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plouhinec, France",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Lodging"
+      }
+    ]
+  },
+  "allaire": {
+    "artisans": [
+      {
+        "id": "13167325846572384385",
+        "nom": "Tendance Piscines et Jardins",
+        "slug": "tendance-piscines-et-jardins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Allaire, France",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "arradon": {
+    "artisans": [
+      {
+        "id": "8299540982181435193",
+        "nom": "Piscines de France - Pisciniste Baden - Construction de piscine (56 et 22)",
+        "slug": "piscines-de-france-pisciniste-baden-construction-de-piscine-56-et-22",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baden, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13138170110485582800",
+        "nom": "Bleu Atlantic",
+        "slug": "bleu-atlantic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploeren, France",
+        "note": 4.2,
+        "avis": 32,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "arzal": {
+    "artisans": [
+      {
+        "id": "9977481511201068824",
+        "nom": "LB Piscines",
+        "slug": "lb-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Péaule, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "arzon": {
+    "artisans": [
+      {
+        "id": "15508334767203470479",
+        "nom": "Beaches, pool and relax for 8 people - Arzon",
+        "slug": "beaches-pool-and-relax-for-8-people-arzon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "7220078033436183284",
+        "nom": "REF 026 Maison moderne avec belles prestations piscine et jacuzzi à Arzon",
+        "slug": "ref-026-maison-moderne-avec-belles-prestations-piscine-et-jacuzzi-a-arzon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "17053796732874071926",
+        "nom": "Relaxation and harbour views in Arzon - Pool",
+        "slug": "relaxation-and-harbour-views-in-arzon-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "5067986115866300241",
+        "nom": "RIVIERA, Appartement T3 avec piscine et terrasse Arzon",
+        "slug": "riviera-appartement-t3-avec-piscine-et-terrasse-arzon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "770688165828034775",
+        "nom": "REF 042 Appartement T2 avec balcon et piscine Arzon",
+        "slug": "ref-042-appartement-t2-avec-balcon-et-piscine-arzon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "8691026459675950759",
+        "nom": "Cabinet de Conseil et Expertise Piscine",
+        "slug": "cabinet-de-conseil-et-expertise-piscine",
+        "telephone": "+33 6 22 97 83 43",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "augan": {
+    "artisans": [
+      {
+        "id": "13571387616741089851",
+        "nom": "PISCINES & SPAS PAR DAVID PAYSAGE - VANNES - PLOEREN",
+        "slug": "piscines-spas-par-david-paysage-vannes-ploeren",
+        "telephone": null,
+        "site_web": "https://www.piscines-spas.bzh/",
+        "adresse": "Ploeren, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "10810426323284462352",
+        "nom": "Bretagne loisirs",
+        "slug": "bretagne-loisirs",
+        "telephone": null,
+        "site_web": "https://640ef15dc3a48.site123.me/",
+        "adresse": "Ploërmel, France",
+        "note": 4,
+        "avis": 4,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "auray": {
+    "artisans": [
+      {
+        "id": "14230948547300204523",
+        "nom": "Piscines Jms / l'esprit piscine - Vannes",
+        "slug": "piscines-jms-l-esprit-piscine-vannes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Auray, France",
+        "note": 4.7,
+        "avis": 53,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "7500603196208474731",
+        "nom": "Aquatic Center Alre'O",
+        "slug": "aquatic-center-alre-o",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Auray, France",
+        "note": 4,
+        "avis": 834,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "berric": {
+    "artisans": [
+      {
+        "id": "10664698984778479857",
+        "nom": "Nat' à Plouf",
+        "slug": "nat-a-plouf",
+        "telephone": "+33 6 61 59 87 64",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 52,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "billiers": {
+    "artisans": [
+      {
+        "id": "10312780287886151305",
+        "nom": "Maitrise Piscine",
+        "slug": "maitrise-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Muzillac, France",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "17529774538917223612",
+        "nom": "Habitat Garden Pool",
+        "slug": "habitat-garden-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Muzillac, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "branderion": {
+    "artisans": [
+      {
+        "id": "10396619369529107949",
+        "nom": "Irripiscine by Irrijardin Caudan Lorient",
+        "slug": "irripiscine-by-irrijardin-caudan-lorient",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Caudan, France",
+        "note": 4.4,
+        "avis": 39,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6337106290460099930",
+        "nom": "TOULLIOU - Pisciniste Paysagiste - Mondial Piscine",
+        "slug": "toulliou-pisciniste-paysagiste-mondial-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lorient, France",
+        "note": 4.3,
+        "avis": 53,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "calan": {
+    "artisans": [
+      {
+        "id": "15705773331308865658",
+        "nom": "PISCIMA",
+        "slug": "piscima",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Annaba",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "camoel": {
+    "artisans": [
+      {
+        "id": "3200766238444226111",
+        "nom": "LES LOGIS DE L'ESTUAIRE",
+        "slug": "les-logis-de-l-estuaire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Camoël, France",
+        "note": 4.3,
+        "avis": 91,
+        "type": "Cottage"
+      }
+    ]
+  },
+  "camors": {
+    "artisans": [
+      {
+        "id": "12147738721764235628",
+        "nom": "Piscine Intercommunale",
+        "slug": "piscine-intercommunale",
+        "telephone": "+33 2 97 51 08 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 69,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "carnac": {
+    "artisans": [
+      {
+        "id": "10344950748368223084",
+        "nom": "SARL KERGOZIEN",
+        "slug": "sarl-kergozien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Carnac, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17667376702875839062",
+        "nom": "Duplex in Carnac - 2BR - Pool Access - Near Beach - Sleeps 6",
+        "slug": "duplex-in-carnac-2br-pool-access-near-beach-sleeps-6",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "7258085775631089921",
+        "nom": "Carnac: 3-room duplex with heated pool access, 4 ppl.",
+        "slug": "carnac-3-room-duplex-with-heated-pool-access-4-ppl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "4117939623462220707",
+        "nom": "Maison cosy à Carnac - 3 pièces, Wifi, piscine chauffée, proche plage, commerces et parking inclus - FR-1-477-207",
+        "slug": "maison-cosy-a-carnac-3-pieces-wifi-piscine-chauffee-proche-plage-commerces-et-parking-inclus-fr-1-477-207",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "crach": {
+    "artisans": [
+      {
+        "id": "7060103964463526881",
+        "nom": "DAVID PAYSAGE PISCINE - SPA - AURAY - CRAC'H",
+        "slug": "david-paysage-piscine-spa-auray-crac-h",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Crac'h, France",
+        "note": 4.1,
+        "avis": 51,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "damgan": {
+    "artisans": [
+      {
+        "id": "2590973102982441387",
+        "nom": "DAVID PAYSAGE PISCINE - SPA - DAMGAN",
+        "slug": "david-paysage-piscine-spa-damgan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Damgan, France",
+        "note": 4.4,
+        "avis": 44,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "elven": {
+    "artisans": [
+      {
+        "id": "12115824715603632482",
+        "nom": "ARTISAN PISCINISTE",
+        "slug": "artisan-pisciniste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Elven, France",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "erdeven": {
+    "artisans": [
+      {
+        "id": "14572432768116943477",
+        "nom": "Sinister 7 Ultra",
+        "slug": "sinister-7-ultra",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13019 20 Ave",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Racecourse"
+      }
+    ]
+  },
+  "le-faouet": {
+    "artisans": [
+      {
+        "id": "13532938587720509954",
+        "nom": "Centre Aquatique Kan an Dour",
+        "slug": "centre-aquatique-kan-an-dour",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Faouët, France",
+        "note": 4,
+        "avis": 164,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "8804482997731647699",
+        "nom": "Le gîte de la Marion et sa piscine intérieure chauffée (13 couchages - Bretagne - Morbihan)",
+        "slug": "le-gite-de-la-marion-et-sa-piscine-interieure-chauffee-13-couchages-bretagne-morbihan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Priziac, France",
+        "note": 5,
+        "avis": 20,
+        "type": "Cottage"
+      },
+      {
+        "id": "6287328597291733562",
+        "nom": "Ancienne piscine plein air",
+        "slug": "ancienne-piscine-plein-air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Faouët, France",
+        "note": null,
+        "avis": null,
+        "type": "Playground"
+      }
+    ]
+  },
+  "gourin": {
+    "artisans": [
+      {
+        "id": "17399551763365583112",
+        "nom": "Piscine de Gourin",
+        "slug": "piscine-de-gourin",
+        "telephone": "+33 2 97 23 40 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 49,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5135064863700661667",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 2 97 23 42 74",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "grand-champ": {
+    "artisans": [
+      {
+        "id": "6311332471557530935",
+        "nom": "Pool Loch",
+        "slug": "pool-loch",
+        "telephone": null,
+        "site_web": "https://www.golfedumorbihan-vannesagglomeration.bzh/espacesaquatiques",
+        "adresse": "Grand-Champ, France",
+        "note": 4.3,
+        "avis": 252,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "groix": {
+    "artisans": [
+      {
+        "id": "11706983179244055972",
+        "nom": "Villa Garance et Métisse Île et villas Groix Site Officiel",
+        "slug": "villa-garance-et-metisse-ile-et-villas-groix-site-officiel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Groix, France",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Hotel"
+      },
+      {
+        "id": "2995738058372242093",
+        "nom": "Hôtel Ty Mad Groix & Restaurant & Piscine, face au Port",
+        "slug": "hotel-ty-mad-groix-restaurant-piscine-face-au-port",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Groix, France",
+        "note": 4.4,
+        "avis": 324,
+        "type": "Hotel"
+      },
+      {
+        "id": "2131396749272629853",
+        "nom": "Villa Métisse with neat decoration and great comfort",
+        "slug": "villa-metisse-with-neat-decoration-and-great-comfort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "guidel": {
+    "artisans": [
+      {
+        "id": "9295047010442525289",
+        "nom": "Fit-Océa pool Guidel",
+        "slug": "fit-ocea-pool-guidel",
+        "telephone": null,
+        "site_web": "http://www.fitocea.fr/",
+        "adresse": "Guidel, France",
+        "note": 4.1,
+        "avis": 122,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "9028625769401837421",
+        "nom": "Piscine privée du Club Belambra",
+        "slug": "piscine-privee-du-club-belambra",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guidel, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "16174673638486780139",
+        "nom": "ADS TERRASSEMENT & ENROBÉ , MAÇONNERIE,PISCINE & AMÉNAGEMENT,TP",
+        "slug": "ads-terrassement-enrobe-maconneriepiscine-amenagementtp",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/15sgYNQeBc/",
+        "adresse": "Guidel, France",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Earth works company"
+      },
+      {
+        "id": "12390924697036902722",
+        "nom": "Spa Fleur de Sel - Guidel",
+        "slug": "spa-fleur-de-sel-guidel",
+        "telephone": null,
+        "site_web": "https://www.planity.com/spa-fleur-de-sel-guidel-56520",
+        "adresse": "Guidel, France",
+        "note": 3.7,
+        "avis": 119,
+        "type": "Spa"
+      },
+      {
+        "id": "14400312947770802613",
+        "nom": "Luxury ! Villa d’architecte piscine - Vue mer 180°",
+        "slug": "luxury-villa-darchitecte-piscine-vue-mer-180",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guidel, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "66935762131924989",
+        "nom": "Luxury ! Villa d’architecte piscine - Vue mer 180",
+        "slug": "luxury-villa-darchitecte-piscine-vue-mer-180",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guidel, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "11164262833552295279",
+        "nom": "Grand studio Les Gwénans Guidel Piscine",
+        "slug": "grand-studio-les-gwenans-guidel-piscine",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/627d252edf4f49af9b343373?dest=bkng&cat=Apartment&lat=47.77152&lng=-3.51801&language=pt",
+        "adresse": "Guidel, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "15991581248426735564",
+        "nom": "Toulliou environnement",
+        "slug": "toulliou-environnement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guidel, France",
+        "note": null,
+        "avis": null,
+        "type": "Warehouse"
+      },
+      {
+        "id": "16433671505299993112",
+        "nom": "Apartment in Guidel, pool.",
+        "slug": "apartment-in-guidel-pool",
+        "telephone": null,
+        "site_web": "https://travel.homerez.com/da/book/79297262/property",
+        "adresse": "Guidel, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "12297727317903172902",
+        "nom": "GUIDEL-PLAGES Studio Lumineux Balcon Vue Mer Piscine",
+        "slug": "guidel-plages-studio-lumineux-balcon-vue-mer-piscine",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/64c8d11aa1247fa35c62fd41?dest=bkng&cat=House&lat=47.77152&lng=-3.51868&language=pt",
+        "adresse": "Guidel, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "10066916824151637169",
+        "nom": "Aquilus Piscines et Spas Lorient",
+        "slug": "aquilus-piscines-et-spas-lorient",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guidel, France",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "guiscriff": {
+    "artisans": [
+      {
+        "id": "8251557146230941922",
+        "nom": "Gîte Moulin la Salmonière 22 personnes (Grand gîte de groupe piscine Bretagne)",
+        "slug": "gite-moulin-la-salmoniere-22-personnes-grand-gite-de-groupe-piscine-bretagne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guiscriff, France",
+        "note": 4.5,
+        "avis": 47,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "hennebont": {
+    "artisans": [
+      {
+        "id": "8580626503995887116",
+        "nom": "Renov piscine",
+        "slug": "renov-piscine",
+        "telephone": "+33 6 40 45 10 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13051525977009476119",
+        "nom": "Complexe Aquatique de Kerbihan",
+        "slug": "complexe-aquatique-de-kerbihan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hennebont, France",
+        "note": 3.8,
+        "avis": 379,
+        "type": "Aquatic centre"
+      }
+    ]
+  },
+  "josselin": {
+    "artisans": [
+      {
+        "id": "2752709928764879797",
+        "nom": "Stade et Complexe Sportif de Josselin",
+        "slug": "stade-et-complexe-sportif-de-josselin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Josselin, France",
+        "note": 4.3,
+        "avis": 75,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "kervignac": {
+    "artisans": [
+      {
+        "id": "3026710983497825826",
+        "nom": "Nature Création",
+        "slug": "nature-creation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Kervignac, France",
+        "note": 4.6,
+        "avis": 42,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "lanester": {
+    "artisans": [
+      {
+        "id": "2276996175372897686",
+        "nom": "Piscines Bago",
+        "slug": "piscines-bago",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lanester, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2960170541947134946",
+        "nom": "Aqualane's Edge Du Scorff",
+        "slug": "aqualane-s-edge-du-scorff",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lanester, France",
+        "note": 4,
+        "avis": 95,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "8547553491079737422",
+        "nom": "Aqua Breizh",
+        "slug": "aqua-breizh",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lanester, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "forges-de-lanouee": {
+    "artisans": [
+      {
+        "id": "1575365175802787583",
+        "nom": "Gîte Du Moulin",
+        "slug": "gite-du-moulin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Forges de Lanouée, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Cottage"
+      }
+    ]
+  },
+  "larmor-plage": {
+    "artisans": [
+      {
+        "id": "17578543355550368453",
+        "nom": "DAVID PAYSAGE PISCINE - SPA - LORIENT - PLOEMEUR",
+        "slug": "david-paysage-piscine-spa-lorient-ploemeur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemeur, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "4753723678489355065",
+        "nom": "Chambre avec accès piscine intérieure",
+        "slug": "chambre-avec-acces-piscine-interieure",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Larmor-Plage, France",
+        "note": 4.1,
+        "avis": 10,
+        "type": "Bed & breakfast"
+      },
+      {
+        "id": "216211414709347808",
+        "nom": "Maison Piscine Face à la mer",
+        "slug": "maison-piscine-face-a-la-mer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "lauzach": {
+    "artisans": [
+      {
+        "id": "12254045518664174883",
+        "nom": "Pool Beau Soleil",
+        "slug": "pool-beau-soleil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Questembert, France",
+        "note": 4.3,
+        "avis": 454,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "locmaria-grand-champ": {
+    "artisans": [
+      {
+        "id": "5819456964879115917",
+        "nom": "Les gîtes de Lério",
+        "slug": "les-gites-de-lerio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Locmaria-Grand-Champ, France",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Cottage rental"
+      }
+    ]
+  },
+  "locmine": {
+    "artisans": [
+      {
+        "id": "8682124711926138290",
+        "nom": "Aquatic Center Aqua'lud - Locmine",
+        "slug": "aquatic-center-aqua-lud-locmine",
+        "telephone": "+33 2 97 69 21 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 411,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "malansac": {
+    "artisans": [
+      {
+        "id": "16285207915711533456",
+        "nom": "RYO ETS",
+        "slug": "ryo-ets",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Malansac, France",
+        "note": 4,
+        "avis": 16,
+        "type": "Bathroom remodeler"
+      },
+      {
+        "id": "81200679982967093",
+        "nom": "JARDI'Tech",
+        "slug": "jardi-tech",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7+ years in business",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "malestroit": {
+    "artisans": [
+      {
+        "id": "7211336824508394098",
+        "nom": "Aquatic Area De L'oust",
+        "slug": "aquatic-area-de-l-oust",
+        "telephone": "+33 2 79 41 00 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 100,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "malguenac": {
+    "artisans": [
+      {
+        "id": "16223698467423411874",
+        "nom": "Le Mezo Paysage",
+        "slug": "le-mezo-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pontivy, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Landscaper"
+      },
+      {
+        "id": "4127575172559431427",
+        "nom": "La plage",
+        "slug": "la-plage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pontivy, France",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "marzan": {
+    "artisans": [
+      {
+        "id": "10880850956385217555",
+        "nom": "Gîte du Moulin",
+        "slug": "gite-du-moulin",
+        "telephone": "+33 6 43 71 89 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Lodge"
+      }
+    ]
+  },
+  "meucon": {
+    "artisans": [
+      {
+        "id": "14960420642581924821",
+        "nom": "Passion Spa : Magasin de Spa, Hammam, Sauna - Showroom à Vannes",
+        "slug": "passion-spa-magasin-de-spa-hammam-sauna-showroom-a-vannes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Avé, France",
+        "note": 4.9,
+        "avis": 38,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "monterblanc": {
+    "artisans": [
+      {
+        "id": "737005476856837261",
+        "nom": "Poolscan - Recherche de fuites sur piscines",
+        "slug": "poolscan-recherche-de-fuites-sur-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plaudren, France",
+        "note": 5,
+        "avis": 19,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "15873781408120955717",
+        "nom": "Camping 4 étoiles Les Jardins du Morbihan",
+        "slug": "camping-4-etoiles-les-jardins-du-morbihan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monterblanc, France",
+        "note": 3.4,
+        "avis": 484,
+        "type": "Campground"
+      },
+      {
+        "id": "13287847497581850449",
+        "nom": "Camping du Haras",
+        "slug": "camping-du-haras",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monterblanc, France",
+        "note": 3.1,
+        "avis": 734,
+        "type": "Campground"
+      },
+      {
+        "id": "7739955836406262130",
+        "nom": "Maison d'hôtes du Domaine de Coët Bihan",
+        "slug": "maison-d-hotes-du-domaine-de-coet-bihan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Monterblanc, France",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Bed & breakfast"
+      }
+    ]
+  },
+  "neulliac": {
+    "artisans": [
+      {
+        "id": "5098362015527219851",
+        "nom": "Cômelô piscine",
+        "slug": "comelo-piscine",
+        "telephone": "+33 6 47 52 14 60",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "nivillac": {
+    "artisans": [
+      {
+        "id": "11013011493806754067",
+        "nom": "Pool of Métairies in Nivillac",
+        "slug": "pool-of-metairies-in-nivillac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nivillac, France",
+        "note": 4.1,
+        "avis": 150,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "830023404719632472",
+        "nom": "Les Gars des Eaux",
+        "slug": "les-gars-des-eaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nivillac, France",
+        "note": 4.3,
+        "avis": 458,
+        "type": "Plumber"
+      },
+      {
+        "id": "596635447637525969",
+        "nom": "Communauté de Communes",
+        "slug": "communaute-de-communes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nivillac, France",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "noyal-pontivy": {
+    "artisans": [
+      {
+        "id": "8987686862171058864",
+        "nom": "Spadium de Pontivy",
+        "slug": "spadium-de-pontivy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pontivy, France",
+        "note": 4.2,
+        "avis": 817,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "peillac": {
+    "artisans": [
+      {
+        "id": "8198711979157769495",
+        "nom": "Piscine intercommunale de Peillac",
+        "slug": "piscine-intercommunale-de-peillac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Peillac, France",
+        "note": 3.5,
+        "avis": 13,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "penestin": {
+    "artisans": [
+      {
+        "id": "12004414109456478866",
+        "nom": "Piscine intérieur et extérieur de Capfun Le Cénic",
+        "slug": "piscine-interieur-et-exterieur-de-capfun-le-cenic",
+        "telephone": null,
+        "site_web": "https://www.capfun.com/",
+        "adresse": "Pénestin, France",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6255512454391311517",
+        "nom": "Piscine zen : Camping Capfun - Cénic",
+        "slug": "piscine-zen-camping-capfun-cenic",
+        "telephone": null,
+        "site_web": "https://www.capfun.com/camping-france-bretagne-cenic-FR.html",
+        "adresse": "Pénestin, France",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "14455555029715914550",
+        "nom": "Penestin - Large detached house with heated pool",
+        "slug": "penestin-large-detached-house-with-heated-pool",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/6811aefba74f8eb5bd2dd0e1?dest=bpex&cat=House&lat=47.47345&lng=-2.46893&language=pt",
+        "adresse": "Pénestin, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "2749297939863352717",
+        "nom": "Naé Vacances - Le Domaine d'Inly",
+        "slug": "nae-vacances-le-domaine-d-inly",
+        "telephone": null,
+        "site_web": "http://www.camping-inly.com/",
+        "adresse": "Pénestin, France",
+        "note": 3.5,
+        "avis": 3,
+        "type": "Holiday park"
+      }
+    ]
+  },
+  "plescop": {
+    "artisans": [
+      {
+        "id": "7634465815247362793",
+        "nom": "Swimcenter Vannes Plescop",
+        "slug": "swimcenter-vannes-plescop",
+        "telephone": "+33 2 97 67 54 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 114,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "ploemel": {
+    "artisans": [
+      {
+        "id": "13129201943861141715",
+        "nom": "Le Spa by Dihan",
+        "slug": "le-spa-by-dihan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemel, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Spa"
+      },
+      {
+        "id": "15723362055943635500",
+        "nom": "PHILIPPE LE ROUZIC PAYSAGISTE",
+        "slug": "philippe-le-rouzic-paysagiste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemel, France",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "ploemeur": {
+    "artisans": [
+      {
+        "id": "3770855426494130554",
+        "nom": "Abris Label Bleu",
+        "slug": "abris-label-bleu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemeur, France",
+        "note": 4,
+        "avis": 63,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12315155874052813328",
+        "nom": "Oceanis aquatic complex",
+        "slug": "oceanis-aquatic-complex",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemeur, France",
+        "note": 3.9,
+        "avis": 650,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "3412083076495281354",
+        "nom": "Créa'Paysage Ploemeur",
+        "slug": "crea-paysage-ploemeur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemeur, France",
+        "note": 4.4,
+        "avis": 38,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14868294713786346335",
+        "nom": "TENDANCE JARDIN",
+        "slug": "tendance-jardin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemeur, France",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Landscaper"
+      },
+      {
+        "id": "16399459079403860866",
+        "nom": "Rénoval vérandas, extensions, pergolas et abris de piscine",
+        "slug": "renoval-verandas-extensions-pergolas-et-abris-de-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploemeur, France",
+        "note": null,
+        "avis": null,
+        "type": "Metal workshop"
+      }
+    ]
+  },
+  "ploeren": {
+    "artisans": [
+      {
+        "id": "2704095841838536503",
+        "nom": "Créa'Paysage Ploeren",
+        "slug": "crea-paysage-ploeren",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploeren, France",
+        "note": 4.7,
+        "avis": 20,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "ploermel": {
+    "artisans": [
+      {
+        "id": "761518730895499503",
+        "nom": "Art & Concept Paysagers Ploërmel - Paysagiste Mobilier SPA        ",
+        "slug": "art-concept-paysagers-ploermel-paysagiste-mobilier-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Landscape Gardener",
+        "note": 5,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "4930384110539369915",
+        "nom": "Piscine de Ploërmel",
+        "slug": "piscine-de-ploermel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ploërmel, France",
+        "note": 3.3,
+        "avis": 210,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "plouharnel": {
+    "artisans": [
+      {
+        "id": "9848833665338855745",
+        "nom": "Vital Ocean - Longe Côte - Natation - Aquaphobie/Sophrologie Relaxation Aquatique -",
+        "slug": "vital-ocean-longe-cote-natation-aquaphobiesophrologie-relaxation-aquatique",
+        "telephone": null,
+        "site_web": "https://vitalocean.fr/",
+        "adresse": "Erdeven, France",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Swimming school"
+      },
+      {
+        "id": "2082306724908656455",
+        "nom": "Maison, Gite & Piscine privée: Villa Laurent Vidal, Bretagne, Baie de Quiberon, Carnac, Plages, Morbihan, Bretagne",
+        "slug": "maison-gite-piscine-privee-villa-laurent-vidal-bretagne-baie-de-quiberon-carnac-plages-morbihan-bretagne",
+        "telephone": null,
+        "site_web": "https://lvpdirect.fr/annonce/villa-piscine-laurent-vidal/",
+        "adresse": "Plouharnel, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Cottage"
+      },
+      {
+        "id": "13753415574627032065",
+        "nom": "SELB",
+        "slug": "selb",
+        "telephone": null,
+        "site_web": "http://selb.fr/",
+        "adresse": "Plouharnel, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "plumelec": {
+    "artisans": [
+      {
+        "id": "9429693954893697036",
+        "nom": "Piscine De Plumelec",
+        "slug": "piscine-de-plumelec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plumelec, France",
+        "note": 3.5,
+        "avis": 54,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "plumeliau-bieuzy": {
+    "artisans": [
+      {
+        "id": "5260274930073017286",
+        "nom": "BOUIX PAYSAGE",
+        "slug": "bouix-paysage",
+        "telephone": null,
+        "site_web": "http://www.bouix-paysage.com/",
+        "adresse": "Pluméliau-Bieuzy, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "13337459579078214723",
+        "nom": "Garden Design",
+        "slug": "garden-design",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baud, France",
+        "note": 3.1,
+        "avis": 11,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "plumergat": {
+    "artisans": [
+      {
+        "id": "6127178238414117627",
+        "nom": "Pool Atlantic Swim",
+        "slug": "pool-atlantic-swim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pluneret, France",
+        "note": 4.7,
+        "avis": 86,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "pluvigner": {
+    "artisans": [
+      {
+        "id": "5849804834240984242",
+        "nom": "LOCATIONS Longère de Charme avec piscine chauffée, KERMARIA",
+        "slug": "locations-longere-de-charme-avec-piscine-chauffee-kermaria",
+        "telephone": "+33 6 83 31 82 82",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 3,
+        "type": "Non smoking holiday home"
+      },
+      {
+        "id": "17933115300309345028",
+        "nom": "Le Moulin de Kerdavid",
+        "slug": "le-moulin-de-kerdavid",
+        "telephone": "+33 6 83 93 34 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 63,
+        "type": "Cottage"
+      },
+      {
+        "id": "1484003133366639499",
+        "nom": "Le Manoir du Guern",
+        "slug": "le-manoir-du-guern",
+        "telephone": "+33 6 99 37 24 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 134,
+        "type": "Bed & breakfast"
+      },
+      {
+        "id": "12261567882453945910",
+        "nom": "Yvonnick Prono",
+        "slug": "yvonnick-prono",
+        "telephone": "+33 2 97 06 04 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 12,
+        "type": "Heating equipment supplier"
+      },
+      {
+        "id": "322784932888181165",
+        "nom": "Domaine de Guergaro - Gite Piscine Morbihan",
+        "slug": "domaine-de-guergaro-gite-piscine-morbihan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Guergaro",
+        "note": 4,
+        "avis": 39,
+        "type": "Lodge"
+      },
+      {
+        "id": "6832091564948922846",
+        "nom": "ALP PLAQUISTE",
+        "slug": "alp-plaquiste",
+        "telephone": "+33 6 31 78 78 82",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Plasterer"
+      },
+      {
+        "id": "11503465636373258979",
+        "nom": "Gîte de groupe Bretagne Sud. Domaine des Lauriers. Piscine",
+        "slug": "gite-de-groupe-bretagne-sud-domaine-des-lauriers-piscine",
+        "telephone": "+33 6 73 91 72 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 88,
+        "type": "Hotel"
+      },
+      {
+        "id": "872528374921226989",
+        "nom": "Activities Aquatic Country D'auray.",
+        "slug": "activities-aquatic-country-d-auray",
+        "telephone": "+33 6 13 63 62 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming instructor"
+      },
+      {
+        "id": "10166704742309044483",
+        "nom": "Parking centre aquatique tri-eau",
+        "slug": "parking-centre-aquatique-tri-eau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baud, France",
+        "note": 4,
+        "avis": 12,
+        "type": "Public parking space"
+      }
+    ]
+  },
+  "pontivy": {
+    "artisans": [
+      {
+        "id": "1228189493101302938",
+        "nom": "Espoir Nautique Pontivyen",
+        "slug": "espoir-nautique-pontivyen",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pontivy, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "quiberon": {
+    "artisans": [
+      {
+        "id": "13443533968296830535",
+        "nom": "Pool Neptilude",
+        "slug": "pool-neptilude",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Quiberon, France",
+        "note": 4.4,
+        "avis": 295,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "3488914306462062738",
+        "nom": "QUIBERON Comfortable villa with heated pool, summer 2018!",
+        "slug": "quiberon-comfortable-villa-with-heated-pool-summer-2018",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9994141552032472749",
+        "nom": "Residence Piscine et Plage",
+        "slug": "residence-piscine-et-plage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Quiberon, France",
+        "note": 4.2,
+        "avis": 31,
+        "type": "Lodging"
+      },
+      {
+        "id": "11301250053526901160",
+        "nom": "Studio Apartment 'Au Coeur De Quiberon' with Shared Pool, Balcony and Wi-Fi",
+        "slug": "studio-apartment-au-coeur-de-quiberon-with-shared-pool-balcony-and-wi-fi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "radenac": {
+    "artisans": [
+      {
+        "id": "1193073589046191581",
+        "nom": "Pool Réguiny",
+        "slug": "pool-reguiny",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Radenac, France",
+        "note": 4.3,
+        "avis": 76,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "riantec": {
+    "artisans": [
+      {
+        "id": "3798987477519662079",
+        "nom": "Piscine Municipale de Kerdurand",
+        "slug": "piscine-municipale-de-kerdurand",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Riantec, France",
+        "note": 4.2,
+        "avis": 64,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "456398877327460975",
+        "nom": "RÉF 312 RIANTEC - gîte Ty Maya piscine partagée",
+        "slug": "ref-312-riantec-gite-ty-maya-piscine-partagee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "4669441570036033271",
+        "nom": "RÉF 213 - RIANTEC Ty Maya Gîte sur propriété chaumière avec piscine partagée",
+        "slug": "ref-213-riantec-ty-maya-gite-sur-propriete-chaumiere-avec-piscine-partagee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "saint-ave": {
+    "artisans": [
+      {
+        "id": "5397502145450947875",
+        "nom": "L'Univers D'Ô Vannes Saint-Avé",
+        "slug": "l-univers-d-o-vannes-saint-ave",
+        "telephone": "+33 6 49 60 65 39",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 95,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-gildas-de-rhuys": {
+    "artisans": [
+      {
+        "id": "5545275921898496102",
+        "nom": "AMF PISCINES",
+        "slug": "amf-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Gildas-de-Rhuys, France",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-gonnery": {
+    "artisans": [
+      {
+        "id": "3360865820327491666",
+        "nom": "L'Accrobrancherie",
+        "slug": "l-accrobrancherie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Gonnery, France",
+        "note": 4.9,
+        "avis": 402,
+        "type": "Amusement center"
+      }
+    ]
+  },
+  "saint-martin-sur-oust": {
+    "artisans": [
+      {
+        "id": "17584240640879823181",
+        "nom": "Le Chenot Paysage",
+        "slug": "le-chenot-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Martin, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "saint-philibert": {
+    "artisans": [
+      {
+        "id": "2848416094509491334",
+        "nom": "Piscine & Spas - Lille Avelin",
+        "slug": "piscine-spas-lille-avelin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Avelin, France",
+        "note": 4.8,
+        "avis": 73,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-pierre-quiberon": {
+    "artisans": [
+      {
+        "id": "15140158320126164032",
+        "nom": "SAVI plomberie sanitaire chauffage clim",
+        "slug": "savi-plomberie-sanitaire-chauffage-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-Quiberon, France",
+        "note": 4,
+        "avis": 62,
+        "type": "Plumber"
+      }
+    ]
+  },
+  "sarzeau": {
+    "artisans": [
+      {
+        "id": "17751666783273953161",
+        "nom": "Blue shark pool in Sarzeau",
+        "slug": "blue-shark-pool-in-sarzeau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sarzeau, France",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7818974160818156186",
+        "nom": "Large house for 10 with pool, in Sarzeau",
+        "slug": "large-house-for-10-with-pool-in-sarzeau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "sene": {
+    "artisans": [
+      {
+        "id": "2409476042468936677",
+        "nom": "Aqua Sun",
+        "slug": "aqua-sun",
+        "telephone": "+33 2 97 69 04 46",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 145,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "serent": {
+    "artisans": [
+      {
+        "id": "1778074736003254696",
+        "nom": "Pool Sérent",
+        "slug": "pool-serent",
+        "telephone": "+33 2 97 75 91 36",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 58,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-sourn": {
+    "artisans": [
+      {
+        "id": "11163095987010269035",
+        "nom": "Aquatic Centre du Moustoir",
+        "slug": "aquatic-centre-du-moustoir",
+        "telephone": "+33 2 97 02 59 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "4998953320955936898",
+        "nom": "Centre Médical",
+        "slug": "centre-medical",
+        "telephone": "+33 2 97 25 20 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 17,
+        "type": "Doctor"
+      },
+      {
+        "id": "15438630492211724716",
+        "nom": "Le Pacific",
+        "slug": "le-pacific",
+        "telephone": "+33 2 97 25 50 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 72,
+        "type": "Bar"
+      }
+    ]
+  },
+  "sulniac": {
+    "artisans": [
+      {
+        "id": "17169497787138461630",
+        "nom": "Artisan Pisciniste Morbihan",
+        "slug": "artisan-pisciniste-morbihan",
+        "telephone": "+33 6 52 08 92 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Handicraft"
+      },
+      {
+        "id": "17580254133635604517",
+        "nom": "Aquagolfe - Elven",
+        "slug": "aquagolfe-elven",
+        "telephone": "+33 2 90 79 50 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 185,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "6136966500176886512",
+        "nom": "Complexe Sportif du Guernehué",
+        "slug": "complexe-sportif-du-guernehue",
+        "telephone": "+33 2 97 53 29 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 55,
+        "type": "Sports complex"
+      },
+      {
+        "id": "294838470502884604",
+        "nom": "Domaine de Lestroué",
+        "slug": "domaine-de-lestroue",
+        "telephone": "+33 6 21 77 33 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 149,
+        "type": "Cottage"
+      },
+      {
+        "id": "7495093250906969524",
+        "nom": "Landscape Pepiniere Pascal Morice",
+        "slug": "landscape-pepiniere-pascal-morice",
+        "telephone": "+33 2 97 43 17 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 124,
+        "type": "Landscaper"
+      },
+      {
+        "id": "9367096645621240032",
+        "nom": "Studio Sulniac Golfe du morbihan avec piscine au sein du domaine",
+        "slug": "studio-sulniac-golfe-du-morbihan-avec-piscine-au-sein-du-domaine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sulniac, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "8690626814487128779",
+        "nom": "Authenticite et detente a la piscine en Bretagne Sud",
+        "slug": "authenticite-et-detente-a-la-piscine-en-bretagne-sud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sulniac, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "surzur": {
+    "artisans": [
+      {
+        "id": "12744704373514729789",
+        "nom": "Aquagolfe - Aquatic Center Vannes Agglo",
+        "slug": "aquagolfe-aquatic-center-vannes-agglo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Surzur, France",
+        "note": 3.9,
+        "avis": 920,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "theix-noyalo": {
+    "artisans": [
+      {
+        "id": "6434752882070577792",
+        "nom": "Piscines Desjoyaux",
+        "slug": "piscines-desjoyaux",
+        "telephone": "+33 2 97 47 86 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 21,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-trinite-sur-mer": {
+    "artisans": [
+      {
+        "id": "4878756579478469750",
+        "nom": "Olympic Club Mickey - La Trinité-sur-Mer",
+        "slug": "olympic-club-mickey-la-trinite-sur-mer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Trinité-sur-Mer, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Recreation center"
+      },
+      {
+        "id": "9299604911122989175",
+        "nom": "HOUSE WITH HEATED POOL NEAR TRINITE \\/ SEA",
+        "slug": "house-with-heated-pool-near-trinite-sea",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "1479285492143448235",
+        "nom": "DELERUE Paysage et Piscine",
+        "slug": "delerue-paysage-et-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Trinité-sur-Mer, France",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "vannes": {
+    "artisans": [
+      {
+        "id": "13680945588618109098",
+        "nom": "Hydramat",
+        "slug": "hydramat",
+        "telephone": null,
+        "site_web": "https://www.hydramat.fr/",
+        "adresse": "Vannes, France",
+        "note": 4.3,
+        "avis": 94,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6810229892005039105",
+        "nom": "Cash Piscines",
+        "slug": "cash-piscines",
+        "telephone": null,
+        "site_web": "https://www.cash-piscines.com/?regionId=U1cjY3B2YW5uZXM%3D&whitelabelSeller=cpvannes",
+        "adresse": "Saint-Avé, France",
+        "note": 4.6,
+        "avis": 430,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "10325991775373398199",
+        "nom": "Irripiscine by Irrijardin Vannes",
+        "slug": "irripiscine-by-irrijardin-vannes",
+        "telephone": null,
+        "site_web": "https://www.irripiscine.fr/magasins/vannes",
+        "adresse": "Vannes, France",
+        "note": 4.2,
+        "avis": 61,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17171736022110806365",
+        "nom": "DAVID PAYSAGE PISCINE - SPA - VANNES - PLOEREN",
+        "slug": "david-paysage-piscine-spa-vannes-ploeren",
+        "telephone": null,
+        "site_web": "https://www.david-paysage.bzh/",
+        "adresse": "Ploeren, France",
+        "note": 4.3,
+        "avis": 26,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "17476902251681184708",
+        "nom": "Piscine Naturelle De Conleau",
+        "slug": "piscine-naturelle-de-conleau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vannes, France",
+        "note": 4.2,
+        "avis": 115,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-bono": {
+    "artisans": [
+      {
+        "id": "6901142301366955382",
+        "nom": "Plombier Le Bono - FLEC",
+        "slug": "plombier-le-bono-flec",
+        "telephone": "+33 6 14 12 78 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Plumber"
+      },
+      {
+        "id": "2898171797208368467",
+        "nom": "Spa OBONO",
+        "slug": "spa-obono",
+        "telephone": "+33 2 97 57 84 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 169,
+        "type": "Spa"
+      }
+    ]
+  },
+  "sainte-anne-d-auray": {
+    "artisans": [
+      {
+        "id": "15985603741525830280",
+        "nom": "Koté Piscine",
+        "slug": "kote-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Anne, Guadeloupe",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  }
+}

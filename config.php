@@ -1,106 +1,99 @@
 <?php
 // ─── Identité site ────────────────────────────────────────────────────────────
-define('SITE_NAME',    'Annuaire VMC');
-define('SITE_URL',     rtrim(getenv('SITE_URL') ?: 'https://annuaire-vmc-france.fr', '/'));
+define('SITE_NAME',    'Annuaire Pisciniste');
+define('SITE_URL',     rtrim(getenv('SITE_URL') ?: 'https://annuaire-pisciniste-france.fr', '/'));
 define('SITE_YEAR',    date('Y'));
-define('METIER',       'installateur VMC');
-define('METIER_PLURIEL', 'installateurs VMC');
-define('METIER_CAP',   'Installateur VMC');
-define('NICHE_KEY',    'vmc');
-define('NICHE_DIR',    'artisans-vmc');
+define('METIER',       'pisciniste');
+define('METIER_PLURIEL', 'piscinistes');
+define('METIER_CAP',   'Pisciniste');
+define('NICHE_KEY',    'piscine');
+define('NICHE_DIR',    'artisans-piscine');
 define('DATA_DIR',     __DIR__ . '/output');
 
 // ─── ViteUnDevis ─────────────────────────────────────────────────────────────
 define('VUD_PARTENAIRE_ID', 2372);
-define('VUD_CATEGORIE_ID',  98);
+define('VUD_CATEGORIE_ID',  44);
 define('VUD_BASE_URL',      'https://www.viteundevis.com');
-define('VUD_DEVIS_URL',     'https://www.viteundevis.com/devis-0-98-devis_vmc.php');
+define('VUD_DEVIS_URL',     'https://www.viteundevis.com/devis-0-44-devis_piscine.php');
 
-// ─── Modèles de services VMC ──────────────────────────────────────────────────
+// ─── Modèles de services piscine ─────────────────────────────────────────────
 define('MODELES', [
-    // Installation
-    ['slug' => 'vmc-double-flux',               'nom' => 'VMC double flux',                      'emoji' => '♻️',  'vud_cat' => 98],
-    ['slug' => 'vmc-simple-flux-hygro-b',       'nom' => 'VMC simple flux hygroréglable B',      'emoji' => '💧', 'vud_cat' => 98],
-    ['slug' => 'vmc-simple-flux-hygro-a',       'nom' => 'VMC simple flux hygroréglable A',      'emoji' => '🌬️', 'vud_cat' => 98],
-    ['slug' => 'vmc-autoreglable',              'nom' => 'VMC autoréglable',                     'emoji' => '⚙️',  'vud_cat' => 98],
-    ['slug' => 'installation-vmc-neuf',         'nom' => 'Installation VMC neuf',                'emoji' => '🏗️',  'vud_cat' => 98],
-    ['slug' => 'installation-vmc-renovation',   'nom' => 'Installation VMC en rénovation',       'emoji' => '🔧', 'vud_cat' => 98],
-    // Remplacement & entretien
-    ['slug' => 'remplacement-vmc',              'nom' => 'Remplacement / changement VMC',        'emoji' => '🔄', 'vud_cat' => 98],
-    ['slug' => 'entretien-vmc',                 'nom' => 'Entretien et nettoyage VMC',           'emoji' => '🧹', 'vud_cat' => 98],
-    ['slug' => 'depannage-vmc',                 'nom' => 'Dépannage VMC',                        'emoji' => '🛠️',  'vud_cat' => 98],
-    // Systèmes spécialisés
-    ['slug' => 'vmc-gainable',                  'nom' => 'VMC gainable centralisée',             'emoji' => '🏠', 'vud_cat' => 98],
-    ['slug' => 'vmc-thermodynamique',           'nom' => 'VMC thermodynamique (PAC air/air)',    'emoji' => '🌡️', 'vud_cat' => 98],
-    ['slug' => 'ventilation-naturelle-assistee', 'nom' => 'VNA — Ventilation naturelle assistée', 'emoji' => '🌿', 'vud_cat' => 98],
-    // Bilan & audit
-    ['slug' => 'bilan-ventilation',             'nom' => 'Bilan et audit ventilation',           'emoji' => '📋', 'vud_cat' => 98],
-    ['slug' => 'etude-aeraulique',              'nom' => 'Étude aéraulique',                     'emoji' => '📐', 'vud_cat' => 98],
+    // Construction
+    ['slug' => 'construction-piscine-beton',     'nom' => 'Construction piscine béton',              'emoji' => '🏗️',  'vud_cat' => 44],
+    ['slug' => 'construction-piscine-coque',     'nom' => 'Construction piscine coque polyester',    'emoji' => '🏊',  'vud_cat' => 44],
+    ['slug' => 'piscine-hors-sol',               'nom' => 'Piscine hors-sol et semi-enterrée',       'emoji' => '💧', 'vud_cat' => 44],
+    // Rénovation
+    ['slug' => 'renovation-piscine',             'nom' => 'Rénovation et réfection piscine',         'emoji' => '🔧', 'vud_cat' => 44],
+    ['slug' => 'liner-revetement-piscine',       'nom' => 'Liner et revêtement piscine',             'emoji' => '🎨', 'vud_cat' => 44],
+    ['slug' => 'carrelage-piscine',              'nom' => 'Carrelage et enduit piscine',             'emoji' => '🪨', 'vud_cat' => 44],
+    // Traitement & équipements
+    ['slug' => 'traitement-eau-piscine',         'nom' => 'Traitement et qualité de l\'eau',         'emoji' => '🧪', 'vud_cat' => 44],
+    ['slug' => 'electrolyseur-sel-piscine',      'nom' => 'Électrolyseur au sel',                    'emoji' => '⚡', 'vud_cat' => 44],
+    ['slug' => 'pompe-chaleur-piscine',          'nom' => 'Pompe à chaleur piscine',                 'emoji' => '🌡️', 'vud_cat' => 44],
+    // Entretien & sécurité
+    ['slug' => 'entretien-hivernage-piscine',    'nom' => 'Entretien et hivernage piscine',          'emoji' => '🧹', 'vud_cat' => 44],
+    ['slug' => 'abri-securite-piscine',          'nom' => 'Abri et sécurité piscine',               'emoji' => '🛡️',  'vud_cat' => 44],
+    // Diagnostic
+    ['slug' => 'diagnostic-piscine',             'nom' => 'Diagnostic et bilan piscine',             'emoji' => '📋', 'vud_cat' => 44],
 ]);
 
 // ─── Aides nationales ────────────────────────────────────────────────────────
 define('AIDES_NATIONALES', [
-    'cee_bar_th_125' => [
-        'nom'         => 'Prime CEE BAR-TH-125',
-        'code'        => 'BAR-TH-125',
-        'description' => 'Prime CEE pour l\'installation d\'une VMC double flux avec échangeur à haute efficacité. L\'une des aides les plus intéressantes pour la ventilation.',
-        'montant'     => 'Jusqu\'à 1 500 € selon la zone climatique et les revenus',
-        'conditions'  => 'Logement de plus de 2 ans, artisan RGE, efficacité thermique de l\'échangeur ≥ 85%',
-        'travaux'     => ['vmc-double-flux', 'vmc-thermodynamique'],
-        'url'         => 'https://www.ecologie.gouv.fr/dispositif-des-certificats-deconomies-denergie',
-    ],
-    'cee_bar_th_187' => [
-        'nom'         => 'Prime CEE BAR-TH-187',
-        'code'        => 'BAR-TH-187',
-        'description' => 'Prime CEE pour le remplacement d\'une VMC simple flux autoréglable par une VMC hygroréglable de type A ou B.',
-        'montant'     => 'Jusqu\'à 800 € selon la zone et les revenus',
-        'conditions'  => 'Remplacement d\'une VMC existante, logement de plus de 2 ans, artisan RGE',
-        'travaux'     => ['vmc-simple-flux-hygro-b', 'vmc-simple-flux-hygro-a', 'remplacement-vmc'],
-        'url'         => 'https://www.ecologie.gouv.fr/dispositif-des-certificats-deconomies-denergie',
-    ],
-    'maprimerenov' => [
-        'nom'         => 'MaPrimeRénov\'',
-        'description' => 'Aide de l\'État pour l\'installation ou le remplacement d\'une VMC double flux. Cumulable avec les primes CEE.',
-        'montant'     => 'Jusqu\'à 2 500 € pour une VMC double flux selon les revenus du foyer',
-        'conditions'  => 'Propriétaire occupant ou bailleur, logement construit depuis plus de 15 ans, artisan RGE obligatoire',
-        'travaux'     => ['vmc-double-flux', 'vmc-thermodynamique', 'installation-vmc-renovation'],
-        'url'         => 'https://www.maprimerenov.gouv.fr',
-    ],
-    'tva_55' => [
-        'nom'         => 'TVA à 5,5%',
-        'description' => 'Taux de TVA réduit à 5,5% applicable aux travaux d\'installation ou de remplacement de VMC dans les logements de plus de 2 ans.',
-        'montant'     => 'Réduction de 14,5% sur le montant TTC des travaux',
-        'conditions'  => 'Logement achevé depuis plus de 2 ans',
-        'travaux'     => ['vmc-double-flux', 'vmc-simple-flux-hygro-b', 'remplacement-vmc', 'installation-vmc-renovation'],
+    'tva_10' => [
+        'nom'         => 'TVA à 10 %',
+        'code'        => 'TVA 10%',
+        'description' => 'Taux de TVA réduit à 10 % applicable aux travaux d\'aménagement d\'une piscine dans les logements de plus de 2 ans (rénovation, liner, équipements).',
+        'montant'     => 'Réduction de 10 % sur le montant TTC des travaux éligibles',
+        'conditions'  => 'Logement achevé depuis plus de 2 ans, travaux de rénovation ou réfection',
+        'travaux'     => ['renovation-piscine', 'liner-revetement-piscine', 'carrelage-piscine', 'traitement-eau-piscine'],
         'url'         => 'https://www.impots.gouv.fr/particulier/questions/jai-fait-des-travaux-dans-mon-logement-quelle-tva-sappliquer',
     ],
-    'eco_ptz' => [
-        'nom'         => 'Éco-PTZ (Prêt à Taux Zéro)',
-        'description' => 'Prêt sans intérêts pour financer des travaux de ventilation dans le cadre d\'une rénovation énergétique globale. Cumulable avec MaPrimeRénov\'.',
+    'credit_impot_pac' => [
+        'nom'         => 'Crédit d\'impôt PAC piscine',
+        'code'        => 'CITE PAC',
+        'description' => 'Crédit d\'impôt pour l\'installation d\'une pompe à chaleur dédiée au chauffage de piscine, dans le cadre d\'une rénovation énergétique globale.',
+        'montant'     => 'Jusqu\'à 30 % du montant des équipements selon conditions',
+        'conditions'  => 'PAC réversible, logement de résidence principale, revenus sous plafond',
+        'travaux'     => ['pompe-chaleur-piscine'],
+        'url'         => 'https://www.impots.gouv.fr/particulier/les-credits-dimpot',
+    ],
+    'eco_ptz_travaux' => [
+        'nom'         => 'Éco-PTZ travaux',
+        'code'        => 'Éco-PTZ',
+        'description' => 'Prêt à taux zéro pour financer les travaux d\'accessibilité ou d\'aménagement extérieur incluant une piscine thérapeutique, dans le cadre d\'une rénovation globale.',
         'montant'     => 'Jusqu\'à 50 000 € remboursable sur 20 ans sans intérêts',
-        'conditions'  => 'Logement construit avant le 1er janvier 1990, résidence principale, travaux combinés à d\'autres gestes de rénovation',
-        'travaux'     => ['vmc-double-flux', 'installation-vmc-renovation'],
+        'conditions'  => 'Rénovation globale de résidence principale, combiné à d\'autres travaux énergétiques',
+        'travaux'     => ['construction-piscine-beton', 'renovation-piscine'],
         'url'         => 'https://www.ecologie.gouv.fr/leco-pret-taux-zero-leco-ptz',
+    ],
+    'financement_pisciniste' => [
+        'nom'         => 'Financement pisciniste',
+        'code'        => 'Financement',
+        'description' => 'La plupart des piscinistes proposent des solutions de financement (prêt travaux, crédit affecté) avec des taux négociés, permettant d\'étaler le coût sur plusieurs années.',
+        'montant'     => 'De 5 000 € à 100 000 € selon le projet, taux variables',
+        'conditions'  => 'Dossier de financement auprès du pisciniste ou de sa banque partenaire',
+        'travaux'     => ['construction-piscine-beton', 'construction-piscine-coque', 'piscine-hors-sol'],
+        'url'         => 'https://www.federation-des-professionnels-de-la-piscine.com',
     ],
 ]);
 
-// ─── Types de systèmes VMC (remplace les zones climatiques) ──────────────────
+// ─── Types de piscines (remplace les zones climatiques) ──────────────────────
 define('ZONES_CLIMATIQUES', [
-    'double-flux' => [
-        'label'       => 'VMC Double Flux',
-        'description' => 'Système le plus performant : récupère la chaleur de l\'air extrait pour préchauffer l\'air entrant. Éligible BAR-TH-125. Économies jusqu\'à 30% sur le chauffage.',
-        'cee_bonus'   => true,
+    'beton' => [
+        'label'       => 'Piscine en béton',
+        'description' => 'La plus durable et personnalisable : forme libre, profondeur sur mesure, revêtement carrelage ou liner. Durée de vie 30 à 50 ans. Budget moyen 30 000 à 60 000 €.',
+        'cee_bonus'   => false,
         'couleur'     => 'blue',
     ],
-    'hygro-b' => [
-        'label'       => 'VMC Hygro B',
-        'description' => 'Adapte le débit d\'air selon le taux d\'humidité de chaque pièce. Éligible BAR-TH-187. Meilleur confort et qualité d\'air pour les logements existants.',
-        'cee_bonus'   => true,
-        'couleur'     => 'green',
+    'coque' => [
+        'label'       => 'Piscine coque polyester',
+        'description' => 'Installation rapide (1 à 2 semaines), formes prédéfinies, entretien facile. Résistante aux mouvements de terrain. Budget moyen 15 000 à 35 000 €.',
+        'cee_bonus'   => false,
+        'couleur'     => 'cyan',
     ],
-    'thermodynamique' => [
-        'label'       => 'VMC Thermodynamique',
-        'description' => 'Combine ventilation et pompe à chaleur air/air. Chauffe et rafraîchit le logement tout en assurant une ventilation optimale. Idéal pour les maisons BBC.',
+    'hors-sol' => [
+        'label'       => 'Piscine hors-sol',
+        'description' => 'Solution économique et modulable : acier, bois ou résine. Pas de travaux de terrassement. Idéale pour les petits budgets ou espaces réduits. Dès 2 000 €.',
         'cee_bonus'   => false,
         'couleur'     => 'orange',
     ],
@@ -109,63 +102,63 @@ define('ZONES_CLIMATIQUES', [
 // ─── Aides dispositifs urbains ────────────────────────────────────────────────
 define('AIDES_QPV', [
     'nom'         => 'Quartier Prioritaire de la Ville (QPV)',
-    'description' => 'Cette commune est classée en Quartier Prioritaire de la Ville. Des aides renforcées sont disponibles pour les travaux de ventilation.',
-    'avantages'   => ['Majoration MaPrimeRénov\' jusqu\'à 100%', 'TVA à 5,5% élargie', 'Accompagnement ANRU possible'],
+    'description' => 'Cette commune est classée en Quartier Prioritaire de la Ville. Des aides renforcées peuvent être disponibles pour les travaux d\'aménagement extérieur.',
+    'avantages'   => ['Accompagnement ANRU possible', 'Aides locales à l\'aménagement', 'TVA à 10% sur les travaux éligibles'],
 ]);
 
 define('AIDES_ACV', [
     'nom'         => 'Action Cœur de Ville',
-    'description' => 'Cette commune bénéficie du programme Action Cœur de Ville, qui soutient la rénovation énergétique des logements en centre-ville.',
-    'avantages'   => ['Aides à la réhabilitation thermique', 'Accompagnement personnalisé', 'Subventions locales potentielles'],
+    'description' => 'Cette commune bénéficie du programme Action Cœur de Ville, favorisant la réhabilitation et les aménagements extérieurs en centre-ville.',
+    'avantages'   => ['Aides à la réhabilitation', 'Accompagnement personnalisé', 'Subventions locales potentielles'],
 ]);
 
 define('AIDES_PVD', [
     'nom'         => 'Petites Villes de Demain',
-    'description' => 'Cette commune participe au programme Petites Villes de Demain, favorisant la rénovation énergétique du bâti et l\'amélioration de la ventilation des logements anciens.',
-    'avantages'   => ['Subventions rénovation habitat', 'Ingénierie de projet financée', 'Partenariats locaux renforcés'],
+    'description' => 'Cette commune participe au programme Petites Villes de Demain, favorisant les aménagements et la qualité de vie des habitants.',
+    'avantages'   => ['Subventions aménagement extérieur', 'Ingénierie de projet financée', 'Partenariats locaux renforcés'],
 ]);
 
 // ─── FAQ homepage ─────────────────────────────────────────────────────────────
 define('FAQ_ACCUEIL', [
     [
-        'q' => 'Comment trouver un installateur VMC certifié près de chez moi ?',
-        'r' => 'Utilisez notre moteur de recherche en saisissant le nom de votre ville. Vous obtiendrez la liste des entreprises de ventilation et installateurs VMC dans votre commune, avec leurs avis clients et coordonnées. Demandez ensuite plusieurs devis pour comparer les prix et les systèmes proposés.',
+        'q' => 'Comment trouver un pisciniste qualifié près de chez moi ?',
+        'r' => 'Utilisez notre moteur de recherche en saisissant le nom de votre ville. Vous obtiendrez la liste des piscinistes professionnels dans votre commune, avec leurs avis clients et coordonnées. Demandez ensuite 3 devis pour comparer les prix et les solutions proposées.',
     ],
     [
-        'q' => 'Quel est le tarif moyen d\'une VMC double flux ?',
-        'r' => 'L\'installation d\'une VMC double flux coûte entre 3 000 € et 8 000 € selon la taille du logement et le modèle choisi. Après les aides (prime CEE BAR-TH-125 + MaPrimeRénov\'), le reste à charge peut descendre à 1 500-3 000 €. La VMC simple flux hygroréglable est moins coûteuse : 600 à 1 500 € posée.',
+        'q' => 'Quel est le prix d\'une piscine construite par un pisciniste ?',
+        'r' => 'Le prix varie selon le type : une piscine coque coûte entre 15 000 et 35 000 €, une piscine béton entre 30 000 et 60 000 €. Une piscine hors-sol commence à 2 000 €. Le budget total inclut terrassement, équipements (pompe, filtration, chauffage) et finitions.',
     ],
     [
-        'q' => 'Qu\'est-ce qu\'une VMC hygroréglable et pourquoi la choisir ?',
-        'r' => 'Une VMC hygroréglable adapte automatiquement son débit d\'air en fonction du taux d\'humidité dans chaque pièce. Le type B (Hygro B) module les entrées et sorties d\'air, tandis que le type A ne régule que les sorties. Hygro B est le plus performant pour la qualité d\'air et les économies d\'énergie, et est éligible à la prime CEE BAR-TH-187.',
+        'q' => 'Quelle est la différence entre une piscine béton et une piscine coque ?',
+        'r' => 'La piscine béton est entièrement personnalisable (forme, taille, profondeur) et dure 30 à 50 ans. La piscine coque polyester est posée en 1 à 2 semaines sur des formes prédéfinies, plus rapide et moins chère. Le béton offre plus de liberté, la coque est plus simple à entretenir.',
     ],
     [
-        'q' => 'Puis-je bénéficier de MaPrimeRénov\' pour une VMC ?',
-        'r' => 'Oui, MaPrimeRénov\' finance l\'installation d\'une VMC double flux jusqu\'à 2 500 €, sous conditions de revenus. Les travaux doivent être réalisés par un artisan certifié RGE. La prime est cumulable avec la prime CEE BAR-TH-125 et la TVA à 5,5%.',
+        'q' => 'Faut-il un permis de construire pour une piscine ?',
+        'r' => 'Oui, au-delà de 10 m², une déclaration préalable de travaux est obligatoire. Au-delà de 100 m² ou pour une piscine couverte de plus de 1,80 m de haut, un permis de construire est requis. Votre pisciniste vous guide dans ces démarches administratives.',
     ],
     [
-        'q' => 'La VMC double flux réduit-elle vraiment la facture de chauffage ?',
-        'r' => 'Oui, une VMC double flux avec échangeur à haute efficacité (≥ 85%) récupère 70 à 90% de la chaleur de l\'air extrait pour préchauffer l\'air entrant. Cela peut réduire les déperditions thermiques liées au renouvellement d\'air de 20 à 30%, soit 200 à 500 € d\'économies annuelles sur le chauffage.',
+        'q' => 'Quelles obligations de sécurité pour une piscine ?',
+        'r' => 'Depuis 2004, toute piscine enterrée ou semi-enterrée doit être équipée d\'un dispositif de sécurité normalisé : alarme (NF P90-307), barrière (NF P90-306), couverture (NF P90-308) ou abri. L\'absence de dispositif est passible d\'une amende de 45 000 €.',
     ],
     [
-        'q' => 'Faut-il un artisan RGE pour bénéficier des primes VMC ?',
-        'r' => 'Oui, pour débloquer la prime CEE (BAR-TH-125 ou BAR-TH-187) et MaPrimeRénov\' pour une VMC, les travaux doivent être réalisés par un artisan certifié RGE (Reconnu Garant de l\'Environnement). Vérifiez la certification sur qualit-enr.org ou faire-france.fr.',
+        'q' => 'Comment entretenir une piscine toute l\'année ?',
+        'r' => 'L\'entretien comprend : le nettoyage hebdomadaire (robot ou aspirateur), le contrôle de l\'eau 2 à 3 fois par semaine (pH, chlore ou sel), le nettoyage du filtre mensuel, et l\'hivernage en fin de saison. Un pisciniste peut réaliser un contrat d\'entretien annuel de 300 à 800 €.',
     ],
     [
-        'q' => 'Quelle est la durée de vie d\'une VMC ?',
-        'r' => 'Une VMC bien entretenue dure 15 à 20 ans. L\'entretien annuel (nettoyage des bouches et filtres, vérification du caisson) est indispensable pour maintenir ses performances et la qualité de l\'air intérieur. Un filtre encrassé peut réduire de 30 à 40% le débit d\'air et augmenter la consommation électrique.',
+        'q' => 'Quelle est la meilleure solution de chauffage pour une piscine ?',
+        'r' => 'La pompe à chaleur est la solution la plus économique à l\'usage (COP de 4 à 6, soit 4 à 6 kWh de chaleur pour 1 kWh électrique). Elle chauffe l\'eau à 28-30 °C même si la température extérieure est de 10 °C. Comptez 3 000 à 8 000 € selon la puissance.',
     ],
     [
-        'q' => 'Quand faut-il remplacer sa VMC ?',
-        'r' => 'Plusieurs signes indiquent qu\'il est temps de changer sa VMC : bruit anormal du caisson, odeurs persistantes malgré le nettoyage, condensation excessive, ou vétusté du système (plus de 15 ans). Remplacer une vieille VMC autoréglable par une Hygro B est éligible à la prime CEE BAR-TH-187.',
+        'q' => 'Qu\'est-ce que l\'électrolyse au sel et est-ce mieux que le chlore ?',
+        'r' => 'L\'électrolyseur au sel génère du chlore naturel à partir du sel dissous dans l\'eau, évitant d\'acheter des produits chimiques. L\'eau est plus douce pour les yeux et la peau. Le coût est plus élevé à l\'installation (1 500 à 3 000 €) mais réduit les frais d\'entretien de 50 à 70%.',
     ],
     [
-        'q' => 'Combien de temps prend l\'installation d\'une VMC ?',
-        'r' => 'L\'installation d\'une VMC simple flux en rénovation prend 1 à 2 jours selon la configuration du logement. Une VMC double flux nécessite 2 à 4 jours car elle requiert deux réseaux de gaines. Dans le neuf, la pose est intégrée au gros œuvre et prend 1 à 2 jours.',
+        'q' => 'Combien de temps dure la construction d\'une piscine ?',
+        'r' => 'Une piscine coque est posée en 1 à 2 semaines (terrassement + pose + raccordements). Une piscine béton prend 4 à 12 semaines selon la complexité. Comptez ensuite 28 jours supplémentaires pour la mise en eau et l\'équilibrage de l\'eau avant de pouvoir nager.',
     ],
     [
-        'q' => 'La VMC est-elle obligatoire dans une maison ?',
-        'r' => 'Oui, depuis 1982, toute construction neuve doit être équipée d\'un système de ventilation mécanique contrôlée. Pour les logements anciens, une VMC n\'est pas toujours obligatoire mais fortement recommandée pour la qualité de l\'air intérieur et la prévention des problèmes d\'humidité et de moisissures.',
+        'q' => 'Puis-je installer une piscine en copropriété ou lotissement ?',
+        'r' => 'En copropriété, l\'accord de l\'assemblée générale est requis. En lotissement, vérifiez le règlement de lotissement et le PLU (Plan Local d\'Urbanisme) de votre commune : certains interdisent les piscines ou imposent des distances aux limites de propriété. Votre pisciniste peut vous conseiller.',
     ],
 ]);
 
@@ -174,4 +167,5 @@ define('NETWORK_SITES', [
     ['nom' => 'Annuaire Menuisier',  'url' => 'https://annuaire-menuisier-france.fr',  'emoji' => '🪟'],
     ['nom' => 'Annuaire Couvreur',   'url' => 'https://annuaire-couvreur-france.fr',   'emoji' => '🏠'],
     ['nom' => 'Annuaire Isolation',  'url' => 'https://annuaire-isolation-france.fr',  'emoji' => '🧱'],
+    ['nom' => 'Annuaire VMC',        'url' => 'https://annuaire-vmc-france.fr',        'emoji' => '💨'],
 ]);

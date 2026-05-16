@@ -1,0 +1,281 @@
+{
+  "ancerville": {
+    "artisans": [
+      {
+        "id": "6943066905267929261",
+        "nom": "La Piscine",
+        "slug": "la-piscine",
+        "telephone": "0413 262 3297",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 76,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "bar-le-duc": {
+    "artisans": [
+      {
+        "id": "9389602815569666280",
+        "nom": "Everblue - PPS Piscines",
+        "slug": "everblue-pps-piscines",
+        "telephone": "+33 3 29 75 88 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 20,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9470155048577804935",
+        "nom": "Aqualmi Piscine 55 Bar le Duc",
+        "slug": "aqualmi-piscine-55-bar-le-duc",
+        "telephone": "+33 3 29 70 15 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16362661096488739224",
+        "nom": "Centre Nautique de Bar-le-Duc",
+        "slug": "centre-nautique-de-bar-le-duc",
+        "telephone": "+33 3 29 79 09 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 270,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "6287645573066816658",
+        "nom": "Aqualmi Piscine 55 Bar le Duc",
+        "slug": "aqualmi-piscine-55-bar-le-duc",
+        "telephone": "+33 3 26 73 57 57",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "belleville-sur-meuse": {
+    "artisans": [
+      {
+        "id": "5197353373008365849",
+        "nom": "Piscine Desjoyaux Verdun / DIFER",
+        "slug": "piscine-desjoyaux-verdun-difer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Verdun, France",
+        "note": 3.8,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9952715314818714727",
+        "nom": "Fradin paysage & piscine",
+        "slug": "fradin-paysage-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2025163805658676092",
+        "nom": "Fradin Rémi",
+        "slug": "fradin-remi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "commercy": {
+    "artisans": [
+      {
+        "id": "1291955152704843125",
+        "nom": "Aquamosa",
+        "slug": "aquamosa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Colonel Beltrame",
+        "note": 4.1,
+        "avis": 322,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "dieue-sur-meuse": {
+    "artisans": [
+      {
+        "id": "16625890492120404162",
+        "nom": "Palazzo",
+        "slug": "palazzo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Génicourt-sur-Meuse, France",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "dugny-sur-meuse": {
+    "artisans": [
+      {
+        "id": "9608974684563157150",
+        "nom": "Dezan SARL",
+        "slug": "dezan-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ancemont, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13693708308708663277",
+        "nom": "Gîte La meusienne 15 pers piscine/jacuzzi a 5 min de verdun",
+        "slug": "gite-la-meusienne-15-pers-piscinejacuzzi-a-5-min-de-verdun",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Belleray, France",
+        "note": 5,
+        "avis": 8,
+        "type": "Holiday home"
+      },
+      {
+        "id": "7850854876790409881",
+        "nom": "Laneque Construction",
+        "slug": "laneque-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Verdun, France",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "gondrecourt-le-chateau": {
+    "artisans": [
+      {
+        "id": "18425976400069005978",
+        "nom": "Pisciculture du Vaucheron",
+        "slug": "pisciculture-du-vaucheron",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gondrecourt-le-Château, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Fish farm"
+      }
+    ]
+  },
+  "lerouville": {
+    "artisans": [
+      {
+        "id": "16503616447271952634",
+        "nom": "LMDC",
+        "slug": "lmdc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lérouville, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "ligny-en-barrois": {
+    "artisans": [
+      {
+        "id": "7244973006896806571",
+        "nom": "Pool Ornain Center",
+        "slug": "pool-ornain-center",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ligny-en-Barrois, France",
+        "note": 4,
+        "avis": 152,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "17399200473952392008",
+        "nom": "LIGNY EN BARROIS - Piscine",
+        "slug": "ligny-en-barrois-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Bus stop"
+      }
+    ]
+  },
+  "saint-mihiel": {
+    "artisans": [
+      {
+        "id": "4209312078773884503",
+        "nom": "Piscine Intercommunale du Sammiellois",
+        "slug": "piscine-intercommunale-du-sammiellois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Av. du Général de Gaulle",
+        "note": 4.2,
+        "avis": 87,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "thierville-sur-meuse": {
+    "artisans": [
+      {
+        "id": "14681178961257995365",
+        "nom": "Aquadrome de Verdun",
+        "slug": "aquadrome-de-verdun",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Verdun, France",
+        "note": 3.9,
+        "avis": 456,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "1148363849234517630",
+        "nom": "Complexe Sportif de Thierville",
+        "slug": "complexe-sportif-de-thierville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Thierville-sur-Meuse, France",
+        "note": 4,
+        "avis": 68,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "vigneulles-les-hattonchatel": {
+    "artisans": [
+      {
+        "id": "8284779388251728075",
+        "nom": "AQUA-TEC",
+        "slug": "aqua-tec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marieulles, France",
+        "note": 2.8,
+        "avis": 9,
+        "type": "Manufacturer"
+      }
+    ]
+  }
+}

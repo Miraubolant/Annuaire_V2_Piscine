@@ -1,5 +1,3 @@
-node_modules/
-assets/css/output.css
-.playwright-mcp/
-.env
+﻿node_modules/
+output/seo/
 *.log

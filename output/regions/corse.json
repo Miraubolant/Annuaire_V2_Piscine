@@ -12,8 +12,8 @@
             "slug": "corse-du-sud",
             "population_totale": 163663,
             "communes_count": 124,
-            "communes_avec_artisans": 26,
-            "artisans_vmc": 177,
+            "communes_avec_artisans": 18,
+            "artisans_piscine": 64,
             "voisins": [
                 {
                     "dep_code": "2B",
@@ -28,8 +28,8 @@
             "slug": "haute-corse",
             "population_totale": 185493,
             "communes_count": 236,
-            "communes_avec_artisans": 24,
-            "artisans_vmc": 116,
+            "communes_avec_artisans": 18,
+            "artisans_piscine": 45,
             "voisins": [
                 {
                     "dep_code": "2A",
@@ -41,8 +41,8 @@
     ],
     "stats": {
         "communes_total": 360,
-        "communes_avec_artisans": 50,
-        "artisans_vmc": 293,
+        "communes_avec_artisans": 36,
+        "artisans_piscine": 109,
         "population_totale": 349156
     },
     "zones_climatiques": {

@@ -1,0 +1,778 @@
+{
+  "afa": {
+    "artisans": [
+      {
+        "id": "14478014447281027217",
+        "nom": "Afa Piscine",
+        "slug": "afa-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Giugliano in Campania, Metropolitan City of Naples, Italy",
+        "note": 3.4,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "albitreccia": {
+    "artisans": [
+      {
+        "id": "16704831306927578852",
+        "nom": "Ajaccio Piscines",
+        "slug": "ajaccio-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grosseto-Prugna, France",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8087258443673477364",
+        "nom": "ÉRIC PISCINES",
+        "slug": "eric-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grosseto-Prugna, France",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17728433780715313793",
+        "nom": "Polyester pool Corsica",
+        "slug": "polyester-pool-corsica",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prunelli-di-Fiumorbo, France",
+        "note": 4.7,
+        "avis": 40,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5446181135974169807",
+        "nom": "Idéal Piscine & Spa en Corse",
+        "slug": "ideal-piscine-spa-en-corse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santa-Maria-Poggio, France",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12300326025549716732",
+        "nom": "Ma Pool by STE Services Piscines - Création Réalisation Entretien de piscines haut de gamme en Corse du Sud",
+        "slug": "ma-pool-by-ste-services-piscines-creation-realisation-entretien-de-piscines-haut-de-gamme-en-corse-du-sud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bonifacio, France",
+        "note": 5,
+        "avis": 26,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14102833028019382645",
+        "nom": "Piscine Propriano Corse Acqua Elec",
+        "slug": "piscine-propriano-corse-acqua-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Propriano, France",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "15847467613006238924",
+        "nom": "corse piscine & spa",
+        "slug": "corse-piscine-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ventiseri, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "765462960330155577",
+        "nom": "Karl Piscines",
+        "slug": "karl-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7+ years in business",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "appietto": {
+    "artisans": [
+      {
+        "id": "7513836253050448157",
+        "nom": "LUSO PISCINE 2A",
+        "slug": "luso-piscine-2a",
+        "telephone": null,
+        "site_web": "http://www.luso-piscine2a.com/",
+        "adresse": "Ajaccio, France",
+        "note": 5,
+        "avis": 18,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16845883608640626193",
+        "nom": "SARL Tito Piscines",
+        "slug": "sarl-tito-piscines",
+        "telephone": null,
+        "site_web": "https://travaux.obat.fr/pro/446161-sarl-tito-piscines",
+        "adresse": "3+ years in business",
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "13166287272548792336",
+        "nom": "Karlson Piscines",
+        "slug": "karlson-piscines",
+        "telephone": null,
+        "site_web": "https://www.karlson.fr/",
+        "adresse": "Ajaccio, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2520245629535132000",
+        "nom": "Piscines Desjoyaux",
+        "slug": "piscines-desjoyaux",
+        "telephone": null,
+        "site_web": "https://www.desjoyaux.fr/boutiques-desjoyaux/20090-ajaccio/",
+        "adresse": "Ajaccio, France",
+        "note": 4.8,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6045548338909309597",
+        "nom": "Irripiscine by Irrijardin Sarrola-Carcopino",
+        "slug": "irripiscine-by-irrijardin-sarrola-carcopino",
+        "telephone": null,
+        "site_web": "https://www.irripiscine.fr/magasins/ajaccio",
+        "adresse": "Sarrola-Carcopino, France",
+        "note": 4.4,
+        "avis": 52,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "7992446837150453331",
+        "nom": "Hydro-Elec - PISCINES HydroSud Ajaccio",
+        "slug": "hydro-elec-piscines-hydrosud-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.piscines-hydrosud.fr/magasin-piscines-hydrosud/119-piscines-hydrosud-ajaccio?utm_campaign=lbc&utm_content=Ajaccio-20a-Hydro-elec&utm_medium=maps&utm_source=gmb",
+        "adresse": "Ajaccio, France",
+        "note": 4,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2247983335106115436",
+        "nom": "Cash Piscines",
+        "slug": "cash-piscines",
+        "telephone": null,
+        "site_web": "https://www.cash-piscines.com/?regionId=U1cjY3BhamFjY2lv&whitelabelSeller=cpajaccio",
+        "adresse": "Sarrola-Carcopino, France",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "14719205562702995936",
+        "nom": "Espace Piscines",
+        "slug": "espace-piscines",
+        "telephone": null,
+        "site_web": "https://www.espacepiscines.com/",
+        "adresse": "Bastia, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16969016653541828201",
+        "nom": "Lecamat",
+        "slug": "lecamat",
+        "telephone": "+33 6 12 46 73 84",
+        "site_web": "https://www.lecamat.fr/",
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4856208346883884031",
+        "nom": "Sundance Spas",
+        "slug": "sundance-spas",
+        "telephone": null,
+        "site_web": "https://www.spa-ajaccio.com/",
+        "adresse": "Ajaccio, France",
+        "note": 5,
+        "avis": 11,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "bastelicaccia": {
+    "artisans": [
+      {
+        "id": "9047524439189086729",
+        "nom": "Sarl Carbuccia",
+        "slug": "sarl-carbuccia",
+        "telephone": null,
+        "site_web": "http://www.sarl-carbuccia.com/",
+        "adresse": "Bastelicaccia, France",
+        "note": 5,
+        "avis": 22,
+        "type": "General contractor"
+      },
+      {
+        "id": "4845805184034223618",
+        "nom": "Isulella Piscine et Spa",
+        "slug": "isulella-piscine-et-spa",
+        "telephone": null,
+        "site_web": "https://www.isulellapiscine.com/",
+        "adresse": "Pietrosella, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "8662372501586130883",
+        "nom": "Service Piscine Corse - S.P.C",
+        "slug": "service-piscine-corse-spc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cargèse, France",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "cauro": {
+    "artisans": [
+      {
+        "id": "7200865829190913708",
+        "nom": "Piscine Aquarius",
+        "slug": "piscine-aquarius",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "(514) 996-0627",
+        "note": 4.6,
+        "avis": 15,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "6414908228319238908",
+        "nom": "Piscines Rive-Nord",
+        "slug": "piscines-rive-nord",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Terrebonne, Quebec",
+        "note": 4.4,
+        "avis": 535,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "3304973845797432152",
+        "nom": "Oasis Pools Inc.",
+        "slug": "oasis-pools-inc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Eustache, Quebec",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17024291548671847947",
+        "nom": "Confort Piscine",
+        "slug": "confort-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Jean-sur-Richelieu, Quebec",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "3019683737290625075",
+        "nom": "Piscines RC",
+        "slug": "piscines-rc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Sulpice, Quebec",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "9112716233919428636",
+        "nom": "Services de Piscine AquanNord Inc.",
+        "slug": "services-de-piscine-aquannord-inc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Laval, Quebec",
+        "note": 4.8,
+        "avis": 61,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "21288251532592530",
+        "nom": "PISCINE MULTI-SERVICES JC",
+        "slug": "piscine-multi-services-jc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Longueuil, Quebec",
+        "note": 4.4,
+        "avis": 96,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "cuttoli-corticchiato": {
+    "artisans": [
+      {
+        "id": "7591947372632154705",
+        "nom": "Quality Piscine Ajaccio",
+        "slug": "quality-piscine-ajaccio",
+        "telephone": "+33 6 30 29 04 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Pool cleaning service"
+      }
+    ]
+  },
+  "eccica-suarella": {
+    "artisans": [
+      {
+        "id": "14656150893971205485",
+        "nom": "Multiservices piscine",
+        "slug": "multiservices-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Eccica-Suarella, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "figari": {
+    "artisans": [
+      {
+        "id": "3648163147393446093",
+        "nom": "DPS Piscine Service",
+        "slug": "dps-piscine-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Figari, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "16721751184452519188",
+        "nom": "Bergerie Lucia",
+        "slug": "bergerie-lucia",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Figari, France",
+        "note": 5,
+        "avis": 21,
+        "type": "Lodging"
+      },
+      {
+        "id": "14556285496678348323",
+        "nom": "LD Piscine",
+        "slug": "ld-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 5,
+        "avis": 7,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "5547862688867579322",
+        "nom": "Maitre Nageur",
+        "slug": "maitre-nageur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Figari, France",
+        "note": 5,
+        "avis": 33,
+        "type": "Personal trainer"
+      },
+      {
+        "id": "9078620529932691795",
+        "nom": "Maison charmante à Figari avec piscine partagée",
+        "slug": "maison-charmante-a-figari-avec-piscine-partagee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "16578116516946586150",
+        "nom": "Terra Vigna - Piscine chauffée à Figari",
+        "slug": "terra-vigna-piscine-chauffee-a-figari",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "grosseto-prugna": {
+    "artisans": [
+      {
+        "id": "11239410940623887037",
+        "nom": "La Piscine de Pierre",
+        "slug": "la-piscine-de-pierre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grosseto-Prugna, France",
+        "note": 4,
+        "avis": 67,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "lecci": {
+    "artisans": [
+      {
+        "id": "15319020495415395298",
+        "nom": "Piscine Service 2A –Carré Bleu Porto Vecchio",
+        "slug": "piscine-service-2a-carre-bleu-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11462276488326870671",
+        "nom": "Kyrnos Piscines",
+        "slug": "kyrnos-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lecci, France",
+        "note": 3.6,
+        "avis": 24,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13833609248255639207",
+        "nom": "House in Lecci with Pool",
+        "slug": "house-in-lecci-with-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lecci, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "319606867282418445",
+        "nom": "Propiscines - Porto Vecchio",
+        "slug": "propiscines-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lecci, France",
+        "note": 1,
+        "avis": 2,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "peri": {
+    "artisans": [
+      {
+        "id": "5874819818998123935",
+        "nom": "PERI Kalıp ve İskeleleri San. Tic. Ltd. Şti. | İstanbul Merkez Ofis",
+        "slug": "peri-kalp-ve-iskeleleri-san-tic-ltd-ti-istanbul-merkez-ofis",
+        "telephone": null,
+        "site_web": "http://www.peri.com.tr/",
+        "adresse": "3069. Sk No:23",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Construction equipment supplier"
+      }
+    ]
+  },
+  "porto-vecchio": {
+    "artisans": [
+      {
+        "id": "15453007095449463368",
+        "nom": "POVO PISCINES",
+        "slug": "povo-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 5,
+        "avis": 10,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11031738264342650655",
+        "nom": "Rev'Azur - PISCINES HydroSud Porto-Vecchio",
+        "slug": "rev-azur-piscines-hydrosud-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "3745459272027429375",
+        "nom": "Pool Art - piscines Porto-Vecchio",
+        "slug": "pool-art-piscines-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11743822856385751170",
+        "nom": "AQUILUS Porto Vecchio",
+        "slug": "aquilus-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "San-Gavino-di-Carbini, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "6725159322055476984",
+        "nom": "Aquilus Piscines et Spas Porto Vecchio",
+        "slug": "aquilus-piscines-et-spas-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 3,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sari-solenzara": {
+    "artisans": [
+      {
+        "id": "4685401565308855370",
+        "nom": "ALIVI PISCINE 2A",
+        "slug": "alivi-piscine-2a",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sari-Solenzara, France",
+        "note": 5,
+        "avis": 33,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sarrola-carcopino": {
+    "artisans": [
+      {
+        "id": "10310759094707312919",
+        "nom": "TAB Piscines",
+        "slug": "tab-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio, France",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sartene": {
+    "artisans": [
+      {
+        "id": "6958658027373401237",
+        "nom": "Peretti Travaux Speciaux",
+        "slug": "peretti-travaux-speciaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sartène, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5651587765391767237",
+        "nom": "Au Plaisir de l'Eau",
+        "slug": "au-plaisir-de-l-eau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Calvi, France",
+        "note": 5,
+        "avis": 21,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5671954110956697030",
+        "nom": "Piscines Jean Bronzini",
+        "slug": "piscines-jean-bronzini",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Borgo, France",
+        "note": 4,
+        "avis": 60,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10351829198688517806",
+        "nom": "ACQUA SUD CORSE",
+        "slug": "acqua-sud-corse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sotta": {
+    "artisans": [
+      {
+        "id": "17866516080857536666",
+        "nom": "Piscilinda de Santo Domingo, S.R.L",
+        "slug": "piscilinda-de-santo-domingo-srl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santo Domingo",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15949531075371178342",
+        "nom": "Pro Piscina",
+        "slug": "pro-piscina",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santo Domingo",
+        "note": 4.4,
+        "avis": 200,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5790706924732427145",
+        "nom": "Pool Studio",
+        "slug": "pool-studio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santo Domingo",
+        "note": 4.7,
+        "avis": 11,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "16302358514161033663",
+        "nom": "Vert Turquoise",
+        "slug": "vert-turquoise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio, France",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "san-gavino-di-carbini": {
+    "artisans": [
+      {
+        "id": "17482924491795045158",
+        "nom": "Acqua piscine",
+        "slug": "acqua-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "18079331888366952661",
+        "nom": "Piscines Naturelles de Cavu - Piscine Naturali di Cavu",
+        "slug": "piscines-naturelles-de-cavu-piscine-naturali-di-cavu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zonza, France",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Tourist attraction"
+      }
+    ]
+  },
+  "zonza": {
+    "artisans": [
+      {
+        "id": "5322409970115898583",
+        "nom": "Sainte Lucie Piscines",
+        "slug": "sainte-lucie-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 5,
+        "avis": 6,
+        "type": "Store"
+      },
+      {
+        "id": "17690938427322536794",
+        "nom": "Blue Horizon",
+        "slug": "blue-horizon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lecci, France",
+        "note": 5,
+        "avis": 8,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "8634005284441241227",
+        "nom": "Piscine de Cavu",
+        "slug": "piscine-de-cavu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zonza, France",
+        "note": 4,
+        "avis": 114,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "10762181838753816727",
+        "nom": "corse-entretien-piscine",
+        "slug": "corse-entretien-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zonza, France",
+        "note": 4,
+        "avis": 3,
+        "type": "Swimming pool"
+      }
+    ]
+  }
+}

@@ -2,8 +2,8 @@
 require_once __DIR__ . '/../config.php';
 require_once __DIR__ . '/../functions.php';
 
-$title         = 'Aides à la ventilation VMC — TVA 5,5%, CEE, MaPrimeRénov\' — ' . SITE_NAME;
-$description   = 'Toutes les aides financières pour vos travaux de ventilation VMC : TVA à 5,5%, prime CEE BAR-TH-125/BAR-TH-187, Éco-PTZ jusqu\'à 50 000 €, MaPrimeRénov\'. Cumulables et applicables partout en France.';
+$title         = 'Aides pour votre piscine — TVA 10%, Financement pisciniste — ' . SITE_NAME;
+$description   = 'Toutes les aides financières pour vos travaux de piscine : TVA à 10%, crédit d\'impôt pompe à chaleur, financement pisciniste. Renseignez-vous auprès de votre pisciniste qualifié.';
 $canonical_url = SITE_URL . '/aides/';
 $robots        = 'index,follow';
 $jsonLd        = [];
@@ -20,18 +20,18 @@ require __DIR__ . '/../templates/header.php';
 <div style="background:var(--forest-dark);padding:56px 24px 48px;text-align:center;">
     <div style="max-width:780px;margin:0 auto;">
         <span class="section-eyebrow" style="color:rgba(255,255,255,.65);background:rgba(255,255,255,.1);margin-bottom:16px;">
-            💶 Financements 2025
+            💶 Financements 2026
         </span>
         <h1 style="font-family:var(--font-display);font-size:clamp(26px,4vw,44px);font-weight:700;color:#fff;line-height:1.2;letter-spacing:-.02em;margin-bottom:14px;">
-            Aides à la rénovation<br>ventilation VMC
+            Aides et financements<br>pour votre piscine
         </h1>
         <p style="font-size:16px;color:rgba(255,255,255,.65);line-height:1.7;max-width:560px;margin:0 auto 28px;">
-            TVA réduite, primes CEE, Éco-PTZ, MaPrimeRénov' — des financements cumulables pour réduire le coût de vos travaux de ventilation VMC.
+            TVA 10%, crédit d'impôt pompe à chaleur, financement pisciniste — des solutions pour réduire le coût de votre projet piscine.
         </p>
         <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
-            <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ Cumulables entre eux</span>
-            <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ Applicables partout en France</span>
-            <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ Sans avance de frais possible</span>
+            <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ TVA 10% sur les travaux</span>
+            <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ Financement pisciniste dispo</span>
+            <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ Devis gratuit · Réponse 48h</span>
         </div>
     </div>
 </div>
@@ -43,8 +43,8 @@ require __DIR__ . '/../templates/header.php';
     <section style="margin-bottom:64px;">
         <div style="margin-bottom:32px;">
             <span class="section-eyebrow">🏛️ Aides nationales</span>
-            <h2 class="section-title" style="margin-top:8px;">Financements disponibles pour la ventilation VMC</h2>
-            <p class="section-subtitle">Ces aides sont accessibles à tous les propriétaires en France métropolitaine et en outre-mer.</p>
+            <h2 class="section-title" style="margin-top:8px;">Financements disponibles pour votre piscine</h2>
+            <p class="section-subtitle">Ces aides sont accessibles à tous en France métropolitaine et en outre-mer.</p>
         </div>
 
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:24px;">
@@ -105,29 +105,29 @@ require __DIR__ . '/../templates/header.php';
             <div style="display:flex;gap:12px;align-items:flex-start;">
                 <span style="background:var(--forest);color:#fff;font-size:11px;font-weight:800;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;">1</span>
                 <div>
-                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Choisissez un installateur VMC RGE</p>
-                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Obligatoire pour débloquer la prime CEE, l'Éco-PTZ et MaPrimeRénov'.</p>
+                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Choisissez un pisciniste qualifié</p>
+                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Indispensable pour bénéficier du financement et des conditions avantageuses.</p>
                 </div>
             </div>
             <div style="display:flex;gap:12px;align-items:flex-start;">
                 <span style="background:var(--forest);color:#fff;font-size:11px;font-weight:800;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;">2</span>
                 <div>
                     <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Demandez plusieurs devis</p>
-                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Comparez les devis et vérifiez la mention RGE sur chaque proposition.</p>
+                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Comparez les devis et vérifiez les certifications (Qualipiscine, FPP) sur chaque proposition.</p>
                 </div>
             </div>
             <div style="display:flex;gap:12px;align-items:flex-start;">
                 <span style="background:var(--forest);color:#fff;font-size:11px;font-weight:800;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;">3</span>
                 <div>
-                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Déposez votre dossier MaPrimeRénov'</p>
-                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Avant le début des travaux sur maprimerenov.gouv.fr.</p>
+                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Demandez le financement pisciniste</p>
+                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Avant le début des travaux, votre pisciniste vous accompagne dans les démarches.</p>
                 </div>
             </div>
             <div style="display:flex;gap:12px;align-items:flex-start;">
                 <span style="background:var(--forest);color:#fff;font-size:11px;font-weight:800;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;">4</span>
                 <div>
-                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">La TVA réduite s'applique automatiquement</p>
-                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">L'installateur VMC applique directement le taux réduit sur sa facture.</p>
+                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">La TVA 10% s'applique sur les travaux</p>
+                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Votre pisciniste applique directement la TVA applicable sur sa facture.</p>
                 </div>
             </div>
         </div>
@@ -136,9 +136,9 @@ require __DIR__ . '/../templates/header.php';
     <!-- ─── Zones climatiques ─────────────────────────────────────────────────── -->
     <section style="margin-bottom:64px;">
         <div style="margin-bottom:32px;">
-            <span class="section-eyebrow">💨 Primes selon votre région</span>
-            <h2 class="section-title" style="margin-top:8px;">Zones climatiques & montants CEE</h2>
-            <p class="section-subtitle">Le montant de la prime CEE BAR-TH-125 (installation VMC double flux) varie selon votre zone géographique.</p>
+            <span class="section-eyebrow">🏊 Solutions selon votre région</span>
+            <h2 class="section-title" style="margin-top:8px;">Types de piscine & options de financement</h2>
+            <p class="section-subtitle">Les solutions piscine varient selon votre région et votre projet. Consultez un pisciniste local pour un devis personnalisé.</p>
         </div>
         <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px;">
             <?php
@@ -200,13 +200,13 @@ require __DIR__ . '/../templates/header.php';
     <!-- ─── CTA devis ─────────────────────────────────────────────────────────── -->
     <section style="background:var(--forest);border-radius:var(--radius-lg);padding:48px 32px;text-align:center;">
         <span class="section-eyebrow" style="color:rgba(255,255,255,.6);background:rgba(255,255,255,.1);margin-bottom:16px;">
-            💨 Obtenir un devis
+            🏊 Obtenir un devis
         </span>
         <h2 style="font-family:var(--font-display);font-size:clamp(20px,3vw,32px);font-weight:700;color:#fff;margin-bottom:10px;letter-spacing:-.02em;">
-            Trouvez un installateur VMC RGE près de chez vous
+            Trouvez un pisciniste qualifié près de chez vous
         </h2>
         <p style="font-size:15px;color:rgba(255,255,255,.65);line-height:1.7;max-width:480px;margin:0 auto 28px;">
-            Un artisan certifié RGE est obligatoire pour débloquer CEE, Éco-PTZ et MaPrimeRénov'. Devis gratuit, sans engagement, réponse sous 48h.
+            Un pisciniste professionnel vous accompagne dans votre projet. Devis gratuit, sans engagement, réponse sous 48h.
         </p>
         <a href="<?= htmlspecialchars(SITE_URL) ?>/"
            style="display:inline-flex;align-items:center;gap:8px;background:#fff;color:var(--forest);font-size:15px;font-weight:700;padding:14px 28px;border-radius:100px;text-decoration:none;box-shadow:0 4px 16px rgba(0,0,0,.2);">

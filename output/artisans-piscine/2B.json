@@ -1,0 +1,569 @@
+{
+  "biguglia": {
+    "artisans": [
+      {
+        "id": "14462863828974915330",
+        "nom": "A l'eau piscine construction",
+        "slug": "a-l-eau-piscine-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biguglia, France",
+        "note": 5,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "18401927972449892968",
+        "nom": "A E P",
+        "slug": "a-e-p",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biguglia, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "9175527978445837607",
+        "nom": "Corse Piscine Services",
+        "slug": "corse-piscine-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lucciana, France",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "borgo": {
+    "artisans": [
+      {
+        "id": "11694086283100880141",
+        "nom": "Borgo Materiel Piscine",
+        "slug": "borgo-materiel-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Borgo, France",
+        "note": null,
+        "avis": null,
+        "type": "Sporting goods store"
+      }
+    ]
+  },
+  "brando": {
+    "artisans": [
+      {
+        "id": "6157738552616572999",
+        "nom": "Ma piscine",
+        "slug": "ma-piscine",
+        "telephone": "0666 67 70 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 10,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "calenzana": {
+    "artisans": [
+      {
+        "id": "12135490132523970885",
+        "nom": "KALLISTÉ PISCINES",
+        "slug": "kalliste-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Calenzana, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "cervione": {
+    "artisans": [
+      {
+        "id": "12797483711415671719",
+        "nom": "Corse Piscine Services Moriani",
+        "slug": "corse-piscine-services-moriani",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "San-Nicolao, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15336758803440636916",
+        "nom": "Maison à Cervione Prunete jardin piscine accès direct plage",
+        "slug": "maison-a-cervione-prunete-jardin-piscine-acces-direct-plage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cervione, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "furiani": {
+    "artisans": [
+      {
+        "id": "1513726970988157380",
+        "nom": "Piscines Concept Furiani",
+        "slug": "piscines-concept-furiani",
+        "telephone": "+33 4 95 48 17 93",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "ghisonaccia": {
+    "artisans": [
+      {
+        "id": "6165489817216046623",
+        "nom": "Corse Piscine Equipement",
+        "slug": "corse-piscine-equipement",
+        "telephone": null,
+        "site_web": "http://corsepiscineequipement.com/",
+        "adresse": "Prunelli-di-Fiumorbo, France",
+        "note": 4,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14696863801180825467",
+        "nom": "HYDRALIANS PROSJET IRRIGARONNE Ghisonaccia",
+        "slug": "hydralians-prosjet-irrigaronne-ghisonaccia",
+        "telephone": null,
+        "site_web": "https://www.hydralians.fr/?y_source=1_NDU4NTUxMjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "adresse": "Ghisonaccia, France",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Lawn sprinkler system contractor"
+      },
+      {
+        "id": "6218492857362355534",
+        "nom": "MC Services Piscines",
+        "slug": "mc-services-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 5,
+        "avis": 1,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "13118567636958065142",
+        "nom": "ISULA POOL SERVICE",
+        "slug": "isula-pool-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "17107790862768038324",
+        "nom": "Location Appartement piscine Corse ****",
+        "slug": "location-appartement-piscine-corse",
+        "telephone": null,
+        "site_web": "http://www.vacancescorse.ch/",
+        "adresse": "Ghisonaccia, France",
+        "note": null,
+        "avis": null,
+        "type": "Holiday apartment rental"
+      },
+      {
+        "id": "15750683227192248075",
+        "nom": "E Case Di U Puntale : Villa avec piscine privée, au calme, grande capacité, proche plage et Porto-Vecchio, Haute-Corse",
+        "slug": "e-case-di-u-puntale-villa-avec-piscine-privee-au-calme-grande-capacite-proche-plage-et-porto-vecchio-haute-corse",
+        "telephone": null,
+        "site_web": "https://www.vivaweek.com/fr/villa-ghisonaccia-haute-corse/543970",
+        "adresse": "Ghisonaccia, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Villa"
+      },
+      {
+        "id": "2206052772058711202",
+        "nom": "Très belle villa à Ghisonaccia avec piscine chauffée",
+        "slug": "tres-belle-villa-a-ghisonaccia-avec-piscine-chauffee",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/648582a07f7e24c1922cf99a?dest=bkng&cat=Villa&lat=42.02357&lng=9.41475&language=pt",
+        "adresse": "Ghisonaccia, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "l-ile-rousse": {
+    "artisans": [
+      {
+        "id": "3279146132216846894",
+        "nom": "Balagne Piscines Services",
+        "slug": "balagne-piscines-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Z.A",
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "14522145105351792598",
+        "nom": "Alivi Piscines",
+        "slug": "alivi-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lozari",
+        "note": 3.9,
+        "avis": 20,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "18184437732194312435",
+        "nom": "I POZZI SAS MTP2B",
+        "slug": "i-pozzi-sas-mtp2b",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "A coté auto bilan ZA, ROUTE NATIONAL 197",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "18067414984974531705",
+        "nom": "KPyscine",
+        "slug": "kpyscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "45 Rte de Calvi",
+        "note": null,
+        "avis": null,
+        "type": "Store"
+      }
+    ]
+  },
+  "linguizzetta": {
+    "artisans": [
+      {
+        "id": "10495890732573992255",
+        "nom": "Corse Clean Piscine",
+        "slug": "corse-clean-piscine",
+        "telephone": "+33 6 86 14 32 66",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "16252161360827479435",
+        "nom": "PPS Corse",
+        "slug": "pps-corse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Linguizzetta, France",
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "lucciana": {
+    "artisans": [
+      {
+        "id": "7912756492253972298",
+        "nom": "Réparation robots et pompes de piscine et spas toutes marques en corse installation frises recherche de fuites",
+        "slug": "reparation-robots-et-pompes-de-piscine-et-spas-toutes-marques-en-corse-installation-frises-recherche-de-fuites",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lucciana, France",
+        "note": 5,
+        "avis": 141,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2044593715055383679",
+        "nom": "Corse Acqua Elec Piscines et Spas",
+        "slug": "corse-acqua-elec-piscines-et-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lucciana, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Store"
+      },
+      {
+        "id": "15698807068911388767",
+        "nom": "Waterair",
+        "slug": "waterair",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lucciana, France",
+        "note": 5,
+        "avis": 27,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "monticello": {
+    "artisans": [
+      {
+        "id": "9850041840272452300",
+        "nom": "Piscine municipale de Monticello",
+        "slug": "piscine-municipale-de-monticello",
+        "telephone": "+33 6 71 14 12 51",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "oletta": {
+    "artisans": [
+      {
+        "id": "9811337969879481844",
+        "nom": "Piscine Insulaire",
+        "slug": "piscine-insulaire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Oletta, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7669219819114062952",
+        "nom": "Your home with swimming pool 10 minutes from Saint Florent!",
+        "slug": "your-home-with-swimming-pool-10-minutes-from-saint-florent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Oletta, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "18213045143250614903",
+        "nom": "SAINT-FLORENT 2 Pièces terrasse piscine FLO300-J07",
+        "slug": "saint-florent-2-pieces-terrasse-piscine-flo300-j07",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Florent, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "782063460790009993",
+        "nom": "Villa Oletta, avec piscine et tennis communs, à 5km de St Florent",
+        "slug": "villa-oletta-avec-piscine-et-tennis-communs-a-5km-de-st-florent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Oletta, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "15736687818626290206",
+        "nom": "Isula multi services",
+        "slug": "isula-multi-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": 5,
+        "avis": 6,
+        "type": "Gardener"
+      }
+    ]
+  },
+  "penta-di-casinca": {
+    "artisans": [
+      {
+        "id": "6577015667937816372",
+        "nom": "Avenir piscines",
+        "slug": "avenir-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Penta-di-Casinca, France",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "6155566993934625736",
+        "nom": "Avenir Piscine et Jardins",
+        "slug": "avenir-piscine-et-jardins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Talasani, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17833957675702608269",
+        "nom": "Swim Stars | Folelli",
+        "slug": "swim-stars-folelli",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Penta-di-Casinca, France",
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming school"
+      }
+    ]
+  },
+  "prunelli-di-fiumorbo": {
+    "artisans": [
+      {
+        "id": "12339815801273933877",
+        "nom": "piscines services",
+        "slug": "piscines-services",
+        "telephone": "+33 6 22 90 41 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 2,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "sisco": {
+    "artisans": [
+      {
+        "id": "18387939140795301527",
+        "nom": "SISCO",
+        "slug": "sisco",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Plessis-Robinson, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Real Estate Builders & Construction Company"
+      }
+    ]
+  },
+  "san-nicolao": {
+    "artisans": [
+      {
+        "id": "17619041856480090945",
+        "nom": "House in San-Nicolao with Pool",
+        "slug": "house-in-san-nicolao-with-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "San-Nicolao, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "santa-reparata-di-balagna": {
+    "artisans": [
+      {
+        "id": "2654820905401427685",
+        "nom": "AU PLAISIR DE L'EAU",
+        "slug": "au-plaisir-de-l-eau",
+        "telephone": null,
+        "site_web": "https://www.auplaisirdeleau.fr/",
+        "adresse": "ZA, T30",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "16139201871602963160",
+        "nom": "VILLA CORSA**** l'île Rousse piscine vue mer panoramique",
+        "slug": "villa-corsa-l-ile-rousse-piscine-vue-mer-panoramique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "l, VILLA CORSA l'Ile Rousse Villa avec piscine - vue mer panoramique Route de Monticello'ILE ROUSSE FR",
+        "note": 5,
+        "avis": 6,
+        "type": "Extended stay hotel"
+      },
+      {
+        "id": "2397776776544572298",
+        "nom": "VILLA CORSA**** PISCINE VUE MER PANORAMIQUE",
+        "slug": "villa-corsa-piscine-vue-mer-panoramique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santa-Reparata-di-Balagna, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "11392720539891743315",
+        "nom": "VILLA CORSA**** PISCINE VUE MER PANORAMIQUE",
+        "slug": "villa-corsa-piscine-vue-mer-panoramique",
+        "telephone": null,
+        "site_web": "https://www.booking.com/hotel/fr/villa-corsa-piscine-vue-mer-panoramique-santa-reparata-di-balagna.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-7316187_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-7316187;utm_campaign=en",
+        "adresse": "Santa-Reparata-di-Balagna, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9804853344585340929",
+        "nom": "MG Balagna",
+        "slug": "mg-balagna",
+        "telephone": null,
+        "site_web": "http://www.mg-balagna.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guidicelli Col de, Fogata",
+        "note": 5,
+        "avis": 2,
+        "type": "Construction company"
+      },
+      {
+        "id": "3891834931733884871",
+        "nom": "Villa Madrale",
+        "slug": "villa-madrale",
+        "telephone": null,
+        "site_web": "https://www.villa-madrale.com/",
+        "adresse": "Route de Monticello",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Guest house"
+      }
+    ]
+  },
+  "vescovato": {
+    "artisans": [
+      {
+        "id": "11167663475596797238",
+        "nom": "Universo Piscine srl",
+        "slug": "universo-piscine-srl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vescovato, Province of Cremona, Italy",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "801535683823473487",
+        "nom": "Piscine Laghetto",
+        "slug": "piscine-laghetto",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vescovato, Province of Cremona, Italy",
+        "note": 3.9,
+        "avis": 102,
+        "type": "Manufacturer"
+      }
+    ]
+  }
+}

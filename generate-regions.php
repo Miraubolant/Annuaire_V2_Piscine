@@ -13,10 +13,10 @@ if (!is_dir(REGIONS_DIR)) {
 
 $regions = [];
 
-// Pr�-charger les comptes d'artisans par commune depuis artisans-vmc/
+// Pr�-charger les comptes d'artisans par commune depuis artisans-piscine/
 // Structure : $artisansByDept[DEPT_CODE][commune_slug] = nb_artisans
 $artisansByDept = [];
-foreach (glob(OUTPUT_DIR . '/artisans-vmc/*.json') as $nicheFile) {
+foreach (glob(OUTPUT_DIR . '/artisans-piscine/*.json') as $nicheFile) {
     $deptCode = strtolower(basename($nicheFile, '.json'));
     $nicheData = json_decode(file_get_contents($nicheFile), true) ?? [];
     $artisansByDept[$deptCode] = [];
@@ -41,7 +41,7 @@ foreach ($files as $file) {
             'stats' => [
                 'communes_total' => 0,
                 'communes_avec_artisans' => 0,
-                'artisans_vmc' => 0,
+                'artisans_piscine' => 0,
                 'population_totale' => 0,
             ],
             'zones_climatiques' => [],
@@ -56,7 +56,7 @@ foreach ($files as $file) {
         'population_totale' => $data['departement']['population_totale'],
         'communes_count' => $data['communes_count'],
         'communes_avec_artisans' => 0,
-        'artisans_vmc' => 0,
+        'artisans_piscine' => 0,
         'voisins' => $data['voisins'] ?? [],
     ];
 
@@ -66,8 +66,8 @@ foreach ($files as $file) {
 
         $regions[$rSlug]['stats']['communes_total']++;
         $regions[$rSlug]['stats']['population_totale'] += $commune['population'] ?? 0;
-        $regions[$rSlug]['stats']['artisans_vmc'] += $nbArtisans;
-        $deptStats['artisans_vmc'] += $nbArtisans;
+        $regions[$rSlug]['stats']['artisans_piscine'] += $nbArtisans;
+        $deptStats['artisans_piscine'] += $nbArtisans;
 
         if ($nbArtisans > 0) {
             $regions[$rSlug]['stats']['communes_avec_artisans']++;
@@ -102,7 +102,7 @@ foreach ($regions as $rSlug => $rData) {
     $path = REGIONS_DIR . '/' . $rSlug . '.json';
     file_put_contents($path, json_encode($rData, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     $count++;
-    echo "  ✓ {$rData['region']['nom']} ({$rData['stats']['communes_total']} communes, {$rData['stats']['artisans_vmc']} artisans)\n";
+    echo "  ✓ {$rData['region']['nom']} ({$rData['stats']['communes_total']} communes, {$rData['stats']['artisans_piscine']} artisans)\n";
 }
 
 echo "\n{$count} fichiers générés dans output/regions/\n";

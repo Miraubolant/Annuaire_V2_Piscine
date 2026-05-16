@@ -4,21 +4,21 @@
 
 /* â”€â”€â”€ Scrollbars â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 ::-webkit-scrollbar              { width: 8px; height: 8px; }
-::-webkit-scrollbar-track        { background: #CFFAFE; }
-::-webkit-scrollbar-thumb        { background: #0E7490; border-radius: 99px; border: 2px solid #CFFAFE; }
-::-webkit-scrollbar-thumb:hover  { background: #0B6B7E; }
-* { scrollbar-width: thin; scrollbar-color: #0E7490 #CFFAFE; }
+::-webkit-scrollbar-track        { background: #BAE6FD; }
+::-webkit-scrollbar-thumb        { background: #0284C7; border-radius: 99px; border: 2px solid #BAE6FD; }
+::-webkit-scrollbar-thumb:hover  { background: #0369A1; }
+* { scrollbar-width: thin; scrollbar-color: #0284C7 #BAE6FD; }
 
 /* â”€â”€â”€ Variables de marque â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 :root {
-  --forest:        #0B6B7E;
-  --forest-dark:   #054B5C;
-  --forest-mid:    #0E7490;
-  --forest-light:  #38BDF8;
+  --forest:        #0369A1;
+  --forest-dark:   #0C4A6E;
+  --forest-mid:    #0284C7;
+  --forest-light:  #7DD3FC;
   --gold:          #F59E0B;
   --gold-light:    #FCD34D;
-  --cream:         #F0FBFF;
-  --stone:         #CFFAFE;
+  --cream:         #F0F9FF;
+  --stone:         #BAE6FD;
   --text:          #1C1C1A;
   --text-muted:    #6B6762;
   --white:         #FFFFFF;
@@ -76,7 +76,7 @@
   background: rgba(250, 248, 243, 0.97);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 1px 0 rgba(11,107,126,.10), var(--shadow-sm);
+  box-shadow: 0 1px 0 rgba(3,105,161,.10), var(--shadow-sm);
 }
 .site-header.hdr-transparent {
   background: transparent;
@@ -110,7 +110,7 @@
   justify-content: center;
   font-size: 18px;
   flex-shrink: 0;
-  box-shadow: 0 2px 8px rgba(11,107,126,.3);
+  box-shadow: 0 2px 8px rgba(3,105,161,.3);
 }
 .hdr-logo-name {
   font-family: var(--font-display);
@@ -153,7 +153,7 @@
   white-space: nowrap;
   text-decoration: none;
 }
-.nav-btn:hover, .nav-btn.open { background: rgba(11,107,126,.08); color: var(--forest); }
+.nav-btn:hover, .nav-btn.open { background: rgba(3,105,161,.08); color: var(--forest); }
 .hdr-transparent .nav-btn { color: rgba(255,255,255,0.9); }
 .hdr-transparent .nav-btn:hover, .hdr-transparent .nav-btn.open {
   background: rgba(255,255,255,.15);
@@ -271,7 +271,7 @@
   color: var(--text);
   transition: background 0.15s;
 }
-.hdr-search-btn:hover { background: rgba(11,107,126,.08); }
+.hdr-search-btn:hover { background: rgba(3,105,161,.08); }
 .hdr-transparent .hdr-search-btn { color: rgba(255,255,255,.85); }
 .hdr-transparent .hdr-search-btn:hover { background: rgba(255,255,255,.15); color: #fff; }
 
@@ -320,7 +320,7 @@
 }
 .hdr-search-field-wrap:focus-within {
   border-color: var(--forest);
-  box-shadow: 0 0 0 4px rgba(11,107,126,.08);
+  box-shadow: 0 0 0 4px rgba(3,105,161,.08);
 }
 .hdr-search-icon {
   flex-shrink: 0;
@@ -422,7 +422,7 @@
   font-size: 11px;
   font-weight: 700;
   color: var(--forest);
-  background: rgba(11,107,126,.08);
+  background: rgba(3,105,161,.08);
   padding: 3px 8px;
   border-radius: 100px;
 }
@@ -436,8 +436,8 @@
   position: relative;
   background-color: var(--forest-dark);
   background-image:
-    linear-gradient(160deg, rgba(5,75,92,0.92) 0%, rgba(11,107,126,0.78) 60%, rgba(4,55,70,0.88) 100%),
-    url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1920&q=80');
+    linear-gradient(160deg, rgba(12,74,110,0.92) 0%, rgba(3,105,161,0.78) 60%, rgba(3,49,84,0.88) 100%),
+    url('https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1920&q=80');
   background-size: cover;
   background-position: center 40%;
 }
@@ -619,7 +619,7 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--forest);
-  background: rgba(11,107,126,.08);
+  background: rgba(3,105,161,.08);
   padding: 4px 12px;
   border-radius: 100px;
   margin-bottom: 12px;
@@ -738,7 +738,7 @@
   font-size: 13px;
   font-weight: 700;
   color: var(--forest);
-  background: rgba(11,107,126,.08);
+  background: rgba(3,105,161,.08);
   display: inline-block;
   padding: 2px 8px;
   border-radius: 4px;
@@ -842,7 +842,7 @@
 
 /* â”€â”€â”€ Hero 2 colonnes â€” pages ville / rÃ©gion / dÃ©partement â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 .ph-section {
-  background: linear-gradient(135deg, var(--forest) 0%, #054B5C 100%);
+  background: linear-gradient(135deg, var(--forest) 0%, #0C4A6E 100%);
   position: relative;
   overflow: hidden;
   padding: 52px 24px;

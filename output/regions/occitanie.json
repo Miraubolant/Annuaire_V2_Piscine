@@ -12,8 +12,8 @@
             "slug": "ariege",
             "population_totale": 155310,
             "communes_count": 325,
-            "communes_avec_artisans": 21,
-            "artisans_vmc": 170,
+            "communes_avec_artisans": 20,
+            "artisans_piscine": 59,
             "voisins": [
                 {
                     "dep_code": "11",
@@ -43,8 +43,8 @@
             "slug": "aude",
             "population_totale": 377685,
             "communes_count": 433,
-            "communes_avec_artisans": 68,
-            "artisans_vmc": 529,
+            "communes_avec_artisans": 41,
+            "artisans_piscine": 101,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -74,8 +74,8 @@
             "slug": "aveyron",
             "population_totale": 279284,
             "communes_count": 285,
-            "communes_avec_artisans": 52,
-            "artisans_vmc": 406,
+            "communes_avec_artisans": 40,
+            "artisans_piscine": 83,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -105,8 +105,8 @@
             "slug": "gard",
             "population_totale": 758288,
             "communes_count": 350,
-            "communes_avec_artisans": 136,
-            "artisans_vmc": 1006,
+            "communes_avec_artisans": 91,
+            "artisans_piscine": 262,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -136,8 +136,8 @@
             "slug": "haute-garonne",
             "population_totale": 1437172,
             "communes_count": 586,
-            "communes_avec_artisans": 166,
-            "artisans_vmc": 1344,
+            "communes_avec_artisans": 108,
+            "artisans_piscine": 224,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -167,8 +167,8 @@
             "slug": "gers",
             "population_totale": 192138,
             "communes_count": 458,
-            "communes_avec_artisans": 23,
-            "artisans_vmc": 133,
+            "communes_avec_artisans": 22,
+            "artisans_piscine": 69,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -198,8 +198,8 @@
             "slug": "herault",
             "population_totale": 1204057,
             "communes_count": 341,
-            "communes_avec_artisans": 160,
-            "artisans_vmc": 1320,
+            "communes_avec_artisans": 103,
+            "artisans_piscine": 234,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -229,8 +229,8 @@
             "slug": "lot",
             "population_totale": 176209,
             "communes_count": 312,
-            "communes_avec_artisans": 28,
-            "artisans_vmc": 153,
+            "communes_avec_artisans": 26,
+            "artisans_piscine": 61,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -260,8 +260,8 @@
             "slug": "lozere",
             "population_totale": 76549,
             "communes_count": 152,
-            "communes_avec_artisans": 13,
-            "artisans_vmc": 89,
+            "communes_avec_artisans": 7,
+            "artisans_piscine": 12,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -291,8 +291,8 @@
             "slug": "hautes-pyrenees",
             "population_totale": 230997,
             "communes_count": 469,
-            "communes_avec_artisans": 31,
-            "artisans_vmc": 262,
+            "communes_avec_artisans": 17,
+            "artisans_piscine": 35,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -322,8 +322,8 @@
             "slug": "pyrenees-orientales",
             "population_totale": 488479,
             "communes_count": 226,
-            "communes_avec_artisans": 85,
-            "artisans_vmc": 648,
+            "communes_avec_artisans": 55,
+            "artisans_piscine": 147,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -353,8 +353,8 @@
             "slug": "tarn",
             "population_totale": 394331,
             "communes_count": 314,
-            "communes_avec_artisans": 68,
-            "artisans_vmc": 518,
+            "communes_avec_artisans": 37,
+            "artisans_piscine": 69,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -384,8 +384,8 @@
             "slug": "tarn-et-garonne",
             "population_totale": 263633,
             "communes_count": 195,
-            "communes_avec_artisans": 60,
-            "artisans_vmc": 477,
+            "communes_avec_artisans": 26,
+            "artisans_piscine": 56,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -412,8 +412,8 @@
     ],
     "stats": {
         "communes_total": 4446,
-        "communes_avec_artisans": 911,
-        "artisans_vmc": 7055,
+        "communes_avec_artisans": 593,
+        "artisans_piscine": 1412,
         "population_totale": 6034132
     },
     "zones_climatiques": {

@@ -1,0 +1,1037 @@
+{
+  "agon-coutainville": {
+    "artisans": [
+      {
+        "id": "3193424611265594107",
+        "nom": "Tennis Club Coutainville",
+        "slug": "tennis-club-coutainville",
+        "telephone": "+33 2 33 47 08 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 53,
+        "type": "Tennis club"
+      },
+      {
+        "id": "3715838232524968417",
+        "nom": "Gîtes des Embruns",
+        "slug": "gites-des-embruns",
+        "telephone": "+33 7 85 36 52 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 101,
+        "type": "Bed & breakfast"
+      },
+      {
+        "id": "15326293329825295848",
+        "nom": "Villa, 300 m away, seaside, Agon-Coutainville, 7\\/8 people",
+        "slug": "villa-300-m-away-seaside-agon-coutainville-78-people",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Agon-Coutainville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "2171569261387691132",
+        "nom": "Plage d'Agon-Coutainville",
+        "slug": "plage-d-agon-coutainville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Agon-Coutainville, France",
+        "note": 4,
+        "avis": 50,
+        "type": "Promenade"
+      },
+      {
+        "id": "1738689279987733160",
+        "nom": "A.P. BIEN-ETRE",
+        "slug": "ap-bien-etre",
+        "telephone": "+33 2 33 59 91 65",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11016536185937377615",
+        "nom": "Piscine estival",
+        "slug": "piscine-estival",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Agon-Coutainville, France",
+        "note": null,
+        "avis": null,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "avranches": {
+    "artisans": [
+      {
+        "id": "7979274428187817957",
+        "nom": "Matex Environnement - Mondial Piscine Avranches",
+        "slug": "matex-environnement-mondial-piscine-avranches",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pontaubault, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "3689914551470842665",
+        "nom": "Piscine Aqua baie",
+        "slug": "piscine-aqua-baie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Avranches, France",
+        "note": 3.7,
+        "avis": 498,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "barneville-carteret": {
+    "artisans": [
+      {
+        "id": "13379659934832513911",
+        "nom": "La Potiniere",
+        "slug": "la-potiniere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16 Rue du Port",
+        "note": 4,
+        "avis": 1,
+        "type": "Seafood"
+      },
+      {
+        "id": "11719727282010195097",
+        "nom": "Hôtel la Marine",
+        "slug": "hotel-la-marine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Rue de Paris",
+        "note": 4,
+        "avis": 1,
+        "type": "Hotel"
+      },
+      {
+        "id": "6101535396230781053",
+        "nom": "MARNAGE Restaurant",
+        "slug": "marnage-restaurant",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Rue de Paris",
+        "note": 4,
+        "avis": 127,
+        "type": "Restaurant"
+      },
+      {
+        "id": "7793184326428400568",
+        "nom": "Le Russel",
+        "slug": "le-russel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue du Port",
+        "note": 4,
+        "avis": 846,
+        "type": "Restaurant"
+      },
+      {
+        "id": "7075888951589706140",
+        "nom": "Hôtel des Isles",
+        "slug": "hotel-des-isles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 Bd Maritime",
+        "note": 4,
+        "avis": 771,
+        "type": "Restaurant"
+      },
+      {
+        "id": "5695181088146137579",
+        "nom": "Restaurant Le Cap",
+        "slug": "restaurant-le-cap",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue du Port",
+        "note": 4,
+        "avis": 1,
+        "type": "French"
+      },
+      {
+        "id": "5481328358135182070",
+        "nom": "L'escale",
+        "slug": "l-escale",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Quai Valmy",
+        "note": 4,
+        "avis": 295,
+        "type": "Tapas Bar"
+      },
+      {
+        "id": "7158990824542299743",
+        "nom": "Bar Restaurant La Cale Marine",
+        "slug": "bar-restaurant-la-cale-marine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Prom. Abbé Lebouteiller",
+        "note": 4,
+        "avis": 968,
+        "type": "Restaurant"
+      },
+      {
+        "id": "17415126995521263773",
+        "nom": "Terminus Carteret",
+        "slug": "terminus-carteret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pl. du Terminus",
+        "note": 4,
+        "avis": 968,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "la-hague": {
+    "artisans": [
+      {
+        "id": "7041137442046156769",
+        "nom": "Aquatic Center Océalis",
+        "slug": "aquatic-center-ocealis",
+        "telephone": "+33 2 33 01 82 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 447,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "blainville-sur-mer": {
+    "artisans": [
+      {
+        "id": "17260382879870337999",
+        "nom": "Exo Piscine",
+        "slug": "exo-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gouville-sur-Mer, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "jullouville": {
+    "artisans": [
+      {
+        "id": "4094644787155214491",
+        "nom": "Cozy Mobile Home, 4p, 200m to Beach, Pool, Fitness, Parking",
+        "slug": "cozy-mobile-home-4p-200m-to-beach-pool-fitness-parking",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/681269d41a0d3c624b008a60?dest=bpex&cat=House&lat=48.77092&lng=-1.56698&language=pt",
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9770559027481366831",
+        "nom": "Mobil-home Luxe à Jullouville: 200m plage, piscine chauffée, 4 pers, parking, Wi-Fi inclus - FR-1-361A-34",
+        "slug": "mobil-home-luxe-a-jullouville-200m-plage-piscine-chauffee-4-pers-parking-wi-fi-inclus-fr-1-361a-34",
+        "telephone": null,
+        "site_web": "https://www.booking.com/hotel/fr/mobil-home-jullouville-3-pieces-4-personnes-fr-1-361a-34.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-8373386_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-8373386;utm_campaign=en",
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9164723526686328375",
+        "nom": "Mobil-home luxueux à Jullouville, 200m plage, piscine chauffée, pour 6 personnes - FR-1-361A-73",
+        "slug": "mobil-home-luxueux-a-jullouville-200m-plage-piscine-chauffee-pour-6-personnes-fr-1-361a-73",
+        "telephone": null,
+        "site_web": "https://www.booking.com/hotel/fr/mobil-home-jullouville-4-pieces-6-personnes-fr-1-361a-73.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11769638_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11769638;utm_campaign=en",
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9608449143490470710",
+        "nom": "Comfortable Mobile Home, 200m from Beach, 2BR, Pool Parking Included",
+        "slug": "comfortable-mobile-home-200m-from-beach-2br-pool-parking-included",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/681248251a0d3c624bfed72e?dest=bpex&cat=House&lat=48.7779&lng=-1.56499&language=pt",
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "18164496287365360884",
+        "nom": "Mobil-home Grand Confort proche plage avec piscine chauffée, fitness et parking, Jullouville - FR-1-361A-17",
+        "slug": "mobil-home-grand-confort-proche-plage-avec-piscine-chauffee-fitness-et-parking-jullouville-fr-1-361a-17",
+        "telephone": null,
+        "site_web": "https://www.booking.com/hotel/fr/maison-jullouville-3-pieces-4-personnes-fr-1-361a-17.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-8271145_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-8271145;utm_campaign=en",
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "13679675671953935603",
+        "nom": "Charming Cottage near Beach in Jullouville - Heated Pool, Terrace, and Private Parking",
+        "slug": "charming-cottage-near-beach-in-jullouville-heated-pool-terrace-and-private-parking",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "654635073166411807",
+        "nom": "Chalet de standing à Jullouville avec piscine chauffée, 3 chambres, proche plage et commerces - FR-1-361-469",
+        "slug": "chalet-de-standing-a-jullouville-avec-piscine-chauffee-3-chambres-proche-plage-et-commerces-fr-1-361-469",
+        "telephone": null,
+        "site_web": "https://www.booking.com/hotel/fr/chalet-jullouville-4-pieces-6-personnes-fr-1-361-469.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-9641616_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-9641616;utm_campaign=en",
+        "adresse": "Jullouville, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "brehal": {
+    "artisans": [
+      {
+        "id": "6099486872216240742",
+        "nom": "Daniel Moquet signe vos clôtures - Ent. Vaugeois",
+        "slug": "daniel-moquet-signe-vos-clotures-ent-vaugeois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bréhal, France",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "bricqueville-sur-mer": {
+    "artisans": [
+      {
+        "id": "16979719467338875344",
+        "nom": "Irripiscine by Irrijardin Granville - Yquelon",
+        "slug": "irripiscine-by-irrijardin-granville-yquelon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Yquelon, France",
+        "note": 4,
+        "avis": 22,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "carentan-les-marais": {
+    "artisans": [
+      {
+        "id": "13900893155801849679",
+        "nom": "Centre aquatique l'Aquadick",
+        "slug": "centre-aquatique-l-aquadick",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "14 Rue Sivard de Beaulieu",
+        "note": 4.2,
+        "avis": 342,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "cerences": {
+    "artisans": [
+      {
+        "id": "2492125568269040387",
+        "nom": "Westcoast Piscine & Spa",
+        "slug": "westcoast-piscine-spa",
+        "telephone": "+33 6 89 10 80 77",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "cerisy-la-foret": {
+    "artisans": [
+      {
+        "id": "1412231292080886125",
+        "nom": "Maison de campagne, piscine intérieure utilisable toute l'année",
+        "slug": "maison-de-campagne-piscine-interieure-utilisable-toute-l-annee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "15289010805915422400",
+        "nom": "Gîte écolo, piscine chauffée toute l'année",
+        "slug": "gite-ecolo-piscine-chauffee-toute-l-annee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "1534567190427009506",
+        "nom": "Bungalow de 2 chambres avec piscine partagee et jardin amenage a Litteau",
+        "slug": "bungalow-de-2-chambres-avec-piscine-partagee-et-jardin-amenage-a-litteau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "cherbourg-en-cotentin": {
+    "artisans": [
+      {
+        "id": "6819330678364411256",
+        "nom": "Piscine Chantereyne",
+        "slug": "piscine-chantereyne",
+        "telephone": "+33 2 33 53 18 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 333,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "14039592812547847605",
+        "nom": "Cotentin Freedom Piscine",
+        "slug": "cotentin-freedom-piscine",
+        "telephone": "+33 7 82 52 58 63",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13848621228647517603",
+        "nom": "Piscine de la Butte",
+        "slug": "piscine-de-la-butte",
+        "telephone": "+33 2 33 53 07 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 122,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "12258368285253222687",
+        "nom": "Centre Aquatique",
+        "slug": "centre-aquatique",
+        "telephone": "+33 2 33 01 86 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 748,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "5286173937793954219",
+        "nom": "Swimming pool Collignon",
+        "slug": "swimming-pool-collignon",
+        "telephone": "+33 2 33 44 23 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 428,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "coutances": {
+    "artisans": [
+      {
+        "id": "17483666909247677356",
+        "nom": "Swimming pool Coutances",
+        "slug": "swimming-pool-coutances",
+        "telephone": "+33 2 33 76 59 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 328,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "creances": {
+    "artisans": [
+      {
+        "id": "6613617121507779562",
+        "nom": "Alliance piscine",
+        "slug": "alliance-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Abidjan",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8752525846871127883",
+        "nom": "Aquaelys Piscines",
+        "slug": "aquaelys-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Abidjan",
+        "note": 3,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14596710247525142541",
+        "nom": "GROUPE PISCINE IVOIRE",
+        "slug": "groupe-piscine-ivoire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Abidjan",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "digosville": {
+    "artisans": [
+      {
+        "id": "2997584901987822010",
+        "nom": "Spa Manche",
+        "slug": "spa-manche",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rauville-la-Bigot, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "donville-les-bains": {
+    "artisans": [
+      {
+        "id": "3753260313193021140",
+        "nom": "Piscine de Mer De Donville Les Bains",
+        "slug": "piscine-de-mer-de-donville-les-bains",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 4.3,
+        "avis": 107,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "10363995297947614179",
+        "nom": "Centre aquatique L'hippocampe",
+        "slug": "centre-aquatique-l-hippocampe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Granville, France",
+        "note": 4,
+        "avis": 728,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "gavray-sur-sienne": {
+    "artisans": [
+      {
+        "id": "16900737500389913884",
+        "nom": "A P Bien Etre",
+        "slug": "a-p-bien-etre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": 3.3,
+        "avis": 15,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "isigny-le-buat": {
+    "artisans": [
+      {
+        "id": "16603393192792581998",
+        "nom": "Gîtes Pierre et Nature, piscine, spa, sauna",
+        "slug": "gites-pierre-et-nature-piscine-spa-sauna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Isigny-le-Buat, France",
+        "note": 4.7,
+        "avis": 68,
+        "type": "Holiday home"
+      },
+      {
+        "id": "9449031332790730892",
+        "nom": "La Miltière",
+        "slug": "la-miltiere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Isigny-le-Buat, France",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Bed & breakfast"
+      }
+    ]
+  },
+  "les-loges-marchis": {
+    "artisans": [
+      {
+        "id": "6446920857836211776",
+        "nom": "Piscine communautaire de Saint Hilaire-du-Harcouët",
+        "slug": "piscine-communautaire-de-saint-hilaire-du-harcouet",
+        "telephone": "+33 2 55 47 11 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 278,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "marcey-les-greves": {
+    "artisans": [
+      {
+        "id": "3508294248401872818",
+        "nom": "La Maison Bleue - Villa 15 pers. - Baie du Mont Saint-Michel",
+        "slug": "la-maison-bleue-villa-15-pers-baie-du-mont-saint-michel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marcey-les-Grèves, France",
+        "note": 5,
+        "avis": 14,
+        "type": "Holiday home"
+      }
+    ]
+  },
+  "martinvast": {
+    "artisans": [
+      {
+        "id": "5290966252903943555",
+        "nom": "Piscine aux Allemands",
+        "slug": "piscine-aux-allemands",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Le Boulay",
+        "note": 5,
+        "avis": 1,
+        "type": "Cultural landmark"
+      },
+      {
+        "id": "12410013066429429893",
+        "nom": "Martin Eddy",
+        "slug": "martin-eddy",
+        "telephone": "+33 2 33 08 35 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 16,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "montmartin-sur-mer": {
+    "artisans": [
+      {
+        "id": "16605640841433842926",
+        "nom": "Centre PEP",
+        "slug": "centre-pep",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montmartin-sur-Mer, France",
+        "note": 4.5,
+        "avis": 61,
+        "type": "Bed & breakfast"
+      },
+      {
+        "id": "5506267450896207491",
+        "nom": "PEP de la Manche",
+        "slug": "pep-de-la-manche",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montmartin-sur-Mer, France",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Sports complex"
+      },
+      {
+        "id": "17531746207112541817",
+        "nom": "Appartement confortable a Montmartin sur Mer / 27 m² avec piscine partagee",
+        "slug": "appartement-confortable-a-montmartin-sur-mer-27-m-avec-piscine-partagee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "moyon-villages": {
+    "artisans": [
+      {
+        "id": "14105036053426510024",
+        "nom": "Gîtes de LA PETELLERIE",
+        "slug": "gites-de-la-petellerie",
+        "telephone": "+33 6 14 16 98 57",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Cottage"
+      }
+    ]
+  },
+  "les-pieux": {
+    "artisans": [
+      {
+        "id": "13397946838501436199",
+        "nom": "Tous à la mer",
+        "slug": "tous-a-la-mer",
+        "telephone": "+33 6 08 58 82 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Outdoor swimming pool"
+      },
+      {
+        "id": "10156537592839038365",
+        "nom": "Ambiance Moderne - aménagements intérieurs et extérieurs",
+        "slug": "ambiance-moderne-amenagements-interieurs-et-exterieurs",
+        "telephone": "+33 6 86 98 01 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 10,
+        "type": "Cabinet store"
+      },
+      {
+        "id": "12045318828045920671",
+        "nom": "COTENTIN NATATION",
+        "slug": "cotentin-natation",
+        "telephone": "+33 6 19 79 51 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 4,
+        "type": "Swim club"
+      },
+      {
+        "id": "4821767773939714254",
+        "nom": "Pool of the Pious",
+        "slug": "pool-of-the-pious",
+        "telephone": "+33 2 33 04 27 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 130,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "pirou": {
+    "artisans": [
+      {
+        "id": "18162479298768195562",
+        "nom": "Piscine cachée de Pirou",
+        "slug": "piscine-cachee-de-pirou",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pirou, France",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "pontorson": {
+    "artisans": [
+      {
+        "id": "18367931545839377827",
+        "nom": "House Pontorson, pool.",
+        "slug": "house-pontorson-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "10596653563308088296",
+        "nom": "Maison charmante a Pontorson avec piscine partagee",
+        "slug": "maison-charmante-a-pontorson-avec-piscine-partagee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "romagny-fontenay": {
+    "artisans": [
+      {
+        "id": "10904233881570195290",
+        "nom": "JUSTAPOSÉ",
+        "slug": "justapose",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 5,
+        "avis": 2,
+        "type": "Manufacturer"
+      },
+      {
+        "id": "6742238986827500782",
+        "nom": "Barrain Extrusion",
+        "slug": "barrain-extrusion",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 5,
+        "avis": 5,
+        "type": "Deck builder"
+      }
+    ]
+  },
+  "saint-amand-villages": {
+    "artisans": [
+      {
+        "id": "8744589529556030183",
+        "nom": "Swimming pool Saint-Amand",
+        "slug": "swimming-pool-saint-amand",
+        "telephone": "+33 2 33 56 07 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 104,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "saint-pair-sur-mer": {
+    "artisans": [
+      {
+        "id": "4062619089100688995",
+        "nom": "Centre Aquasanté",
+        "slug": "centre-aquasante",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pair-sur-Mer, France",
+        "note": 4.6,
+        "avis": 148,
+        "type": "Physiotherapist"
+      },
+      {
+        "id": "1742034703724586758",
+        "nom": "Mitaille Bruno",
+        "slug": "mitaille-bruno",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pair-sur-Mer, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "saint-sauveur-le-vicomte": {
+    "artisans": [
+      {
+        "id": "6527171091313245597",
+        "nom": "Piscine de Saint-Sauveur-le-Vicomte",
+        "slug": "piscine-de-saint-sauveur-le-vicomte",
+        "telephone": "+33 2 33 21 08 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 22,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "saint-senier-sous-avranches": {
+    "artisans": [
+      {
+        "id": "4347890206415331548",
+        "nom": "Frans Bonhomme Avranches - St Senier",
+        "slug": "frans-bonhomme-avranches-st-senier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Senier-sous-Avranches, France",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "14818326557985199355",
+        "nom": "Cahu Spas",
+        "slug": "cahu-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Avranches, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "saint-vaast-la-hougue": {
+    "artisans": [
+      {
+        "id": "2198160603792221231",
+        "nom": "Villa Piscine et Jeux en Normandie (Saint-Vaast-La-Hougue)",
+        "slug": "villa-piscine-et-jeux-en-normandie-saint-vaast-la-hougue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Vaast-la-Hougue, France",
+        "note": null,
+        "avis": null,
+        "type": "Holiday home"
+      },
+      {
+        "id": "17799532029586852104",
+        "nom": "Camping La Gallouette - Normandie REOUVERTURE LE 27 MARS",
+        "slug": "camping-la-gallouette-normandie-reouverture-le-27-mars",
+        "telephone": "+33 2 33 54 20 57",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 1,
+        "type": "Campground"
+      }
+    ]
+  },
+  "le-teilleul": {
+    "artisans": [
+      {
+        "id": "8400380655963417849",
+        "nom": "Paysage Loisirs",
+        "slug": "paysage-loisirs",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Teilleul, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "8544129141770509411",
+        "nom": "AXA Assurance et Banque Eric Auvray",
+        "slug": "axa-assurance-et-banque-eric-auvray",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Teilleul, France",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Insurance agency"
+      }
+    ]
+  },
+  "tollevast": {
+    "artisans": [
+      {
+        "id": "2670636359715941998",
+        "nom": "JH Distribution",
+        "slug": "jh-distribution",
+        "telephone": "+33 3 88 87 08 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 858,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "valognes": {
+    "artisans": [
+      {
+        "id": "11975619754138398247",
+        "nom": "Piscine Les Bains du Cotentin",
+        "slug": "piscine-les-bains-du-cotentin",
+        "telephone": "+33 2 79 02 72 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.3,
+        "avis": 345,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7633251940235767448",
+        "nom": "VALLOIS · Agence du Cotentin",
+        "slug": "vallois-agence-du-cotentin",
+        "telephone": "+33 2 59 60 10 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 3,
+        "type": "Landscaper"
+      },
+      {
+        "id": "494032235622714613",
+        "nom": "Clôtures Du Cotentin",
+        "slug": "clotures-du-cotentin",
+        "telephone": "+33 2 33 21 42 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 29,
+        "type": "Fence contractor"
+      },
+      {
+        "id": "15068282209922706087",
+        "nom": "Futur centre nautique",
+        "slug": "futur-centre-nautique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Pierre de Coubertin",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "villedieu-les-poeles-rouffigny": {
+    "artisans": [
+      {
+        "id": "11184672030592384387",
+        "nom": "Villedieu Intercom Aquatic Center",
+        "slug": "villedieu-intercom-aquatic-center",
+        "telephone": "+33 2 33 50 17 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 253,
+        "type": "Aquatic center"
+      }
+    ]
+  }
+}

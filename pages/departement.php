@@ -50,8 +50,8 @@ $communesAvecArtisans = array_filter($communes, fn($c) => $getCount($c) > 0);
 usort($communes, fn($a, $b) => $getCount($b) - $getCount($a));
 
 $artDept = articleDepartement($deptCode);
-$title         = seoTitle('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_vmc' => $totalArtisans, 'zone' => $zoneDominante]);
-$description   = seoDescription('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_vmc' => $totalArtisans, 'zone' => $zoneDominante]);
+$title         = seoTitle('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_piscine' => $totalArtisans, 'zone' => $zoneDominante]);
+$description   = seoDescription('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_piscine' => $totalArtisans, 'zone' => $zoneDominante]);
 $canonical_url = urlDepartement($regionSlug, $deptSlug);
 $robots        = 'index,follow';
 
@@ -63,16 +63,16 @@ $trail = [
 $jsonLd = [jsonLdBreadcrumbs($trail)];
 
 $faq = [
-    ['q' => "Combien d'installateurs VMC exercent {$artDept} ?",
-     'r' => "Il y a {$totalArtisans} installateurs VMC référencés {$artDept}, répartis dans " . count($communesAvecArtisans) . " communes. Trouvez un artisan qualifié près de chez vous et demandez un devis gratuit."],
-    ['q' => "Quelles aides sont disponibles pour les travaux de ventilation VMC {$artDept} ?",
-     'r' => "Les habitants {$artDept} peuvent bénéficier de la TVA à 5,5% pour tous les travaux de ventilation VMC, de la prime CEE BAR-TH-125 (VMC double flux, zone {$zoneDominante}), BAR-TH-187 (VMC hygroréglable), de l'Éco-PTZ et de MaPrimeRénov'. Votre installateur VMC peut vous aider à monter les dossiers."],
-    ['q' => "Quel est le coût d'une installation VMC double flux {$artDept} ?",
-     'r' => "L'installation d'une VMC double flux {$artDept} coûte entre 3 000 € et 8 000 € selon la surface et le modèle. Avec les aides disponibles (prime CEE BAR-TH-125 et MaPrimeRénov'), le reste à charge peut être significativement réduit. Demandez plusieurs devis pour comparer."],
-    ['q' => "Comment trouver un installateur VMC certifié RGE {$artDept} ?",
-     'r' => "Cherchez votre ville dans notre annuaire pour trouver les installateurs VMC certifiés RGE {$artDept}. La certification RGE est obligatoire pour bénéficier des aides à la rénovation énergétique (prime CEE VMC double flux, MaPrimeRénov')."],
-    ['q' => "{$pctAvant1990}% des logements {$artDept} ont plus de 35 ans — comment en profiter ?",
-     'r' => "Les logements construits avant 1990 ont souvent des systèmes de ventilation obsolètes ou inexistants. Ils sont éligibles à toutes les aides : TVA à 5,5% sur l'installation VMC, prime CEE BAR-TH-125, Éco-PTZ et MaPrimeRénov'. Un installateur VMC {$artDept} peut vous accompagner dans les démarches."],
+    ['q' => "Combien de piscinistes exercent {$artDept} ?",
+     'r' => "Il y a {$totalArtisans} piscinistes référencés {$artDept}, répartis dans " . count($communesAvecArtisans) . " communes. Trouvez un professionnel qualifié près de chez vous et demandez un devis gratuit."],
+    ['q' => "Quelles aides sont disponibles pour une piscine {$artDept} ?",
+     'r' => "Les propriétaires {$artDept} peuvent bénéficier de la TVA à 10% sur les travaux piscine, du crédit d'impôt pour une pompe à chaleur piscine, et de solutions de financement pisciniste. Votre pisciniste peut vous aider à optimiser votre budget."],
+    ['q' => "Quel est le prix d'une piscine {$artDept} ?",
+     'r' => "Le prix d'une piscine {$artDept} varie selon le type : piscine coque entre 15 000 € et 35 000 €, piscine béton entre 25 000 € et 60 000 €. Des solutions de financement pisciniste permettent d'étaler les paiements. Demandez plusieurs devis pour comparer."],
+    ['q' => "Comment trouver un pisciniste qualifié {$artDept} ?",
+     'r' => "Cherchez votre ville dans notre annuaire pour trouver les piscinistes certifiés Qualipiscine ou FPP {$artDept}. Ces certifications garantissent la qualité et le professionnalisme de votre pisciniste."],
+    ['q' => "Faut-il un permis de construire pour une piscine {$artDept} ?",
+     'r' => "Une piscine de 10 à 100 m² {$artDept} nécessite une déclaration préalable de travaux. Au-delà de 100 m² ou si la piscine est couverte, un permis de construire est requis. Votre pisciniste {$artDept} vous guide dans les démarches administratives."],
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
@@ -94,18 +94,18 @@ require __DIR__ . '/../templates/header.php';
         <!-- Colonne gauche : éditorial -->
         <div>
             <h1 style="font-family:var(--font-display);font-size:clamp(26px,3.5vw,44px);font-weight:700;color:#fff;line-height:1.2;margin-bottom:14px;letter-spacing:-.02em;">
-                Installateurs VMC <?= htmlspecialchars($artDept) ?><br>
+                Piscinistes <?= htmlspecialchars($artDept) ?><br>
                 <em style="color:#F0A07A;font-style:italic;"><?= htmlspecialchars($deptNom) ?> (<?= htmlspecialchars($deptCode) ?>)</em>
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                Trouvez un installateur VMC certifié RGE <?= htmlspecialchars($artDept) ?> — devis gratuit, TVA 5,5%, prime CEE zone <?= htmlspecialchars($zoneDominante) ?> disponibles.
+                Trouvez un pisciniste qualifié <?= htmlspecialchars($artDept) ?> — devis gratuit, TVA 10%, financement pisciniste disponible.
             </p>
 
             <div class="ph-stat-row">
                 <div class="ph-stat">
                     <div class="ph-stat-num"><?= number_format($totalArtisans, 0, ',', ' ') ?></div>
-                    <div class="ph-stat-label">Installateurs VMC</div>
+                    <div class="ph-stat-label">Piscinistes</div>
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
@@ -123,15 +123,15 @@ require __DIR__ . '/../templates/header.php';
                 <div class="ph-badge">
                     <div class="ph-badge-icon">🏅</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Certification RGE</div>
-                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Obligatoire</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Qualipiscine / FPP</div>
+                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés</div>
                     </div>
                 </div>
                 <div class="ph-badge">
-                    <div class="ph-badge-icon">💨</div>
+                    <div class="ph-badge-icon">🏊</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Zone <?= htmlspecialchars($zoneDominante) ?></div>
-                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Prime CEE majorée</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Financement dispo</div>
+                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">TVA 10% applicable</div>
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- Communes (triées par nb artisans) -->
     <section class="mb-8">
         <h2 class="text-2xl font-bold text-gray-800 mb-4">
-            Installateurs VMC par ville <?= htmlspecialchars($artDept) ?>
+            Piscinistes par ville <?= htmlspecialchars($artDept) ?>
         </h2>
         <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
             <?php foreach (array_slice($communes, 0, 60) as $ville): ?>

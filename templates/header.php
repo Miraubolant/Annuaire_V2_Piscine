@@ -8,27 +8,25 @@ $ogImage       ??= SITE_URL . '/assets/img/og-default.jpg';
 $isHomepage    ??= false;
 
 $serviceGroups = [
-    ['icon' => '♻️', 'label' => 'VMC double flux', 'items' => [
-        ['slug' => 'vmc-double-flux',               'nom' => 'VMC double flux'],
-        ['slug' => 'vmc-thermodynamique',           'nom' => 'VMC thermodynamique'],
-        ['slug' => 'vmc-gainable',                  'nom' => 'VMC gainable'],
-        ['slug' => 'installation-vmc-neuf',         'nom' => 'Installation neuf'],
+    ['icon' => '🏗️', 'label' => 'Construction', 'items' => [
+        ['slug' => 'construction-piscine-beton',    'nom' => 'Construction béton'],
+        ['slug' => 'construction-piscine-coque',    'nom' => 'Construction coque'],
+        ['slug' => 'piscine-hors-sol',              'nom' => 'Piscine hors-sol'],
     ]],
-    ['icon' => '💧', 'label' => 'VMC simple flux', 'items' => [
-        ['slug' => 'vmc-simple-flux-hygro-b',       'nom' => 'Hygro B'],
-        ['slug' => 'vmc-simple-flux-hygro-a',       'nom' => 'Hygro A'],
-        ['slug' => 'vmc-autoreglable',              'nom' => 'Autoréglable'],
-        ['slug' => 'ventilation-naturelle-assistee', 'nom' => 'VNA'],
+    ['icon' => '🔧', 'label' => 'Rénovation', 'items' => [
+        ['slug' => 'renovation-piscine',            'nom' => 'Rénovation piscine'],
+        ['slug' => 'liner-revetement-piscine',      'nom' => 'Liner & revêtement'],
+        ['slug' => 'carrelage-piscine',             'nom' => 'Carrelage piscine'],
     ]],
-    ['icon' => '🔧', 'label' => 'Remplacement & SAV', 'items' => [
-        ['slug' => 'remplacement-vmc',              'nom' => 'Remplacement VMC'],
-        ['slug' => 'installation-vmc-renovation',   'nom' => 'Pose en rénovation'],
-        ['slug' => 'entretien-vmc',                 'nom' => 'Entretien & nettoyage'],
-        ['slug' => 'depannage-vmc',                 'nom' => 'Dépannage VMC'],
+    ['icon' => '🧪', 'label' => 'Équipements & traitement', 'items' => [
+        ['slug' => 'traitement-eau-piscine',        'nom' => 'Traitement de l\'eau'],
+        ['slug' => 'electrolyseur-sel-piscine',     'nom' => 'Électrolyseur sel'],
+        ['slug' => 'pompe-chaleur-piscine',         'nom' => 'Pompe à chaleur'],
     ]],
-    ['icon' => '📋', 'label' => 'Audit & étude', 'items' => [
-        ['slug' => 'bilan-ventilation',             'nom' => 'Bilan ventilation'],
-        ['slug' => 'etude-aeraulique',              'nom' => 'Étude aéraulique'],
+    ['icon' => '🛡️', 'label' => 'Entretien & sécurité', 'items' => [
+        ['slug' => 'entretien-hivernage-piscine',   'nom' => 'Entretien & hivernage'],
+        ['slug' => 'abri-securite-piscine',         'nom' => 'Abri & sécurité'],
+        ['slug' => 'diagnostic-piscine',            'nom' => 'Diagnostic piscine'],
     ]],
 ];
 
@@ -79,7 +77,7 @@ $regionLinks = [
 
     <link rel="stylesheet" href="<?= SITE_URL ?>/assets/css/app.min.css">
     <link rel="icon" href="<?= SITE_URL ?>/assets/img/favicon.svg" type="image/svg+xml">
-    <meta name="theme-color" content="#0B6B7E">
+    <meta name="theme-color" content="#0369A1">
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body style="background:var(--cream); color:var(--text);">
@@ -109,10 +107,10 @@ $regionLinks = [
 
         <!-- ── Logo ── -->
         <a href="<?= SITE_URL ?>/" class="hdr-logo">
-            <div class="hdr-logo-icon">💨</div>
+            <div class="hdr-logo-icon">🏊</div>
             <div>
                 <span class="hdr-logo-name"><?= SITE_NAME ?></span>
-                <span class="hdr-logo-sub">40 000 installateurs en France</span>
+                <span class="hdr-logo-sub">10 000 piscinistes en France</span>
             </div>
         </a>
 
@@ -155,7 +153,7 @@ $regionLinks = [
                             <?php else: ?>
                             <a href="#" class="mega-link"
                                @click.prevent="Alpine.store('search').set('<?= addslashes($item['slug']) ?>', '<?= addslashes($item['nom']) ?>'); servicesOpen=false; searchOpen=true; $nextTick(() => document.getElementById('hdr-search-input').focus())"
-                               title="Entrez votre ville pour trouver un installateur VMC RGE">
+                               title="Entrez votre ville pour trouver un pisciniste qualifié">
                                 <?= htmlspecialchars($item['nom']) ?>
                             </a>
                             <?php endif; ?>
@@ -164,7 +162,7 @@ $regionLinks = [
                         <?php endforeach; ?>
                         <div class="mega-footer">
                             <?php if ($hasCityCtx): ?>
-                            <span style="font-size:13px;color:var(--text-muted);">14 services VMC à <?= htmlspecialchars($villeNom ?? '') ?></span>
+                            <span style="font-size:13px;color:var(--text-muted);">12 services piscine à <?= htmlspecialchars($villeNom ?? '') ?></span>
                             <?php else: ?>
                             <span style="font-size:13px;color:var(--text-muted);">Cliquez sur un service → entrez votre ville</span>
                             <?php endif; ?>
@@ -316,7 +314,7 @@ $regionLinks = [
                 </div>
             </div>
             <a href="<?= VUD_DEVIS_URL ?>" class="mobile-menu-cta" target="_blank" rel="noopener sponsored">
-                Trouver un installateur VMC — Devis gratuit
+                Trouver un pisciniste — Devis gratuit
             </a>
         </div>
     </div>
@@ -362,7 +360,7 @@ $regionLinks = [
                             <div class="search-result-city" x-text="r.nom"></div>
                             <div class="search-result-cp" x-text="$store.search.slug ? $store.search.label + ' · ' + r.cp : 'Code postal : ' + r.cp"></div>
                         </div>
-                        <div class="search-result-badge" x-text="r.artisans + ' installateurs'"></div>
+                        <div class="search-result-badge" x-text="r.artisans + ' piscinistes'"></div>
                     </a>
                 </template>
             </div>

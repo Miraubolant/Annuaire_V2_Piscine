@@ -1,0 +1,531 @@
+{
+  "ahuille": {
+    "artisans": [
+      {
+        "id": "3418217743884244486",
+        "nom": "Pisciniste Laval - Atoll Piscine",
+        "slug": "pisciniste-laval-atoll-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bonchamp-lès-Laval, France",
+        "note": 2.9,
+        "avis": 12,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13527725990189888074",
+        "nom": "LOCHIN ESPACE PISCINES - Piscines et Spa en Mayenne Laval 53",
+        "slug": "lochin-espace-piscines-piscines-et-spa-en-mayenne-laval-53",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Berthevin, France",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "412468208673527456",
+        "nom": "Atoll Piscines - spas/jacuzzi - Abris de Piscine Mayenne 53",
+        "slug": "atoll-piscines-spasjacuzzi-abris-de-piscine-mayenne-53",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Azé, France",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2295804389310746473",
+        "nom": "Aquilus Piscines & Spas Laval - Aquabellis",
+        "slug": "aquilus-piscines-spas-laval-aquabellis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cossé-le-Vivien, France",
+        "note": 3,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "ambrieres-les-vallees": {
+    "artisans": [
+      {
+        "id": "12031396532836070969",
+        "nom": "Recreation Park pool in Ambrières the Valleys",
+        "slug": "recreation-park-pool-in-ambrieres-the-valleys",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Parc de Vaux",
+        "note": 4.2,
+        "avis": 32,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "la-baconniere": {
+    "artisans": [
+      {
+        "id": "15181534646777479297",
+        "nom": "GOBIN PAYSAGE p&f",
+        "slug": "gobin-paysage-pf",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Baconnière, France",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "le-bourgneuf-la-foret": {
+    "artisans": [
+      {
+        "id": "4147737556173420874",
+        "nom": "LE RAY Paysages Horticulture et pépinière à Laval",
+        "slug": "le-ray-paysages-horticulture-et-pepiniere-a-laval",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Bourgneuf-la-Forêt, France",
+        "note": 4.8,
+        "avis": 48,
+        "type": "Tree farm"
+      },
+      {
+        "id": "9825026077541183795",
+        "nom": "Foubert Paysage (Stéphane Foubert)",
+        "slug": "foubert-paysage-stephane-foubert",
+        "telephone": null,
+        "site_web": "https://www.foubertpaysage.com/",
+        "adresse": "Le Bourgneuf-la-Forêt, France",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "13098448149830537441",
+        "nom": "Ga Piscines",
+        "slug": "ga-piscines",
+        "telephone": null,
+        "site_web": "http://www.piscinesgroupega.com/index.php/nous-contacter",
+        "adresse": "La Gravelle, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6252625101912809843",
+        "nom": "L'Artisan",
+        "slug": "l-artisan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Bourgneuf-la-Forêt, France",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Hairdresser"
+      }
+    ]
+  },
+  "chateau-gontier-sur-mayenne": {
+    "artisans": [
+      {
+        "id": "9419909934941330441",
+        "nom": "Aquatic area Pierre de Coubertin",
+        "slug": "aquatic-area-pierre-de-coubertin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Château-Gontier, France",
+        "note": 4.2,
+        "avis": 296,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "craon": {
+    "artisans": [
+      {
+        "id": "12443909626706158636",
+        "nom": "Centre Aquatique l'Odyssée",
+        "slug": "centre-aquatique-l-odyssee",
+        "telephone": "+33 2 52 21 02 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 270,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "116707702515236290",
+        "nom": "apiscine",
+        "slug": "apiscine",
+        "telephone": "+33 6 76 77 34 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "1135261899140607378",
+        "nom": "Château de CRAON orangery, swimming pool, tennis court, 47-hectare park.",
+        "slug": "chateau-de-craon-orangery-swimming-pool-tennis-court-47-hectare-park",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "254782320020894565",
+        "nom": "Pêche au plan d'eau du Mûrier. (4 au 11 MARS )( Truite 8))",
+        "slug": "peche-au-plan-d-eau-du-murier-4-au-11-mars-truite-8",
+        "telephone": "+33 2 43 06 04 67",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 2,
+        "type": "Fishing camp"
+      }
+    ]
+  },
+  "ernee": {
+    "artisans": [
+      {
+        "id": "16593282470256622730",
+        "nom": "Water park in Ernee",
+        "slug": "water-park-in-ernee",
+        "telephone": "+33 2 43 05 03 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 268,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "evron": {
+    "artisans": [
+      {
+        "id": "7219169975083491837",
+        "nom": "Jardin Aquatique",
+        "slug": "jardin-aquatique",
+        "telephone": "+33 2 43 01 91 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 306,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "force": {
+    "artisans": [
+      {
+        "id": "23866276202880357",
+        "nom": "Aqua Pools and Spas",
+        "slug": "aqua-pools-and-spas",
+        "telephone": "098807 85276",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 41,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "fougerolles-du-plessis": {
+    "artisans": [
+      {
+        "id": "8003217398921991396",
+        "nom": "CHERRY’S Piscine",
+        "slug": "cherrys-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fougerolles-Saint-Valbert, France",
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "900795687463900902",
+        "nom": "Ouest Azur - Construction Piscine et Spa",
+        "slug": "ouest-azur-construction-piscine-et-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ernée, France",
+        "note": 5,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "gorron": {
+    "artisans": [
+      {
+        "id": "3554212578859341504",
+        "nom": "Piscine Intercommunale",
+        "slug": "piscine-intercommunale",
+        "telephone": "+33 2 43 08 11 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 59,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "javron-les-chapelles": {
+    "artisans": [
+      {
+        "id": "2490443887713930068",
+        "nom": "Nautilhome",
+        "slug": "nautilhome",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Javron-les-Chapelles, France",
+        "note": 3.1,
+        "avis": 42,
+        "type": "Construction company"
+      }
+    ]
+  },
+  "lassay-les-chateaux": {
+    "artisans": [
+      {
+        "id": "5218703080909810901",
+        "nom": "Piscine Municipale Lassay Les Châteaux",
+        "slug": "piscine-municipale-lassay-les-chateaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Place Victor Hugo",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "mayenne": {
+    "artisans": [
+      {
+        "id": "18136179406017324843",
+        "nom": "La Vague",
+        "slug": "la-vague",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayenne, France",
+        "note": 4,
+        "avis": 392,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "meslay-du-maine": {
+    "artisans": [
+      {
+        "id": "219921506991352317",
+        "nom": "Aquatic Area L'azuréo",
+        "slug": "aquatic-area-l-azureo",
+        "telephone": "+33 2 43 01 40 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 219,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "montsurs": {
+    "artisans": [
+      {
+        "id": "16312909870186818417",
+        "nom": "Au Coeur des Jardins",
+        "slug": "au-coeur-des-jardins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montsûrs, France",
+        "note": 4.3,
+        "avis": 13,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "oisseau": {
+    "artisans": [
+      {
+        "id": "13041968812723424436",
+        "nom": "Sarl Piscines et Jardins",
+        "slug": "sarl-piscines-et-jardins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayenne, France",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "parne-sur-roc": {
+    "artisans": [
+      {
+        "id": "15948956149809082082",
+        "nom": "Sarl Remon Pisciculture",
+        "slug": "sarl-remon-pisciculture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Parné-sur-Roc, France",
+        "note": 4.6,
+        "avis": 116,
+        "type": "Fishery"
+      }
+    ]
+  },
+  "pre-en-pail-saint-samson": {
+    "artisans": [
+      {
+        "id": "3694288147496108465",
+        "nom": "Piscine Intercommunale de Pré-en-Pail-Saint-Samson",
+        "slug": "piscine-intercommunale-de-pre-en-pail-saint-samson",
+        "telephone": "+33 2 43 04 61 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 12,
+        "type": "Local government office"
+      }
+    ]
+  },
+  "renaze": {
+    "artisans": [
+      {
+        "id": "14275030997410925132",
+        "nom": "Piscine De Rééducation",
+        "slug": "piscine-de-reeducation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29 Rue Victor Fourcault",
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "saint-berthevin": {
+    "artisans": [
+      {
+        "id": "13390089629626617696",
+        "nom": "Pool Coupeau in St. Berthevin",
+        "slug": "pool-coupeau-in-st-berthevin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Berthevin, France",
+        "note": 3.8,
+        "avis": 84,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-georges-buttavent": {
+    "artisans": [
+      {
+        "id": "12082318646679342956",
+        "nom": "Jardin Et Paysage",
+        "slug": "jardin-et-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Georges-Buttavent, France",
+        "note": 4.6,
+        "avis": 7,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "saint-pierre-la-cour": {
+    "artisans": [
+      {
+        "id": "4303552970382099539",
+        "nom": "Poolreunion Construction Piscines La Réunion",
+        "slug": "poolreunion-construction-piscines-la-reunion",
+        "telephone": "+262 692 72 23 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5218364217370184798",
+        "nom": "BENJI PISCINE",
+        "slug": "benji-piscine",
+        "telephone": "+262 692 66 37 36",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "sainte-suzanne-et-chammes": {
+    "artisans": [
+      {
+        "id": "7832736885946878638",
+        "nom": "O'CYAN",
+        "slug": "o-cyan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul, Réunion",
+        "note": 5,
+        "avis": 18,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "1847953822735469424",
+        "nom": "Mairie - Piscine Municipale",
+        "slug": "mairie-piscine-municipale",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Suzanne-et-Chammes, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "villiers-charlemagne": {
+    "artisans": [
+      {
+        "id": "12446312337745171235",
+        "nom": "Art'Paysage | Paysagiste Laval 53 - Conception et réalisation d'espace extérieur",
+        "slug": "art-paysage-paysagiste-laval-53-conception-et-realisation-d-espace-exterieur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-Charlemagne, France",
+        "note": 4.5,
+        "avis": 23,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "2297732367281387505",
+        "nom": "Emmaüs de la Mayenne et du Castelbriantais",
+        "slug": "emmaus-de-la-mayenne-et-du-castelbriantais",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-Charlemagne, France",
+        "note": 4.2,
+        "avis": 416,
+        "type": "Non-profit organization"
+      },
+      {
+        "id": "11849712263542363898",
+        "nom": "La Brochellerie",
+        "slug": "la-brochellerie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ruillé-Froid-Fonds, France",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Cottage"
+      }
+    ]
+  }
+}

@@ -12,8 +12,8 @@
             "slug": "cote-d-or",
             "population_totale": 536021,
             "communes_count": 698,
-            "communes_avec_artisans": 65,
-            "artisans_vmc": 538,
+            "communes_avec_artisans": 48,
+            "artisans_piscine": 86,
             "voisins": [
                 {
                     "dep_code": "25",
@@ -43,8 +43,8 @@
             "slug": "doubs",
             "population_totale": 547717,
             "communes_count": 563,
-            "communes_avec_artisans": 98,
-            "artisans_vmc": 803,
+            "communes_avec_artisans": 49,
+            "artisans_piscine": 102,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -74,8 +74,8 @@
             "slug": "jura",
             "population_totale": 258505,
             "communes_count": 492,
-            "communes_avec_artisans": 47,
-            "artisans_vmc": 296,
+            "communes_avec_artisans": 26,
+            "artisans_piscine": 46,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -105,8 +105,8 @@
             "slug": "nievre",
             "population_totale": 201763,
             "communes_count": 309,
-            "communes_avec_artisans": 39,
-            "artisans_vmc": 295,
+            "communes_avec_artisans": 20,
+            "artisans_piscine": 25,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -136,8 +136,8 @@
             "slug": "haute-saone",
             "population_totale": 233871,
             "communes_count": 536,
-            "communes_avec_artisans": 37,
-            "artisans_vmc": 277,
+            "communes_avec_artisans": 20,
+            "artisans_piscine": 36,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -167,8 +167,8 @@
             "slug": "saone-et-loire",
             "population_totale": 549841,
             "communes_count": 563,
-            "communes_avec_artisans": 106,
-            "artisans_vmc": 811,
+            "communes_avec_artisans": 48,
+            "artisans_piscine": 80,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -198,8 +198,8 @@
             "slug": "yonne",
             "population_totale": 332708,
             "communes_count": 423,
-            "communes_avec_artisans": 67,
-            "artisans_vmc": 574,
+            "communes_avec_artisans": 20,
+            "artisans_piscine": 36,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -229,8 +229,8 @@
             "slug": "territoire-de-belfort",
             "population_totale": 139628,
             "communes_count": 101,
-            "communes_avec_artisans": 30,
-            "artisans_vmc": 275,
+            "communes_avec_artisans": 12,
+            "artisans_piscine": 14,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -257,8 +257,8 @@
     ],
     "stats": {
         "communes_total": 3685,
-        "communes_avec_artisans": 489,
-        "artisans_vmc": 3869,
+        "communes_avec_artisans": 243,
+        "artisans_piscine": 425,
         "population_totale": 2800054
     },
     "zones_climatiques": {

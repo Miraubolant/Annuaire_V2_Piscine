@@ -1,0 +1,1692 @@
+{
+  "amou": {
+    "artisans": [
+      {
+        "id": "1858724231188143270",
+        "nom": "Piscine a Amou",
+        "slug": "piscine-a-amou",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Amou, France",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "angresse": {
+    "artisans": [
+      {
+        "id": "5512162166929009511",
+        "nom": "Sud Ouest Piscines et Spas - l'Atelier",
+        "slug": "sud-ouest-piscines-et-spas-l-atelier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Angresse, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10322831043448062216",
+        "nom": "PISCINES CÔTÉ LANDES",
+        "slug": "piscines-cote-landes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capbreton, France",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6403106333239726601",
+        "nom": "PISCINES CÔTÉ LANDES EST A CAPBRETON",
+        "slug": "piscines-cote-landes-est-a-capbreton",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capbreton, France",
+        "note": 5,
+        "avis": 19,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15520247064707008126",
+        "nom": "APFM Piscines & Spas – Showroom Hossegor",
+        "slug": "apfm-piscines-spas-showroom-hossegor",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hossegor, France",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10567493543711938169",
+        "nom": "Quality Piscine Sud Landes",
+        "slug": "quality-piscine-sud-landes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": 4.9,
+        "avis": 60,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "10771450354180867431",
+        "nom": "Leakeo - Recherche & Réparation de fuite pour piscine",
+        "slug": "leakeo-recherche-reparation-de-fuite-pour-piscine",
+        "telephone": "+33 7 59 63 73 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 39,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "7999741449701874353",
+        "nom": "Hossegor Pools",
+        "slug": "hossegor-pools",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hossegor, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "7429807348409628631",
+        "nom": "PSP piscines et SPA",
+        "slug": "psp-piscines-et-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bénesse-Maremne, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "14937425343850882611",
+        "nom": "ABRIDEAL",
+        "slug": "abrideal",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Angresse, France",
+        "note": 4.2,
+        "avis": 438,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "begaar": {
+    "artisans": [
+      {
+        "id": "13789757233482237142",
+        "nom": "PM piscine shop",
+        "slug": "pm-piscine-shop",
+        "telephone": "+33 5 58 97 19 39",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "benesse-maremne": {
+    "artisans": [
+      {
+        "id": "1005720922935877579",
+        "nom": "BNS'Eau - PISCINES HydroSud",
+        "slug": "bns-eau-piscines-hydrosud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bénesse-Maremne, France",
+        "note": 3.9,
+        "avis": 41,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13790135655915279228",
+        "nom": "Piscines de Maremne",
+        "slug": "piscines-de-maremne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Orist, France",
+        "note": 5,
+        "avis": 21,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5785018405160071531",
+        "nom": "Matlo Piscines - Pisciniste EXCEL PISCINES",
+        "slug": "matlo-piscines-pisciniste-excel-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Labenne, France",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9886906721616552419",
+        "nom": "Atlantique Piscine Service",
+        "slug": "atlantique-piscine-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bénesse-Maremne, France",
+        "note": 4,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "benquet": {
+    "artisans": [
+      {
+        "id": "7879157741116815523",
+        "nom": "Zaika Oyster Banquet (Club Aquaria Enterprise)",
+        "slug": "zaika-oyster-banquet-club-aquaria-enterprise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zaika, Aquaria Grande, CLUB AQUARIA, Devidas Cross Ln, inside Om Shanti Chowk, near Shanti Ashram Road",
+        "note": 4.3,
+        "avis": 740,
+        "type": "Banquet hall"
+      },
+      {
+        "id": "6765052816497687028",
+        "nom": "Paradise Banquets: Banquet Hall in Borivali | Birthday Party Hall Borivali | Birthday Party Venue",
+        "slug": "paradise-banquets-banquet-hall-in-borivali-birthday-party-hall-borivali-birthday-party-venue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "C.T.S. No, 407/D, Devidas Cross Ln, opp. Adani Electricity Office",
+        "note": 4.5,
+        "avis": 422,
+        "type": "Banquet hall"
+      }
+    ]
+  },
+  "biscarrosse": {
+    "artisans": [
+      {
+        "id": "6968580811052932726",
+        "nom": "Regard Exterieur Biscarrosse",
+        "slug": "regard-exterieur-biscarrosse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 5,
+        "avis": 19,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11634982406236952351",
+        "nom": "Piscines Les Bleues Océanes - Pisciniste constructeur de piscine - Rénovation et Services - Magasin de piscine",
+        "slug": "piscines-les-bleues-oceanes-pisciniste-constructeur-de-piscine-renovation-et-services-magasin-de-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 4.2,
+        "avis": 23,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11130268446696286711",
+        "nom": "Irripiscine by Irrijardin Biscarrosse",
+        "slug": "irripiscine-by-irrijardin-biscarrosse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 4.2,
+        "avis": 93,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11559826157444012494",
+        "nom": "Monsieur Liner (Pose et changement de liner de piscine)",
+        "slug": "monsieur-liner-pose-et-changement-de-liner-de-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15+ years in business",
+        "note": 5,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6690698255886169875",
+        "nom": "A L'O Piscine",
+        "slug": "a-l-o-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "8170184643410374594",
+        "nom": "RB Piscines by Piscines Loisirs Spa",
+        "slug": "rb-piscines-by-piscines-loisirs-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 3.8,
+        "avis": 20,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2132852888461651316",
+        "nom": "La Pensée Bleue",
+        "slug": "la-pensee-bleue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 3.4,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "3076121324137672905",
+        "nom": "Eau claire Piscine",
+        "slug": "eau-claire-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Biscarrosse, France",
+        "note": 3.3,
+        "avis": 8,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "bretagne-de-marsan": {
+    "artisans": [
+      {
+        "id": "6579326257358432808",
+        "nom": "Almeida Piscines",
+        "slug": "almeida-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mont-de-Marsan, France",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6432000488307538115",
+        "nom": "DISCOUNT PISCINES",
+        "slug": "discount-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-du-Mont, France",
+        "note": 4.2,
+        "avis": 22,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "241587956431884152",
+        "nom": "Alliance Piscines Mont de Marsan",
+        "slug": "alliance-piscines-mont-de-marsan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mont-de-Marsan, France",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "18116322575184648138",
+        "nom": "The Pool Counter",
+        "slug": "the-pool-counter",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-du-Mont, France",
+        "note": 3.5,
+        "avis": 101,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "7388504108494713520",
+        "nom": "SAP'iscine Moncé Damien",
+        "slug": "sap-iscine-monce-damien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-du-Mont, France",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "16133011778954820359",
+        "nom": "Piscines DESJOYAUX (SARL PISCINES JULOTIN)",
+        "slug": "piscines-desjoyaux-sarl-piscines-julotin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mont-de-Marsan, France",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "capbreton": {
+    "artisans": [
+      {
+        "id": "9950501080771886610",
+        "nom": "Aymard Creations - Pisciniste Landes",
+        "slug": "aymard-creations-pisciniste-landes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capbreton, France",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "18131426280208466607",
+        "nom": "LOCAMEX - Recherche fuite piscine et chemisage de canalisation",
+        "slug": "locamex-recherche-fuite-piscine-et-chemisage-de-canalisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capbreton, France",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "9910211196812152726",
+        "nom": "JC Piscines",
+        "slug": "jc-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capbreton, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9626687180194852219",
+        "nom": "Cap Atlantic Piscines",
+        "slug": "cap-atlantic-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Labenne, France",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "dax": {
+    "artisans": [
+      {
+        "id": "8405016671214448915",
+        "nom": "Pool Evolution Piscine",
+        "slug": "pool-evolution-piscine",
+        "telephone": "+33 6 25 31 17 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1474794558022240430",
+        "nom": "Indigo Piscines",
+        "slug": "indigo-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dax, France",
+        "note": 4.5,
+        "avis": 64,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "gamarde-les-bains": {
+    "artisans": [
+      {
+        "id": "6113475498741916497",
+        "nom": "Pm Piscine & Maçonnerie",
+        "slug": "pm-piscine-maconnerie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10384152101881020752",
+        "nom": "Tendances piscines et spas sarl DARRICAU",
+        "slug": "tendances-piscines-et-spas-sarl-darricau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10+ years in business",
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "grenade-sur-l-adour": {
+    "artisans": [
+      {
+        "id": "14591759794120549363",
+        "nom": "Piscine à Grenade-sur-l'Adour",
+        "slug": "piscine-a-grenade-sur-l-adour",
+        "telephone": "+33 5 58 45 47 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 56,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "hagetmau": {
+    "artisans": [
+      {
+        "id": "3538471967249630962",
+        "nom": "Piscines Refletsbleus",
+        "slug": "piscines-refletsbleus",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hagetmau, France",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13147625060175779520",
+        "nom": "CHALOSSE PISCINES",
+        "slug": "chalosse-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hagetmau, France",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "heugas": {
+    "artisans": [
+      {
+        "id": "17042093650404341716",
+        "nom": "AYGOSPA",
+        "slug": "aygospa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Orthez, France",
+        "note": 4.8,
+        "avis": 87,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12767877941798716161",
+        "nom": "SARL BOURDILLAS NUCCI",
+        "slug": "sarl-bourdillas-nucci",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pandelon, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17663613847170711013",
+        "nom": "HEGOA Piscines & Constructions",
+        "slug": "hegoa-piscines-constructions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 5,
+        "avis": 22,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2600257997677881313",
+        "nom": "Au fil de l' o pool",
+        "slug": "au-fil-de-l-o-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pandelon, France",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15603594599236485020",
+        "nom": "Reflets Bleus",
+        "slug": "reflets-bleus",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pandelon, France",
+        "note": 3.9,
+        "avis": 26,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "hinx": {
+    "artisans": [
+      {
+        "id": "12356743918923827252",
+        "nom": "Strati Service",
+        "slug": "strati-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hinx, France",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "labenne": {
+    "artisans": [
+      {
+        "id": "7200074204616320021",
+        "nom": "Nature Eau Paysage",
+        "slug": "nature-eau-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Labenne, France",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "8391282670124143797",
+        "nom": "DANY PISCINES",
+        "slug": "dany-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Boucau, France",
+        "note": 5,
+        "avis": 58,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13953453400816878429",
+        "nom": "Spa Labenne Dune Eau - Landes",
+        "slug": "spa-labenne-dune-eau-landes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Labenne, France",
+        "note": 4,
+        "avis": 386,
+        "type": "Spa"
+      }
+    ]
+  },
+  "laluque": {
+    "artisans": [
+      {
+        "id": "5472972904124518338",
+        "nom": "Lynéo Piscines",
+        "slug": "lyneo-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Vincent-de-Tyrosse, France",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14264643359867882488",
+        "nom": "Richard Piscine",
+        "slug": "richard-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pontonx-sur-l'Adour, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "leon": {
+    "artisans": [
+      {
+        "id": "11673020219471860995",
+        "nom": "Arnaud Multiservices et Piscines",
+        "slug": "arnaud-multiservices-et-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Léon, France",
+        "note": 5,
+        "avis": 8,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "5155615042729687135",
+        "nom": "HOUSE WITH PRIVATE POOL AND WOODEN TERRACE NEAR LEON RENOVATED IN 2024",
+        "slug": "house-with-private-pool-and-wooden-terrace-near-leon-renovated-in-2024",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "lesperon": {
+    "artisans": [
+      {
+        "id": "17217228716608713113",
+        "nom": "CREATIONS DU BORN - 40260",
+        "slug": "creations-du-born-40260",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lesperon, France",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "linxe": {
+    "artisans": [
+      {
+        "id": "6289543651565609737",
+        "nom": "House with swimming pool in the quiet of Linxe",
+        "slug": "house-with-swimming-pool-in-the-quiet-of-linxe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "10408034233000708141",
+        "nom": "Aqualand Piscine - Revêtements de piscines",
+        "slug": "aqualand-piscine-revetements-de-piscines",
+        "telephone": "+33 6 43 09 41 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 35,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "10312788773673019185",
+        "nom": "Everblue - Lacoste et Fils",
+        "slug": "everblue-lacoste-et-fils",
+        "telephone": "+33 5 58 42 84 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 18,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "meilhan": {
+    "artisans": [
+      {
+        "id": "2421846510037355703",
+        "nom": "clean pool piscines",
+        "slug": "clean-pool-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Meilhan-sur-Garonne, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "mimizan": {
+    "artisans": [
+      {
+        "id": "13254521541425866109",
+        "nom": "service et entretien piscine",
+        "slug": "service-et-entretien-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue des Goélands",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "17821261144820045174",
+        "nom": "Piscine de Mimizan",
+        "slug": "piscine-de-mimizan",
+        "telephone": null,
+        "site_web": "http://www.cc-mimizan.fr/fr/loisirs/piscine.html",
+        "adresse": "6 Chem. des Résineux",
+        "note": 4.3,
+        "avis": 196,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6166908866025059862",
+        "nom": "Cossé Stéphane",
+        "slug": "cosse-stephane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Rue du Stade",
+        "note": 3,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11451686373547682968",
+        "nom": "Everblue - Lacoste et fils Mimizan",
+        "slug": "everblue-lacoste-et-fils-mimizan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36 Av. de Bayonne",
+        "note": 3.8,
+        "avis": 16,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "montfort-en-chalosse": {
+    "artisans": [
+      {
+        "id": "17546009960740094328",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 5 58 98 65 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 58,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "morcenx-la-nouvelle": {
+    "artisans": [
+      {
+        "id": "17511148480891711626",
+        "nom": "...M Entretien Piscines... Landes",
+        "slug": "m-entretien-piscines-landes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7+ years in business",
+        "note": 5,
+        "avis": 8,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "14251000218922050394",
+        "nom": "Réserve Taïno : Gites / Maisons Insolites Avec Piscine Landes - Séminaires, Mariages, Groupes, Nature, Lac",
+        "slug": "reserve-taino-gites-maisons-insolites-avec-piscine-landes-seminaires-mariages-groupes-nature-lac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 5,
+        "avis": 41,
+        "type": "Cottage"
+      },
+      {
+        "id": "15756426180432104358",
+        "nom": "Country Cottage \\/ Gite - ESCOURCEHouse with gardenHouse with character",
+        "slug": "country-cottage-gite-escourcehouse-with-gardenhouse-with-character",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "11232741807470681679",
+        "nom": "Sporting Léon Brouste Complex",
+        "slug": "sporting-leon-brouste-complex",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 3.9,
+        "avis": 99,
+        "type": "Sports complex"
+      },
+      {
+        "id": "12299764104317670162",
+        "nom": "Superbe maison avec piscine",
+        "slug": "superbe-maison-avec-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "mugron": {
+    "artisans": [
+      {
+        "id": "11600979182541732067",
+        "nom": "Yanoxo Piscine - Entretien, dépannage & réparation",
+        "slug": "yanoxo-piscine-entretien-depannage-reparation",
+        "telephone": "+33 7 63 03 62 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "narrosse": {
+    "artisans": [
+      {
+        "id": "9960547045511586339",
+        "nom": "COMPTOIR DE LA PISCINE",
+        "slug": "comptoir-de-la-piscine",
+        "telephone": "+33 5 58 97 40 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 36,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10490733393797967907",
+        "nom": "Irripiscine by Irrijardin Narrosse",
+        "slug": "irripiscine-by-irrijardin-narrosse",
+        "telephone": "+33 5 58 57 22 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 116,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "oeyreluy": {
+    "artisans": [
+      {
+        "id": "13434635243569727826",
+        "nom": "OCTOPOOL entretien piscine",
+        "slug": "octopool-entretien-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saugnac-et-Cambran, France",
+        "note": 5,
+        "avis": 20,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "12291378709600564822",
+        "nom": "Eau & Plaisir",
+        "slug": "eau-plaisir",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dax, France",
+        "note": 5,
+        "avis": 37,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "ondres": {
+    "artisans": [
+      {
+        "id": "16568846481401379778",
+        "nom": "CBS PISCINE",
+        "slug": "cbs-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lahonce, France",
+        "note": 5,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5058550523144792103",
+        "nom": "Piscines de Navarre",
+        "slug": "piscines-de-navarre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bayonne, France",
+        "note": 5,
+        "avis": 32,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2740832956790996033",
+        "nom": "CÔTE OUEST PISCINES",
+        "slug": "cote-ouest-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guiche, France",
+        "note": 5,
+        "avis": 30,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15283340923717817644",
+        "nom": "Aqua-Home",
+        "slug": "aqua-home",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ondres, France",
+        "note": 5,
+        "avis": 23,
+        "type": "Swimming instructor"
+      }
+    ]
+  },
+  "onesse-laharie": {
+    "artisans": [
+      {
+        "id": "16239628071710689790",
+        "nom": "Centre Sb - Health Kinésithérapie, Spa Bien-Être À Onesse",
+        "slug": "centre-sb-health-kinesitherapie-spa-bien-etre-a-onesse",
+        "telephone": null,
+        "site_web": "https://www.maiia.com/cabinet-paramedical/40110-onesse-et-laharie/centre-sb-onesse",
+        "adresse": "Onesse-Laharie, France",
+        "note": 5,
+        "avis": 19,
+        "type": "Physical therapist"
+      },
+      {
+        "id": "17701430854408622923",
+        "nom": "SIMAO Maconnerie Piscines Et Services",
+        "slug": "simao-maconnerie-piscines-et-services",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/simaomps/",
+        "adresse": "Saint-Julien-en-Born, France",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9708020262586562990",
+        "nom": "LES PISCINES RAYNAUD",
+        "slug": "les-piscines-raynaud",
+        "telephone": null,
+        "site_web": "http://www.lespiscinesraynaud.fr/",
+        "adresse": "Guiche, France",
+        "note": 4.9,
+        "avis": 59,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "orthevielle": {
+    "artisans": [
+      {
+        "id": "15087801745865226828",
+        "nom": "AU FIL DE L'EAU PISCINES PEYREHORADE",
+        "slug": "au-fil-de-l-eau-piscines-peyrehorade",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Peyrehorade, France",
+        "note": 4.4,
+        "avis": 38,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "parentis-en-born": {
+    "artisans": [
+      {
+        "id": "1017196213295702500",
+        "nom": "Piscine à Parentis-en-Born",
+        "slug": "piscine-a-parentis-en-born",
+        "telephone": "+33 5 58 78 42 33",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 23,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "10160884111281729028",
+        "nom": "Pacifique Piscine",
+        "slug": "pacifique-piscine",
+        "telephone": "+33 6 78 93 84 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.5,
+        "avis": 2,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "pissos": {
+    "artisans": [
+      {
+        "id": "4248039154242310770",
+        "nom": "Piscine municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 5 58 08 91 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 14,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2227038132194140303",
+        "nom": "Gîte des Landes de Boutoura - Location Maison Vacances avec Piscine et Spa Sud-Ouest Landes 40 Pissos Proche Bordeaux",
+        "slug": "gite-des-landes-de-boutoura-location-maison-vacances-avec-piscine-et-spa-sud-ouest-landes-40-pissos-proche-bordeaux",
+        "telephone": "+33 6 76 09 84 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 30,
+        "type": "Cottage"
+      },
+      {
+        "id": "15237622689263143449",
+        "nom": "GÎTE DE BERN SPA/piscine 6 personnes Location vacances Gîte à Pissos 40410 semaine weekend romantique",
+        "slug": "gite-de-bern-spapiscine-6-personnes-location-vacances-gite-a-pissos-40410-semaine-weekend-romantique",
+        "telephone": "+33 6 12 72 08 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Cottage"
+      },
+      {
+        "id": "11642294430045711289",
+        "nom": "Base de loisirs de Testarouman",
+        "slug": "base-de-loisirs-de-testarouman",
+        "telephone": "+33 5 58 08 91 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 86,
+        "type": "Amusement center"
+      }
+    ]
+  },
+  "pomarez": {
+    "artisans": [
+      {
+        "id": "2731564004102920003",
+        "nom": "Piscine Cazala - Pisciniste : Construction de piscine",
+        "slug": "piscine-cazala-pisciniste-construction-de-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Morlanne, France",
+        "note": 4.5,
+        "avis": 82,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "pontenx-les-forges": {
+    "artisans": [
+      {
+        "id": "89935616826147669",
+        "nom": "House with Private Pool in Pontenx-les-Forges",
+        "slug": "house-with-private-pool-in-pontenx-les-forges",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9010285997901028112",
+        "nom": "ABC multiservices",
+        "slug": "abc-multiservices",
+        "telephone": "+33 7 69 65 06 85",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "16263106268652806651",
+        "nom": "Maison avec Piscine a Pontenx les Forges",
+        "slug": "maison-avec-piscine-a-pontenx-les-forges",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "1104838745849904193",
+        "nom": "Service piscine/recherches de fuites",
+        "slug": "service-piscinerecherches-de-fuites",
+        "telephone": "+33 6 61 14 61 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "10831798667714917821",
+        "nom": "A.Garnier Entretien et Nettoyage piscines , Recherche de fuites",
+        "slug": "agarnier-entretien-et-nettoyage-piscines-recherche-de-fuites",
+        "telephone": "+33 6 01 07 31 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Pool cleaning service"
+      }
+    ]
+  },
+  "pontonx-sur-l-adour": {
+    "artisans": [
+      {
+        "id": "5745471473489297396",
+        "nom": "Piscine des pins",
+        "slug": "piscine-des-pins",
+        "telephone": "+33 7 49 60 54 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "pouillon": {
+    "artisans": [
+      {
+        "id": "2753508749812870669",
+        "nom": "Piscinespropres.fr        ",
+        "slug": "piscinespropresfr",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pool cleaning service",
+        "note": 4.6,
+        "avis": 72,
+        "type": null
+      }
+    ]
+  },
+  "rion-des-landes": {
+    "artisans": [
+      {
+        "id": "3209396112799510202",
+        "nom": "ABC Piscines 972",
+        "slug": "abc-piscines-972",
+        "telephone": "+33 6 73 33 48 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-geours-de-maremne": {
+    "artisans": [
+      {
+        "id": "6257578527795667356",
+        "nom": "Lacaze Patrice",
+        "slug": "lacaze-patrice",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Geours-de-Maremne, France",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Contractor"
+      },
+      {
+        "id": "6848928487511810311",
+        "nom": "Puyo entreprise - Piscine et rénovation",
+        "slug": "puyo-entreprise-piscine-et-renovation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Geours-de-Maremne, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-julien-en-born": {
+    "artisans": [
+      {
+        "id": "14485723993841895734",
+        "nom": "Laparade Piscines",
+        "slug": "laparade-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Julien-en-Born, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2913999857155997197",
+        "nom": "Propriete de 3 chambres avec piscine partagee jardin amenage et wifi a Saint Julien en Born a 4 km de la plage",
+        "slug": "propriete-de-3-chambres-avec-piscine-partagee-jardin-amenage-et-wifi-a-saint-julien-en-born-a-4-km-de-la-plage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "saint-martin-de-seignanx": {
+    "artisans": [
+      {
+        "id": "10258780638283451092",
+        "nom": "Atlanticswim",
+        "slug": "atlanticswim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Martin-de-Seignanx, France",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Swimming school"
+      }
+    ]
+  },
+  "saint-martin-d-oney": {
+    "artisans": [
+      {
+        "id": "15519490843177091104",
+        "nom": "G. DESPAGNET",
+        "slug": "g-despagnet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Martin-d'Oney, France",
+        "note": 4.4,
+        "avis": 84,
+        "type": "Landscape designer"
+      }
+    ]
+  },
+  "saint-paul-les-dax": {
+    "artisans": [
+      {
+        "id": "12319159241490619210",
+        "nom": "Piscine Municipale de Saint-Paul-lès-Dax",
+        "slug": "piscine-municipale-de-saint-paul-les-dax",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul-lès-Dax, France",
+        "note": 3.9,
+        "avis": 171,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "18057583382495890324",
+        "nom": "Eden Pool",
+        "slug": "eden-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul-lès-Dax, France",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "saint-sever": {
+    "artisans": [
+      {
+        "id": "12918235532602664791",
+        "nom": "Piscine municipale de Saint Sever",
+        "slug": "piscine-municipale-de-saint-sever",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Sever, France",
+        "note": 3,
+        "avis": 4,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "saint-vincent-de-tyrosse": {
+    "artisans": [
+      {
+        "id": "8628106724168402657",
+        "nom": "SARL Ycg piscines",
+        "slug": "sarl-ycg-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Vincent-de-Tyrosse, France",
+        "note": 5,
+        "avis": 23,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "sanguinet": {
+    "artisans": [
+      {
+        "id": "16799401266796894835",
+        "nom": "AQUITAINE TECHNIQUE PISCINE",
+        "slug": "aquitaine-technique-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sanguinet, France",
+        "note": 3.8,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "256400206236027222",
+        "nom": "Db Aqua Technics",
+        "slug": "db-aqua-technics",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sanguinet, France",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "18324629473501351908",
+        "nom": "Sogood Piscines",
+        "slug": "sogood-piscines",
+        "telephone": "+33 7 68 86 81 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Janitorial service"
+      },
+      {
+        "id": "3487615492868140727",
+        "nom": "NAUTI'LAND",
+        "slug": "nauti-land",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sanguinet, France",
+        "note": 2,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sarbazan": {
+    "artisans": [
+      {
+        "id": "14633641707642031764",
+        "nom": "RTpiscine",
+        "slug": "rtpiscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Arue, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saubion": {
+    "artisans": [
+      {
+        "id": "6848530424744642457",
+        "nom": "ALMA Nettoyage Piscine et Terrasse",
+        "slug": "alma-nettoyage-piscine-et-terrasse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saubion, France",
+        "note": null,
+        "avis": null,
+        "type": "Pool cleaning service"
+      }
+    ]
+  },
+  "saubusse": {
+    "artisans": [
+      {
+        "id": "12189053666060251970",
+        "nom": "Hot 'N' Sauce",
+        "slug": "hot-n-sauce",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Coimbatore, Tamil Nadu",
+        "note": 5,
+        "avis": 4,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "saugnac-et-cambran": {
+    "artisans": [
+      {
+        "id": "4918031345248744621",
+        "nom": "Aquaref Piscine",
+        "slug": "aquaref-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saugnac-et-Muret, France",
+        "note": 5,
+        "avis": 12,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2845087070761494819",
+        "nom": "les piscines vega",
+        "slug": "les-piscines-vega",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saugnac-et-Muret, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "soorts-hossegor": {
+    "artisans": [
+      {
+        "id": "15633060463326863379",
+        "nom": "Irripiscine by Irrijardin Hossegor",
+        "slug": "irripiscine-by-irrijardin-hossegor",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hossegor, France",
+        "note": 4,
+        "avis": 69,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11254057515804993168",
+        "nom": "Piscines de France - Hossegor (40,64) - Construction de piscines",
+        "slug": "piscines-de-france-hossegor-4064-construction-de-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hossegor, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "tarnos": {
+    "artisans": [
+      {
+        "id": "12970227005121396959",
+        "nom": "ER BATI SERVICES",
+        "slug": "er-bati-services",
+        "telephone": "+33 6 16 42 89 05",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6255931039870703481",
+        "nom": "PISCINE PAYS BASQUE",
+        "slug": "piscine-pays-basque",
+        "telephone": "+33 5 59 43 90 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 30,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "667089807302524710",
+        "nom": "Activaqua",
+        "slug": "activaqua",
+        "telephone": "+33 6 10 55 65 36",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 137,
+        "type": "Swimming school"
+      },
+      {
+        "id": "17874666301066129446",
+        "nom": "COMPTOIR DE LA PISCINE",
+        "slug": "comptoir-de-la-piscine",
+        "telephone": "+33 5 59 20 40 36",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "504244677509685979",
+        "nom": "Pisciniste Bayonne – Azur Oasis",
+        "slug": "pisciniste-bayonne-azur-oasis",
+        "telephone": "+33 5 64 11 60 78",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "7822513049409996141",
+        "nom": "Sv Piscines",
+        "slug": "sv-piscines",
+        "telephone": "+33 6 25 28 54 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 36,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6823555679256671600",
+        "nom": "AQUAPOWER TARNOS",
+        "slug": "aquapower-tarnos",
+        "telephone": "+33 7 57 17 72 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 27,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "tosse": {
+    "artisans": [
+      {
+        "id": "1966604871716681263",
+        "nom": "sarl paysages et piscines",
+        "slug": "sarl-paysages-et-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tosse, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "vielle-saint-girons": {
+    "artisans": [
+      {
+        "id": "9931051393609256304",
+        "nom": "Les BordOcéanes Sauna et Spa",
+        "slug": "les-bordoceanes-sauna-et-spa",
+        "telephone": "+33 6 47 57 64 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 16,
+        "type": "Holiday home"
+      },
+      {
+        "id": "16675653960458439303",
+        "nom": "Piscine naturiste",
+        "slug": "piscine-naturiste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D328",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "vieux-boucau-les-bains": {
+    "artisans": [
+      {
+        "id": "17932139427733233012",
+        "nom": "Lagune étanchéité (pose de liner armé 150/100ème)",
+        "slug": "lagune-etancheite-pose-de-liner-arme-150100eme",
+        "telephone": "+33 6 50 68 69 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "13294632819908558529",
+        "nom": "Studio Landes Vieux Boucau proche plage océan lac piscine terrasse",
+        "slug": "studio-landes-vieux-boucau-proche-plage-ocean-lac-piscine-terrasse",
+        "telephone": "+33 6 18 15 09 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Holiday apartment rental"
+      }
+    ]
+  },
+  "ygos-saint-saturnin": {
+    "artisans": [
+      {
+        "id": "12073442228433142181",
+        "nom": "GO SERVICE",
+        "slug": "go-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bédoin, France",
+        "note": 4.9,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6965157380006301866",
+        "nom": "PROPERTY WITH CHARACTER- JACUZZI SWIMMING POOL - Between ocean inland",
+        "slug": "property-with-character-jacuzzi-swimming-pool-between-ocean-inland",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "9445122121022595544",
+        "nom": "SARL PIERRE LOIC",
+        "slug": "sarl-pierre-loic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ygos-Saint-Saturnin, France",
+        "note": 5,
+        "avis": 19,
+        "type": "Plumber"
+      }
+    ]
+  }
+}

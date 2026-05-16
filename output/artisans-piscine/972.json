@@ -1,0 +1,485 @@
+{
+  "sainte-anne": {
+    "artisans": [
+      {
+        "id": "869333971193357161",
+        "nom": "Piscines Ste-Anne",
+        "slug": "piscines-ste-anne",
+        "telephone": "+1 450-478-6379",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 73,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "l-ajoupa-bouillon": {
+    "artisans": [
+      {
+        "id": "8301474616052779013",
+        "nom": "Gorges de la Falaise",
+        "slug": "gorges-de-la-falaise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. de Semaine",
+        "note": 4.5,
+        "avis": 964,
+        "type": "Tourist attraction"
+      },
+      {
+        "id": "7659940155865044504",
+        "nom": "Au pied du volcan",
+        "slug": "au-pied-du-volcan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Morne-Rouge, Martinique",
+        "note": 5,
+        "avis": 3,
+        "type": "Gift shop"
+      },
+      {
+        "id": "17746162300330045034",
+        "nom": "L'Ajoupa-Bouillon",
+        "slug": "l-ajoupa-bouillon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "basse-pointe": {
+    "artisans": [
+      {
+        "id": "10980248692360529470",
+        "nom": "FBE Antilles - PISCINES HydroSud Ducos",
+        "slug": "fbe-antilles-piscines-hydrosud-ducos",
+        "telephone": "+596 596 42 32 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 21,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4955801097418264485",
+        "nom": "Le Fil A Eau",
+        "slug": "le-fil-a-eau",
+        "telephone": "+596 696 91 47 22",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 53,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2788203917219216984",
+        "nom": "Aquanet piscine",
+        "slug": "aquanet-piscine",
+        "telephone": "+596 696 36 16 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.3,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "le-carbet": {
+    "artisans": [
+      {
+        "id": "10941818028542798375",
+        "nom": "Jean Bally swimming pool",
+        "slug": "jean-bally-swimming-pool",
+        "telephone": "+596 596 55 45 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.9,
+        "avis": 7,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-diamant": {
+    "artisans": [
+      {
+        "id": "15042740437577591849",
+        "nom": "Restaurant La Piscine",
+        "slug": "restaurant-la-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Diamant, Martinique",
+        "note": 4.4,
+        "avis": 364,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "ducos": {
+    "artisans": [
+      {
+        "id": "7808707980490774415",
+        "nom": "MTC MARTINIQUE",
+        "slug": "mtc-martinique",
+        "telephone": "+596 596 02 00 27",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 35,
+        "type": "Store"
+      }
+    ]
+  },
+  "fort-de-france": {
+    "artisans": [
+      {
+        "id": "915495210305617140",
+        "nom": "Dlo Azur Piscines",
+        "slug": "dlo-azur-piscines",
+        "telephone": "+596 696 94 00 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "646172430941410206",
+        "nom": "TEDDY PISCINE",
+        "slug": "teddy-piscine",
+        "telephone": "+596 696 03 32 78",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4278476236547481139",
+        "nom": "Bèl Eau",
+        "slug": "bel-eau",
+        "telephone": "+596 696 09 48 87",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "8248099933406581130",
+        "nom": "AQUA RELAX CARAIBES",
+        "slug": "aqua-relax-caraibes",
+        "telephone": "+33 5 96 70 80 38",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 8,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "le-francois": {
+    "artisans": [
+      {
+        "id": "8353439251640938717",
+        "nom": "Swimming Pool",
+        "slug": "swimming-pool",
+        "telephone": "+596 596 54 82 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming"
+      }
+    ]
+  },
+  "gros-morne": {
+    "artisans": [
+      {
+        "id": "14669595671508906076",
+        "nom": "Villa Jacuzzi-Piscine",
+        "slug": "villa-jacuzzi-piscine",
+        "telephone": "+596 696 04 06 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Holiday home"
+      },
+      {
+        "id": "6251586539803489139",
+        "nom": "Prestige Conciergerie Martinique | Entretien Locations saisonnières | Entretien jardin et piscine | Bricolage | Tourisme",
+        "slug": "prestige-conciergerie-martinique-entretien-locations-saisonnieres-entretien-jardin-et-piscine-bricolage-tourisme",
+        "telephone": "+596 696 68 59 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 10,
+        "type": "Property maintenance"
+      },
+      {
+        "id": "3139382661803000444",
+        "nom": "Villa charmante à Gros-Morne avec piscine privée",
+        "slug": "villa-charmante-a-gros-morne-avec-piscine-privee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gros-Morne, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "3882627683180943204",
+        "nom": "Homerez - Villa with private pool in Gros-Morne",
+        "slug": "homerez-villa-with-private-pool-in-gros-morne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gros-Morne, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "le-lorrain": {
+    "artisans": [
+      {
+        "id": "10861755682344790844",
+        "nom": "Piscine Municipale du Lorrain",
+        "slug": "piscine-municipale-du-lorrain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Lorrain, Martinique",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "17104227922592995740",
+        "nom": "Lorrain Piscine",
+        "slug": "lorrain-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Novara, Province of Novara, Italy",
+        "note": 4.8,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "macouba": {
+    "artisans": [
+      {
+        "id": "10871262386450812167",
+        "nom": "Piscine du MACOUBA",
+        "slug": "piscine-du-macouba",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Bus stop"
+      }
+    ]
+  },
+  "le-marigot": {
+    "artisans": [
+      {
+        "id": "8498080571307463088",
+        "nom": "Motel Le Marigot",
+        "slug": "motel-le-marigot",
+        "telephone": "+1 450-455-2152",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 266,
+        "type": "Motel"
+      }
+    ]
+  },
+  "le-marin": {
+    "artisans": [
+      {
+        "id": "4772956676002869306",
+        "nom": "Mondial Piscine Martinique concessionnaire BDD",
+        "slug": "mondial-piscine-martinique-concessionnaire-bdd",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Marin, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-morne-rouge": {
+    "artisans": [
+      {
+        "id": "2370407789493438377",
+        "nom": "FBE Antilles - Hydro Sud Ducos",
+        "slug": "fbe-antilles-hydro-sud-ducos",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ducos, Martinique",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-precheur": {
+    "artisans": [
+      {
+        "id": "8585459216421652495",
+        "nom": "Piscine au Carré",
+        "slug": "piscine-au-carre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Trois-Îlets, Martinique",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "riviere-pilote": {
+    "artisans": [
+      {
+        "id": "11335550498306453289",
+        "nom": "TROPICAM PISCINES",
+        "slug": "tropicam-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "5108798505275750762",
+        "nom": "Apartment Rivière-Pilote, private pool",
+        "slug": "apartment-riviere-pilote-private-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "riviere-salee": {
+    "artisans": [
+      {
+        "id": "3259199456543307736",
+        "nom": "Hello Piscines Martinique",
+        "slug": "hello-piscines-martinique",
+        "telephone": "+596 696 82 83 15",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16926661595513125035",
+        "nom": "Villa Manguier",
+        "slug": "villa-manguier",
+        "telephone": "+33 6 01 95 00 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 61,
+        "type": "Holiday apartment rental"
+      },
+      {
+        "id": "14020106107438167549",
+        "nom": "Private garage with 1 bedroom studio and swimming pool in Martinique - Rivière-Salée",
+        "slug": "private-garage-with-1-bedroom-studio-and-swimming-pool-in-martinique-riviere-salee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "8487359676554136156",
+        "nom": "Pluie & Vie",
+        "slug": "pluie-vie",
+        "telephone": "+596 596 60 63 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 16,
+        "type": "Rainwater tank supplier"
+      },
+      {
+        "id": "7476862928072522250",
+        "nom": "Villas Pameyaque",
+        "slug": "villas-pameyaque",
+        "telephone": "+596 696 84 65 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 37,
+        "type": "Lodge"
+      }
+    ]
+  },
+  "schoelcher": {
+    "artisans": [
+      {
+        "id": "1443841332776521692",
+        "nom": "Piscine Municipale de Schoelcher",
+        "slug": "piscine-municipale-de-schoelcher",
+        "telephone": "+596 596 61 01 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 45,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "le-vauclin": {
+    "artisans": [
+      {
+        "id": "13926877675914216983",
+        "nom": "Apt. Pool, Le Vauclin",
+        "slug": "apt-pool-le-vauclin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "2220534602383585749",
+        "nom": "Villa avec Piscine privée proche de la Plage - Le Vauclin",
+        "slug": "villa-avec-piscine-privee-proche-de-la-plage-le-vauclin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "2617821779220938034",
+        "nom": "Le Goyav' appart avec piscine et jacuzzi au Vauclin",
+        "slug": "le-goyav-appart-avec-piscine-et-jacuzzi-au-vauclin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  }
+}

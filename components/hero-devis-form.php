@@ -31,11 +31,11 @@ $nbArt      = getCompteurArtisans($commune);
             <div style="display:flex;flex-direction:column;gap:8px;">
                 <div style="display:flex;align-items:center;gap:8px;color:rgba(255,255,255,.7);font-size:13px;">
                     <span style="width:20px;height:20px;background:rgba(232,184,75,.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;flex-shrink:0;">✓</span>
-                    Certification RGE obligatoire
+                    Construction et rénovation
                 </div>
                 <div style="display:flex;align-items:center;gap:8px;color:rgba(255,255,255,.7);font-size:13px;">
                     <span style="width:20px;height:20px;background:rgba(232,184,75,.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;flex-shrink:0;">✓</span>
-                    Artisans certifiés RGE
+                    Piscinistes professionnels
                 </div>
                 <div style="display:flex;align-items:center;gap:8px;color:rgba(255,255,255,.7);font-size:13px;">
                     <span style="width:20px;height:20px;background:rgba(232,184,75,.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;flex-shrink:0;">✓</span>
@@ -47,11 +47,11 @@ $nbArt      = getCompteurArtisans($commune);
         <!-- ── Droite : widget sur fond blanc ─────────────────────────────── -->
         <div class="hero-widget-col">
             <div style="padding:20px 24px 16px;border-bottom:1px solid #f0ebe1;">
-                <p style="font-weight:700;font-size:14px;color:#0B6B7E;margin-bottom:2px;">Devis gratuit installation VMC</p>
-                <p style="font-size:12px;color:#6b6762;">Comparez les installateurs VMC qualifiés · Sans engagement</p>
+                <p style="font-weight:700;font-size:14px;color:#0B6B7E;margin-bottom:2px;">Devis gratuit piscine</p>
+                <p style="font-size:12px;color:#6b6762;">Comparez les piscinistes qualifiés · Sans engagement</p>
             </div>
 
-            <!-- Widget ViteUnDevis — catégorie VMC -->
+            <!-- Widget ViteUnDevis — catégorie Piscine -->
             <div style="flex:1;padding:16px 24px;background:#ffffff;color:#1a1a1a;">
                 <div id="v2e29b6034ad"></div>
                 <script>

@@ -12,8 +12,8 @@
             "slug": "calvados",
             "population_totale": 702207,
             "communes_count": 527,
-            "communes_avec_artisans": 133,
-            "artisans_vmc": 1156,
+            "communes_avec_artisans": 65,
+            "artisans_piscine": 131,
             "voisins": [
                 {
                     "dep_code": "27",
@@ -43,8 +43,8 @@
             "slug": "eure",
             "population_totale": 598903,
             "communes_count": 585,
-            "communes_avec_artisans": 123,
-            "artisans_vmc": 1032,
+            "communes_avec_artisans": 56,
+            "artisans_piscine": 111,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -74,8 +74,8 @@
             "slug": "manche",
             "population_totale": 496025,
             "communes_count": 445,
-            "communes_avec_artisans": 101,
-            "artisans_vmc": 847,
+            "communes_avec_artisans": 36,
+            "artisans_piscine": 81,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -105,8 +105,8 @@
             "slug": "orne",
             "population_totale": 276369,
             "communes_count": 381,
-            "communes_avec_artisans": 53,
-            "artisans_vmc": 406,
+            "communes_avec_artisans": 26,
+            "artisans_piscine": 45,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -136,8 +136,8 @@
             "slug": "seine-maritime",
             "population_totale": 1255875,
             "communes_count": 707,
-            "communes_avec_artisans": 182,
-            "artisans_vmc": 1545,
+            "communes_avec_artisans": 73,
+            "artisans_piscine": 123,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -164,8 +164,8 @@
     ],
     "stats": {
         "communes_total": 2645,
-        "communes_avec_artisans": 592,
-        "artisans_vmc": 4986,
+        "communes_avec_artisans": 256,
+        "artisans_piscine": 491,
         "population_totale": 3329379
     },
     "zones_climatiques": {

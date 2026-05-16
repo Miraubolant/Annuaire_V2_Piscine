@@ -1,0 +1,454 @@
+{
+  "biesles": {
+    "artisans": [
+      {
+        "id": "1775577141699146794",
+        "nom": "hocquet piscines",
+        "slug": "hocquet-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nomécourt, France",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bologne": {
+    "artisans": [
+      {
+        "id": "11553271693233531088",
+        "nom": "Realizzazione Piscine Centro piscine Bologna",
+        "slug": "realizzazione-piscine-centro-piscine-bologna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bologna, Metropolitan City of Bologna, Italy",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "7654518949241072161",
+        "nom": "Vannini Aqua & Pool",
+        "slug": "vannini-aqua-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Riale di Zola Predosa Metropolitan City of Bologna, Italy",
+        "note": 4.7,
+        "avis": 379,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8710176498467161913",
+        "nom": "1000 Piscine Costruzione e Vendita",
+        "slug": "1000-piscine-costruzione-e-vendita",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "San Lazzaro di Savena, Metropolitan City of Bologna, Italy",
+        "note": 4.1,
+        "avis": 29,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1641624671516630276",
+        "nom": "PISCINA & GIARDINO SHOP",
+        "slug": "piscina-giardino-shop",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villanova Metropolitan City of Bologna, Italy",
+        "note": 4.5,
+        "avis": 37,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17611324493609424960",
+        "nom": "AICS piscine Bologna",
+        "slug": "aics-piscine-bologna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bologna, Metropolitan City of Bologna, Italy",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9582657654699745633",
+        "nom": "C.P.A s.r.l - BOLOGNA",
+        "slug": "cpa-srl-bologna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Calderara di Reno, Metropolitan City of Bologna, Italy",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17470560270751487813",
+        "nom": "Pool Center",
+        "slug": "pool-center",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Toscanella Metropolitan City of Bologna, Italy",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "14997477240482260525",
+        "nom": "omniacque LTD Water treatment - swimming pool construction",
+        "slug": "omniacque-ltd-water-treatment-swimming-pool-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bologna, Metropolitan City of Bologna, Italy",
+        "note": 3,
+        "avis": 29,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1383000300885084994",
+        "nom": "ARTESANA",
+        "slug": "artesana",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sasso Marconi, Metropolitan City of Bologna, Italy",
+        "note": 4.5,
+        "avis": 16,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17214467430245983568",
+        "nom": "CVP Italia",
+        "slug": "cvp-italia",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "San Lazzaro, Metropolitan City of Bologna, Italy",
+        "note": 4,
+        "avis": 62,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bourbonne-les-bains": {
+    "artisans": [
+      {
+        "id": "11382774130860111602",
+        "nom": "Piscine de Bourbonne les Bains",
+        "slug": "piscine-de-bourbonne-les-bains",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bourbonne-les-Bains, France",
+        "note": 3.9,
+        "avis": 68,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "17370931899890593562",
+        "nom": "Eric Bellorti Piscines",
+        "slug": "eric-bellorti-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bourbonne-les-Bains, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "chalindrey": {
+    "artisans": [
+      {
+        "id": "5930400937542065627",
+        "nom": "Pisces Kitchen",
+        "slug": "pisces-kitchen",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sialkot, Pakistan",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "chancenay": {
+    "artisans": [
+      {
+        "id": "15453518345561966932",
+        "nom": "CHARLET PISCINES",
+        "slug": "charlet-piscines",
+        "telephone": "+33 3 25 05 27 83",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 16,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "chateauvillain": {
+    "artisans": [
+      {
+        "id": "17246879120996439502",
+        "nom": "Nature Piscine Covelli",
+        "slug": "nature-piscine-covelli",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Isômes, France",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8599684001202332657",
+        "nom": "AVS Piscine",
+        "slug": "avs-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bologne, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "chaumont": {
+    "artisans": [
+      {
+        "id": "14149387764311681578",
+        "nom": "Palestra - Aquatic Center Wellness",
+        "slug": "palestra-aquatic-center-wellness",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chaumont, France",
+        "note": 3.9,
+        "avis": 374,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "11643106239091542152",
+        "nom": "GHSB Création",
+        "slug": "ghsb-creation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lavilleneuve-au-Roi, France",
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6352026534829418338",
+        "nom": "Azenco Foulain",
+        "slug": "azenco-foulain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Foulain, France",
+        "note": 5,
+        "avis": 22,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "3498876552416561088",
+        "nom": "RENOVAL Vérandas, Extensions, Pergolas et Abris de piscine - Art Fermetures 52",
+        "slug": "renoval-verandas-extensions-pergolas-et-abris-de-piscine-art-fermetures-52",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chaumont, France",
+        "note": null,
+        "avis": null,
+        "type": "Cabinet maker"
+      },
+      {
+        "id": "12607974688212907414",
+        "nom": "JCM PISCINE",
+        "slug": "jcm-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chaumont, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "eclaron-braucourt-sainte-liviere": {
+    "artisans": [
+      {
+        "id": "832012796948280075",
+        "nom": "Orparc",
+        "slug": "orparc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Éclaron-Braucourt-Sainte-Livière, France",
+        "note": 4,
+        "avis": 5,
+        "type": "Landscaper"
+      },
+      {
+        "id": "10359079122869101210",
+        "nom": "Plage de Braucourt",
+        "slug": "plage-de-braucourt",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Éclaron-Braucourt-Sainte-Livière, France",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Swimming lake"
+      }
+    ]
+  },
+  "fayl-billot": {
+    "artisans": [
+      {
+        "id": "306291032082003995",
+        "nom": "Sarl Piquée",
+        "slug": "sarl-piquee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fayl-Billot, France",
+        "note": 3.4,
+        "avis": 42,
+        "type": "Plumber"
+      }
+    ]
+  },
+  "froncles": {
+    "artisans": [
+      {
+        "id": "12726804622498744688",
+        "nom": "\"Pal\" De Buxières",
+        "slug": "pal-de-buxieres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Froncles, France",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Swimming lake"
+      }
+    ]
+  },
+  "joinville": {
+    "artisans": [
+      {
+        "id": "12221966554464210703",
+        "nom": "Single Pool Piscinas e Acessórios",
+        "slug": "single-pool-piscinas-e-acessorios",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Joinville - State of Santa Catarina, Brazil",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "40192392936135785",
+        "nom": "Piscinas H2O",
+        "slug": "piscinas-h2o",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Joinville - State of Santa Catarina, Brazil",
+        "note": 4.5,
+        "avis": 92,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "langres": {
+    "artisans": [
+      {
+        "id": "7663622161151330536",
+        "nom": "Langres Piscines",
+        "slug": "langres-piscines",
+        "telephone": "+33 9 79 19 21 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2237772132660359872",
+        "nom": "Aqualangres",
+        "slug": "aqualangres",
+        "telephone": "+33 3 25 84 25 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 548,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "16401779577476391011",
+        "nom": "VENDIRIS - Aménagement Extérieur et Pisciniste",
+        "slug": "vendiris-amenagement-exterieur-et-pisciniste",
+        "telephone": "+33 6 40 86 84 66",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 26,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2377650035228221121",
+        "nom": "Idéal Piscines 52",
+        "slug": "ideal-piscines-52",
+        "telephone": "+33 6 02 40 13 52",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-porte-du-der": {
+    "artisans": [
+      {
+        "id": "9266277937109154540",
+        "nom": "PISCINES DUGAIN DU DER",
+        "slug": "piscines-dugain-du-der",
+        "telephone": "+33 3 25 05 11 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16996135607100546552",
+        "nom": "MONREAL PAYSAGES & PISCINES",
+        "slug": "monreal-paysages-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Porte-du-Der, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "nogent": {
+    "artisans": [
+      {
+        "id": "14150410859397751355",
+        "nom": "Pool Nogent",
+        "slug": "pool-nogent",
+        "telephone": "+33 3 25 32 31 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 69,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "1525758088942262472",
+        "nom": "COSEC de la Piscine",
+        "slug": "cosec-de-la-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue de la Piscine",
+        "note": 4,
+        "avis": 10,
+        "type": "Gym"
+      }
+    ]
+  }
+}

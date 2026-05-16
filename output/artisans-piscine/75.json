@@ -1,0 +1,39 @@
+{
+  "paris": {
+    "artisans": [
+      {
+        "id": "15156089384395967946",
+        "nom": "Piscines de France - Pisciniste Paris - Construction de piscine",
+        "slug": "piscines-de-france-pisciniste-paris-construction-de-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Paris, France",
+        "note": 2.4,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10457880008347727011",
+        "nom": "Pool Yvonne Godard",
+        "slug": "pool-yvonne-godard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Paris, France",
+        "note": 4,
+        "avis": 660,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "5543465822828833454",
+        "nom": "LES LAGONS DE BK - Piscines Lagons Naturelles - Île-de-France | Piscine d'exception (BK CONSTRUCTION - BKCF)",
+        "slug": "les-lagons-de-bk-piscines-lagons-naturelles-ile-de-france-piscine-d-exception-bk-construction-bkcf",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Paris, France",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  }
+}

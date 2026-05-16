@@ -1,0 +1,727 @@
+{
+  "sainte-suzanne": {
+    "artisans": [
+      {
+        "id": "13520679542933755210",
+        "nom": "PISCINES D' ZIL",
+        "slug": "piscines-d-zil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Construction company"
+      },
+      {
+        "id": "3936455194962865750",
+        "nom": "JCS PISCINE",
+        "slug": "jcs-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Suzanne, France",
+        "note": 2.7,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15001416031881841123",
+        "nom": "Piscine Jean Taris à Sainte-Suzanne-et-Chammes",
+        "slug": "piscine-jean-taris-a-sainte-suzanne-et-chammes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Suzanne-et-Chammes, France",
+        "note": 4,
+        "avis": 28,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "sainte-marie": {
+    "artisans": [
+      {
+        "id": "15301511390356331202",
+        "nom": "O AZUR Piscine",
+        "slug": "o-azur-piscine",
+        "telephone": "+262 262 09 53 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "594025071840432982",
+        "nom": "H2O PISCINES",
+        "slug": "h2o-piscines",
+        "telephone": "+262 262 24 80 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 5,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "6957209966294265656",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 3 89 58 33 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 77,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "9296432528977171431",
+        "nom": "Piscine",
+        "slug": "piscine",
+        "telephone": "+1 418-387-6817",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 16,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "15220390320769769453",
+        "nom": "OTJ Park",
+        "slug": "otj-park",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "111 Bd Vachon S",
+        "note": 4.3,
+        "avis": 84,
+        "type": "Park"
+      }
+    ]
+  },
+  "saint-joseph": {
+    "artisans": [
+      {
+        "id": "10232450657514618397",
+        "nom": "Lagon Expertise Piscine",
+        "slug": "lagon-expertise-piscine",
+        "telephone": "+262 693 65 83 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "6282691415741708765",
+        "nom": "Piscine Amer",
+        "slug": "piscine-amer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sebdou",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7761465917455263502",
+        "nom": "ALPHA piscine",
+        "slug": "alpha-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Souahlia",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-benoit": {
+    "artisans": [
+      {
+        "id": "9948024639635961350",
+        "nom": "PISCINES - SPAS - DECO Sarl DOLO",
+        "slug": "piscines-spas-deco-sarl-dolo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Benoît, Réunion",
+        "note": 4.5,
+        "avis": 40,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "saint-paul": {
+    "artisans": [
+      {
+        "id": "11717993284821705317",
+        "nom": "H2O Piscines et Spas",
+        "slug": "h2o-piscines-et-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul, Réunion",
+        "note": 3.7,
+        "avis": 29,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12132603436060178585",
+        "nom": "Allo Piscine Multi-Services",
+        "slug": "allo-piscine-multi-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5+ years in business",
+        "note": 1.8,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4154145554725708307",
+        "nom": "SAVANNAH PISCINES",
+        "slug": "savannah-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Corporate office"
+      },
+      {
+        "id": "16535310319458941328",
+        "nom": "ABISS PISCINES",
+        "slug": "abiss-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "30+ years in business",
+        "note": 3,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "9527327114667576856",
+        "nom": "Moteurs et Piscines Sainte-Rose",
+        "slug": "moteurs-et-piscines-sainte-rose",
+        "telephone": "+1 450-622-0940",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 168,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "4939205466945034588",
+        "nom": "Piscines Val-Morin Signature",
+        "slug": "piscines-val-morin-signature",
+        "telephone": "+1 514-856-7738",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 151,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "12930015035076440172",
+        "nom": "Okéanos Piscine Québec",
+        "slug": "okeanos-piscine-quebec",
+        "telephone": "+1 450-937-4441",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 445,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16203372924796130000",
+        "nom": "SP INTERNATIONAL & FILS",
+        "slug": "sp-international-fils",
+        "telephone": "+1 450-969-5975",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 24,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "15580387970660019937",
+        "nom": "Piscine Honoré-Mercier",
+        "slug": "piscine-honore-mercier",
+        "telephone": "+1 450-622-0936",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 84,
+        "type": "Indoor swimming pool"
+      },
+      {
+        "id": "8317801353349150586",
+        "nom": "Refecto Aquatique",
+        "slug": "refecto-aquatique",
+        "telephone": "+1 450-688-4070",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 14,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10123824159590792145",
+        "nom": "Piscine Roi-du-Nord",
+        "slug": "piscine-roi-du-nord",
+        "telephone": "+1 450-628-7009",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 70,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "4132614625654055332",
+        "nom": "Piscine municipale de Sainte-Rose",
+        "slug": "piscine-municipale-de-sainte-rose",
+        "telephone": "+262 262 47 33 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 3,
+        "type": "Corporate office"
+      },
+      {
+        "id": "4551201228410923323",
+        "nom": "Maison cosy avec piscine à Sainte-Rose",
+        "slug": "maison-cosy-avec-piscine-a-sainte-rose",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "1477178100442600486",
+        "nom": "Splash Swimming & Fitness Aquatic",
+        "slug": "splash-swimming-fitness-aquatic",
+        "telephone": "+590 690 50 67 17",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6696558353955062659",
+        "nom": "AVILLA OF sea-green STANDING 6\\/8 with sight on the Sainte Rose caraibe",
+        "slug": "avilla-of-sea-green-standing-68-with-sight-on-the-sainte-rose-caraibe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "les-avirons": {
+    "artisans": [
+      {
+        "id": "6488412973835368731",
+        "nom": "Les Artisans Piscinistes",
+        "slug": "les-artisans-piscinistes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "4533990178099988855",
+        "nom": "M2o Aquatic Center Private Aux Avirons",
+        "slug": "m2o-aquatic-center-private-aux-avirons",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Avirons, Réunion",
+        "note": 5,
+        "avis": 12,
+        "type": "Swimming instructor"
+      },
+      {
+        "id": "8941785170481237129",
+        "nom": "Complexe Sportif Des Avirons",
+        "slug": "complexe-sportif-des-avirons",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Avirons, Réunion",
+        "note": 4.5,
+        "avis": 56,
+        "type": "Sports complex"
+      },
+      {
+        "id": "5469962743850376015",
+        "nom": "Zen Piscine Réunion",
+        "slug": "zen-piscine-reunion",
+        "telephone": "+262 692 38 30 51",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Pool cleaning service"
+      }
+    ]
+  },
+  "bras-panon": {
+    "artisans": [
+      {
+        "id": "13023263552540371468",
+        "nom": "Piscine Municipale de Bras-Panon",
+        "slug": "piscine-municipale-de-bras-panon",
+        "telephone": "+262 262 51 74 73",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 47,
+        "type": "Swimming"
+      },
+      {
+        "id": "15928368098704615075",
+        "nom": "Locamex Réunion",
+        "slug": "locamex-reunion",
+        "telephone": "+262 693 92 94 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "9556795698837694818",
+        "nom": "Bras-Panon: Maison avec vue et piscine 1-4 pers.",
+        "slug": "bras-panon-maison-avec-vue-et-piscine-1-4-pers",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "l-etang-sale": {
+    "artisans": [
+      {
+        "id": "14175398011424734959",
+        "nom": "Aqua Services Piscine",
+        "slug": "aqua-services-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-plaine-des-palmistes": {
+    "artisans": [
+      {
+        "id": "3074925817258999699",
+        "nom": "Piscine Municipale Thierry Robert de La Plaine des Palmistes",
+        "slug": "piscine-municipale-thierry-robert-de-la-plaine-des-palmistes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Plaine-des-Palmistes, Réunion",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "le-port": {
+    "artisans": [
+      {
+        "id": "16865485221993834899",
+        "nom": "Jean-Lou Javoy Olympic swimming Pool",
+        "slug": "jean-lou-javoy-olympic-swimming-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Andre Suarez",
+        "note": 4.6,
+        "avis": 78,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "la-possession": {
+    "artisans": [
+      {
+        "id": "16885657319912188051",
+        "nom": "TEAM PISCINES",
+        "slug": "team-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Possession, Réunion",
+        "note": 4,
+        "avis": 2,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "5734084714785202896",
+        "nom": "Piscine Municipale de la Possession",
+        "slug": "piscine-municipale-de-la-possession",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Réunion",
+        "note": 3.6,
+        "avis": 31,
+        "type": "Swimming"
+      },
+      {
+        "id": "10744639711234474081",
+        "nom": "SLPooL",
+        "slug": "slpool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Possession, Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "9883572697469895725",
+        "nom": "Club Aquatique de La Possession",
+        "slug": "club-aquatique-de-la-possession",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Possession, Réunion",
+        "note": 4.1,
+        "avis": 33,
+        "type": "Swim club"
+      },
+      {
+        "id": "2144362511855345284",
+        "nom": "Club des Nageurs de La Possession",
+        "slug": "club-des-nageurs-de-la-possession",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Possession, Réunion",
+        "note": 3.9,
+        "avis": 46,
+        "type": "Swim club"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "17277642940364787092",
+        "nom": "La Maison Du Spa        ",
+        "slug": "la-maison-du-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hot Tub Shop",
+        "note": 4.9,
+        "avis": 85,
+        "type": null
+      }
+    ]
+  },
+  "saint-pierre": {
+    "artisans": [
+      {
+        "id": "3417181282367542591",
+        "nom": "Piscine de Saint-Pierre - Collectivité territoriale de Saint-Pierre et Miquelon",
+        "slug": "piscine-de-saint-pierre-collectivite-territoriale-de-saint-pierre-et-miquelon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre, St Pierre & Miquelon",
+        "note": 4,
+        "avis": 8,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "saint-philippe": {
+    "artisans": [
+      {
+        "id": "9898904135971826598",
+        "nom": "Entreprises H2O",
+        "slug": "entreprises-h2o",
+        "telephone": "+1 450-907-4326",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 9,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "12950884485693535678",
+        "nom": "Complexe Élodie-P.-Babin",
+        "slug": "complexe-elodie-p-babin",
+        "telephone": "+1 450-659-7701",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 28,
+        "type": "Community center"
+      }
+    ]
+  },
+  "salazie": {
+    "artisans": [
+      {
+        "id": "16367756026592585002",
+        "nom": "Piscine Municipale de Salazie",
+        "slug": "piscine-municipale-de-salazie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "86 RD 52 Mare à Citrons",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "le-tampon": {
+    "artisans": [
+      {
+        "id": "16269745225563608543",
+        "nom": "Piscine Roland Garros",
+        "slug": "piscine-roland-garros",
+        "telephone": "+262 262 27 13 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 22,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2822470295351543769",
+        "nom": "Piscine de Trois Mares",
+        "slug": "piscine-de-trois-mares",
+        "telephone": "+262 262 43 79 53",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 93,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "9290866367252263407",
+        "nom": "JC Piscine Entretien Piscine Réunion",
+        "slug": "jc-piscine-entretien-piscine-reunion",
+        "telephone": "+262 692 01 62 67",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "9693434308886818457",
+        "nom": "LMR Piscines",
+        "slug": "lmr-piscines",
+        "telephone": "+262 692 22 11 14",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "15148153610190449802",
+        "nom": "Ren’eau piscine",
+        "slug": "reneau-piscine",
+        "telephone": "+262 692 08 53 67",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "9323511438461621954",
+        "nom": "ENTREPRISE DIJOUX DANY - PISCINE REUNION",
+        "slug": "entreprise-dijoux-dany-piscine-reunion",
+        "telephone": "+262 692 68 00 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 1,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1269816190733142931",
+        "nom": "DAM Service",
+        "slug": "dam-service",
+        "telephone": "+262 693 91 58 83",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "les-trois-bassins": {
+    "artisans": [
+      {
+        "id": "5940533616511781243",
+        "nom": "Le petit pisciniste",
+        "slug": "le-petit-pisciniste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Opens 9 AM Wed",
+        "note": null,
+        "avis": null,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "17169310714798675295",
+        "nom": "ENTRETIEN PISCINE REUNION",
+        "slug": "entretien-piscine-reunion",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Réunion",
+        "note": 3,
+        "avis": 2,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "16749541843577808534",
+        "nom": "Piscine Island",
+        "slug": "piscine-island",
+        "telephone": "+262 692 60 13 68",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Pool cleaning service"
+      }
+    ]
+  },
+  "cilaos": {
+    "artisans": [
+      {
+        "id": "16623076229367153556",
+        "nom": "le roi la piscine",
+        "slug": "le-roi-la-piscine",
+        "telephone": "+262 692 01 64 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 10,
+        "type": "Construction company"
+      },
+      {
+        "id": "562585885962641397",
+        "nom": "sport piscine municipal cilaos",
+        "slug": "sport-piscine-municipal-cilaos",
+        "telephone": "+262 262 31 55 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 2,
+        "avis": 7,
+        "type": "Swimming pool"
+      }
+    ]
+  }
+}

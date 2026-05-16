@@ -12,8 +12,8 @@
             "slug": "ardennes",
             "population_totale": 267422,
             "communes_count": 447,
-            "communes_avec_artisans": 50,
-            "artisans_vmc": 402,
+            "communes_avec_artisans": 30,
+            "artisans_piscine": 50,
             "voisins": [
                 {
                     "dep_code": "10",
@@ -43,8 +43,8 @@
             "slug": "aube",
             "population_totale": 310675,
             "communes_count": 431,
-            "communes_avec_artisans": 43,
-            "artisans_vmc": 349,
+            "communes_avec_artisans": 30,
+            "artisans_piscine": 54,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -74,8 +74,8 @@
             "slug": "marne",
             "population_totale": 564673,
             "communes_count": 610,
-            "communes_avec_artisans": 66,
-            "artisans_vmc": 537,
+            "communes_avec_artisans": 37,
+            "artisans_piscine": 57,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -105,8 +105,8 @@
             "slug": "haute-marne",
             "population_totale": 170045,
             "communes_count": 426,
-            "communes_avec_artisans": 27,
-            "artisans_vmc": 217,
+            "communes_avec_artisans": 14,
+            "artisans_piscine": 36,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -136,8 +136,8 @@
             "slug": "meurthe-et-moselle",
             "population_totale": 732598,
             "communes_count": 591,
-            "communes_avec_artisans": 114,
-            "artisans_vmc": 886,
+            "communes_avec_artisans": 59,
+            "artisans_piscine": 116,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -167,8 +167,8 @@
             "slug": "meuse",
             "population_totale": 180980,
             "communes_count": 499,
-            "communes_avec_artisans": 28,
-            "artisans_vmc": 187,
+            "communes_avec_artisans": 12,
+            "artisans_piscine": 21,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -198,8 +198,8 @@
             "slug": "moselle",
             "population_totale": 1050568,
             "communes_count": 725,
-            "communes_avec_artisans": 189,
-            "artisans_vmc": 1604,
+            "communes_avec_artisans": 60,
+            "artisans_piscine": 93,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -229,8 +229,8 @@
             "slug": "bas-rhin",
             "population_totale": 1152643,
             "communes_count": 514,
-            "communes_avec_artisans": 190,
-            "artisans_vmc": 1630,
+            "communes_avec_artisans": 77,
+            "artisans_piscine": 116,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -260,8 +260,8 @@
             "slug": "haut-rhin",
             "population_totale": 768567,
             "communes_count": 366,
-            "communes_avec_artisans": 154,
-            "artisans_vmc": 1239,
+            "communes_avec_artisans": 58,
+            "artisans_piscine": 94,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -291,8 +291,8 @@
             "slug": "vosges",
             "population_totale": 359332,
             "communes_count": 506,
-            "communes_avec_artisans": 71,
-            "artisans_vmc": 550,
+            "communes_avec_artisans": 37,
+            "artisans_piscine": 71,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -319,8 +319,8 @@
     ],
     "stats": {
         "communes_total": 5115,
-        "communes_avec_artisans": 932,
-        "artisans_vmc": 7601,
+        "communes_avec_artisans": 414,
+        "artisans_piscine": 708,
         "population_totale": 5557503
     },
     "zones_climatiques": {

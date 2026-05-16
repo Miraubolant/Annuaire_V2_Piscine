@@ -1,0 +1,254 @@
+{
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "17342846894371993426",
+        "nom": "Cash Piscines",
+        "slug": "cash-piscines",
+        "telephone": "+32 4 374 09 38",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 451,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "cayenne": {
+    "artisans": [
+      {
+        "id": "1485554212895800674",
+        "nom": "Sun Piscines Guyane",
+        "slug": "sun-piscines-guyane",
+        "telephone": "+594 594 44 82 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 59,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "9540553240023323263",
+        "nom": "Piscine Services Guyane",
+        "slug": "piscine-services-guyane",
+        "telephone": "+594 694 31 19 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "4011142048214043951",
+        "nom": "Cash Piscines",
+        "slug": "cash-piscines",
+        "telephone": "+594 694 43 16 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 64,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "14161961396130382675",
+        "nom": "Piscine Express",
+        "slug": "piscine-express",
+        "telephone": "+594 594 31 85 65",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2691979303049273294",
+        "nom": "AquaVert piscine",
+        "slug": "aquavert-piscine",
+        "telephone": "+594 694 00 76 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "11812862395090401161",
+        "nom": "Piscine Magiline",
+        "slug": "piscine-magiline",
+        "telephone": "+594 694 97 33 58",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4471020353524367922",
+        "nom": "SoPool bassins et accessoires de piscine",
+        "slug": "sopool-bassins-et-accessoires-de-piscine",
+        "telephone": "+594 594 35 11 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8122183566149865574",
+        "nom": "Quality Piscine Guyane",
+        "slug": "quality-piscine-guyane",
+        "telephone": "+594 694 23 63 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Pool cleaning service"
+      },
+      {
+        "id": "7265828519016317349",
+        "nom": "BLEU GUYANE PISCINES EVERBLUE",
+        "slug": "bleu-guyane-piscines-everblue",
+        "telephone": "+594 594 35 24 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "kourou": {
+    "artisans": [
+      {
+        "id": "14462704790446692079",
+        "nom": "Piscine et jardin",
+        "slug": "piscine-et-jardin",
+        "telephone": "+594 594 32 00 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 5,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "12207900859746194760",
+        "nom": "CM PISCINES Entretien & Construction Piscine Guyane",
+        "slug": "cm-piscines-entretien-construction-piscine-guyane",
+        "telephone": "+594 694 46 39 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "macouria": {
+    "artisans": [
+      {
+        "id": "13977616639709630865",
+        "nom": "Waterair Guyane - Satech",
+        "slug": "waterair-guyane-satech",
+        "telephone": "+594 594 25 83 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12752388747167861035",
+        "nom": "Freedom Guyane",
+        "slug": "freedom-guyane",
+        "telephone": "+594 694 05 03 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "matoury": {
+    "artisans": [
+      {
+        "id": "6728634382362937270",
+        "nom": "AQUAZONIA",
+        "slug": "aquazonia",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Matoury, French Guiana",
+        "note": 3.2,
+        "avis": 143,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "13761799758359917008",
+        "nom": "Bos Piscines Entretien",
+        "slug": "bos-piscines-entretien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Remire-Montjoly, French Guiana",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1240348382887167078",
+        "nom": "SAGIP groupe - Magasin",
+        "slug": "sagip-groupe-magasin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Matoury, French Guiana",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-laurent-du-maroni": {
+    "artisans": [
+      {
+        "id": "9040982438710884383",
+        "nom": "Centre Nautique Municipal",
+        "slug": "centre-nautique-municipal",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "GX4C+C5V, Bd Malouet",
+        "note": 3.8,
+        "avis": 31,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "sinnamary": {
+    "artisans": [
+      {
+        "id": "9871639247440913134",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+594 594 34 57 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 21,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "grand-santi": {
+    "artisans": [
+      {
+        "id": "2642542878506914203",
+        "nom": "Hotel La Villa Couacou",
+        "slug": "hotel-la-villa-couacou",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Grand-Santi, French Guiana",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Hotel"
+      }
+    ]
+  }
+}

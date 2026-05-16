@@ -4,19 +4,17 @@
         <!-- Colonne 1 : Brand -->
         <div>
             <div style="display:flex;align-items:center;gap:10px;">
-                <div style="width:42px;height:42px;background:rgba(255,255,255,.1);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;">💨</div>
+                <div style="width:42px;height:42px;background:rgba(255,255,255,.1);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;">🏊</div>
                 <span class="footer-brand-name"><?= SITE_NAME ?></span>
             </div>
             <p class="footer-brand-desc">
-                Le premier annuaire des installateurs VMC qualifiés en France.
-                Trouvez un artisan certifié près de chez vous et bénéficiez
-                des primes CEE BAR-TH-125/187 et MaPrimeRénov'.
+                Le premier annuaire des piscinistes qualifiés en France. Trouvez un professionnel certifié près de chez vous pour construire, rénover ou entretenir votre piscine.
             </p>
             <div class="footer-badges">
-                <span class="footer-badge">✓ Certifié RGE</span>
-                <span class="footer-badge">✓ BAR-TH-125</span>
-                <span class="footer-badge">✓ BAR-TH-187</span>
-                <span class="footer-badge">✓ MaPrimeRénov'</span>
+                <span class="footer-badge">✓ Qualipiscine</span>
+                <span class="footer-badge">✓ FPP certifié</span>
+                <span class="footer-badge">✓ Financement dispo</span>
+                <span class="footer-badge">✓ Devis gratuit</span>
             </div>
         </div>
 
@@ -76,7 +74,7 @@
 
     <div class="footer-bottom">
         <p class="footer-bottom-text">
-            © <?= SITE_YEAR ?> <?= SITE_NAME ?> — Annuaire des installateurs VMC en France. Tous droits réservés.
+            © <?= SITE_YEAR ?> <?= SITE_NAME ?> — Annuaire des piscinistes en France. Tous droits réservés.
         </p>
         <div class="footer-bottom-links">
             <a href="<?= SITE_URL ?>/mentions-legales/" class="footer-bottom-link">Mentions légales</a>

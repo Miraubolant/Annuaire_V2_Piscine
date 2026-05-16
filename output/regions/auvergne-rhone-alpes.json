@@ -12,8 +12,8 @@
             "slug": "ain",
             "population_totale": 665468,
             "communes_count": 391,
-            "communes_avec_artisans": 173,
-            "artisans_vmc": 1491,
+            "communes_avec_artisans": 86,
+            "artisans_piscine": 276,
             "voisins": [
                 {
                     "dep_code": "03",
@@ -43,8 +43,8 @@
             "slug": "allier",
             "population_totale": 334814,
             "communes_count": 317,
-            "communes_avec_artisans": 57,
-            "artisans_vmc": 437,
+            "communes_avec_artisans": 43,
+            "artisans_piscine": 98,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -74,8 +74,8 @@
             "slug": "ardeche",
             "population_totale": 332564,
             "communes_count": 335,
-            "communes_avec_artisans": 89,
-            "artisans_vmc": 674,
+            "communes_avec_artisans": 60,
+            "artisans_piscine": 160,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -105,8 +105,8 @@
             "slug": "cantal",
             "population_totale": 144572,
             "communes_count": 250,
-            "communes_avec_artisans": 27,
-            "artisans_vmc": 166,
+            "communes_avec_artisans": 23,
+            "artisans_piscine": 61,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -136,8 +136,8 @@
             "slug": "drome",
             "population_totale": 520293,
             "communes_count": 362,
-            "communes_avec_artisans": 101,
-            "artisans_vmc": 807,
+            "communes_avec_artisans": 73,
+            "artisans_piscine": 162,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -167,8 +167,8 @@
             "slug": "isere",
             "population_totale": 1289104,
             "communes_count": 512,
-            "communes_avec_artisans": 258,
-            "artisans_vmc": 2127,
+            "communes_avec_artisans": 153,
+            "artisans_piscine": 315,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -198,8 +198,8 @@
             "slug": "loire",
             "population_totale": 770130,
             "communes_count": 320,
-            "communes_avec_artisans": 127,
-            "artisans_vmc": 1084,
+            "communes_avec_artisans": 68,
+            "artisans_piscine": 119,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -229,8 +229,8 @@
             "slug": "haute-loire",
             "population_totale": 227866,
             "communes_count": 257,
-            "communes_avec_artisans": 57,
-            "artisans_vmc": 424,
+            "communes_avec_artisans": 32,
+            "artisans_piscine": 55,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -260,8 +260,8 @@
             "slug": "puy-de-dome",
             "population_totale": 663504,
             "communes_count": 463,
-            "communes_avec_artisans": 105,
-            "artisans_vmc": 838,
+            "communes_avec_artisans": 49,
+            "artisans_piscine": 83,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -291,8 +291,8 @@
             "slug": "rhone",
             "population_totale": 1895074,
             "communes_count": 267,
-            "communes_avec_artisans": 156,
-            "artisans_vmc": 1409,
+            "communes_avec_artisans": 87,
+            "artisans_piscine": 150,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -322,8 +322,8 @@
             "slug": "savoie",
             "population_totale": 443896,
             "communes_count": 273,
-            "communes_avec_artisans": 81,
-            "artisans_vmc": 679,
+            "communes_avec_artisans": 42,
+            "artisans_piscine": 104,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -353,8 +353,8 @@
             "slug": "haute-savoie",
             "population_totale": 843795,
             "communes_count": 279,
-            "communes_avec_artisans": 172,
-            "artisans_vmc": 1516,
+            "communes_avec_artisans": 78,
+            "artisans_piscine": 180,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -381,8 +381,8 @@
     ],
     "stats": {
         "communes_total": 4026,
-        "communes_avec_artisans": 1403,
-        "artisans_vmc": 11652,
+        "communes_avec_artisans": 794,
+        "artisans_piscine": 1763,
         "population_totale": 8131080
     },
     "zones_climatiques": {

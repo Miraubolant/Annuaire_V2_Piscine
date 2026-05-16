@@ -1,0 +1,947 @@
+{
+  "vald-yerre": {
+    "artisans": [
+      {
+        "id": "8262497343327046578",
+        "nom": "Val De Forme",
+        "slug": "val-de-forme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Yerres, France",
+        "note": 3.5,
+        "avis": 443,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "18038914913740744507",
+        "nom": "Arrou Plage",
+        "slug": "arrou-plage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Rue du Pont de Pierre",
+        "note": 4,
+        "avis": 9,
+        "type": "Swimming lake"
+      },
+      {
+        "id": "12782730535335527974",
+        "nom": "Centre Nautique Les Riviérades",
+        "slug": "centre-nautique-les-rivierades",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cloyes-les-Trois-Rivières, France",
+        "note": 4,
+        "avis": 433,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6558169336559242139",
+        "nom": "Nautical Center Roger Creuzot",
+        "slug": "nautical-center-roger-creuzot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châteaudun, France",
+        "note": 4,
+        "avis": 86,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "aunay-sous-auneau": {
+    "artisans": [
+      {
+        "id": "5471945419899928388",
+        "nom": "Greg Piscine Service",
+        "slug": "greg-piscine-service",
+        "telephone": "+33 6 62 36 05 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming pool repair service"
+      },
+      {
+        "id": "16169569940951044690",
+        "nom": "SOUTECH",
+        "slug": "soutech",
+        "telephone": "+33 6 21 95 73 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "auneau-bleury-saint-symphorien": {
+    "artisans": [
+      {
+        "id": "14081371843255625659",
+        "nom": "The Iliad Aquatic Center",
+        "slug": "the-iliad-aquatic-center",
+        "telephone": "+33 2 32 31 98 99",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 223,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "authon-du-perche": {
+    "artisans": [
+      {
+        "id": "10995582330208393715",
+        "nom": "ADN piscines",
+        "slug": "adn-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Frazé, France",
+        "note": 5,
+        "avis": 4,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1460644399651999098",
+        "nom": "Piscines & Spas du Perche - PISCINES HydroSud La Ferté Bernard",
+        "slug": "piscines-spas-du-perche-piscines-hydrosud-la-ferte-bernard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Chapelle-du-Bois, France",
+        "note": 4.1,
+        "avis": 52,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2817647191920053153",
+        "nom": "Piscines & Spas à Nogent-Le-Rotrou - Ent. LOWE",
+        "slug": "piscines-spas-a-nogent-le-rotrou-ent-lowe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nogent-le-Rotrou, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15871613347443664117",
+        "nom": "PARADIS PISCINE - ETS PINEAU",
+        "slug": "paradis-piscine-ets-pineau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brou, France",
+        "note": 3.4,
+        "avis": 32,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17233188732030253841",
+        "nom": "Water Park of Perche",
+        "slug": "water-park-of-perche",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fontaine-Simon, France",
+        "note": 4.1,
+        "avis": 409,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "bailleau-le-pin": {
+    "artisans": [
+      {
+        "id": "4297789428850268088",
+        "nom": "Innov' Piscine",
+        "slug": "innov-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lèves, France",
+        "note": 4.5,
+        "avis": 37,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "13619699161525586700",
+        "nom": "Del Paysage - Piscine Magiline Chartres",
+        "slug": "del-paysage-piscine-magiline-chartres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fontenay-sur-Eure, France",
+        "note": 4.3,
+        "avis": 30,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12016460509944053824",
+        "nom": "Aquilus Piscines et Spas Chartres",
+        "slug": "aquilus-piscines-et-spas-chartres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nogent-le-Phaye, France",
+        "note": 4.5,
+        "avis": 91,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "238384833734981122",
+        "nom": "Pooldesign création Entretien et réparation de piscine en Eure et loir",
+        "slug": "pooldesign-creation-entretien-et-reparation-de-piscine-en-eure-et-loir",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chartres, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "bailleau-armenonville": {
+    "artisans": [
+      {
+        "id": "4165955731853219843",
+        "nom": "Del Paysage - Piscine Magiline Marboué",
+        "slug": "del-paysage-piscine-magiline-marboue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marboué, France",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16598938459976777189",
+        "nom": "Irripiscine by Irrijardin Luisant Chartres",
+        "slug": "irripiscine-by-irrijardin-luisant-chartres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Luisant, France",
+        "note": 4.7,
+        "avis": 51,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "barjouville": {
+    "artisans": [
+      {
+        "id": "16847866458447816020",
+        "nom": "Airhydro",
+        "slug": "airhydro",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Amilly, France",
+        "note": 2.7,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "bonneval": {
+    "artisans": [
+      {
+        "id": "6361648638826532144",
+        "nom": "Océanide du Bonnevalais Centre Aquatique",
+        "slug": "oceanide-du-bonnevalais-centre-aquatique",
+        "telephone": "+33 2 37 44 67 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 275,
+        "type": "Aquatic center"
+      }
+    ]
+  },
+  "boutigny-prouais": {
+    "artisans": [
+      {
+        "id": "2782099434423103991",
+        "nom": "Amex Terrassement",
+        "slug": "amex-terrassement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bû, France",
+        "note": 1,
+        "avis": 2,
+        "type": "Earth works company"
+      }
+    ]
+  },
+  "bu": {
+    "artisans": [
+      {
+        "id": "13272678684371613106",
+        "nom": "Les Horizons Bleus",
+        "slug": "les-horizons-bleus",
+        "telephone": "+33 6 85 21 34 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 33,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1858087943858008077",
+        "nom": "Les Piscines d'Anthony - Pisciniste - Constructeur de piscines",
+        "slug": "les-piscines-d-anthony-pisciniste-constructeur-de-piscines",
+        "telephone": "+33 9 77 76 92 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 25,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9456244153639883769",
+        "nom": "Piscines Traditionnelles",
+        "slug": "piscines-traditionnelles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Permanently closed",
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "la-chapelle-du-noyer": {
+    "artisans": [
+      {
+        "id": "3569314484146999284",
+        "nom": "Allo Piscine Service",
+        "slug": "allo-piscine-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-sur-Loir, France",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "133702908993720627",
+        "nom": "un spa rien que pour vous",
+        "slug": "un-spa-rien-que-pour-vous",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châteaudun, France",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Spa"
+      }
+    ]
+  },
+  "chartres": {
+    "artisans": [
+      {
+        "id": "10606503528682544758",
+        "nom": "LANTANA AU JARDIN TRANQUILLE        ",
+        "slug": "lantana-au-jardin-tranquille",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Landscape Gardener",
+        "note": 4,
+        "avis": 11,
+        "type": null
+      }
+    ]
+  },
+  "la-chaussee-d-ivry": {
+    "artisans": [
+      {
+        "id": "16363255543092294814",
+        "nom": "Everblue - Paris Vert Ouest",
+        "slug": "everblue-paris-vert-ouest",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gressey, France",
+        "note": 4.3,
+        "avis": 44,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "courville-sur-eure": {
+    "artisans": [
+      {
+        "id": "17111619030127399399",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 2 37 23 71 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 179,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "dammarie": {
+    "artisans": [
+      {
+        "id": "11243134259413376415",
+        "nom": "Piscines Desjoyaux Dammarie les Lys",
+        "slug": "piscines-desjoyaux-dammarie-les-lys",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dammarie-lès-Lys, France",
+        "note": 3.9,
+        "avis": 47,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "droue-sur-drouette": {
+    "artisans": [
+      {
+        "id": "4128989385832966815",
+        "nom": "Massages au fil de l eau",
+        "slug": "massages-au-fil-de-l-eau",
+        "telephone": "+33 6 88 21 19 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 33,
+        "type": "Massage spa"
+      }
+    ]
+  },
+  "epernon": {
+    "artisans": [
+      {
+        "id": "4643244171795173962",
+        "nom": "Piscine d'Epernon",
+        "slug": "piscine-d-epernon",
+        "telephone": "+33 2 37 83 61 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 116,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "2923835914289251344",
+        "nom": "Complexe sportif du Closelet",
+        "slug": "complexe-sportif-du-closelet",
+        "telephone": "+33 2 37 18 51 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 142,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "hanches": {
+    "artisans": [
+      {
+        "id": "3274951407654580544",
+        "nom": "Aqua services",
+        "slug": "aqua-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Hammamet",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4189629440405855251",
+        "nom": "Hannibal piscines",
+        "slug": "hannibal-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tunis",
+        "note": 4.9,
+        "avis": 29,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "2189127535809091573",
+        "nom": "Pool Store",
+        "slug": "pool-store",
+        "telephone": "55 141 566",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "17918788160577918727",
+        "nom": "Dream Piscine",
+        "slug": "dream-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Marsa",
+        "note": 3.5,
+        "avis": 20,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "679417321928696432",
+        "nom": "Piscine Plus",
+        "slug": "piscine-plus",
+        "telephone": "29 519 410",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "illiers-combray": {
+    "artisans": [
+      {
+        "id": "2620394980213024851",
+        "nom": "Piscine publique Illiers-Combray",
+        "slug": "piscine-publique-illiers-combray",
+        "telephone": "+33 2 37 24 24 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 18,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "janville-en-beauce": {
+    "artisans": [
+      {
+        "id": "10510051057974825723",
+        "nom": "Sanitherm 28",
+        "slug": "sanitherm-28",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Janville-en-Beauce, France",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Plumber"
+      },
+      {
+        "id": "9235982979278489747",
+        "nom": "Piscine de Janville",
+        "slug": "piscine-de-janville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "France",
+        "note": 3.2,
+        "avis": 27,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "jouy": {
+    "artisans": [
+      {
+        "id": "2232700697499368576",
+        "nom": "My Pool Piscines & Spas - Unibeo Metz",
+        "slug": "my-pool-piscines-spas-unibeo-metz",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marly, France",
+        "note": 4.9,
+        "avis": 152,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "la-loupe": {
+    "artisans": [
+      {
+        "id": "11207144055724987782",
+        "nom": "Gymnase la Loupe",
+        "slug": "gymnase-la-loupe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Loupe, France",
+        "note": 4.2,
+        "avis": 54,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "luce": {
+    "artisans": [
+      {
+        "id": "11966941255434385701",
+        "nom": "Côté Création Piscine",
+        "slug": "cote-creation-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Luce-sur-Loire, France",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11272877359880899964",
+        "nom": "Les Vauroux - Spaces Aquatic & Form",
+        "slug": "les-vauroux-spaces-aquatic-form",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mainvilliers, France",
+        "note": 4,
+        "avis": 317,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "luray": {
+    "artisans": [
+      {
+        "id": "16254200240880308157",
+        "nom": "Luray Caverns",
+        "slug": "luray-caverns",
+        "telephone": "+1 540-743-6551",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 26,
+        "type": "Tourist attraction"
+      },
+      {
+        "id": "7262076055943467713",
+        "nom": "Uncle D's Pools & Spas",
+        "slug": "uncle-d-s-pools-spas",
+        "telephone": "+1 540-843-0715",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 19,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "16450308493549074237",
+        "nom": "The Rope Adventure Park at Luray Caverns",
+        "slug": "the-rope-adventure-park-at-luray-caverns",
+        "telephone": "+1 540-843-0319",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 64,
+        "type": "Adventure sports center"
+      },
+      {
+        "id": "1828897015569796203",
+        "nom": "The Garden Maze at Luray Caverns",
+        "slug": "the-garden-maze-at-luray-caverns",
+        "telephone": "+1 540-843-0769",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 441,
+        "type": "Tourist attraction"
+      },
+      {
+        "id": "5613428145187178527",
+        "nom": "Giloire Emmanuel",
+        "slug": "giloire-emmanuel",
+        "telephone": "+33 9 75 70 62 62",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "maintenon": {
+    "artisans": [
+      {
+        "id": "11512927987676084713",
+        "nom": "Univers Extérieur",
+        "slug": "univers-exterieur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Maintenon, France",
+        "note": 5,
+        "avis": 16,
+        "type": "Masonry contractor"
+      }
+    ]
+  },
+  "mainvilliers": {
+    "artisans": [
+      {
+        "id": "2271715029833345379",
+        "nom": "Gaudron Paysage",
+        "slug": "gaudron-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mainvilliers, France",
+        "note": 4.8,
+        "avis": 82,
+        "type": "Landscaper"
+      }
+    ]
+  },
+  "marboue": {
+    "artisans": [
+      {
+        "id": "8223620373686654713",
+        "nom": "Pool Marboué",
+        "slug": "pool-marboue",
+        "telephone": "+33 2 37 45 08 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 41,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "13648349207721107721",
+        "nom": "Piscine extérieure de Marboué",
+        "slug": "piscine-exterieure-de-marboue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Av. du Quinze Août 1944",
+        "note": 4,
+        "avis": 4,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "mezieres-en-drouais": {
+    "artisans": [
+      {
+        "id": "6620940206622710549",
+        "nom": "EMD-PSI",
+        "slug": "emd-psi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Luray, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool repair service"
+      }
+    ]
+  },
+  "nogent-le-roi": {
+    "artisans": [
+      {
+        "id": "17045368465264500545",
+        "nom": "Piscine Plus Le Cres",
+        "slug": "piscine-plus-le-cres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Crès, France",
+        "note": 4.6,
+        "avis": 416,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "nogent-le-rotrou": {
+    "artisans": [
+      {
+        "id": "14237035651586498036",
+        "nom": "Aquaval",
+        "slug": "aquaval",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nogent-le-Rotrou, France",
+        "note": 3.5,
+        "avis": 372,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "oulins": {
+    "artisans": [
+      {
+        "id": "8175362775162881459",
+        "nom": "Piscine Municipale d'Oullins-Pierre-Bénite",
+        "slug": "piscine-municipale-d-oullins-pierre-benite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Oullins-Pierre-Bénite, France",
+        "note": 3.3,
+        "avis": 408,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "prunay-le-gillon": {
+    "artisans": [
+      {
+        "id": "292110376680126368",
+        "nom": "Prunay-le-Gillon",
+        "slug": "prunay-le-gillon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": null
+      }
+    ]
+  },
+  "sainte-gemme-moronval": {
+    "artisans": [
+      {
+        "id": "6445992920549406425",
+        "nom": "Gîte yinloft design Piscine",
+        "slug": "gite-yinloft-design-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Gemme-Moronval, France",
+        "note": 4,
+        "avis": 27,
+        "type": "Lodge"
+      }
+    ]
+  },
+  "sainville": {
+    "artisans": [
+      {
+        "id": "2156852036755449934",
+        "nom": "Duarte Piscines & SPA",
+        "slug": "duarte-piscines-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bouville, France",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "thimert-gatelles": {
+    "artisans": [
+      {
+        "id": "11801395889746022951",
+        "nom": "Piscine",
+        "slug": "piscine",
+        "telephone": "+33 2 37 51 61 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.4,
+        "avis": 23,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "toury": {
+    "artisans": [
+      {
+        "id": "168442404653326483",
+        "nom": "Servic'eau Piscines Tours - Construction & Rénovation Piscine",
+        "slug": "servic-eau-piscines-tours-construction-renovation-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rochecorbon, France",
+        "note": 5,
+        "avis": 68,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "tremblay-les-villages": {
+    "artisans": [
+      {
+        "id": "9234288694328465847",
+        "nom": "Maison de vacances grande capacité, avec piscine, proche Dreux et Chartres, Eure-et-Loir, Centre-Val de Loire",
+        "slug": "maison-de-vacances-grande-capacite-avec-piscine-proche-dreux-et-chartres-eure-et-loir-centre-val-de-loire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tremblay-les-Villages, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Holiday home"
+      }
+    ]
+  },
+  "treon": {
+    "artisans": [
+      {
+        "id": "5861490696646818199",
+        "nom": "Treon Oy",
+        "slug": "treon-oy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tampere, Finland",
+        "note": 5,
+        "avis": 9,
+        "type": "Industrial design company"
+      }
+    ]
+  },
+  "unverre": {
+    "artisans": [
+      {
+        "id": "17631682943249951674",
+        "nom": "Gite Le Carcotier * - piscine et spa intérieur Unverre",
+        "slug": "gite-le-carcotier-piscine-et-spa-interieur-unverre",
+        "telephone": "+33 6 76 16 38 81",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 9,
+        "type": "Lodge"
+      },
+      {
+        "id": "17274556948796613704",
+        "nom": "Piscine à Thiron Gardais",
+        "slug": "piscine-a-thiron-gardais",
+        "telephone": "+33 2 37 49 47 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 18,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "eole-en-beauce": {
+    "artisans": [
+      {
+        "id": "1698513865130753274",
+        "nom": "Piscines de Beauce inc",
+        "slug": "piscines-de-beauce-inc",
+        "telephone": "+1 418-387-2121",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 9,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "8321774345995164675",
+        "nom": "Sima - Ste-Marie Piscines & Spas",
+        "slug": "sima-ste-marie-piscines-spas",
+        "telephone": "+1 418-387-4670",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 142,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "16327948210266544992",
+        "nom": "Voves Area Swimming Pool",
+        "slug": "voves-area-swimming-pool",
+        "telephone": "+33 2 46 72 01 64",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 178,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "villiers-le-morhier": {
+    "artisans": [
+      {
+        "id": "12082278677885223224",
+        "nom": "ADH Piscines & Paysages – Paysagiste Pisciniste Spa – Vendôme",
+        "slug": "adh-piscines-paysages-paysagiste-pisciniste-spa-vendome",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-sur-Loir, France",
+        "note": 4.8,
+        "avis": 203,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  }
+}

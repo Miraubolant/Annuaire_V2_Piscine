@@ -13,7 +13,7 @@
             "population_totale": 2133111,
             "communes_count": 1,
             "communes_avec_artisans": 1,
-            "artisans_vmc": 10,
+            "artisans_piscine": 3,
             "voisins": [
                 {
                     "dep_code": "77",
@@ -43,8 +43,8 @@
             "slug": "seine-et-marne",
             "population_totale": 1439608,
             "communes_count": 507,
-            "communes_avec_artisans": 227,
-            "artisans_vmc": 2020,
+            "communes_avec_artisans": 86,
+            "artisans_piscine": 159,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -74,8 +74,8 @@
             "slug": "yvelines",
             "population_totale": 1458780,
             "communes_count": 259,
-            "communes_avec_artisans": 138,
-            "artisans_vmc": 1286,
+            "communes_avec_artisans": 65,
+            "artisans_piscine": 123,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -105,8 +105,8 @@
             "slug": "essonne",
             "population_totale": 1314065,
             "communes_count": 194,
-            "communes_avec_artisans": 130,
-            "artisans_vmc": 1180,
+            "communes_avec_artisans": 55,
+            "artisans_piscine": 102,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -136,8 +136,8 @@
             "slug": "hauts-de-seine",
             "population_totale": 1636336,
             "communes_count": 36,
-            "communes_avec_artisans": 30,
-            "artisans_vmc": 259,
+            "communes_avec_artisans": 26,
+            "artisans_piscine": 74,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -167,8 +167,8 @@
             "slug": "seine-saint-denis",
             "population_totale": 1670745,
             "communes_count": 40,
-            "communes_avec_artisans": 39,
-            "artisans_vmc": 362,
+            "communes_avec_artisans": 31,
+            "artisans_piscine": 55,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -198,8 +198,8 @@
             "slug": "val-de-marne",
             "population_totale": 1418048,
             "communes_count": 47,
-            "communes_avec_artisans": 45,
-            "artisans_vmc": 390,
+            "communes_avec_artisans": 30,
+            "artisans_piscine": 57,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -229,8 +229,8 @@
             "slug": "val-d-oise",
             "population_totale": 1258277,
             "communes_count": 183,
-            "communes_avec_artisans": 90,
-            "artisans_vmc": 862,
+            "communes_avec_artisans": 48,
+            "artisans_piscine": 77,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -257,8 +257,8 @@
     ],
     "stats": {
         "communes_total": 1267,
-        "communes_avec_artisans": 700,
-        "artisans_vmc": 6369,
+        "communes_avec_artisans": 342,
+        "artisans_piscine": 650,
         "population_totale": 12328970
     },
     "zones_climatiques": {

@@ -8,7 +8,7 @@ require_once __DIR__ . '/../functions.php';
 $regionNom  = $regionData['region']['nom'] ?? nomRegion($regionSlug);
 $stats      = $regionData['stats'] ?? [];
 $depts      = $regionData['departements'] ?? [];
-$nbArt      = number_format($stats['artisans_vmc'] ?? 0, 0, ',', ' ');
+$nbArt      = number_format($stats['artisans_piscine'] ?? 0, 0, ',', ' ');
 $nbCom      = number_format($stats['communes_avec_artisans'] ?? 0, 0, ',', ' ');
 $nbDep      = count($depts);
 
@@ -47,18 +47,17 @@ foreach (glob(DATA_DIR . '/regions/*.json') as $f) {
     $autresRegions[] = [
         'slug' => $slug,
         'nom'  => $rd['region']['nom'] ?? nomRegion($slug),
-        'nb'   => $rd['stats']['artisans_vmc'] ?? 0,
+        'nb'   => $rd['stats']['artisans_piscine'] ?? 0,
     ];
 }
 usort($autresRegions, fn($a, $b) => $b['nb'] <=> $a['nb']);
 
 // ── Groupes de services (nom différent de $serviceGroups dans header.php) ────
 $regionSvcGroups = [
-    'VMC Double Flux'           => ['isolation-combles-perdus', 'isolation-sarking', 'isolation-rampants', 'soufflage-combles', 'laine-de-verre'],
-    'VMC Hygroréglable'         => ['isolation-ite', 'isolation-iti', 'isolation-facade', 'bardage', 'enduit-isolant'],
-    'VMC Simple Flux'           => ['isolation-plancher-bas', 'isolation-sous-sol', 'isolation-dalle', 'vide-sanitaire'],
-    'Entretien & Remplacement'  => ['isolation-acoustique', 'isolation-phonique', 'isolation-plafond'],
-    'Rénovation énergétique'    => ['renovation-globale', 'audit-energetique', 'bilan-thermique', 'rge-isolation'],
+    'Construction 🏗️'              => ['construction-piscine-beton', 'construction-piscine-coque', 'piscine-hors-sol'],
+    'Rénovation 🔧'                => ['renovation-piscine', 'liner-revetement-piscine', 'carrelage-piscine'],
+    'Équipements & traitement 🧪'  => ['traitement-eau-piscine', 'electrolyseur-sel-piscine', 'pompe-chaleur-piscine'],
+    'Entretien & sécurité 🛡️'      => ['entretien-hivernage-piscine', 'abri-securite-piscine', 'diagnostic-piscine'],
 ];
 $modeleIndex = [];
 foreach (MODELES as $m) { $modeleIndex[$m['slug']] = $m['nom']; }
@@ -76,16 +75,16 @@ $trail = [
 $jsonLd = [jsonLdBreadcrumbs($trail)];
 
 $faq = [
-    ['q' => "Combien d'installateurs VMC y a-t-il " . articleRegion($regionSlug) . " ?",
-     'r' => "Il y a " . $nbArt . " installateurs VMC référencés " . articleRegion($regionSlug) . " dans notre annuaire, répartis dans " . $nbCom . " communes et " . $nbDep . " département" . ($nbDep > 1 ? 's' : '') . "."],
-    ['q' => "Quelles aides à la rénovation sont disponibles " . articleRegion($regionSlug) . " ?",
-     'r' => "Les habitants " . articleRegion($regionSlug) . " peuvent bénéficier de la TVA à 5,5% pour tous les travaux de ventilation VMC, de la prime CEE BAR-TH-125 (VMC double flux) et BAR-TH-187 (VMC hygroréglable), de l'Éco-PTZ (50 000 €) et de MaPrimeRénov'. Les montants varient selon la zone climatique (H1, H2 ou H3)."],
-    ['q' => "Comment trouver un installateur VMC RGE " . articleRegion($regionSlug) . " ?",
-     'r' => "Cherchez votre ville dans notre annuaire pour trouver les installateurs VMC certifiés RGE " . articleRegion($regionSlug) . ". La certification RGE est indispensable pour bénéficier des aides à la rénovation énergétique (VMC double flux, VMC hygroréglable)."],
-    ['q' => "Quels sont les délais pour des travaux de ventilation VMC " . articleRegion($regionSlug) . " ?",
-     'r' => "Les délais varient de 2 à 8 semaines selon les artisans et la période. En automne et au printemps, les délais sont souvent plus courts. Demandez plusieurs devis pour comparer les disponibilités."],
-    ['q' => "Quelle est la différence entre VMC simple flux et VMC double flux " . articleRegion($regionSlug) . " ?",
-     'r' => "La VMC simple flux extrait l'air vicié (60-100 €/m² posé). La VMC double flux récupère la chaleur de l'air extrait pour préchauffer l'air entrant, offrant d'excellentes économies d'énergie (150-300 €/m²). La VMC hygroréglable adapte automatiquement les débits à l'humidité ambiante."],
+    ['q' => "Combien de piscinistes y a-t-il " . articleRegion($regionSlug) . " ?",
+     'r' => "Il y a " . $nbArt . " piscinistes référencés " . articleRegion($regionSlug) . " dans notre annuaire, répartis dans " . $nbCom . " communes et " . $nbDep . " département" . ($nbDep > 1 ? 's' : '') . "."],
+    ['q' => "Quels financements sont disponibles pour une piscine " . articleRegion($regionSlug) . " ?",
+     'r' => "Les propriétaires " . articleRegion($regionSlug) . " peuvent bénéficier de la TVA à 10% sur les travaux piscine, du crédit d'impôt pour une pompe à chaleur piscine, et de solutions de financement pisciniste. Votre pisciniste local vous accompagne dans l'optimisation de votre budget."],
+    ['q' => "Comment trouver un pisciniste qualifié " . articleRegion($regionSlug) . " ?",
+     'r' => "Cherchez votre ville dans notre annuaire pour trouver les piscinistes certifiés Qualipiscine ou FPP " . articleRegion($regionSlug) . ". Ces certifications sont gage de qualité et de professionnalisme."],
+    ['q' => "Quels sont les délais pour construire une piscine " . articleRegion($regionSlug) . " ?",
+     'r' => "Les délais varient : 1 à 2 semaines pour une piscine coque, 4 à 8 semaines pour une piscine béton. Anticipez en contactant votre pisciniste dès le printemps pour des travaux en été."],
+    ['q' => "Quelle est la différence entre une piscine béton et une piscine coque " . articleRegion($regionSlug) . " ?",
+     'r' => "La piscine béton (25 000 € à 60 000 €) est entièrement sur mesure et très durable. La piscine coque (15 000 € à 35 000 €) est préfabriquée, rapide à installer et nécessite peu d'entretien. Votre pisciniste " . articleRegion($regionSlug) . " vous conseille selon votre projet et votre budget."],
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
@@ -111,22 +110,22 @@ require __DIR__ . '/../templates/header.php';
             <div style="display:flex;align-items:center;gap:8px;margin-bottom:20px;">
                 <span style="color:#F59E0B;letter-spacing:2px;font-size:16px;">★★★★★</span>
                 <span style="font-weight:600;color:#fff;font-size:14px;">4.9/5</span>
-                <span style="color:rgba(255,255,255,.4);font-size:13px;">· <?= $nbArt ?> installateurs VMC</span>
+                <span style="color:rgba(255,255,255,.4);font-size:13px;">· <?= $nbArt ?> piscinistes</span>
             </div>
 
             <h1 style="font-family:var(--font-display);font-size:clamp(26px,3.5vw,44px);font-weight:700;color:#fff;line-height:1.2;margin-bottom:14px;letter-spacing:-.02em;">
-                Installateurs VMC<br>
+                Piscinistes<br>
                 <em style="color:#F0A07A;font-style:italic;"><?= htmlspecialchars($regionNom) ?></em>
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                Trouvez un installateur VMC certifié RGE <?= htmlspecialchars(articleRegion($regionSlug)) ?> — devis gratuit, TVA 5,5%, prime CEE disponibles.
+                Trouvez un pisciniste qualifié <?= htmlspecialchars(articleRegion($regionSlug)) ?> — devis gratuit, TVA 10%, financement pisciniste disponible.
             </p>
 
             <div class="ph-stat-row">
                 <div class="ph-stat">
                     <div class="ph-stat-num"><?= $nbArt ?></div>
-                    <div class="ph-stat-label">Installateurs VMC</div>
+                    <div class="ph-stat-label">Piscinistes</div>
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
@@ -144,15 +143,15 @@ require __DIR__ . '/../templates/header.php';
                 <div class="ph-badge">
                     <div class="ph-badge-icon">🏅</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Certification RGE</div>
-                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Obligatoire</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Qualipiscine / FPP</div>
+                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés</div>
                     </div>
                 </div>
                 <div class="ph-badge">
-                    <div class="ph-badge-icon">🏅</div>
+                    <div class="ph-badge-icon">🏊</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Artisans RGE</div>
-                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés & Assurés</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Piscinistes assurés</div>
+                        <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Garantie décennale</div>
                     </div>
                 </div>
             </div>
@@ -200,15 +199,15 @@ require __DIR__ . '/../templates/header.php';
     <div style="max-width:1280px;margin:0 auto;">
         <div style="max-width:860px;">
             <h2 style="font-family:var(--font-display);font-size:22px;font-weight:700;color:var(--text);margin-bottom:12px;">
-                Pourquoi faire appel à un installateur VMC <?= htmlspecialchars(articleRegion($regionSlug)) ?> ?
+                Pourquoi faire appel à un pisciniste <?= htmlspecialchars(articleRegion($regionSlug)) ?> ?
             </h2>
             <p style="font-size:15px;color:var(--text-muted);line-height:1.8;">
-                La ventilation VMC <?= htmlspecialchars(articleRegion($regionSlug)) ?> couvre un large spectre de travaux : installation VMC double flux,
-                VMC hygroréglable, VMC simple flux, entretien et remplacement de systèmes existants,
-                traitement de l'humidité et de la qualité de l'air intérieur.
-                Avec <strong><?= $nbArt ?> installateurs VMC référencés</strong> dans la région <?= htmlspecialchars($regionNom) ?>,
-                vous trouverez facilement un professionnel certifié RGE proche de chez vous pour bénéficier des aides à la rénovation :
-                TVA à 5,5%, prime CEE BAR-TH-125/BAR-TH-187, Éco-PTZ et MaPrimeRénov'.
+                Les piscinistes <?= htmlspecialchars(articleRegion($regionSlug)) ?> couvrent un large éventail de prestations : construction de piscine béton ou coque,
+                rénovation, remplacement de liner, carrelage, traitement de l'eau, installation d'électrolyseur au sel,
+                pompe à chaleur, entretien et hivernage.
+                Avec <strong><?= $nbArt ?> piscinistes référencés</strong> dans la région <?= htmlspecialchars($regionNom) ?>,
+                vous trouverez facilement un professionnel certifié proche de chez vous pour bénéficier de la TVA 10%
+                et des solutions de financement pisciniste.
             </p>
         </div>
     </div>
@@ -219,14 +218,14 @@ require __DIR__ . '/../templates/header.php';
     <div style="max-width:1280px;margin:0 auto;">
         <div style="margin-bottom:32px;">
             <span class="section-eyebrow">📍 <?= $nbDep ?> département<?= $nbDep > 1 ? 's' : '' ?></span>
-            <h2 class="section-title" style="margin-top:8px;">Installateurs VMC par département <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
+            <h2 class="section-title" style="margin-top:8px;">Piscinistes par département <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
             <p class="section-subtitle">Sélectionnez votre département pour voir les artisans disponibles.</p>
         </div>
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;">
             <?php foreach ($depts as $dept): ?>
             <?php
             $dUrl  = urlDepartement($regionSlug, $dept['slug']);
-            $dNb   = number_format($dept['artisans_vmc'] ?? 0, 0, ',', ' ');
+            $dNb   = number_format($dept['artisans_piscine'] ?? 0, 0, ',', ' ');
             $dCom  = $dept['communes_avec_artisans'] ?? 0;
             ?>
             <a href="<?= htmlspecialchars($dUrl) ?>"
@@ -238,7 +237,7 @@ require __DIR__ . '/../templates/header.php';
                     <span style="font-weight:600;color:var(--text);font-size:14px;"><?= htmlspecialchars($dept['nom']) ?></span>
                 </div>
                 <div style="display:flex;justify-content:space-between;font-size:12px;color:var(--text-muted);">
-                    <span>💨 <?= $dNb ?> installateurs VMC</span>
+                    <span>🏊 <?= $dNb ?> piscinistes</span>
                     <span>📍 <?= $dCom ?> communes</span>
                 </div>
             </a>
@@ -253,7 +252,7 @@ require __DIR__ . '/../templates/header.php';
     <div style="max-width:1280px;margin:0 auto;">
         <div style="margin-bottom:32px;">
             <span class="section-eyebrow">🏘️ Villes les mieux couvertes</span>
-            <h2 class="section-title" style="margin-top:8px;">Installateurs VMC dans les principales villes <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
+            <h2 class="section-title" style="margin-top:8px;">Piscinistes dans les principales villes <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
             <p class="section-subtitle">Accédez directement aux artisans de votre ville.</p>
         </div>
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;">
@@ -278,9 +277,9 @@ require __DIR__ . '/../templates/header.php';
 <section style="padding:56px 24px;background:var(--white);border-bottom:1px solid var(--stone);">
     <div style="max-width:1280px;margin:0 auto;">
         <div style="margin-bottom:32px;">
-            <span class="section-eyebrow">🔧 40 services</span>
-            <h2 class="section-title" style="margin-top:8px;">Services ventilation VMC <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
-            <p class="section-subtitle">Tous les travaux de ventilation VMC disponibles auprès de nos artisans référencés.</p>
+            <span class="section-eyebrow">🔧 12 services</span>
+            <h2 class="section-title" style="margin-top:8px;">Services piscine <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
+            <p class="section-subtitle">Tous les travaux piscine disponibles auprès de nos piscinistes référencés.</p>
         </div>
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:24px;">
             <?php foreach ($regionSvcGroups as $groupLabel => $slugs): ?>
@@ -307,7 +306,7 @@ require __DIR__ . '/../templates/header.php';
     <div style="max-width:1280px;margin:0 auto;">
         <div style="text-align:center;margin-bottom:36px;">
             <span class="section-eyebrow">💶 Financements 2026</span>
-            <h2 class="section-title" style="margin-top:8px;">Aides à la rénovation toiture <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
+            <h2 class="section-title" style="margin-top:8px;">Aides et financements piscine <?= htmlspecialchars(articleRegion($regionSlug)) ?></h2>
             <p class="section-subtitle">Cumulables · Sans avance de frais · Applicables dans tous les départements de la région</p>
         </div>
         <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;">
@@ -330,7 +329,7 @@ require __DIR__ . '/../templates/header.php';
     <div style="max-width:1280px;margin:0 auto;">
         <div style="margin-bottom:24px;">
             <span class="section-eyebrow">🗺️ Toutes les régions</span>
-            <h2 class="section-title" style="margin-top:8px;font-size:clamp(18px,2.5vw,26px);">Installateurs VMC dans les autres régions de France</h2>
+            <h2 class="section-title" style="margin-top:8px;font-size:clamp(18px,2.5vw,26px);">Piscinistes dans les autres régions de France</h2>
         </div>
         <div style="display:flex;flex-wrap:wrap;gap:8px;">
             <?php foreach ($autresRegions as $ar): ?>
@@ -351,7 +350,7 @@ require __DIR__ . '/../templates/header.php';
     <div style="max-width:800px;margin:0 auto;">
         <div style="text-align:center;margin-bottom:36px;">
             <span class="section-eyebrow">❓ Questions fréquentes</span>
-            <h2 class="section-title" style="margin-top:8px;">Installateur VMC <?= htmlspecialchars(articleRegion($regionSlug)) ?> — FAQ</h2>
+            <h2 class="section-title" style="margin-top:8px;">Pisciniste <?= htmlspecialchars(articleRegion($regionSlug)) ?> — FAQ</h2>
         </div>
         <?php $questions = $faq; require __DIR__ . '/../components/faq.php'; ?>
     </div>

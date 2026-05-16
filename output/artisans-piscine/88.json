@@ -1,0 +1,931 @@
+{
+  "charmes": {
+    "artisans": [
+      {
+        "id": "18019519803181469953",
+        "nom": "Piscine de l’Hermitage à Charmes",
+        "slug": "piscine-de-lhermitage-a-charmes",
+        "telephone": "+33 3 29 38 19 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 29,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-leonard": {
+    "artisans": [
+      {
+        "id": "14182156404877246799",
+        "nom": "Complexe aquatique de Saint-Léonard",
+        "slug": "complexe-aquatique-de-saint-leonard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Leonard, Quebec, Canada",
+        "note": 4,
+        "avis": 577,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6124683429271409838",
+        "nom": "Parc Pie-XII swimming pool",
+        "slug": "parc-pie-xii-swimming-pool",
+        "telephone": "+1 514-872-0311",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 32,
+        "type": "Outdoor swimming pool"
+      },
+      {
+        "id": "7167796417950475846",
+        "nom": "Aqua'Noblat",
+        "slug": "aqua-noblat",
+        "telephone": "+33 5 87 22 99 10",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 431,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "16612690472518264003",
+        "nom": "Noblat Aquatique Club",
+        "slug": "noblat-aquatique-club",
+        "telephone": "+33 6 98 93 67 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 20,
+        "type": "Swim club"
+      },
+      {
+        "id": "14156337033328946879",
+        "nom": "Parc Ladauversière swimming pool",
+        "slug": "parc-ladauversiere-swimming-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7560 Bd Lacordaire",
+        "note": 3.6,
+        "avis": 20,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "chatenois": {
+    "artisans": [
+      {
+        "id": "4700009750863595110",
+        "nom": "Amazone Piscines",
+        "slug": "amazone-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rouffach, France",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "15951236922100692220",
+        "nom": "Guillaume AQUA",
+        "slug": "guillaume-aqua",
+        "telephone": "+33 6 45 56 15 64",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Personal trainer"
+      },
+      {
+        "id": "11641665497786294034",
+        "nom": "Grillages Wunschel",
+        "slug": "grillages-wunschel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châtenois, France",
+        "note": 4.4,
+        "avis": 85,
+        "type": "Fence contractor"
+      }
+    ]
+  },
+  "archettes": {
+    "artisans": [
+      {
+        "id": "13644865321702864975",
+        "nom": "REFLETS D’EAU Piscines et spas NOMEXY",
+        "slug": "reflets-deau-piscines-et-spas-nomexy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nomexy, France",
+        "note": 5,
+        "avis": 5,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "ban-de-laveline": {
+    "artisans": [
+      {
+        "id": "15876587031455786789",
+        "nom": "Blue 2.0 Piscines et Spas",
+        "slug": "blue-20-piscines-et-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Dié-des-Vosges, France",
+        "note": 5,
+        "avis": 19,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "12653991235653815165",
+        "nom": "Déco Nature Paysagiste - Pisciniste",
+        "slug": "deco-nature-paysagiste-pisciniste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Laveline-devant-Bruyères, France",
+        "note": 4.5,
+        "avis": 23,
+        "type": "Landscape designer"
+      },
+      {
+        "id": "1600265442751413905",
+        "nom": "At the top of the Drop",
+        "slug": "at-the-top-of-the-drop",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ban-de-Laveline, France",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Holiday home"
+      }
+    ]
+  },
+  "la-bresse": {
+    "artisans": [
+      {
+        "id": "843681761272969044",
+        "nom": "Entertainment Complex Pool",
+        "slug": "entertainment-complex-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2A Rue des Proyes",
+        "note": 3.7,
+        "avis": 423,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "bruyeres": {
+    "artisans": [
+      {
+        "id": "9898277818879888506",
+        "nom": "Piscine Communautaire Roger Mercier",
+        "slug": "piscine-communautaire-roger-mercier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bruyères, France",
+        "note": 3.9,
+        "avis": 107,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "6887060386391253080",
+        "nom": "PISCINES EVASION",
+        "slug": "piscines-evasion",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Laveline-devant-Bruyères, France",
+        "note": null,
+        "avis": null,
+        "type": "Store"
+      }
+    ]
+  },
+  "bulgneville": {
+    "artisans": [
+      {
+        "id": "253456628948963083",
+        "nom": "Piscine des Lacs",
+        "slug": "piscine-des-lacs",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Contrexéville, France",
+        "note": 4.3,
+        "avis": 211,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "bussang": {
+    "artisans": [
+      {
+        "id": "10195608189277975192",
+        "nom": "Piscine Intercommunale CC-BHV",
+        "slug": "piscine-intercommunale-cc-bhv",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Maurice-sur-Moselle, France",
+        "note": 3.7,
+        "avis": 22,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "8309882326837153269",
+        "nom": "Sunelia Domaine de Champé",
+        "slug": "sunelia-domaine-de-champe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bussang, France",
+        "note": 4.6,
+        "avis": 1,
+        "type": "Campground"
+      },
+      {
+        "id": "17692141355788358890",
+        "nom": "SPA Pure Altitude BUSSANG",
+        "slug": "spa-pure-altitude-bussang",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bussang, France",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Spa"
+      }
+    ]
+  },
+  "chavelot": {
+    "artisans": [
+      {
+        "id": "16150985956579350498",
+        "nom": "Tp Schoeffer Piscine DUGAIN",
+        "slug": "tp-schoeffer-piscine-dugain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chavelot, France",
+        "note": 5,
+        "avis": 15,
+        "type": "Landscaper"
+      },
+      {
+        "id": "14478468130435936701",
+        "nom": "Nordic Bain - Bain Nordique - Sauna - Brasero - Bar à Fondue - Produits d’entretien",
+        "slug": "nordic-bain-bain-nordique-sauna-brasero-bar-a-fondue-produits-dentretien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chavelot, France",
+        "note": 4.8,
+        "avis": 10,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "contrexeville": {
+    "artisans": [
+      {
+        "id": "2968842788201581445",
+        "nom": "DESJOYAUX Epinal        ",
+        "slug": "desjoyaux-epinal",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Swimming pool contractor",
+        "note": 4.4,
+        "avis": 22,
+        "type": null
+      },
+      {
+        "id": "18086615153065670567",
+        "nom": "Thermes de Contrexéville",
+        "slug": "thermes-de-contrexeville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Contrexéville, France",
+        "note": 4.2,
+        "avis": 1,
+        "type": "Thermal baths"
+      }
+    ]
+  },
+  "darnieulles": {
+    "artisans": [
+      {
+        "id": "18038719292477646126",
+        "nom": "BLEU ET BOIS",
+        "slug": "bleu-et-bois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Épinal, France",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "dogneville": {
+    "artisans": [
+      {
+        "id": "12351741976667745642",
+        "nom": "Paysage Décors SARL",
+        "slug": "paysage-decors-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dogneville, France",
+        "note": 3,
+        "avis": 10,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "dommartin-les-remiremont": {
+    "artisans": [
+      {
+        "id": "601908552043527751",
+        "nom": "Créabois spa et sauna",
+        "slug": "creabois-spa-et-sauna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Remiremont, France",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "3477231465384506359",
+        "nom": "Bulles de douceur",
+        "slug": "bulles-de-douceur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dommartin-lès-Remiremont, France",
+        "note": 4.8,
+        "avis": 106,
+        "type": "Wellness center"
+      },
+      {
+        "id": "16037067724185724236",
+        "nom": "DRJ - Piscine - Spa - Sauna - Hammam - Sav - Paysagiste",
+        "slug": "drj-piscine-spa-sauna-hammam-sav-paysagiste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Syndicat, France",
+        "note": null,
+        "avis": null,
+        "type": "Landscaper"
+      },
+      {
+        "id": "14262227232732837974",
+        "nom": "SapinMyrtille",
+        "slug": "sapinmyrtille",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dommartin-lès-Remiremont, France",
+        "note": 4.9,
+        "avis": 43,
+        "type": "Lodge"
+      },
+      {
+        "id": "9474806667383564081",
+        "nom": "BP SPA - Installation/Vente et Sav piscines , spas , saunas . Showroom ouvert sur RDV.",
+        "slug": "bp-spa-installationvente-et-sav-piscines-spas-saunas-showroom-ouvert-sur-rdv",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dounoux, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Hot tub store"
+      }
+    ]
+  },
+  "fresse-sur-moselle": {
+    "artisans": [
+      {
+        "id": "1257403959100933934",
+        "nom": "Tout Bain",
+        "slug": "tout-bain",
+        "telephone": null,
+        "site_web": "http://toutbain.com/",
+        "adresse": "Le Thillot, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "gerardmer": {
+    "artisans": [
+      {
+        "id": "2200662272697788880",
+        "nom": "paysagiste, pisciniste vosges: CREA PAYSAGES",
+        "slug": "paysagiste-pisciniste-vosges-crea-paysages",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gerbépal, France",
+        "note": 5,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "11251313851426473952",
+        "nom": "Bien-Être",
+        "slug": "bien-etre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gérardmer, France",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Sauna"
+      },
+      {
+        "id": "11107488709641213698",
+        "nom": "Joannes Paysages Piscine & Spa",
+        "slug": "joannes-paysages-piscine-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rochesson, France",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "1712041723557508265",
+        "nom": "Joannes Paysage",
+        "slug": "joannes-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gérardmer, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "golbey": {
+    "artisans": [
+      {
+        "id": "11388268345012383857",
+        "nom": "INEAUX - Eurodime Groupe",
+        "slug": "ineaux-eurodime-groupe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Uxegney, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "liffol-le-grand": {
+    "artisans": [
+      {
+        "id": "16662220561951441513",
+        "nom": "Ecolors Beauté Spa Bien-être",
+        "slug": "ecolors-beaute-spa-bien-etre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Liffol-le-Grand, France",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Hairdresser"
+      }
+    ]
+  },
+  "mirecourt": {
+    "artisans": [
+      {
+        "id": "7348679149761594475",
+        "nom": "Piscine Intercommunale de Mirecourt-Dompaire",
+        "slug": "piscine-intercommunale-de-mirecourt-dompaire",
+        "telephone": "+33 9 80 85 87 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 202,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "neufchateau": {
+    "artisans": [
+      {
+        "id": "14249470442353184896",
+        "nom": "Gabriel Bodenreider Pool",
+        "slug": "gabriel-bodenreider-pool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Neufchâteau, France",
+        "note": 4.1,
+        "avis": 219,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "8846671016021422640",
+        "nom": "Kinesys",
+        "slug": "kinesys",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Neufchâteau, Belgium",
+        "note": 4.6,
+        "avis": 39,
+        "type": "Physical therapist"
+      },
+      {
+        "id": "15079116579495524755",
+        "nom": "Cocooon - Poolsize",
+        "slug": "cocooon-poolsize",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Neufchâteau, Belgium",
+        "note": 5,
+        "avis": 3,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "15817916620737166365",
+        "nom": "Tendance Piscine et Spa",
+        "slug": "tendance-piscine-et-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Libramont-Chevigny, Belgium",
+        "note": 3.9,
+        "avis": 32,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "8291923741596097486",
+        "nom": "Piscine Oceane",
+        "slug": "piscine-oceane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bertrix, Belgium",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "plombieres-les-bains": {
+    "artisans": [
+      {
+        "id": "8575615793906487458",
+        "nom": "Piscine intercommunale La Ligne",
+        "slug": "piscine-intercommunale-la-ligne",
+        "telephone": "+33 3 29 30 04 39",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 23,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "portieux": {
+    "artisans": [
+      {
+        "id": "4862674728768288433",
+        "nom": "Jacquinot Romain Piscines & BTP",
+        "slug": "jacquinot-romain-piscines-btp",
+        "telephone": "+33 6 95 93 32 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "pouxeux": {
+    "artisans": [
+      {
+        "id": "10118736341987514295",
+        "nom": "Atmos'Vert",
+        "slug": "atmos-vert",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pouxeux, France",
+        "note": 5,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "provencheres-et-colroy": {
+    "artisans": [
+      {
+        "id": "17786517826934143010",
+        "nom": "Piscines REM / Rem Ingenierie",
+        "slug": "piscines-rem-rem-ingenierie",
+        "telephone": null,
+        "site_web": "https://www.piscinesrem.com/",
+        "adresse": "Saint-Stail, France",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "rambervillers": {
+    "artisans": [
+      {
+        "id": "10676088152540124304",
+        "nom": "Nuance+",
+        "slug": "nuance",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Jeanménil, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Painter"
+      }
+    ]
+  },
+  "ramonchamp": {
+    "artisans": [
+      {
+        "id": "8665927768343950669",
+        "nom": "Steel-piscine",
+        "slug": "steel-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ferdrupt, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7844782487825386493",
+        "nom": "Centre aquatique et espace bien être",
+        "slug": "centre-aquatique-et-espace-bien-etre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Thillot, France",
+        "note": 3.8,
+        "avis": 51,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "1835879554493714469",
+        "nom": "ouzane piscine",
+        "slug": "ouzane-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tamaris",
+        "note": 5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "raon-l-etape": {
+    "artisans": [
+      {
+        "id": "10416049317688557697",
+        "nom": "Piscine Municipale",
+        "slug": "piscine-municipale",
+        "telephone": "+33 3 29 41 44 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 75,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "remiremont": {
+    "artisans": [
+      {
+        "id": "8385881992821161127",
+        "nom": "Aquatic Center of Remiremont",
+        "slug": "aquatic-center-of-remiremont",
+        "telephone": "+33 3 55 22 81 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 620,
+        "type": "Aquatic center"
+      },
+      {
+        "id": "16884404781177468907",
+        "nom": "Deevert",
+        "slug": "deevert",
+        "telephone": "+33 3 29 62 02 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 43,
+        "type": "Building materials store"
+      }
+    ]
+  },
+  "rupt-sur-moselle": {
+    "artisans": [
+      {
+        "id": "6101128591675397935",
+        "nom": "Opulsion - Vente de spa • jacuzzi • sauna • hammam - Epinal Vosges (88)",
+        "slug": "opulsion-vente-de-spa-jacuzzi-sauna-hammam-epinal-vosges-88",
+        "telephone": null,
+        "site_web": "https://www.opulsion.fr/",
+        "adresse": "Épinal, France",
+        "note": 4.9,
+        "avis": 87,
+        "type": "Hot tub store"
+      },
+      {
+        "id": "12555519821787176331",
+        "nom": "Chalet LE LYNX 8 Personnes Piscine privée intérieure sauna",
+        "slug": "chalet-le-lynx-8-personnes-piscine-privee-interieure-sauna",
+        "telephone": null,
+        "site_web": "http://www.la-clairiere-inattendue.fr/",
+        "adresse": "Ferdrupt, France",
+        "note": 5,
+        "avis": 15,
+        "type": "Chalet"
+      },
+      {
+        "id": "17524288756918526431",
+        "nom": "Chalet 3 Vallées - Piscine SPA - Haut Standing",
+        "slug": "chalet-3-vallees-piscine-spa-haut-standing",
+        "telephone": null,
+        "site_web": "https://br.bluepillow.com/search/6811c8c46178c7268f2e3d27?dest=bkng&cat=Villa&lat=47.93232&lng=6.66471&language=pt",
+        "adresse": "Rupt-sur-Moselle, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "saint-ame": {
+    "artisans": [
+      {
+        "id": "8856416251643013131",
+        "nom": "Aquanova America",
+        "slug": "aquanova-america",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Dié-des-Vosges, France",
+        "note": 4,
+        "avis": 1,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-nabord": {
+    "artisans": [
+      {
+        "id": "2094024857660094331",
+        "nom": "POIROT PAYSAGE",
+        "slug": "poirot-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Nabord, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Landscaper"
+      },
+      {
+        "id": "10406814155940134002",
+        "nom": "Maison avec piscine, jacuzzi et sauna",
+        "slug": "maison-avec-piscine-jacuzzi-et-sauna",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Nabord, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "saulxures-sur-moselotte": {
+    "artisans": [
+      {
+        "id": "2231950235815859422",
+        "nom": "Aquafly",
+        "slug": "aquafly",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saulxures-sur-Moselotte, France",
+        "note": 4.4,
+        "avis": 278,
+        "type": "Amusement center"
+      },
+      {
+        "id": "9228475293588009972",
+        "nom": "Piscine intercommunale Vagney",
+        "slug": "piscine-intercommunale-vagney",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vagney, France",
+        "note": 4.4,
+        "avis": 116,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "le-syndicat": {
+    "artisans": [
+      {
+        "id": "4373590591178461496",
+        "nom": "Federation of Pool Professionals - PPF",
+        "slug": "federation-of-pool-professionals-ppf",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Paris, France",
+        "note": 3,
+        "avis": 6,
+        "type": "Labor union"
+      }
+    ]
+  },
+  "uxegney": {
+    "artisans": [
+      {
+        "id": "11617520357574280619",
+        "nom": "OXYGEN BEACH ET POOL CLUB",
+        "slug": "oxygen-beach-et-pool-club",
+        "telephone": "+213 560 70 44 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 279,
+        "type": "Beach club"
+      }
+    ]
+  },
+  "uzemain": {
+    "artisans": [
+      {
+        "id": "7184770191691699155",
+        "nom": "Base de Loisirs",
+        "slug": "base-de-loisirs",
+        "telephone": "+33 3 29 30 10 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 52,
+        "type": "Swimming facility"
+      },
+      {
+        "id": "10505633429235065184",
+        "nom": "U.W.E.France",
+        "slug": "uwefrance",
+        "telephone": "+33 2 38 44 25 12",
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "605158798821187335",
+        "nom": "Piscine Jacuzzi Sauna 4 étoiles",
+        "slug": "piscine-jacuzzi-sauna-4-etoiles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Uzemain, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      },
+      {
+        "id": "6727877862573711429",
+        "nom": "Maison de vacances Clair de Lune",
+        "slug": "maison-de-vacances-clair-de-lune",
+        "telephone": "+33 6 95 12 05 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.3,
+        "avis": 3,
+        "type": "Holiday home"
+      }
+    ]
+  },
+  "le-val-d-ajol": {
+    "artisans": [
+      {
+        "id": "9468337210558259337",
+        "nom": "Piscine Intercommunale de la Porte des Vosges Méridionales",
+        "slug": "piscine-intercommunale-de-la-porte-des-vosges-meridionales",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Val-d'Ajol, France",
+        "note": 4.4,
+        "avis": 163,
+        "type": "Indoor swimming pool"
+      }
+    ]
+  },
+  "vittel": {
+    "artisans": [
+      {
+        "id": "2275371725434892458",
+        "nom": "Pool Vittel",
+        "slug": "pool-vittel",
+        "telephone": "+33 3 29 08 05 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 238,
+        "type": "Swimming pool"
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "cercy-la-tour": {
+    "artisans": [
+      {
+        "id": "6202084362944235145",
+        "nom": "Piscine municipale de Cercy-la-Tour",
+        "slug": "piscine-municipale-de-cercy-la-tour",
+        "telephone": "+33 3 86 50 60 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 50,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "challuy": {
+    "artisans": [
+      {
+        "id": "1762524427745996817",
+        "nom": "L'Eau Cost Piscine Nevers",
+        "slug": "l-eau-cost-piscine-nevers",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nevers, France",
+        "note": 4.1,
+        "avis": 142,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "12227786844607395957",
+        "nom": "Atmosphere Pools and Spas",
+        "slug": "atmosphere-pools-and-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nevers, France",
+        "note": 4.5,
+        "avis": 39,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "17716604931148020258",
+        "nom": "Piscinia sarl",
+        "slug": "piscinia-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nevers, France",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9466694679968571569",
+        "nom": "Aquabalt",
+        "slug": "aquabalt",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nevers, France",
+        "note": 4.1,
+        "avis": 410,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "la-charite-sur-loire": {
+    "artisans": [
+      {
+        "id": "9544777472241159087",
+        "nom": "Bassin d’été de l’île du faubourg de Loire",
+        "slug": "bassin-dete-de-lile-du-faubourg-de-loire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Charité-sur-Loire, France",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Outdoor swimming pool"
+      },
+      {
+        "id": "10849116112384736310",
+        "nom": "Piscine des Clairs Bassins",
+        "slug": "piscine-des-clairs-bassins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Charité-sur-Loire, France",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "chateau-chinon-ville": {
+    "artisans": [
+      {
+        "id": "10662543897733296005",
+        "nom": "Piscine intercommunale de Château-Chinon",
+        "slug": "piscine-intercommunale-de-chateau-chinon",
+        "telephone": "+33 7 56 21 32 61",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 11,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "chaulgnes": {
+    "artisans": [
+      {
+        "id": "14248916277509575026",
+        "nom": "L'Atelier Du Pisciniste",
+        "slug": "l-atelier-du-pisciniste",
+        "telephone": "+33 6 64 96 78 73",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "clamecy": {
+    "artisans": [
+      {
+        "id": "15100393325353420089",
+        "nom": "LD Piscine Coque 89",
+        "slug": "ld-piscine-coque-89",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Charbuy, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "corbigny": {
+    "artisans": [
+      {
+        "id": "11421101305533976835",
+        "nom": "Lantana Roca Paysage - Avallon        ",
+        "slug": "lantana-roca-paysage-avallon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Landscape Gardener",
+        "note": null,
+        "avis": null,
+        "type": null
+      },
+      {
+        "id": "15372461835495653880",
+        "nom": "Complexe Omnisports de Corbigny",
+        "slug": "complexe-omnisports-de-corbigny",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Corbigny, France",
+        "note": 3.4,
+        "avis": 8,
+        "type": "Sports complex"
+      }
+    ]
+  },
+  "cosne-cours-sur-loire": {
+    "artisans": [
+      {
+        "id": "13869270598338853184",
+        "nom": "Piscine communautaire",
+        "slug": "piscine-communautaire",
+        "telephone": null,
+        "site_web": "https://www.coeurdeloire.fr/piscines/",
+        "adresse": "42 Rue du Colonel Rabier",
+        "note": 4.1,
+        "avis": 193,
+        "type": "Swimming facility"
+      }
+    ]
+  },
+  "decize": {
+    "artisans": [
+      {
+        "id": "12111430056333745281",
+        "nom": "Pool Decize",
+        "slug": "pool-decize",
+        "telephone": "+33 3 86 25 16 79",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 146,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "donzy": {
+    "artisans": [
+      {
+        "id": "6435130364183004782",
+        "nom": "Donzy's swimming pool",
+        "slug": "donzy-s-swimming-pool",
+        "telephone": "+33 3 86 39 31 68",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 58,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "dornes": {
+    "artisans": [
+      {
+        "id": "1533644467332606703",
+        "nom": "Simon piscines paysages",
+        "slug": "simon-piscines-paysages",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dornes, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "fourchambault": {
+    "artisans": [
+      {
+        "id": "7421541283751101637",
+        "nom": "Daniel Moquet signe vos piscines - Ent. Rogée",
+        "slug": "daniel-moquet-signe-vos-piscines-ent-rogee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marzy, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "imphy": {
+    "artisans": [
+      {
+        "id": "5530085996042618506",
+        "nom": "Espace Aquatique Amphélia",
+        "slug": "espace-aquatique-amphelia",
+        "telephone": "+33 3 86 90 95 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 274,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "lormes": {
+    "artisans": [
+      {
+        "id": "12919851163428876342",
+        "nom": "Camping Etang du Goulot",
+        "slug": "camping-etang-du-goulot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lormes, France",
+        "note": 4.4,
+        "avis": 396,
+        "type": "Campground"
+      }
+    ]
+  },
+  "luzy": {
+    "artisans": [
+      {
+        "id": "7948336746591615897",
+        "nom": "Piscine de Luzy",
+        "slug": "piscine-de-luzy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte d'Autun",
+        "note": 4.5,
+        "avis": 52,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "moulins-engilbert": {
+    "artisans": [
+      {
+        "id": "14154180027912136206",
+        "nom": "Piscine",
+        "slug": "piscine",
+        "telephone": "+33 3 86 84 21 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 21,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "pougues-les-eaux": {
+    "artisans": [
+      {
+        "id": "5635901014613432245",
+        "nom": "Piscine de Pougues-les-Eaux",
+        "slug": "piscine-de-pougues-les-eaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Av. de Paris",
+        "note": 3.5,
+        "avis": 65,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "saint-benin-d-azy": {
+    "artisans": [
+      {
+        "id": "5567450997629394323",
+        "nom": "Piscine de St-Benin-d’Azy",
+        "slug": "piscine-de-st-benin-dazy",
+        "telephone": null,
+        "site_web": "http://horaires-piscine.info/horaires-piscine-de-st-benin-dazy/",
+        "adresse": "33 Rue Victor Hugo",
+        "note": 4.2,
+        "avis": 38,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "sermoise-sur-loire": {
+    "artisans": [
+      {
+        "id": "26453574824599216",
+        "nom": "Devis Piscine Tours – Experts Locaux",
+        "slug": "devis-piscine-tours-experts-locaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nevers, France",
+        "note": null,
+        "avis": null,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "varennes-vauzelles": {
+    "artisans": [
+      {
+        "id": "493363520321737767",
+        "nom": "Centre Aquatique de L'Îlot Corail",
+        "slug": "centre-aquatique-de-l-ilot-corail",
+        "telephone": "+33 3 86 57 06 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 581,
+        "type": "Public swimming pool"
+      }
+    ]
+  }
+}

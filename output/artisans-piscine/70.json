@@ -1,0 +1,478 @@
+{
+  "saint-germain": {
+    "artisans": [
+      {
+        "id": "16140578625075816026",
+        "nom": "Piscine Saint-Germain",
+        "slug": "piscine-saint-germain",
+        "telephone": "+33 1 56 81 25 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 236,
+        "type": "Public swimming pool"
+      },
+      {
+        "id": "5874147611334750419",
+        "nom": "Le Dôme Saint-Germain-en-Laye",
+        "slug": "le-dome-saint-germain-en-laye",
+        "telephone": "+33 1 39 04 25 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "3979610815961324990",
+        "nom": "PAUL BAILLY PISCINES & SPAS",
+        "slug": "paul-bailly-piscines-spas",
+        "telephone": "+33 6 95 73 03 35",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4876872563315866503",
+        "nom": "Piscines Ibiza Seine - Essonne 91 - 77",
+        "slug": "piscines-ibiza-seine-essonne-91-77",
+        "telephone": "+33 1 60 87 47 67",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 13,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "saint-barthelemy": {
+    "artisans": [
+      {
+        "id": "1509011687705773815",
+        "nom": "My Pool",
+        "slug": "my-pool",
+        "telephone": "+590 590 27 62 03",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "aillevillers-et-lyaumont": {
+    "artisans": [
+      {
+        "id": "16116060629619886258",
+        "nom": "3bpiscine",
+        "slug": "3bpiscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Loup-sur-Semouse, France",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "10016699834596578922",
+        "nom": "PMC-Morel",
+        "slug": "pmc-morel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Loup-sur-Semouse, France",
+        "note": 5,
+        "avis": 1,
+        "type": "Swimming pool"
+      },
+      {
+        "id": "7074518241771330674",
+        "nom": "azur paysage",
+        "slug": "azur-paysage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Roye, France",
+        "note": 3.6,
+        "avis": 12,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "arc-les-gray": {
+    "artisans": [
+      {
+        "id": "4435338731107681085",
+        "nom": "piscines 70",
+        "slug": "piscines-70",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gray, France",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "4872829041951752257",
+        "nom": "COREAL PISCINE",
+        "slug": "coreal-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Arc-lès-Gray, France",
+        "note": null,
+        "avis": null,
+        "type": null
+      },
+      {
+        "id": "10368736279034820464",
+        "nom": "BHR Piscine",
+        "slug": "bhr-piscine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gray, France",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "9024279391789938052",
+        "nom": "Bassin nautique Christian Bergelin",
+        "slug": "bassin-nautique-christian-bergelin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gray, France",
+        "note": 3.4,
+        "avis": 23,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "chalonvillars": {
+    "artisans": [
+      {
+        "id": "17846206060727981365",
+        "nom": "Sérénité Piscines et Spas",
+        "slug": "serenite-piscines-et-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Frahier-et-Chatebier, France",
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "champagney": {
+    "artisans": [
+      {
+        "id": "10244347629335825744",
+        "nom": "Espace detente champagney",
+        "slug": "espace-detente-champagney",
+        "telephone": "+33 6 63 65 60 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 107,
+        "type": "Cottage"
+      },
+      {
+        "id": "2503173116053521722",
+        "nom": "JCTP | Terrassement",
+        "slug": "jctp-terrassement",
+        "telephone": "+33 6 61 54 04 66",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 32,
+        "type": "Earth works company"
+      },
+      {
+        "id": "9074024155083475948",
+        "nom": "Bassin de Champagney",
+        "slug": "bassin-de-champagney",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "34 Rue de la Louvière",
+        "note": 4.2,
+        "avis": 18,
+        "type": "Adventure sports center"
+      }
+    ]
+  },
+  "echenoz-la-meline": {
+    "artisans": [
+      {
+        "id": "7787637311551444364",
+        "nom": "Villa Mélinoise",
+        "slug": "villa-melinoise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Échenoz-la-Méline, France",
+        "note": 5,
+        "avis": 29,
+        "type": "Bed & breakfast"
+      },
+      {
+        "id": "16087085836294641844",
+        "nom": "Nordic Experience Piscine et Spa",
+        "slug": "nordic-experience-piscine-et-spa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Noidans-lès-Vesoul, France",
+        "note": 5,
+        "avis": 14,
+        "type": "Spa"
+      }
+    ]
+  },
+  "fontaine-les-luxeuil": {
+    "artisans": [
+      {
+        "id": "18074895123332846336",
+        "nom": "Azur Piscines et Spas",
+        "slug": "azur-piscines-et-spas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lure, France",
+        "note": 4.1,
+        "avis": 55,
+        "type": "Swimming pool supply store"
+      },
+      {
+        "id": "3889569474649406499",
+        "nom": "Piscine des 7 Chevaux à Luxeuil-les-Bains",
+        "slug": "piscine-des-7-chevaux-a-luxeuil-les-bains",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Luxeuil-les-Bains, France",
+        "note": 3.7,
+        "avis": 122,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "froideconche": {
+    "artisans": [
+      {
+        "id": "13996318651389034156",
+        "nom": "PISCINE COUVREUX",
+        "slug": "piscine-couvreux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Forges, France",
+        "note": 5,
+        "avis": 6,
+        "type": "Swimming pool contractor"
+      },
+      {
+        "id": "6997109186819137866",
+        "nom": "M. BTP PRO",
+        "slug": "m-btp-pro",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Froideconche, France",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Masonry contractor"
+      }
+    ]
+  },
+  "frotey-les-vesoul": {
+    "artisans": [
+      {
+        "id": "6054541666660774393",
+        "nom": "Locatelli Habitat",
+        "slug": "locatelli-habitat",
+        "telephone": "+33 3 84 75 65 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 52,
+        "type": "General contractor"
+      },
+      {
+        "id": "17153768474561981982",
+        "nom": "Evasion Spas",
+        "slug": "evasion-spas",
+        "telephone": "+33 9 80 81 82 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "hericourt": {
+    "artisans": [
+      {
+        "id": "7237476510988486111",
+        "nom": "Bassin d'apprentissage d'Héricourt",
+        "slug": "bassin-d-apprentissage-d-hericourt",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Héricourt, France",
+        "note": 4,
+        "avis": 10,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "jussey": {
+    "artisans": [
+      {
+        "id": "13936250641160398372",
+        "nom": "Complexe Sportif de Jussey",
+        "slug": "complexe-sportif-de-jussey",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Jussey, France",
+        "note": 4.5,
+        "avis": 27,
+        "type": "Sports complex"
+      },
+      {
+        "id": "3064758250575220606",
+        "nom": "Piscine 3S",
+        "slug": "piscine-3s",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Breurey-lès-Faverney, France",
+        "note": null,
+        "avis": null,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "melisey": {
+    "artisans": [
+      {
+        "id": "245351852005084427",
+        "nom": "La praille",
+        "slug": "la-praille",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 D486",
+        "note": 4.5,
+        "avis": 169,
+        "type": "Park"
+      },
+      {
+        "id": "18074661618980837593",
+        "nom": "Piscine La praille",
+        "slug": "piscine-la-praille",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 D486",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Outdoor swimming pool"
+      }
+    ]
+  },
+  "navenne": {
+    "artisans": [
+      {
+        "id": "4590734282454528547",
+        "nom": "Le Clou d’Or Piscines",
+        "slug": "le-clou-dor-piscines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vesoul, France",
+        "note": 3,
+        "avis": 2,
+        "type": "Swimming pool contractor"
+      }
+    ]
+  },
+  "noidans-les-vesoul": {
+    "artisans": [
+      {
+        "id": "7659832152674849069",
+        "nom": "Piscine Communautaire de Noidans-lès-Vesoul",
+        "slug": "piscine-communautaire-de-noidans-les-vesoul",
+        "telephone": "+33 3 84 97 18 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 144,
+        "type": "Public swimming pool"
+      }
+    ]
+  },
+  "port-sur-saone": {
+    "artisans": [
+      {
+        "id": "10142933775830095701",
+        "nom": "Piscine La Maladière - Port sur Saône",
+        "slug": "piscine-la-maladiere-port-sur-saone",
+        "telephone": "+33 7 81 35 00 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 71,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "pusey": {
+    "artisans": [
+      {
+        "id": "2177225291038225539",
+        "nom": "PLATYPOOL",
+        "slug": "platypool",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Closes 7 pm",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Swimming pool supply store"
+      }
+    ]
+  },
+  "rioz": {
+    "artisans": [
+      {
+        "id": "14413733874527922526",
+        "nom": "Pool Rioz",
+        "slug": "pool-rioz",
+        "telephone": "+33 3 84 91 92 77",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 81,
+        "type": "Swimming pool"
+      }
+    ]
+  },
+  "ronchamp": {
+    "artisans": [
+      {
+        "id": "14622606473546300393",
+        "nom": "Insolite avec piscine Au Bonheur Comtois",
+        "slug": "insolite-avec-piscine-au-bonheur-comtois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ronchamp, France",
+        "note": null,
+        "avis": null,
+        "type": "Vacation rental"
+      }
+    ]
+  },
+  "scey-sur-saone-et-saint-albin": {
+    "artisans": [
+      {
+        "id": "8748532440160274485",
+        "nom": "Centre Aquatique des Bords de Saône",
+        "slug": "centre-aquatique-des-bords-de-saone",
+        "telephone": "+33 3 84 68 89 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 51,
+        "type": "Swimming pool"
+      }
+    ]
+  }
+}

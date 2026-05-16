@@ -35,7 +35,7 @@ $trail = [
     ['name' => nomRegion($regionSlug), 'url' => urlRegion($regionSlug)],
     ['name' => $deptNom,               'url' => urlDepartement($regionSlug, $deptSlug)],
     ['name' => $villeNom,              'url' => urlVille($regionSlug, $deptSlug, $villeSlug, $villeCp)],
-    ['name' => 'Tous les installateurs VMC',  'url' => $canonical_url],
+    ['name' => 'Tous les piscinistes',  'url' => $canonical_url],
 ];
 $jsonLd = [jsonLdBreadcrumbs($trail)];
 
@@ -59,16 +59,16 @@ require __DIR__ . '/../templates/header.php';
             <div style="display:flex;align-items:center;gap:8px;margin-bottom:20px;">
                 <span style="color:#F59E0B;letter-spacing:2px;font-size:16px;">★★★★★</span>
                 <span style="font-weight:600;color:#fff;font-size:14px;">4.9/5</span>
-                <span style="color:rgba(255,255,255,.4);font-size:13px;">· 40 000 installateurs VMC en France</span>
+                <span style="color:rgba(255,255,255,.4);font-size:13px;">· 10 000 piscinistes en France</span>
             </div>
 
             <h1 style="font-family:var(--font-display);font-size:clamp(26px,3.5vw,44px);font-weight:700;color:#fff;line-height:1.2;margin-bottom:14px;letter-spacing:-.02em;">
-                <?= $total ?> installateurs VMC<br>
+                <?= $total ?> piscinistes<br>
                 <em style="color:#F0A07A;font-style:italic;"><?= htmlspecialchars($villeNom) ?></em>
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                Annuaire complet des installateurs VMC certifiés <?= htmlspecialchars($artVille) ?> — contacts, avis et devis gratuit.
+                Annuaire complet des piscinistes qualifiés <?= htmlspecialchars($artVille) ?> — contacts, avis et devis gratuit.
             </p>
 
             <div class="ph-badge-grid">
@@ -82,7 +82,7 @@ require __DIR__ . '/../templates/header.php';
                 <div class="ph-badge">
                     <div class="ph-badge-icon">🏅</div>
                     <div>
-                        <div style="font-weight:700;color:#fff;font-size:13px;">Artisans RGE</div>
+                        <div style="font-weight:700;color:#fff;font-size:13px;">Qualipiscine / FPP</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Certifiés & Assurés</div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ require __DIR__ . '/../templates/header.php';
         <div>
             <div class="ph-widget-card">
                 <div class="ph-widget-header">
-                    <span style="font-size:22px;">💨</span>
+                    <span style="font-size:22px;">🏊</span>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:15px;">Obtenir un devis gratuit</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.55);">Réponse sous 48h · Sans engagement</div>
@@ -130,7 +130,7 @@ require __DIR__ . '/../templates/header.php';
 
     <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:24px;">
         <p style="font-size:14px;color:var(--text-muted);">
-            <?= $total ?> installateur<?= $total > 1 ? 's VMC' : ' VMC' ?> référencé<?= $total > 1 ? 's' : '' ?> — page <?= $page ?>/<?= $pages ?>
+            <?= $total ?> pisciniste<?= $total > 1 ? 's' : '' ?> référencé<?= $total > 1 ? 's' : '' ?> — page <?= $page ?>/<?= $pages ?>
         </p>
         <a href="<?= htmlspecialchars(urlVille($regionSlug, $deptSlug, $villeSlug, $villeCp)) ?>"
            style="font-size:13px;font-weight:600;color:var(--forest);text-decoration:none;">
