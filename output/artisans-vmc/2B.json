@@ -1,0 +1,1374 @@
+{
+  "cervione": {
+    "artisans": [
+      {
+        "id": "15129246610774484112",
+        "nom": "CLIMATISATION VASQUEZ ROMAIN",
+        "slug": "climatisation-vasquez-romain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santa-Maria-Poggio",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7371074993249872465",
+        "nom": "BO CLIM",
+        "slug": "bo-clim",
+        "telephone": null,
+        "site_web": "https://bo-clim.com/",
+        "adresse": "Santa-Lucia-di-Moriani",
+        "note": 5,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": "http://www.climaticorse.fr/",
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11503806717237605347",
+        "nom": "Elec-PJF",
+        "slug": "elec-pjf",
+        "telephone": null,
+        "site_web": "https://www.elec-pjf-piccinini.fr/",
+        "adresse": "Terzanille",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "11426168990444147489",
+        "nom": "ETS Cimignani Piret",
+        "slug": "ets-cimignani-piret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": 3,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vescovato": {
+    "artisans": [
+      {
+        "id": "2623633587439385540",
+        "nom": "Sarl RP2B Climatisation",
+        "slug": "sarl-rp2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlrp2b",
+        "adresse": "Borgo",
+        "note": 4,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "aleria": {
+    "artisans": [
+      {
+        "id": "443576424561487406",
+        "nom": "snc service Nettoyage climatisation",
+        "slug": "snc-service-nettoyage-climatisation",
+        "telephone": null,
+        "site_web": "http://snc.wegic.app/",
+        "adresse": "458 Avenue St Alexandre Sauli",
+        "note": 5,
+        "avis": 7,
+        "type": "Siège social"
+      },
+      {
+        "id": "8651422121669901408",
+        "nom": "API Plomberie",
+        "slug": "api-plomberie",
+        "telephone": null,
+        "site_web": "http://www.linkedin.com/in/api-plomberie-04967b39b",
+        "adresse": "Résidence de diana, Rte de Bastia",
+        "note": 5,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "1946846682162775297",
+        "nom": "Aria Nova - Clim & Plomberie",
+        "slug": "aria-nova-clim-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/arianovaclim",
+        "adresse": "07 87 18 70 94",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": "http://www.climaticorse.fr/",
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14735002851081322060",
+        "nom": "ENTREPRISE VINCENSINI",
+        "slug": "entreprise-vincensini",
+        "telephone": null,
+        "site_web": "https://www.sasvincensini.fr/",
+        "adresse": "Rés de Diana",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "bastia": {
+    "artisans": [
+      {
+        "id": "15995596937639086422",
+        "nom": "CECC Axenergie Bastia",
+        "slug": "cecc-axenergie-bastia",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/58-cecc-bastia",
+        "adresse": "Immeuble Béarn, Lupino",
+        "note": 4,
+        "avis": 75,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1238367444681734917",
+        "nom": "NET ECO",
+        "slug": "net-eco",
+        "telephone": null,
+        "site_web": "https://www.netecocorse.com/",
+        "adresse": "6 Chem. de l'Annonciade",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9440184483236458489",
+        "nom": "Mécafroid",
+        "slug": "mecafroid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Av. Sampiero Corso",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17183660761396819063",
+        "nom": "HYDROCLIM",
+        "slug": "hydroclim",
+        "telephone": null,
+        "site_web": "http://www.hydroclim.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "13 Av. Maréchal Sebastiani",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2623633587439385540",
+        "nom": "Sarl RP2B Climatisation",
+        "slug": "sarl-rp2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlrp2b",
+        "adresse": "Borgo",
+        "note": 4,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15432730599861824702",
+        "nom": "DOMO CAP",
+        "slug": "domo-cap",
+        "telephone": null,
+        "site_web": "http://www.domocap.fr/",
+        "adresse": "Biguglia",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "6513132805415570989",
+        "nom": "Acquatech (Acqua Nova)",
+        "slug": "acquatech-acqua-nova",
+        "telephone": null,
+        "site_web": "https://www.acquatech-climatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Biguglia",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1450166637078646456",
+        "nom": "E.M.P",
+        "slug": "emp",
+        "telephone": null,
+        "site_web": "https://climatisation-bastia.com/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "brando": {
+    "artisans": [
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13928266854999036554",
+        "nom": "CAP FROID CLIM",
+        "slug": "cap-froid-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brando",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "calenzana": {
+    "artisans": [
+      {
+        "id": "61563760800203784",
+        "nom": "SLPCC Plomberie Chauffage Climlatisation VMC",
+        "slug": "slpcc-plomberie-chauffage-climlatisation-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Immeuble Tarrissi",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "18190207863837329831",
+        "nom": "Electricité Climatisation Balagne",
+        "slug": "electricite-climatisation-balagne",
+        "telephone": null,
+        "site_web": "https://www.electriciteclimatisationbalagne.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17021572108837294946",
+        "nom": "Etablissements Navez",
+        "slug": "etablissements-navez",
+        "telephone": null,
+        "site_web": "https://www.chauffage-calvi-navez.fr/",
+        "adresse": "Lumio",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8055015160481168213",
+        "nom": "Balagne Pro Froid",
+        "slug": "balagne-pro-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Calvi",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "corte": {
+    "artisans": [
+      {
+        "id": "14640788114666366196",
+        "nom": "Climatisation Plomberie Corte",
+        "slug": "climatisation-plomberie-corte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 86 84 58 89",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16585293873602389610",
+        "nom": "Air Clean Service",
+        "slug": "air-clean-service",
+        "telephone": null,
+        "site_web": "https://aircleanservice.fr/?utm_source=gmb",
+        "adresse": "résidence casale laurenzu",
+        "note": 5,
+        "avis": 10,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "14856038043628971903",
+        "nom": "SARL J2L",
+        "slug": "sarl-j2l",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villa Baldacci, Ham. de Tavignanu",
+        "note": 2,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16725630200014993683",
+        "nom": "SAS SOPEC",
+        "slug": "sas-sopec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zone d'activité, Furnaccia N° 1",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": "http://www.climaticorse.fr/",
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1357471231491264976",
+        "nom": "Neel Jean-Christophe",
+        "slug": "neel-jean-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19 Cr Paoli",
+        "note": 2,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "furiani": {
+    "artisans": [
+      {
+        "id": "12940002213469639114",
+        "nom": "Plombaplast Climatisation V.M.C",
+        "slug": "plombaplast-climatisation-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2029 Av. Sampiero Corso",
+        "note": 4,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2623633587439385540",
+        "nom": "Sarl RP2B Climatisation",
+        "slug": "sarl-rp2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlrp2b",
+        "adresse": "Borgo",
+        "note": 4,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7454499204113626361",
+        "nom": "ARIA",
+        "slug": "aria",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bastia",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8644418202492778102",
+        "nom": "AMPC",
+        "slug": "ampc",
+        "telephone": null,
+        "site_web": "https://www.ampc-plomberie.com/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 4,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "6513132805415570989",
+        "nom": "Acquatech (Acqua Nova)",
+        "slug": "acquatech-acqua-nova",
+        "telephone": null,
+        "site_web": "https://www.acquatech-climatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Biguglia",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17183660761396819063",
+        "nom": "HYDROCLIM",
+        "slug": "hydroclim",
+        "telephone": null,
+        "site_web": "http://www.hydroclim.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8314520935764860330",
+        "nom": "Le Froid Depannage",
+        "slug": "le-froid-depannage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1288 Av. Sampiero Corso",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "ghisonaccia": {
+    "artisans": [
+      {
+        "id": "6204918431754604937",
+        "nom": "CECC Axenergie Ghisonaccia",
+        "slug": "cecc-axenergie-ghisonaccia",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/60-cecc-ghisonaccia",
+        "adresse": "Immeuble Feminiccia",
+        "note": 4,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10543622435107398329",
+        "nom": "GHISO Froid",
+        "slug": "ghiso-froid",
+        "telephone": null,
+        "site_web": "http://www.ghisofroid.fr/",
+        "adresse": "2737 Rte de Ghisoni",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1946846682162775297",
+        "nom": "Aria Nova - Clim & Plomberie",
+        "slug": "aria-nova-clim-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/arianovaclim",
+        "adresse": "07 87 18 70 94",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9255563183638685910",
+        "nom": "Corse Entretien Chauffage Climatisation",
+        "slug": "corse-entretien-chauffage-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10602665252971017717",
+        "nom": "MD énergie",
+        "slug": "md-energie",
+        "telephone": null,
+        "site_web": "http://www.mdenergie.fr/",
+        "adresse": "(chez CONFORT 2000), Rte de Ghisoni",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3900613270825039175",
+        "nom": "Poli Plomberie",
+        "slug": "poli-plomberie",
+        "telephone": null,
+        "site_web": "https://poli-plomberie.fr/",
+        "adresse": "Chem. des Asphodèles",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "6717356886776215963",
+        "nom": "SARL ROSSI GERARD. PLOMBERIE.CHAUFFAGE.CLIMATISATION .ENR",
+        "slug": "sarl-rossi-gerard-plomberiechauffageclimatisation-enr",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lot. du Stollu",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "16294029639527742458",
+        "nom": "PETRUCCIANI PLOMBERIE",
+        "slug": "petrucciani-plomberie",
+        "telephone": null,
+        "site_web": "https://www.petrucciani-plomberie.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "3707378311270701758",
+        "nom": "CONFORT 2000",
+        "slug": "confort-2000",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15 Rte de Ghisoni",
+        "note": 4,
+        "avis": 18,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "lucciana": {
+    "artisans": [
+      {
+        "id": "2623633587439385540",
+        "nom": "Sarl RP2B Climatisation",
+        "slug": "sarl-rp2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlrp2b",
+        "adresse": "Borgo",
+        "note": 4,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10682646086101231140",
+        "nom": "REI2B - Électricité Climatisation",
+        "slug": "rei2b-electricite-climatisation",
+        "telephone": null,
+        "site_web": "https://rei2b.fr/",
+        "adresse": "Borgo",
+        "note": 5,
+        "avis": 36,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "lumio": {
+    "artisans": [
+      {
+        "id": "18103550266882521954",
+        "nom": "BRUNO BALAGNE SERVICES",
+        "slug": "bruno-balagne-services",
+        "telephone": null,
+        "site_web": "https://www.brunobalagneservices.fr/",
+        "adresse": "Av. Nunziata",
+        "note": 5,
+        "avis": 27,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17021572108837294946",
+        "nom": "Etablissements Navez",
+        "slug": "etablissements-navez",
+        "telephone": null,
+        "site_web": "https://www.chauffage-calvi-navez.fr/",
+        "adresse": "8 Lot. Cala Stella",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "monticello": {
+    "artisans": [
+      {
+        "id": "14672555164463127773",
+        "nom": "Orsini-climelec+",
+        "slug": "orsini-climelec",
+        "telephone": null,
+        "site_web": "https://www.orsini-climelec.com/",
+        "adresse": "144 strada di l'Alivu",
+        "note": 5,
+        "avis": 22,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10934461311825339275",
+        "nom": "Soavi Plomberie Ventilation",
+        "slug": "soavi-plomberie-ventilation",
+        "telephone": null,
+        "site_web": "https://plombier-balagne.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "9471306053158789364",
+        "nom": "Etanchéité Guidicelli",
+        "slug": "etancheite-guidicelli",
+        "telephone": null,
+        "site_web": "https://www.xn--etanchitguidicelli-gwbc.com/",
+        "adresse": "lieu dit orniccio, Route de",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise d'étanchéité"
+      }
+    ]
+  },
+  "oletta": {
+    "artisans": [
+      {
+        "id": "4086919523855584264",
+        "nom": "Scotto Florent",
+        "slug": "scotto-florent",
+        "telephone": null,
+        "site_web": "http://scottoclim.fr/",
+        "adresse": "Saint-Florent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": "http://www.climaticorse.fr/",
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1238367444681734917",
+        "nom": "NET ECO",
+        "slug": "net-eco",
+        "telephone": null,
+        "site_web": "https://www.netecocorse.com/",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6513132805415570989",
+        "nom": "Acquatech (Acqua Nova)",
+        "slug": "acquatech-acqua-nova",
+        "telephone": null,
+        "site_web": "https://www.acquatech-climatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Biguglia",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9406656743120560699",
+        "nom": "Clim'air Sas - Climatisation porto vecchio",
+        "slug": "climair-sas-climatisation-porto-vecchio",
+        "telephone": null,
+        "site_web": "https://www.climatisationportovecchio.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11606328670755294474",
+        "nom": "FB2B Dépannage 7/7 Plomberie Électricité Recherche de fuite, diagnostic électrique",
+        "slug": "fb2b-depannage-77-plomberie-electricite-recherche-de-fuite-diagnostic-electrique",
+        "telephone": null,
+        "site_web": "http://www.fb2b.fr/",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "17183660761396819063",
+        "nom": "HYDROCLIM",
+        "slug": "hydroclim",
+        "telephone": null,
+        "site_web": "http://www.hydroclim.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16294029639527742458",
+        "nom": "PETRUCCIANI PLOMBERIE",
+        "slug": "petrucciani-plomberie",
+        "telephone": null,
+        "site_web": "https://www.petrucciani-plomberie.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 27,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "penta-di-casinca": {
+    "artisans": [
+      {
+        "id": "5729268473970830079",
+        "nom": "Guidoni Thierry",
+        "slug": "guidoni-thierry",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Penta-di-Casinca",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "prunelli-di-fiumorbo": {
+    "artisans": [
+      {
+        "id": "8524686775306031150",
+        "nom": "Clim'Services Chr'Pro",
+        "slug": "climservices-chrpro",
+        "telephone": null,
+        "site_web": "http://www.climservices.fr/",
+        "adresse": "Zoning Industriel Migliacciaro",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16294029639527742458",
+        "nom": "PETRUCCIANI PLOMBERIE",
+        "slug": "petrucciani-plomberie",
+        "telephone": null,
+        "site_web": "https://www.petrucciani-plomberie.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 27,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6204918431754604937",
+        "nom": "CECC Axenergie Ghisonaccia",
+        "slug": "cecc-axenergie-ghisonaccia",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/60-cecc-ghisonaccia",
+        "adresse": "Ghisonaccia",
+        "note": 4,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9255563183638685910",
+        "nom": "Corse Entretien Chauffage Climatisation",
+        "slug": "corse-entretien-chauffage-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-florent": {
+    "artisans": [
+      {
+        "id": "4086919523855584264",
+        "nom": "Scotto Florent",
+        "slug": "scotto-florent",
+        "telephone": null,
+        "site_web": "http://scottoclim.fr/",
+        "adresse": "Saint-Florent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "san-martino-di-lota": {
+    "artisans": [
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2623633587439385540",
+        "nom": "Sarl RP2B Climatisation",
+        "slug": "sarl-rp2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlrp2b",
+        "adresse": "Borgo",
+        "note": 4,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14598176675239937489",
+        "nom": "SARL SANI THERM SERVICES BATIMENT BASTIA",
+        "slug": "sarl-sani-therm-services-batiment-bastia",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "7676912038988377116",
+        "nom": "Mannino Plomberie",
+        "slug": "mannino-plomberie",
+        "telephone": null,
+        "site_web": "http://www.mannino-plomberie.com/",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "11606328670755294474",
+        "nom": "FB2B Dépannage 7/7 Plomberie Électricité Recherche de fuite, diagnostic électrique",
+        "slug": "fb2b-depannage-77-plomberie-electricite-recherche-de-fuite-diagnostic-electrique",
+        "telephone": null,
+        "site_web": "http://www.fb2b.fr/",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "7263602889398323419",
+        "nom": "ENTREPRISE CPPC",
+        "slug": "entreprise-cppc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sisco",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "santa-lucia-di-moriani": {
+    "artisans": [
+      {
+        "id": "7371074993249872465",
+        "nom": "BO CLIM",
+        "slug": "bo-clim",
+        "telephone": null,
+        "site_web": "https://bo-clim.com/",
+        "adresse": "Vangale",
+        "note": 5,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8247162370301901",
+        "nom": "P.p.b Sarl",
+        "slug": "ppb-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Suaglione",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "santa-maria-di-lota": {
+    "artisans": [
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "san-nicolao": {
+    "artisans": [
+      {
+        "id": "7371074993249872465",
+        "nom": "BO CLIM",
+        "slug": "bo-clim",
+        "telephone": null,
+        "site_web": "https://bo-clim.com/",
+        "adresse": "Santa-Lucia-di-Moriani",
+        "note": 5,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15129246610774484112",
+        "nom": "CLIMATISATION VASQUEZ ROMAIN",
+        "slug": "climatisation-vasquez-romain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Santa-Maria-Poggio",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "santa-reparata-di-balagna": {
+    "artisans": [
+      {
+        "id": "10934461311825339275",
+        "nom": "Soavi Plomberie Ventilation",
+        "slug": "soavi-plomberie-ventilation",
+        "telephone": null,
+        "site_web": "https://plombier-balagne.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "ventiseri": {
+    "artisans": [
+      {
+        "id": "2368709975504486041",
+        "nom": "CLIMA'FROID",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nr 16 ZA travo",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16482779677781615363",
+        "nom": "R Froid",
+        "slug": "r-froid",
+        "telephone": null,
+        "site_web": "http://rfroidcorse.fr/?utm_source=gmb&utm_medium=referral",
+        "adresse": "ZA, Travo",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1946846682162775297",
+        "nom": "Aria Nova - Clim & Plomberie",
+        "slug": "aria-nova-clim-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/arianovaclim",
+        "adresse": "07 87 18 70 94",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "720762863223441996",
+        "nom": "MS Elec à Ventiseri",
+        "slug": "ms-elec-a-ventiseri",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "31 Lot. Simonpoli",
+        "note": 5,
+        "avis": 10,
+        "type": "Électricien"
+      },
+      {
+        "id": "14429282218101285013",
+        "nom": "clim air pur",
+        "slug": "clim-air-pur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Solaro",
+        "note": null,
+        "avis": null,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11365527034590506237",
+        "nom": "Rclim installateur climatisation et VMC",
+        "slug": "rclim-installateur-climatisation-et-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": "http://www.climaticorse.fr/",
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12330045433395417790",
+        "nom": "electricien-ventiseri-gualtieri-electricite",
+        "slug": "electricien-ventiseri-gualtieri-electricite",
+        "telephone": null,
+        "site_web": "http://electricien-ventiseri-gualtieri-electricite-hager.fr/",
+        "adresse": "Lieu Dit",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "13575380476930921028",
+        "nom": "SARL GUALTIERI",
+        "slug": "sarl-gualtieri",
+        "telephone": null,
+        "site_web": "http://www.sarlgualtieri.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "9255563183638685910",
+        "nom": "Corse Entretien Chauffage Climatisation",
+        "slug": "corse-entretien-chauffage-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "venzolasca": {
+    "artisans": [
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2623633587439385540",
+        "nom": "Sarl RP2B Climatisation",
+        "slug": "sarl-rp2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlrp2b",
+        "adresse": "Borgo",
+        "note": 4,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": "http://www.climaticorse.fr/",
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10682646086101231140",
+        "nom": "REI2B - Électricité Climatisation",
+        "slug": "rei2b-electricite-climatisation",
+        "telephone": null,
+        "site_web": "https://rei2b.fr/",
+        "adresse": "Borgo",
+        "note": 5,
+        "avis": 36,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "15995596937639086422",
+        "nom": "CECC Axenergie Bastia",
+        "slug": "cecc-axenergie-bastia",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/58-cecc-bastia",
+        "adresse": "Bastia",
+        "note": 4,
+        "avis": 75,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17140780541790291434",
+        "nom": "ACQUASUR 2B SAVELLI dépannage & installation plomberie-chauffage-Clim",
+        "slug": "acquasur-2b-savelli-depannage-installation-plomberie-chauffage-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "ville-di-pietrabugno": {
+    "artisans": [
+      {
+        "id": "5440448004459079334",
+        "nom": "CLIM PUR CORSE",
+        "slug": "clim-pur-corse",
+        "telephone": null,
+        "site_web": "http://www.climpurcorse.com/",
+        "adresse": "2 Rte du Cap",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "16042749213239266199",
+        "nom": "PG2B Climatisation",
+        "slug": "pg2b-climatisation",
+        "telephone": null,
+        "site_web": "https://www.plomberie-climatisation-2b.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2986293354703307945",
+        "nom": "CLIMA2B",
+        "slug": "clima2b",
+        "telephone": null,
+        "site_web": "https://www.clima2b.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15995596937639086422",
+        "nom": "CECC Axenergie Bastia",
+        "slug": "cecc-axenergie-bastia",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/58-cecc-bastia",
+        "adresse": "Bastia",
+        "note": 4,
+        "avis": 75,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7676912038988377116",
+        "nom": "Mannino Plomberie",
+        "slug": "mannino-plomberie",
+        "telephone": null,
+        "site_web": "http://www.mannino-plomberie.com/",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "11606328670755294474",
+        "nom": "FB2B Dépannage 7/7 Plomberie Électricité Recherche de fuite, diagnostic électrique",
+        "slug": "fb2b-depannage-77-plomberie-electricite-recherche-de-fuite-diagnostic-electrique",
+        "telephone": null,
+        "site_web": "http://www.fb2b.fr/",
+        "adresse": "Bastia",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15432730599861824702",
+        "nom": "DOMO CAP",
+        "slug": "domo-cap",
+        "telephone": null,
+        "site_web": "http://www.domocap.fr/",
+        "adresse": "Biguglia",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      }
+    ]
+  }
+}

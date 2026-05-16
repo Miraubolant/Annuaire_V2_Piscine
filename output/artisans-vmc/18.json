@@ -1,0 +1,4519 @@
+{
+  "allogny": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1555699344299388898",
+        "nom": "Concept System NRGY",
+        "slug": "concept-system-nrgy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pigny",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17744300371023627600",
+        "nom": "Montagne Froid Climatisation SAS",
+        "slug": "montagne-froid-climatisation-sas",
+        "telephone": null,
+        "site_web": "http://montagne18.com/?utm_source=gmb",
+        "adresse": "Saint-Éloy-de-Gy",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15804385694454850281",
+        "nom": "AFL ENERGIES",
+        "slug": "afl-energies",
+        "telephone": null,
+        "site_web": "http://www.aflenergies.fr/",
+        "adresse": "Vignoux-sur-Barangeon",
+        "note": 4,
+        "avis": 61,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17273055519509535101",
+        "nom": "SARL chaud froid & associés",
+        "slug": "sarl-chaud-froid-associes",
+        "telephone": null,
+        "site_web": "https://www.bourges.infoptimum.com/recherche.php",
+        "adresse": "Sainte-Solange",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "772018372799462675",
+        "nom": "Reno V.A. 18",
+        "slug": "reno-va-18",
+        "telephone": null,
+        "site_web": "http://www.reno-va-18-eirl.com/",
+        "adresse": "Allouis",
+        "note": 5,
+        "avis": 16,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "allouis": {
+    "artisans": [
+      {
+        "id": "12273758534069606316",
+        "nom": "LP2C",
+        "slug": "lp2c",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/LP2C-105133348243031/",
+        "adresse": "plantenigaud, 6 D2076",
+        "note": 4,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "772018372799462675",
+        "nom": "Reno V.A. 18",
+        "slug": "reno-va-18",
+        "telephone": null,
+        "site_web": "http://www.reno-va-18-eirl.com/",
+        "adresse": "la Thuasnerie",
+        "note": 5,
+        "avis": 16,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "18430433242000367274",
+        "nom": "AR plomberie",
+        "slug": "ar-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mehun-sur-Yèvre",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "6691935804616489308",
+        "nom": "ALM PLOMBERIE",
+        "slug": "alm-plomberie",
+        "telephone": null,
+        "site_web": "http://facebook.com/84A.L.M/",
+        "adresse": "Berry-Bouy",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "14575899892066006653",
+        "nom": "MJ CHARPENTES-COUVERTURES",
+        "slug": "mj-charpentes-couvertures",
+        "telephone": null,
+        "site_web": "https://www.mj-couverture-18.fr/",
+        "adresse": "Foëcy",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15717130427910307524",
+        "nom": "Centre Chauffage Plomberie",
+        "slug": "centre-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.centre-chauffage-plomberie.fr/contact-vente-salle-bains-aubigny-chauffagiste-vierzon.html",
+        "adresse": "Vignoux-sur-Barangeon",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "argent-sur-sauldre": {
+    "artisans": [
+      {
+        "id": "11272881140155676061",
+        "nom": "FlameSpeed SARL",
+        "slug": "flamespeed-sarl",
+        "telephone": null,
+        "site_web": "http://flamespeed.fr/?utm_source=gmb",
+        "adresse": "Argent-sur-Sauldre",
+        "note": 4,
+        "avis": 52,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "aubigny-sur-nere": {
+    "artisans": [
+      {
+        "id": "12197414369423670517",
+        "nom": "Sologne Energie",
+        "slug": "sologne-energie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Sologne-%C3%89nergie-190759474943968/",
+        "adresse": "30 Rue du Charbon",
+        "note": 4,
+        "avis": 15,
+        "type": "Environnement et ressources naturelles renouvelables"
+      },
+      {
+        "id": "12063510730384858091",
+        "nom": "GIET PAULIN",
+        "slug": "giet-paulin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue de Mahy",
+        "note": 4,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "1682766840383117214",
+        "nom": "FD HABITAT - Installation Climatisation & Pose Volets Roulants - Sologne Pays Fort 18",
+        "slug": "fd-habitat-installation-climatisation-pose-volets-roulants-sologne-pays-fort-18",
+        "telephone": null,
+        "site_web": "https://www.fdhabitat.fr/",
+        "adresse": "06 74 51 40 07",
+        "note": 5,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5253875135322400964",
+        "nom": "Marais Christophe",
+        "slug": "marais-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue des Grands Jardins",
+        "note": 4,
+        "avis": 23,
+        "type": "Électricien"
+      },
+      {
+        "id": "3517410752634672676",
+        "nom": "LCC Les Couvreurs Du Centre",
+        "slug": "lcc-les-couvreurs-du-centre",
+        "telephone": null,
+        "site_web": "https://www.lcc-couvertures-petit.fr/",
+        "adresse": "13 Rue Jean-Baptiste Leclère",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1238469738559200713",
+        "nom": "DimaPAC",
+        "slug": "dimapac",
+        "telephone": null,
+        "site_web": "https://www.dimapac.fr/?utm_source=gmb",
+        "adresse": "Oizon",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "682372396330160310",
+        "nom": "Renier Francis",
+        "slug": "renier-francis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Route Clémont BP 13",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12313113063224450806",
+        "nom": "Isolation Aubigny",
+        "slug": "isolation-aubigny",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "59 Chem. de Launay",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "11272881140155676061",
+        "nom": "FlameSpeed SARL",
+        "slug": "flamespeed-sarl",
+        "telephone": null,
+        "site_web": "http://flamespeed.fr/?utm_source=gmb",
+        "adresse": "Argent-sur-Sauldre",
+        "note": 4,
+        "avis": 52,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "avord": {
+    "artisans": [
+      {
+        "id": "7018765355347002191",
+        "nom": "SARL VIRMONT",
+        "slug": "sarl-virmont",
+        "telephone": null,
+        "site_web": "http://www.virmont.fr/",
+        "adresse": "9 bis Pierre et Marie Curie",
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "9229479260901390360",
+        "nom": "B.c Energy",
+        "slug": "bc-energy",
+        "telephone": null,
+        "site_web": "https://www.sarl-bcenergy.fr/",
+        "adresse": "Dun-sur-Auron",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "baugy": {
+    "artisans": [
+      {
+        "id": "4625338003276394159",
+        "nom": "Atelier 144-Dv - Climatisation - Electricité - Plomberie",
+        "slug": "atelier-144-dv-climatisation-electricite-plomberie",
+        "telephone": null,
+        "site_web": "http://www.atelier144-dv.com/",
+        "adresse": "Gron",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5668485449838116798",
+        "nom": "Jerome Pressac",
+        "slug": "jerome-pressac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21 Rue du Gué Joye",
+        "note": 4,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9229479260901390360",
+        "nom": "B.c Energy",
+        "slug": "bc-energy",
+        "telephone": null,
+        "site_web": "https://www.sarl-bcenergy.fr/",
+        "adresse": "Dun-sur-Auron",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7018765355347002191",
+        "nom": "SARL VIRMONT",
+        "slug": "sarl-virmont",
+        "telephone": null,
+        "site_web": "http://www.virmont.fr/",
+        "adresse": "Avord",
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "17642469343191623159",
+        "nom": "SAS PRGC",
+        "slug": "sas-prgc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24 Rte de Dun sur Auron",
+        "note": null,
+        "avis": null,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "17744300371023627600",
+        "nom": "Montagne Froid Climatisation SAS",
+        "slug": "montagne-froid-climatisation-sas",
+        "telephone": null,
+        "site_web": "http://montagne18.com/?utm_source=gmb",
+        "adresse": "Saint-Éloy-de-Gy",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "berry-bouy": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6059332726556061686",
+        "nom": "Berry Energies",
+        "slug": "berry-energies",
+        "telephone": null,
+        "site_web": "https://www.berryenergies.com/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2097307238160936212",
+        "nom": "Plomb-elec Services",
+        "slug": "plomb-elec-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32 Rue de la Chaussée",
+        "note": 4,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "6691935804616489308",
+        "nom": "ALM PLOMBERIE",
+        "slug": "alm-plomberie",
+        "telephone": null,
+        "site_web": "http://facebook.com/84A.L.M/",
+        "adresse": "8 All. des Terres Rouges",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11558590760265330068",
+        "nom": "Berry Froid",
+        "slug": "berry-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Éloy-de-Gy",
+        "note": 4,
+        "avis": 23,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1138250989889298464",
+        "nom": "Berry Confort Service",
+        "slug": "berry-confort-service",
+        "telephone": null,
+        "site_web": "https://www.berryconfort.com/",
+        "adresse": "Saint-Doulchard",
+        "note": 4,
+        "avis": 62,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "boulleret": {
+    "artisans": [
+      {
+        "id": "17035376563563169266",
+        "nom": "Chaud froid",
+        "slug": "chaud-froid",
+        "telephone": null,
+        "site_web": "http://chaudfroid18240.fr/",
+        "adresse": "Léré",
+        "note": 4,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12162841723640282791",
+        "nom": "Ema Froid",
+        "slug": "ema-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21 Rte des Grands Prés",
+        "note": 5,
+        "avis": 1,
+        "type": "Vendeur de meubles en gros"
+      },
+      {
+        "id": "4376903867210154814",
+        "nom": "Entreprise Desbois",
+        "slug": "entreprise-desbois",
+        "telephone": null,
+        "site_web": "http://www.entreprise-desbois.fr/",
+        "adresse": "Cosne-Cours-sur-Loire",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9626006202610866410",
+        "nom": "Climavin",
+        "slug": "climavin",
+        "telephone": null,
+        "site_web": "http://www.climavin.fr/",
+        "adresse": "Sancerre",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12190188644221207383",
+        "nom": "Maçonnerie MGD",
+        "slug": "maconnerie-mgd",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Les Bouloises",
+        "note": 5,
+        "avis": 12,
+        "type": "Maçon"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17445218924322934235",
+        "nom": "ÉLECTRICITÉ GÉNÉRALE/ANTENNE Bailly David",
+        "slug": "electricite-generaleantenne-bailly-david",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sury-près-Léré",
+        "note": 3,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "4314783851326677423",
+        "nom": "Canoine olivier",
+        "slug": "canoine-olivier",
+        "telephone": null,
+        "site_web": "https://www.plomberie-chauffagerie-canoine.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Savigny-en-Sancerre",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bourges": {
+    "artisans": [
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "139 Chem. de Villeneuve",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16580213602734191795",
+        "nom": "MEH ÉNERGIES BOURGES",
+        "slug": "meh-energies-bourges",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "9 Av. de la Prospective",
+        "note": 5,
+        "avis": 101,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1646535326607373437",
+        "nom": "AB CLIMATISATION",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "https://www.abclimatisation.fr/",
+        "adresse": "121 Rue de Mazières",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5131286219308145477",
+        "nom": "R Clima Concept",
+        "slug": "r-clima-concept",
+        "telephone": null,
+        "site_web": "https://www.rclimaconcept.fr/",
+        "adresse": "45 Av. Maréchal Lyautey",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15203847051699261594",
+        "nom": "MyEnergie",
+        "slug": "myenergie",
+        "telephone": null,
+        "site_web": "https://groupmyenergie.fr/",
+        "adresse": "15 Rue de Sarrebourg",
+        "note": 4,
+        "avis": 102,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14598439271729614647",
+        "nom": "Groupe L S P Bourges",
+        "slug": "groupe-l-s-p-bourges",
+        "telephone": null,
+        "site_web": "https://www.groupelsp.fr/",
+        "adresse": "Saint-Doulchard",
+        "note": 4,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "33 Rue Louis Armand",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16949278177519012126",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=bourges",
+        "adresse": "38 Rue Charles Durand",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "brecy": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6502354599892505874",
+        "nom": "Sarl LEHERICEY",
+        "slug": "sarl-lehericey",
+        "telephone": null,
+        "site_web": "http://www.sarl-lehericey.com/",
+        "adresse": "Brécey",
+        "note": 4,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "la-chapelle-saint-ursin": {
+    "artisans": [
+      {
+        "id": "12144820063160532960",
+        "nom": "NG clim",
+        "slug": "ng-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 All. du Soleil Levant",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11746810485748563993",
+        "nom": "Allo Electrique Service",
+        "slug": "allo-electrique-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15 Rue des Jonquilles",
+        "note": 4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7524944838442861656",
+        "nom": "Couët Martial",
+        "slug": "couet-martial",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rue Traversière",
+        "note": 3,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "charenton-du-cher": {
+    "artisans": [
+      {
+        "id": "2301298269830584398",
+        "nom": "Argès Electricité",
+        "slug": "arges-electricite",
+        "telephone": null,
+        "site_web": "https://www.arges-electricite.fr/",
+        "adresse": "41 impasse du bassin",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "9229479260901390360",
+        "nom": "B.c Energy",
+        "slug": "bc-energy",
+        "telephone": null,
+        "site_web": "https://www.sarl-bcenergy.fr/",
+        "adresse": "Dun-sur-Auron",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "chateaumeillant": {
+    "artisans": [
+      {
+        "id": "3322504695673354438",
+        "nom": "SARL MLD boucherat",
+        "slug": "sarl-mld-boucherat",
+        "telephone": null,
+        "site_web": "https://www.mld-boucherat.fr/",
+        "adresse": "Châteaumeillant",
+        "note": 5,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14561976042198113829",
+        "nom": "BDC Confort",
+        "slug": "bdc-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Meillant",
+        "note": 5,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "15449164748703478760",
+        "nom": "plomberie, chauffage, chateaumeillant",
+        "slug": "plomberie-chauffage-chateaumeillant",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Châteaumeillant",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chateauneuf-sur-cher": {
+    "artisans": [
+      {
+        "id": "11284622521955424093",
+        "nom": "Spagnolo Guillaume",
+        "slug": "spagnolo-guillaume",
+        "telephone": null,
+        "site_web": "https://www.spagnologuillaume-18.fr/",
+        "adresse": "10 Av. de la Gare",
+        "note": 5,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5822291077791359563",
+        "nom": "A-z Renovation",
+        "slug": "a-z-renovation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Rue du Port",
+        "note": 4,
+        "avis": 57,
+        "type": "Électricien"
+      },
+      {
+        "id": "18067172128475052048",
+        "nom": "Proxi Confort - Coudereau Grosbot",
+        "slug": "proxi-confort-coudereau-grosbot",
+        "telephone": null,
+        "site_web": "https://www.proxiconfort.fr/magasin/proxi-confort-chateauneuf-sur-cher",
+        "adresse": "56 Rue de la Chaussée",
+        "note": 4,
+        "avis": 18,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9453788032378302149",
+        "nom": "D2R Renovation",
+        "slug": "d2r-renovation",
+        "telephone": null,
+        "site_web": "http://www.d2r-renovation.com/",
+        "adresse": "31 Rue des Saules",
+        "note": 4,
+        "avis": 6,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18188344336103286644",
+        "nom": "2D",
+        "slug": "2d",
+        "telephone": null,
+        "site_web": "http://www.societe2d.fr/",
+        "adresse": "Châteauneuf-sur-Loire",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "cours-les-barres": {
+    "artisans": [
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16233850972273545850",
+        "nom": "Thermo-Centre",
+        "slug": "thermo-centre",
+        "telephone": null,
+        "site_web": "http://www.thermo-centre.fr/",
+        "adresse": "Jouet-sur-l'Aubois",
+        "note": 4,
+        "avis": 61,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "1369040139195158638",
+        "nom": "Isole Plus Energies",
+        "slug": "isole-plus-energies",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/isoleplusenergies/?utm_source=gmb",
+        "adresse": "Fourchambault",
+        "note": 4,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "6059332726556061686",
+        "nom": "Berry Energies",
+        "slug": "berry-energies",
+        "telephone": null,
+        "site_web": "https://www.berryenergies.com/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "dun-sur-auron": {
+    "artisans": [
+      {
+        "id": "9229479260901390360",
+        "nom": "B.c Energy",
+        "slug": "bc-energy",
+        "telephone": null,
+        "site_web": "https://www.sarl-bcenergy.fr/",
+        "adresse": "7 Rue de la Croix de Pierre",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8164309409425354260",
+        "nom": "Dun Energies",
+        "slug": "dun-energies",
+        "telephone": null,
+        "site_web": "https://www.dunenergies.com/",
+        "adresse": "ZA Champs de Licé, Rte de Bussy",
+        "note": 4,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "4559951155669572346",
+        "nom": "SAS Deuss Pere Et Fils",
+        "slug": "sas-deuss-pere-et-fils",
+        "telephone": null,
+        "site_web": "https://www.sarldeuss-elec18.com/",
+        "adresse": "22 Rue de Guedemont",
+        "note": 5,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15870971417407161794",
+        "nom": "Pitault Frédéric",
+        "slug": "pitault-frederic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "farges-en-septaine": {
+    "artisans": [
+      {
+        "id": "4625338003276394159",
+        "nom": "Atelier 144-Dv - Climatisation - Electricité - Plomberie",
+        "slug": "atelier-144-dv-climatisation-electricite-plomberie",
+        "telephone": null,
+        "site_web": "http://www.atelier144-dv.com/",
+        "adresse": "Gron",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "4006423573129778313",
+        "nom": "Froid Centre",
+        "slug": "froid-centre",
+        "telephone": null,
+        "site_web": "http://www.froid-centre.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Soye-en-Septaine",
+        "note": 4,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17273055519509535101",
+        "nom": "SARL chaud froid & associés",
+        "slug": "sarl-chaud-froid-associes",
+        "telephone": null,
+        "site_web": "https://www.bourges.infoptimum.com/recherche.php",
+        "adresse": "Sainte-Solange",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13620587262336931853",
+        "nom": "Centre Clim",
+        "slug": "centre-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Doulchard",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "fussy": {
+    "artisans": [
+      {
+        "id": "16725534156400223933",
+        "nom": "Lucas Entreprise SARL",
+        "slug": "lucas-entreprise-sarl",
+        "telephone": null,
+        "site_web": "http://www.lucas-entreprise.fr/",
+        "adresse": "19 Rue Christophe Colomb",
+        "note": 4,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1555699344299388898",
+        "nom": "Concept System NRGY",
+        "slug": "concept-system-nrgy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pigny",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1429433521978690981",
+        "nom": "Hervé Thermique",
+        "slug": "herve-thermique",
+        "telephone": null,
+        "site_web": "http://www.herve-thermique.com/",
+        "adresse": "ZA Fussy, Rte de Paris",
+        "note": 2,
+        "avis": 6,
+        "type": "Consultant en ingénierie"
+      }
+    ]
+  },
+  "gracay": {
+    "artisans": [
+      {
+        "id": "3070788012602629195",
+        "nom": "Smcc",
+        "slug": "smcc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Graçay",
+        "note": 4,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-guerche-sur-laubois": {
+    "artisans": [
+      {
+        "id": "10778195439480988278",
+        "nom": "Climatisation SAMPE Frédéric",
+        "slug": "climatisation-sampe-frederic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "30 Rue de la Barelle",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17330592745341941260",
+        "nom": "Ecolec",
+        "slug": "ecolec",
+        "telephone": null,
+        "site_web": "http://amelotfrederic.site-solocal.com/",
+        "adresse": "16 Rue de Chalivoy",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "henrichemont": {
+    "artisans": [
+      {
+        "id": "10757058367574287326",
+        "nom": "DYKAS BERRY ECO ENERGIE",
+        "slug": "dykas-berry-eco-energie",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/seweryn.dykas.5",
+        "adresse": "9 Rue de Bourgogne",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12679932000614490212",
+        "nom": "PCCBAT PLOMBERIE CHAUFFAGE En activité depuis plus de 10 ans",
+        "slug": "pccbat-plomberie-chauffage-en-activite-depuis-plus-de-10-ans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32 Rue de Boisbelle",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "12233988267173437511",
+        "nom": "Cerceau Pascal",
+        "slug": "cerceau-pascal",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "34 Rue de Verdun",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17273055519509535101",
+        "nom": "SARL chaud froid & associés",
+        "slug": "sarl-chaud-froid-associes",
+        "telephone": null,
+        "site_web": "https://www.bourges.infoptimum.com/recherche.php",
+        "adresse": "Sainte-Solange",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "4161973292367594516",
+        "nom": "Econotherm",
+        "slug": "econotherm",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Achères",
+        "note": 5,
+        "avis": 3,
+        "type": "Siège social"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "1238469738559200713",
+        "nom": "DimaPAC",
+        "slug": "dimapac",
+        "telephone": null,
+        "site_web": "https://www.dimapac.fr/?utm_source=gmb",
+        "adresse": "Oizon",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lere": {
+    "artisans": [
+      {
+        "id": "17035376563563169266",
+        "nom": "Chaud froid",
+        "slug": "chaud-froid",
+        "telephone": null,
+        "site_web": "http://chaudfroid18240.fr/",
+        "adresse": "4 les usages, chemin des planches",
+        "note": 4,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "lignieres": {
+    "artisans": [
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11323689787401552002",
+        "nom": "JBS Energy",
+        "slug": "jbs-energy",
+        "telephone": null,
+        "site_web": "http://jbs-energy.com/",
+        "adresse": "Le Poinçonnet",
+        "note": 4,
+        "avis": 50,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5708043747138356821",
+        "nom": "Nouvel Air - Nettoyage des réseaux de ventilation, hottes de cuisine, VMC",
+        "slug": "nouvel-air-nettoyage-des-reseaux-de-ventilation-hottes-de-cuisine-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "marmagne": {
+    "artisans": [
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "17744300371023627600",
+        "nom": "Montagne Froid Climatisation SAS",
+        "slug": "montagne-froid-climatisation-sas",
+        "telephone": null,
+        "site_web": "http://montagne18.com/?utm_source=gmb",
+        "adresse": "Saint-Éloy-de-Gy",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16949278177519012126",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=bourges",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "820758618198605294",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/51-engie-home-services-bourges?utm_source=gmb",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 287,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2097307238160936212",
+        "nom": "Plomb-elec Services",
+        "slug": "plomb-elec-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Berry-Bouy",
+        "note": 4,
+        "avis": 30,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "massay": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4123973539245500591",
+        "nom": "S.o.v.i.a.c",
+        "slug": "soviac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue de l'Europe",
+        "note": 3,
+        "avis": 3,
+        "type": "Maçon"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16147856391105575347",
+        "nom": "FB RAMONAGE",
+        "slug": "fb-ramonage",
+        "telephone": null,
+        "site_web": "http://www.fb-ramonage.fr/",
+        "adresse": "2B Saint-Martin de Court",
+        "note": 4,
+        "avis": 67,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8942250398509998283",
+        "nom": "Air Bull",
+        "slug": "air-bull",
+        "telephone": null,
+        "site_web": "https://www.airbull-isolation.fr/",
+        "adresse": "Mennetou-sur-Cher",
+        "note": 4,
+        "avis": 106,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2586232186686282026",
+        "nom": "Chevy Plomberie",
+        "slug": "chevy-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100081927276319",
+        "adresse": "Chéry",
+        "note": 4,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "14952308165931468526",
+        "nom": "Cordat Et Brault ETS",
+        "slug": "cordat-et-brault-ets",
+        "telephone": null,
+        "site_web": "https://www.cordat-brault.fr/",
+        "adresse": "Vierzon",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mehun-sur-yevre": {
+    "artisans": [
+      {
+        "id": "6397898445684365161",
+        "nom": "MJ Plomberie Chauffage",
+        "slug": "mj-plomberie-chauffage",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100070288084282",
+        "adresse": "19 Quai du Canal",
+        "note": 4,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "18430433242000367274",
+        "nom": "AR plomberie",
+        "slug": "ar-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29 Rue Henri Boulard",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "14215852285024565132",
+        "nom": "CPS - FABRICE FAVIERE",
+        "slug": "cps-fabrice-faviere",
+        "telephone": null,
+        "site_web": "https://www.fabricefaviere.fr/",
+        "adresse": "1 Rue Fernand Baudry",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "mereau": {
+    "artisans": [
+      {
+        "id": "5028250323241119880",
+        "nom": "SARL ARTEC",
+        "slug": "sarl-artec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Imp. René Bisson",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "14952308165931468526",
+        "nom": "Cordat Et Brault ETS",
+        "slug": "cordat-et-brault-ets",
+        "telephone": null,
+        "site_web": "https://www.cordat-brault.fr/",
+        "adresse": "Vierzon",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14877933376246818079",
+        "nom": "TMV-mereau terrassement maçonnerie aménagement extérieur",
+        "slug": "tmv-mereau-terrassement-maconnerie-amenagement-exterieur",
+        "telephone": null,
+        "site_web": "https://www.tmv-mereau.com/contact",
+        "adresse": "25 Rue des Terres Mortes",
+        "note": 4,
+        "avis": 7,
+        "type": "Maçon"
+      },
+      {
+        "id": "1553034820682588316",
+        "nom": "B2TKLIT vmc sainte genevieve de bois - maintenance vmc - installation vmc",
+        "slug": "b2tklit-vmc-sainte-genevieve-de-bois-maintenance-vmc-installation-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-sainte-genevieve-de-bois.com/",
+        "adresse": "Sainte-Geneviève-des-Bois",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17402979423786891702",
+        "nom": "Airpropre installation vmc evry",
+        "slug": "airpropre-installation-vmc-evry",
+        "telephone": null,
+        "site_web": "https://airpropre-installationvmc-evry.com/",
+        "adresse": "Évry-Courcouronnes",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17361212654692019379",
+        "nom": "Clim Essonne (Installateur de climatisation, ventilation, chauffage, désenfumage)",
+        "slug": "clim-essonne-installateur-de-climatisation-ventilation-chauffage-desenfumage",
+        "telephone": null,
+        "site_web": "http://www.climessonne.fr/",
+        "adresse": "Les Ulis",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "neuvy-sur-barangeon": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1502813307717204255",
+        "nom": "Peroche Barat Etablissements SARL",
+        "slug": "peroche-barat-etablissements-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Ter Rue de L Hôpital",
+        "note": 3,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "orval": {
+    "artisans": [
+      {
+        "id": "6830294759216669012",
+        "nom": "Simon Christophe",
+        "slug": "simon-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Orval",
+        "note": 3,
+        "avis": 12,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "plaimpied-givaudins": {
+    "artisans": [
+      {
+        "id": "4006423573129778313",
+        "nom": "Froid Centre",
+        "slug": "froid-centre",
+        "telephone": null,
+        "site_web": "http://www.froid-centre.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Soye-en-Septaine",
+        "note": 4,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11233020565829765053",
+        "nom": "Froid Chaud Eco",
+        "slug": "froid-chaud-eco",
+        "telephone": null,
+        "site_web": "https://www.froidchaudeco.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lissay-Lochy",
+        "note": 4,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "3920832441343051036",
+        "nom": "Laadjel Abdel",
+        "slug": "laadjel-abdel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Clos Saint-Georges",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16949278177519012126",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=bourges",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1338646319889405252",
+        "nom": "L.T.J Charpente",
+        "slug": "ltj-charpente",
+        "telephone": null,
+        "site_web": "http://www.ltjcharpente-18.com/",
+        "adresse": "17 Le Porche",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-amand-montrond": {
+    "artisans": [
+      {
+        "id": "3067795365103579297",
+        "nom": "Arctique S.A.S",
+        "slug": "arctique-sas",
+        "telephone": null,
+        "site_web": "http://www.arctiquefroid.fr/",
+        "adresse": "654 Rue Pelletier Doisy",
+        "note": 3,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "11740953261985718910",
+        "nom": "Laville Michel",
+        "slug": "laville-michel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue Roger Pearon",
+        "note": 3,
+        "avis": 46,
+        "type": "Plombier"
+      },
+      {
+        "id": "6083349125885089019",
+        "nom": "Gilardet Père Et Fils Sarl",
+        "slug": "gilardet-pere-et-fils-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "45 Av. du Général de Gaulle",
+        "note": 3,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "17330920344807663730",
+        "nom": "Chauffage Climatisation Boischaut",
+        "slug": "chauffage-climatisation-boischaut",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Pelletier Doisy",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "16795534873424728819",
+        "nom": "Téréva Saint-Amand-Montrond",
+        "slug": "tereva-saint-amand-montrond",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394555--agence-tereva-saint-amand-montrond",
+        "adresse": "42 Rue de Juranville",
+        "note": 4,
+        "avis": 24,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "15069130577810120410",
+        "nom": "Y Garraud Père Et Fils - Terres de fenêtres / Expert chaleur bois - Poêle / Menuiserie / Salle de bain / Cuisine",
+        "slug": "y-garraud-pere-et-fils-terres-de-fenetres-expert-chaleur-bois-poele-menuiserie-salle-de-bain-cuisine",
+        "telephone": null,
+        "site_web": "https://www.ygarraudpereetfils.com/",
+        "adresse": "7 Rue Henri Barbusse",
+        "note": 4,
+        "avis": 63,
+        "type": "Cheministe"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12279546966468487558",
+        "nom": "Entreprise Electrique Laurent Frédéric",
+        "slug": "entreprise-electrique-laurent-frederic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "31 Rue Grozieux",
+        "note": 4,
+        "avis": 17,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-doulchard": {
+    "artisans": [
+      {
+        "id": "13620587262336931853",
+        "nom": "Centre Clim",
+        "slug": "centre-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "72 Rue des Pieds Blancs",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16251486054550377548",
+        "nom": "Froid Thermo Services Centre",
+        "slug": "froid-thermo-services-centre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue de la Garenne, Le Détour du Pavé",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3517682278570821565",
+        "nom": "Ouest Isol & Ventil - Bourges",
+        "slug": "ouest-isol-ventil-bourges",
+        "telephone": null,
+        "site_web": "https://www.ouestisolventil.fr/agences/agence-bourges?utm_source=gmb",
+        "adresse": "231 Rue André et Edouard Michelin",
+        "note": 4,
+        "avis": 10,
+        "type": "Grossiste en matériaux de construction"
+      },
+      {
+        "id": "14598439271729614647",
+        "nom": "Groupe L S P Bourges",
+        "slug": "groupe-l-s-p-bourges",
+        "telephone": null,
+        "site_web": "https://www.groupelsp.fr/",
+        "adresse": "286 Rue de Malitorne",
+        "note": 4,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14428465219441739174",
+        "nom": "Sarl ACM Chaudronnerie Acoustique Maintenances",
+        "slug": "sarl-acm-chaudronnerie-acoustique-maintenances",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "route de berry-bouy",
+        "note": 5,
+        "avis": 7,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-eloy-de-gy": {
+    "artisans": [
+      {
+        "id": "17744300371023627600",
+        "nom": "Montagne Froid Climatisation SAS",
+        "slug": "montagne-froid-climatisation-sas",
+        "telephone": null,
+        "site_web": "http://montagne18.com/?utm_source=gmb",
+        "adresse": "4 Espace Artisanal du Danjon",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11558590760265330068",
+        "nom": "Berry Froid",
+        "slug": "berry-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Espace Artisanal du Danjon",
+        "note": 4,
+        "avis": 23,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5685816528019156665",
+        "nom": "Baron Denis",
+        "slug": "baron-denis",
+        "telephone": null,
+        "site_web": "http://plombier-chauffagiste-bpce.fr/",
+        "adresse": "12 Rue de Breuilly",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8616369623585782197",
+        "nom": "DSA Construction",
+        "slug": "dsa-construction",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100090451186951",
+        "adresse": "57 Rte d'Orléans",
+        "note": 5,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "11340803857703438643",
+        "nom": "Carcassier",
+        "slug": "carcassier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rue de la Berthauderie",
+        "note": 5,
+        "avis": 8,
+        "type": "Fabricant de matériel électronique"
+      },
+      {
+        "id": "2369385970412855594",
+        "nom": "Sp Elec",
+        "slug": "sp-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Danjon Lieu-dit",
+        "note": 2,
+        "avis": 2,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-germain-du-puy": {
+    "artisans": [
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "5 Rue Fénelon",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3976257905874092981",
+        "nom": "SARL CD lec",
+        "slug": "sarl-cd-lec",
+        "telephone": null,
+        "site_web": "https://www.cdlec.com/",
+        "adresse": "9285F Rue Lamartine",
+        "note": 4,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15208081511725116594",
+        "nom": "Technitoit Bourges",
+        "slug": "technitoit-bourges",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/cher-18-bourges/?utm_source=google&utm_medium=gmb",
+        "adresse": "24 Allée de Stendhal, Rte de la Charité",
+        "note": 4,
+        "avis": 196,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4031169067086044261",
+        "nom": "AEB Électricité",
+        "slug": "aeb-electricite",
+        "telephone": null,
+        "site_web": "http://aebelectricite.com/",
+        "adresse": "573 Rue de la Fontaine",
+        "note": 3,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17262331072312426835",
+        "nom": "Sarl JULIEN",
+        "slug": "sarl-julien",
+        "telephone": null,
+        "site_web": "https://sarl-julien.fr/",
+        "adresse": "16 Rue Lamartine",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-martin-dauxigny": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1555699344299388898",
+        "nom": "Concept System NRGY",
+        "slug": "concept-system-nrgy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pigny",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1745494509779327896",
+        "nom": "M.V.18",
+        "slug": "mv18",
+        "telephone": null,
+        "site_web": "http://www.mv18.fr/",
+        "adresse": "20 Rte de Paris",
+        "note": 4,
+        "avis": 25,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "saint-satur": {
+    "artisans": [
+      {
+        "id": "9626006202610866410",
+        "nom": "Climavin",
+        "slug": "climavin",
+        "telephone": null,
+        "site_web": "http://www.climavin.fr/",
+        "adresse": "Sancerre",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17035376563563169266",
+        "nom": "Chaud froid",
+        "slug": "chaud-froid",
+        "telephone": null,
+        "site_web": "http://chaudfroid18240.fr/",
+        "adresse": "Léré",
+        "note": 4,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8350697179858934978",
+        "nom": "Hamon Daniel",
+        "slug": "hamon-daniel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22 Rue de la Prte de Sancerre",
+        "note": 2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "4417595121776317754",
+        "nom": "S.G.A - J.MEYER",
+        "slug": "sga-jmeyer",
+        "telephone": null,
+        "site_web": "https://www.j-meyer-sga.fr/",
+        "adresse": "6 Rue du Commerce",
+        "note": 5,
+        "avis": 2,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "4314783851326677423",
+        "nom": "Canoine olivier",
+        "slug": "canoine-olivier",
+        "telephone": null,
+        "site_web": "https://www.plomberie-chauffagerie-canoine.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Savigny-en-Sancerre",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "9235507669827487236",
+        "nom": "Olivier Gaucheron",
+        "slug": "olivier-gaucheron",
+        "telephone": null,
+        "site_web": "https://www.gaucheron-sancerre.com/",
+        "adresse": "Sancerre",
+        "note": 5,
+        "avis": 7,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "sainte-solange": {
+    "artisans": [
+      {
+        "id": "17273055519509535101",
+        "nom": "SARL chaud froid & associés",
+        "slug": "sarl-chaud-froid-associes",
+        "telephone": null,
+        "site_web": "https://www.bourges.infoptimum.com/recherche.php",
+        "adresse": "Montpendu",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11343671803980679264",
+        "nom": "ERA Electricité",
+        "slug": "era-electricite",
+        "telephone": null,
+        "site_web": "https://era-electricite-18.fr/",
+        "adresse": "La Boussaterie",
+        "note": 4,
+        "avis": 12,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "sancerre": {
+    "artisans": [
+      {
+        "id": "9626006202610866410",
+        "nom": "Climavin",
+        "slug": "climavin",
+        "telephone": null,
+        "site_web": "http://www.climavin.fr/",
+        "adresse": "Le Petit Morice",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17035376563563169266",
+        "nom": "Chaud froid",
+        "slug": "chaud-froid",
+        "telephone": null,
+        "site_web": "http://chaudfroid18240.fr/",
+        "adresse": "Léré",
+        "note": 4,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4376903867210154814",
+        "nom": "Entreprise Desbois",
+        "slug": "entreprise-desbois",
+        "telephone": null,
+        "site_web": "http://www.entreprise-desbois.fr/",
+        "adresse": "Cosne-Cours-sur-Loire",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "10434427649609590163",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.sarl-dme58.fr/",
+        "adresse": "Tracy-sur-Loire",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4314783851326677423",
+        "nom": "Canoine olivier",
+        "slug": "canoine-olivier",
+        "telephone": null,
+        "site_web": "https://www.plomberie-chauffagerie-canoine.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Savigny-en-Sancerre",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sancoins": {
+    "artisans": [
+      {
+        "id": "12030344185354487298",
+        "nom": "Guerut David",
+        "slug": "guerut-david",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sancoins",
+        "note": 4,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "15920987176171241251",
+        "nom": "Ets Roche Yoann",
+        "slug": "ets-roche-yoann",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sancoins",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "savigny-en-sancerre": {
+    "artisans": [
+      {
+        "id": "4314783851326677423",
+        "nom": "Canoine olivier",
+        "slug": "canoine-olivier",
+        "telephone": null,
+        "site_web": "https://www.plomberie-chauffagerie-canoine.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Les Doisnes",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "17035376563563169266",
+        "nom": "Chaud froid",
+        "slug": "chaud-froid",
+        "telephone": null,
+        "site_web": "http://chaudfroid18240.fr/",
+        "adresse": "Léré",
+        "note": 4,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9626006202610866410",
+        "nom": "Climavin",
+        "slug": "climavin",
+        "telephone": null,
+        "site_web": "http://www.climavin.fr/",
+        "adresse": "Sancerre",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4401559950595891152",
+        "nom": "Prunier Hugo",
+        "slug": "prunier-hugo",
+        "telephone": null,
+        "site_web": "https://www.pagesjaunes.fr/pros/59557344?at_campaign=YAHOO&at_creation=&at_format=FD&at_medium=affiliate&at_variant=NAVIGATION#sso-prevent-universal-link",
+        "adresse": "Savigny-en-Sancerre",
+        "note": 5,
+        "avis": 27,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "9196686662332407074",
+        "nom": "Bonnin-Da Silva (SARL)",
+        "slug": "bonnin-da-silva-sarl",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/sancerre.renovation.construction/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 3,
+        "avis": 13,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4376903867210154814",
+        "nom": "Entreprise Desbois",
+        "slug": "entreprise-desbois",
+        "telephone": null,
+        "site_web": "http://www.entreprise-desbois.fr/",
+        "adresse": "Cosne-Cours-sur-Loire",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15393307276701865173",
+        "nom": "Constructions Metalliques Bailly",
+        "slug": "constructions-metalliques-bailly",
+        "telephone": null,
+        "site_web": "http://www.baillysa.fr/",
+        "adresse": "11 Rue du Val de Loire",
+        "note": 3,
+        "avis": 8,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6533324713766887887",
+        "nom": "Da Silva Letra Daniel",
+        "slug": "da-silva-letra-daniel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Firmin-sur-Loire",
+        "note": 5,
+        "avis": 40,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "blancafort": {
+    "artisans": [
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11272881140155676061",
+        "nom": "FlameSpeed SARL",
+        "slug": "flamespeed-sarl",
+        "telephone": null,
+        "site_web": "http://flamespeed.fr/?utm_source=gmb",
+        "adresse": "Argent-sur-Sauldre",
+        "note": 4,
+        "avis": 52,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2680029372467488568",
+        "nom": "Société Electrique de Sologne",
+        "slug": "societe-electrique-de-sologne",
+        "telephone": null,
+        "site_web": "http://www.elec-pascal.fr/",
+        "adresse": "16 Rte d'Aubigny",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5994815755051770920",
+        "nom": "MD'AIR Ventilation-VMC Paris",
+        "slug": "mdair-ventilation-vmc-paris",
+        "telephone": null,
+        "site_web": "http://www.mdairventilation.fr/",
+        "adresse": "07 69 64 31 79",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17402979423786891702",
+        "nom": "Airpropre installation vmc evry",
+        "slug": "airpropre-installation-vmc-evry",
+        "telephone": null,
+        "site_web": "https://airpropre-installationvmc-evry.com/",
+        "adresse": "Évry-Courcouronnes",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13742352673223476272",
+        "nom": "SDI VENTILATION CENTRE",
+        "slug": "sdi-ventilation-centre",
+        "telephone": null,
+        "site_web": "https://www.sdiventilation.com/",
+        "adresse": "Orléans",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "955685085119984142",
+        "nom": "BM VMC",
+        "slug": "bm-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 58 09 03 59",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "cuffy": {
+    "artisans": [
+      {
+        "id": "16243308548320885752",
+        "nom": "DDS froid et climatisation",
+        "slug": "dds-froid-et-climatisation",
+        "telephone": null,
+        "site_web": "https://dds-froid-et-climatisation.gazoleen.com/rdv",
+        "adresse": "Cuffy",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "foecy": {
+    "artisans": [
+      {
+        "id": "7568882180671228255",
+        "nom": "Roche Francis",
+        "slug": "roche-francis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Foëcy",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13770043643082307814",
+        "nom": "Mclimatic",
+        "slug": "mclimatic",
+        "telephone": null,
+        "site_web": "https://www.mclimatic-avis.fr/avis-clients/",
+        "adresse": "Saint-Cyr-sur-Loire",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14578584397503210916",
+        "nom": "Victeon",
+        "slug": "victeon",
+        "telephone": null,
+        "site_web": "https://victeon.fr/",
+        "adresse": "Orléans",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16233850972273545850",
+        "nom": "Thermo-Centre",
+        "slug": "thermo-centre",
+        "telephone": null,
+        "site_web": "http://www.thermo-centre.fr/",
+        "adresse": "Jouet-sur-l'Aubois",
+        "note": 4,
+        "avis": 61,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "jouet-sur-laubois": {
+    "artisans": [
+      {
+        "id": "16233850972273545850",
+        "nom": "Thermo-Centre",
+        "slug": "thermo-centre",
+        "telephone": null,
+        "site_web": "http://www.thermo-centre.fr/",
+        "adresse": "Jouet-sur-l'Aubois",
+        "note": 4,
+        "avis": 61,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "levet": {
+    "artisans": [
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9229479260901390360",
+        "nom": "B.c Energy",
+        "slug": "bc-energy",
+        "telephone": null,
+        "site_web": "https://www.sarl-bcenergy.fr/",
+        "adresse": "Dun-sur-Auron",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14287514971448301745",
+        "nom": "CLIMATEC SERVICES",
+        "slug": "climatec-services",
+        "telephone": null,
+        "site_web": "http://climatec-renelefebvre.com/",
+        "adresse": "Bourges",
+        "note": 3,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8204950380290637947",
+        "nom": "LAPAN ENERGIES",
+        "slug": "lapan-energies",
+        "telephone": null,
+        "site_web": "https://www.lapan-energies.fr/",
+        "adresse": "Lapan",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16949278177519012126",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=bourges",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "menetou-salon": {
+    "artisans": [
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6151994007782184611",
+        "nom": "DYKAS BERRY ECO ENERGIE",
+        "slug": "dykas-berry-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/seweryn.dykas.5",
+        "adresse": "1 Rue du Remblai",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "nerondes": {
+    "artisans": [
+      {
+        "id": "1402098426891714871",
+        "nom": "Clim'Flammes",
+        "slug": "climflammes",
+        "telephone": null,
+        "site_web": "https://www.climflammes.com/",
+        "adresse": "Néronde-sur-Dore",
+        "note": 4,
+        "avis": 122,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7018765355347002191",
+        "nom": "SARL VIRMONT",
+        "slug": "sarl-virmont",
+        "telephone": null,
+        "site_web": "http://www.virmont.fr/",
+        "adresse": "Avord",
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "16233850972273545850",
+        "nom": "Thermo-Centre",
+        "slug": "thermo-centre",
+        "telephone": null,
+        "site_web": "http://www.thermo-centre.fr/",
+        "adresse": "Jouet-sur-l'Aubois",
+        "note": 4,
+        "avis": 61,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-florent-sur-cher": {
+    "artisans": [
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "8 R. Terre des Brosses",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "79631595883912959",
+        "nom": "Spira-clim",
+        "slug": "spira-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Fernand Léger",
+        "note": 4,
+        "avis": 6,
+        "type": "Forgeron"
+      },
+      {
+        "id": "2392207906178717092",
+        "nom": "Capchaleur",
+        "slug": "capchaleur",
+        "telephone": null,
+        "site_web": "https://capchaleur.fr/",
+        "adresse": "22 Av. Gabriel Dordain",
+        "note": 4,
+        "avis": 12,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "732420989426526020",
+        "nom": "Electric 18 Mohrez",
+        "slug": "electric-18-mohrez",
+        "telephone": null,
+        "site_web": "https://www.electricite-mohrez.fr/",
+        "adresse": "7 Chem. Marchand",
+        "note": 5,
+        "avis": 70,
+        "type": "Électricien"
+      },
+      {
+        "id": "3688992206689158171",
+        "nom": "Dessard Chauffage",
+        "slug": "dessard-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "27 Rue Pierre Semard",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8198521885616518452",
+        "nom": "Concept' Plomberie",
+        "slug": "concept-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12 Rue de l'Industrie",
+        "note": 4,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "7523476674306975264",
+        "nom": "ETS LABBACI PLOMBERIE",
+        "slug": "ets-labbaci-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "05 Chem. de Beauséjour",
+        "note": 3,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "3352402386434146995",
+        "nom": "ALLIANCE COUVERTURE",
+        "slug": "alliance-couverture",
+        "telephone": null,
+        "site_web": "https://www.alliance-couverture.com/",
+        "adresse": "64 Rue Emile Zola",
+        "note": 4,
+        "avis": 48,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5711726195746758642",
+        "nom": "Dumesnil Laurent",
+        "slug": "dumesnil-laurent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue du Commerce",
+        "note": 3,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "les-aix-dangillon": {
+    "artisans": [
+      {
+        "id": "6669673535900796006",
+        "nom": "RL services",
+        "slug": "rl-services",
+        "telephone": null,
+        "site_web": "http://www.rl-services.fr/",
+        "adresse": "6 Bis Chem. de la Chaumelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Équipement pour boulangerie"
+      },
+      {
+        "id": "194249369157859812",
+        "nom": "Sarl brielec",
+        "slug": "sarl-brielec",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/bricevirot/",
+        "adresse": "5 Rue Emile Volton",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5159403517799828868",
+        "nom": "Ets Villemin Coquery",
+        "slug": "ets-villemin-coquery",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15 Rue Alfred Remanjon",
+        "note": 4,
+        "avis": 60,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "17802595791285268191",
+        "nom": "Cazin SAS",
+        "slug": "cazin-sas",
+        "telephone": null,
+        "site_web": "http://sascazin.fr/?utm_source=gmb",
+        "adresse": "34 Rue des Vallières",
+        "note": 4,
+        "avis": 20,
+        "type": "Maçon"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "16949278177519012126",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=bourges",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "lunery": {
+    "artisans": [
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6059332726556061686",
+        "nom": "Berry Energies",
+        "slug": "berry-energies",
+        "telephone": null,
+        "site_web": "https://www.berryenergies.com/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8204950380290637947",
+        "nom": "LAPAN ENERGIES",
+        "slug": "lapan-energies",
+        "telephone": null,
+        "site_web": "https://www.lapan-energies.fr/",
+        "adresse": "Lapan",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5209456443159541078",
+        "nom": "Arnon Énergies Plomberie Chauffages Électricité",
+        "slug": "arnon-energies-plomberie-chauffages-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lury-sur-Arnon",
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11233020565829765053",
+        "nom": "Froid Chaud Eco",
+        "slug": "froid-chaud-eco",
+        "telephone": null,
+        "site_web": "https://www.froidchaudeco.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lissay-Lochy",
+        "note": 4,
+        "avis": 20,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "vasselay": {
+    "artisans": [
+      {
+        "id": "11048022371986370730",
+        "nom": "Clim habitat",
+        "slug": "clim-habitat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 All. de la Font de Cierge",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "vierzon": {
+    "artisans": [
+      {
+        "id": "6059332726556061686",
+        "nom": "Berry Energies",
+        "slug": "berry-energies",
+        "telephone": null,
+        "site_web": "https://www.berryenergies.com/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14952308165931468526",
+        "nom": "Cordat Et Brault ETS",
+        "slug": "cordat-et-brault-ets",
+        "telephone": null,
+        "site_web": "https://www.cordat-brault.fr/",
+        "adresse": "24 Rue Saint-Exupéry",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "11180803450510941104",
+        "nom": "M.I.C. Maintenance Industrielle du Cher",
+        "slug": "mic-maintenance-industrielle-du-cher",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Etienne Dolet",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7195036307064466431",
+        "nom": "Chauffagiste Izi confort, filiale EDF",
+        "slug": "chauffagiste-izi-confort-filiale-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=vierzon",
+        "adresse": "Espace Sologne, Av. du 19 Mars 1962",
+        "note": 4,
+        "avis": 140,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7136797830799736622",
+        "nom": "bachelier m",
+        "slug": "bachelier-m",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rue François Mitterrand",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15188592259346478707",
+        "nom": "Demirli",
+        "slug": "demirli",
+        "telephone": null,
+        "site_web": "https://demirli.fr/?utm_source=gmb",
+        "adresse": "07 81 11 50 43",
+        "note": 5,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2360128276831880436",
+        "nom": "Morand Entreprise, Plombier/Chauffagiste sur le secteur de Bourges, Vierzon et Châteauroux.",
+        "slug": "morand-entreprise-plombierchauffagiste-sur-le-secteur-de-bourges-vierzon-et-chateauroux",
+        "telephone": null,
+        "site_web": "https://www.morand-entreprise.fr/",
+        "adresse": "55 Ter Rue Anatole France",
+        "note": 3,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "3121255497895693826",
+        "nom": "ML Plomberie",
+        "slug": "ml-plomberie",
+        "telephone": null,
+        "site_web": "https://www.ml-plomberie.fr/",
+        "adresse": "06 11 20 52 02",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "1823183097533926474",
+        "nom": "Téréva Vierzon",
+        "slug": "tereva-vierzon",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394551--agence-tereva-vierzon",
+        "adresse": "27 Rue du Bas de Grange",
+        "note": 4,
+        "avis": 23,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "15702098054677640618",
+        "nom": "Plomberry",
+        "slug": "plomberry",
+        "telephone": null,
+        "site_web": "http://www.plomberry.com/?utm_source=gmb",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "vignoux-sur-barangeon": {
+    "artisans": [
+      {
+        "id": "15804385694454850281",
+        "nom": "AFL ENERGIES",
+        "slug": "afl-energies",
+        "telephone": null,
+        "site_web": "http://www.aflenergies.fr/",
+        "adresse": "Vignoux-sur-Barangeon",
+        "note": 4,
+        "avis": 61,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15717130427910307524",
+        "nom": "Centre Chauffage Plomberie",
+        "slug": "centre-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.centre-chauffage-plomberie.fr/contact-vente-salle-bains-aubigny-chauffagiste-vierzon.html",
+        "adresse": "84 Rue Jean Graczyk",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6059332726556061686",
+        "nom": "Berry Energies",
+        "slug": "berry-energies",
+        "telephone": null,
+        "site_web": "https://www.berryenergies.com/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "trouy": {
+    "artisans": [
+      {
+        "id": "2064997395968164819",
+        "nom": "T.C.V.N.",
+        "slug": "tcvn",
+        "telephone": null,
+        "site_web": "https://tcvn.fr/",
+        "adresse": "ZAC DU BOIS DE GIVRAY",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "7812553347230467676",
+        "nom": "AD PRO 18",
+        "slug": "ad-pro-18",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Adpro18-100519008530104",
+        "adresse": "15A All. de la Ruette",
+        "note": 4,
+        "avis": 90,
+        "type": "Plombier"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "357607472800172993",
+        "nom": "SAS BGC CHAUFFAGE CLIMATISATION PLOMBERIE",
+        "slug": "sas-bgc-chauffage-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "http://bgc18.fr/?utm_source=gmb",
+        "adresse": "Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6975778040556975009",
+        "nom": "AB Climatisation",
+        "slug": "ab-climatisation",
+        "telephone": null,
+        "site_web": "http://www.abclimatisation.fr/",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "271688815270905224",
+        "nom": "BGC Chauffage Climatisation",
+        "slug": "bgc-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.bgc18.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5710323043492974695",
+        "nom": "Couvre Toit Energy",
+        "slug": "couvre-toit-energy",
+        "telephone": null,
+        "site_web": "http://couvretoitenergy.fr/",
+        "adresse": "4 route de saint amand montrond",
+        "note": 5,
+        "avis": 71,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14937105140966003962",
+        "nom": "Berry Climat - plombier chauffage climatisation",
+        "slug": "berry-climat-plombier-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "http://www.berry-climat.fr/",
+        "adresse": "Saint-Germain-du-Puy",
+        "note": 4,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "16949278177519012126",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=bourges",
+        "adresse": "Bourges",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  }
+}

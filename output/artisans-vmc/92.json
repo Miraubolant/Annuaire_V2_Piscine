@@ -1,0 +1,3769 @@
+{
+  "saint-germain-les-corbeil": {
+    "artisans": [
+      {
+        "id": "6524490487397936464",
+        "nom": "L'artisan climatique",
+        "slug": "lartisan-climatique",
+        "telephone": null,
+        "site_web": "https://artisan-climatique.fr/",
+        "adresse": "3 Rue des Bruyères",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17402979423786891702",
+        "nom": "Airpropre installation vmc evry",
+        "slug": "airpropre-installation-vmc-evry",
+        "telephone": null,
+        "site_web": "https://airpropre-installationvmc-evry.com/",
+        "adresse": "Évry-Courcouronnes",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11526370740227698722",
+        "nom": "HYGIS Evry | Entretien et maintenance des ventilations (Hotte - VMC - Climatisation)",
+        "slug": "hygis-evry-entretien-et-maintenance-des-ventilations-hotte-vmc-climatisation",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-nettoyage-hotte-vmc-climatisation-evry-etampes-essonne-91.html",
+        "adresse": "Corbeil-Essonnes",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16900376864070234942",
+        "nom": "AJL Clim",
+        "slug": "ajl-clim",
+        "telephone": null,
+        "site_web": "http://www.ajl-clim.fr/",
+        "adresse": "Boutigny-sur-Essonne",
+        "note": 5,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10707491011034660115",
+        "nom": "Entreprise OLIVEIRA",
+        "slug": "entreprise-oliveira",
+        "telephone": null,
+        "site_web": "https://www.artisan-oliveira.fr/",
+        "adresse": "Rue des Ajoncs",
+        "note": 5,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "8567132313429967741",
+        "nom": "Adveneris",
+        "slug": "adveneris",
+        "telephone": null,
+        "site_web": "https://adveneris.com/",
+        "adresse": "Saint-Pierre-du-Perray",
+        "note": 5,
+        "avis": 124,
+        "type": "Électricien"
+      },
+      {
+        "id": "9227416188634469939",
+        "nom": "Hervy",
+        "slug": "hervy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Corbeil-Essonnes",
+        "note": 4,
+        "avis": 79,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1553034820682588316",
+        "nom": "B2TKLIT vmc sainte genevieve de bois - maintenance vmc - installation vmc",
+        "slug": "b2tklit-vmc-sainte-genevieve-de-bois-maintenance-vmc-installation-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-sainte-genevieve-de-bois.com/",
+        "adresse": "Sainte-Geneviève-des-Bois",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16511660327790966589",
+        "nom": "Ideal Plomberie",
+        "slug": "ideal-plomberie",
+        "telephone": null,
+        "site_web": "http://www.idealplomberie.com/",
+        "adresse": "1 impasse André Ampère",
+        "note": 4,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "8471648219390539879",
+        "nom": "B2clit vmc longjumeau - nettoyage vmc - maintenance vmc",
+        "slug": "b2clit-vmc-longjumeau-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-longjumeau.com/",
+        "adresse": "Longjumeau",
+        "note": 5,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-pierre-du-perray": {
+    "artisans": [
+      {
+        "id": "8567132313429967741",
+        "nom": "Adveneris",
+        "slug": "adveneris",
+        "telephone": null,
+        "site_web": "https://adveneris.com/",
+        "adresse": "15A Rue de la Mare À Tissier",
+        "note": 5,
+        "avis": 124,
+        "type": "Électricien"
+      },
+      {
+        "id": "11283132661241947059",
+        "nom": "ASL Confort climatisation",
+        "slug": "asl-confort-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "27 Rue du Trou Grillon",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1243088754768590137",
+        "nom": "ITAL-ISOL",
+        "slug": "ital-isol",
+        "telephone": null,
+        "site_web": "https://www.ital-isol.fr/",
+        "adresse": "32 Rue Clément ADER",
+        "note": 5,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17402979423786891702",
+        "nom": "Airpropre installation vmc evry",
+        "slug": "airpropre-installation-vmc-evry",
+        "telephone": null,
+        "site_web": "https://airpropre-installationvmc-evry.com/",
+        "adresse": "Évry-Courcouronnes",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2783540530194675671",
+        "nom": "Ali Plombier Saint-Pierre-du-Perray",
+        "slug": "ali-plombier-saint-pierre-du-perray",
+        "telephone": null,
+        "site_web": "https://aliplombiersaint-pierre-du-perray.fr/",
+        "adresse": "7 Rue du Commerce",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "10190306577157658697",
+        "nom": "🔥 AIVIA ENERGY - Installation Pompe à Chaleur - Climatisation - 91 et Ile de France",
+        "slug": "aivia-energy-installation-pompe-a-chaleur-climatisation-91-et-ile-de-france",
+        "telephone": null,
+        "site_web": "https://www.installationpompeachaleur.fr/?utm_source=gmb_listing&utm_medium=local",
+        "adresse": "Évry-Courcouronnes",
+        "note": 5,
+        "avis": 172,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "131730871295313750",
+        "nom": "Société PCS (Plomberie Chauffage Sanitaire)",
+        "slug": "societe-pcs-plomberie-chauffage-sanitaire",
+        "telephone": null,
+        "site_web": "http://www.pcs91.fr/",
+        "adresse": "8 Rue Jacquard",
+        "note": 4,
+        "avis": 87,
+        "type": "Plombier"
+      },
+      {
+        "id": "4170136101200704743",
+        "nom": "AIRR",
+        "slug": "airr",
+        "telephone": null,
+        "site_web": "http://airr.fr/",
+        "adresse": "1 Rue Léon Appert",
+        "note": 4,
+        "avis": 55,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "8809193260246718711",
+        "nom": "MIEUX RENOVER 91",
+        "slug": "mieux-renover-91",
+        "telephone": null,
+        "site_web": "https://www.mieuxrenover.com/",
+        "adresse": "15A Rue de la Mare À Tissier",
+        "note": 4,
+        "avis": 624,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "11526370740227698722",
+        "nom": "HYGIS Evry | Entretien et maintenance des ventilations (Hotte - VMC - Climatisation)",
+        "slug": "hygis-evry-entretien-et-maintenance-des-ventilations-hotte-vmc-climatisation",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-nettoyage-hotte-vmc-climatisation-evry-etampes-essonne-91.html",
+        "adresse": "Corbeil-Essonnes",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "le-val-saint-germain": {
+    "artisans": [
+      {
+        "id": "3817250542904428517",
+        "nom": "Clim IDF",
+        "slug": "clim-idf",
+        "telephone": null,
+        "site_web": "https://clim-idf.com/?utm_source=gmb",
+        "adresse": "Dourdan",
+        "note": 5,
+        "avis": 206,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17361212654692019379",
+        "nom": "Clim Essonne (Installateur de climatisation, ventilation, chauffage, désenfumage)",
+        "slug": "clim-essonne-installateur-de-climatisation-ventilation-chauffage-desenfumage",
+        "telephone": null,
+        "site_web": "http://www.climessonne.fr/",
+        "adresse": "Les Ulis",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6986787401031920151",
+        "nom": "MF Solutions",
+        "slug": "mf-solutions",
+        "telephone": null,
+        "site_web": "https://mf-solutions91.fr/",
+        "adresse": "Brétigny-sur-Orge",
+        "note": 5,
+        "avis": 10,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "1553034820682588316",
+        "nom": "B2TKLIT vmc sainte genevieve de bois - maintenance vmc - installation vmc",
+        "slug": "b2tklit-vmc-sainte-genevieve-de-bois-maintenance-vmc-installation-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-sainte-genevieve-de-bois.com/",
+        "adresse": "Sainte-Geneviève-des-Bois",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16900376864070234942",
+        "nom": "AJL Clim",
+        "slug": "ajl-clim",
+        "telephone": null,
+        "site_web": "http://www.ajl-clim.fr/",
+        "adresse": "Boutigny-sur-Essonne",
+        "note": 5,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8471648219390539879",
+        "nom": "B2clit vmc longjumeau - nettoyage vmc - maintenance vmc",
+        "slug": "b2clit-vmc-longjumeau-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-longjumeau.com/",
+        "adresse": "Longjumeau",
+        "note": 5,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18080102767441365985",
+        "nom": "OD CLIM",
+        "slug": "od-clim",
+        "telephone": null,
+        "site_web": "http://www.odclim.fr/",
+        "adresse": "06 62 33 62 75",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "varennes-jarcy": {
+    "artisans": [
+      {
+        "id": "13129345925693725627",
+        "nom": "Air Confort Services",
+        "slug": "air-confort-services",
+        "telephone": null,
+        "site_web": "http://www.airconfortservices.fr/",
+        "adresse": "19 Rue du Bois de la Remise",
+        "note": 4,
+        "avis": 187,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4828879863802965139",
+        "nom": "val d'yerres froid",
+        "slug": "val-dyerres-froid",
+        "telephone": null,
+        "site_web": "http://vyfroid.fr/",
+        "adresse": "Épinay-sous-Sénart",
+        "note": 5,
+        "avis": 32,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11713192781180239464",
+        "nom": "FD chauffage - climatisation - entreprise RGE",
+        "slug": "fd-chauffage-climatisation-entreprise-rge",
+        "telephone": null,
+        "site_web": "http://www.fd-chauffage.com/",
+        "adresse": "Quincy-sous-Sénart",
+        "note": 4,
+        "avis": 23,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12925025870947305790",
+        "nom": "Valentin NRJ - Installation Maintenance Dépannage Climatisation - 77",
+        "slug": "valentin-nrj-installation-maintenance-depannage-climatisation-77",
+        "telephone": null,
+        "site_web": "https://www.valentin-nrj.fr/",
+        "adresse": "Brie-Comte-Robert",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5994815755051770920",
+        "nom": "MD'AIR Ventilation-VMC Paris",
+        "slug": "mdair-ventilation-vmc-paris",
+        "telephone": null,
+        "site_web": "http://www.mdairventilation.fr/",
+        "adresse": "07 69 64 31 79",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "vert-le-grand": {
+    "artisans": [
+      {
+        "id": "580840326433301414",
+        "nom": "cvc green chauffage ventilation climatisation",
+        "slug": "cvc-green-chauffage-ventilation-climatisation",
+        "telephone": null,
+        "site_web": "http://www.cvcgreen.fr/",
+        "adresse": "Ris-Orangis",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17402979423786891702",
+        "nom": "Airpropre installation vmc evry",
+        "slug": "airpropre-installation-vmc-evry",
+        "telephone": null,
+        "site_web": "https://airpropre-installationvmc-evry.com/",
+        "adresse": "Évry-Courcouronnes",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10190306577157658697",
+        "nom": "🔥 AIVIA ENERGY - Installation Pompe à Chaleur - Climatisation - 91 et Ile de France",
+        "slug": "aivia-energy-installation-pompe-a-chaleur-climatisation-91-et-ile-de-france",
+        "telephone": null,
+        "site_web": "https://www.installationpompeachaleur.fr/?utm_source=gmb_listing&utm_medium=local",
+        "adresse": "Évry-Courcouronnes",
+        "note": 5,
+        "avis": 172,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1553034820682588316",
+        "nom": "B2TKLIT vmc sainte genevieve de bois - maintenance vmc - installation vmc",
+        "slug": "b2tklit-vmc-sainte-genevieve-de-bois-maintenance-vmc-installation-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-sainte-genevieve-de-bois.com/",
+        "adresse": "Sainte-Geneviève-des-Bois",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17361212654692019379",
+        "nom": "Clim Essonne (Installateur de climatisation, ventilation, chauffage, désenfumage)",
+        "slug": "clim-essonne-installateur-de-climatisation-ventilation-chauffage-desenfumage",
+        "telephone": null,
+        "site_web": "http://www.climessonne.fr/",
+        "adresse": "Les Ulis",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11526370740227698722",
+        "nom": "HYGIS Evry | Entretien et maintenance des ventilations (Hotte - VMC - Climatisation)",
+        "slug": "hygis-evry-entretien-et-maintenance-des-ventilations-hotte-vmc-climatisation",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-nettoyage-hotte-vmc-climatisation-evry-etampes-essonne-91.html",
+        "adresse": "Corbeil-Essonnes",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16900376864070234942",
+        "nom": "AJL Clim",
+        "slug": "ajl-clim",
+        "telephone": null,
+        "site_web": "http://www.ajl-clim.fr/",
+        "adresse": "Boutigny-sur-Essonne",
+        "note": 5,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1122114296131374851",
+        "nom": "Expertbt vmc grigny",
+        "slug": "expertbt-vmc-grigny",
+        "telephone": null,
+        "site_web": "https://expertbt-vmc-grigny.com/",
+        "adresse": "Grigny",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8471648219390539879",
+        "nom": "B2clit vmc longjumeau - nettoyage vmc - maintenance vmc",
+        "slug": "b2clit-vmc-longjumeau-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-longjumeau.com/",
+        "adresse": "Longjumeau",
+        "note": 5,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4828879863802965139",
+        "nom": "val d'yerres froid",
+        "slug": "val-dyerres-froid",
+        "telephone": null,
+        "site_web": "http://vyfroid.fr/",
+        "adresse": "Épinay-sous-Sénart",
+        "note": 5,
+        "avis": 32,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "villejust": {
+    "artisans": [
+      {
+        "id": "17361212654692019379",
+        "nom": "Clim Essonne (Installateur de climatisation, ventilation, chauffage, désenfumage)",
+        "slug": "clim-essonne-installateur-de-climatisation-ventilation-chauffage-desenfumage",
+        "telephone": null,
+        "site_web": "http://www.climessonne.fr/",
+        "adresse": "Les Ulis",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8205847910627586067",
+        "nom": "aquachaleur",
+        "slug": "aquachaleur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22 Chem. du Rocher",
+        "note": 5,
+        "avis": 48,
+        "type": "Plombier"
+      },
+      {
+        "id": "1409719352474803057",
+        "nom": "ROCLIM Villejust (Pôle Thermique) : Chauffage - Climatisation - Ventilation - Traitement de l'eau",
+        "slug": "roclim-villejust-pole-thermique-chauffage-climatisation-ventilation-traitement-de-leau",
+        "telephone": null,
+        "site_web": "http://www.roclim.fr/",
+        "adresse": "15 Av. des 2 Lacs",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7726210881741909505",
+        "nom": "Dixit Climatisation",
+        "slug": "dixit-climatisation",
+        "telephone": null,
+        "site_web": "https://dixit-climatisation.fr/",
+        "adresse": "14 Rue du Zéphyr Bat C8",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8471648219390539879",
+        "nom": "B2clit vmc longjumeau - nettoyage vmc - maintenance vmc",
+        "slug": "b2clit-vmc-longjumeau-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-longjumeau.com/",
+        "adresse": "Longjumeau",
+        "note": 5,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8722213596678150366",
+        "nom": "AFATEK",
+        "slug": "afatek",
+        "telephone": null,
+        "site_web": "http://www.afatek.fr/",
+        "adresse": "Parc de l’Océane, 7 Rue du Zéphyr",
+        "note": 4,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9096799402776362848",
+        "nom": "Aqua Climat | Climatisation 91 - Installation et dépannage",
+        "slug": "aqua-climat-climatisation-91-installation-et-depannage",
+        "telephone": null,
+        "site_web": "https://aquaclimat.com/",
+        "adresse": "Marcoussis",
+        "note": 4,
+        "avis": 18,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3563059916303214335",
+        "nom": "IRJ Plomberie",
+        "slug": "irj-plomberie",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/plomberieirj",
+        "adresse": "1 Chem. du Bois des Vignes",
+        "note": 4,
+        "avis": 70,
+        "type": "Plombier"
+      },
+      {
+        "id": "7518214496068286565",
+        "nom": "GESTACLIMA",
+        "slug": "gestaclima",
+        "telephone": null,
+        "site_web": "https://www.gestaclima.com/",
+        "adresse": "Marcoussis",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5114932416391793002",
+        "nom": "CLIM ACTION",
+        "slug": "clim-action",
+        "telephone": null,
+        "site_web": "http://www.clim-action91.fr/",
+        "adresse": "Marcoussis",
+        "note": 4,
+        "avis": 64,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "malakoff": {
+    "artisans": [
+      {
+        "id": "6189838826979392245",
+        "nom": "FEV By Point Clim - Spécialiste dans la Rénovation Énergétique",
+        "slug": "fev-by-point-clim-specialiste-dans-la-renovation-energetique",
+        "telephone": null,
+        "site_web": "https://www.fev-pointclim.fr/",
+        "adresse": "32 Rue Guy Môquet",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur en énergie solaire"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11782045599584329832",
+        "nom": "Electricien Malakoff Domotique",
+        "slug": "electricien-malakoff-domotique",
+        "telephone": null,
+        "site_web": "http://www.electricienmalakoff.com/",
+        "adresse": "25 Av. Pierre Larousse",
+        "note": 4,
+        "avis": 321,
+        "type": "Électricien"
+      },
+      {
+        "id": "1948859019065152977",
+        "nom": "Airpur-sas",
+        "slug": "airpur-sas",
+        "telephone": null,
+        "site_web": "http://www.airpur-sas.fr/",
+        "adresse": "Vanves",
+        "note": 4,
+        "avis": 28,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14871982064074369416",
+        "nom": "PLOMBIER PARIS 92 - BAMOU",
+        "slug": "plombier-paris-92-bamou",
+        "telephone": null,
+        "site_web": "https://www.entreprise-bamou.fr/",
+        "adresse": "114 Bd Gabriel Péri",
+        "note": 4,
+        "avis": 61,
+        "type": "Plombier"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "Clamart",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "nanterre": {
+    "artisans": [
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "15 Rue Edmond Dubuis",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11446230424163992885",
+        "nom": "Clim+ Nanterre : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-nanterre-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/nanterre-clim-5315",
+        "adresse": "16 Av. des Guilleraies",
+        "note": 4,
+        "avis": 57,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5791369580556683799",
+        "nom": "Air Fluides Energie",
+        "slug": "air-fluides-energie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/airfluidesenergie/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Plombier"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13778665656386237269",
+        "nom": "Climatech Plus - Expert Climaticien - Pompe A Chaleur - RGE QUALIPAC",
+        "slug": "climatech-plus-expert-climaticien-pompe-a-chaleur-rge-qualipac",
+        "telephone": null,
+        "site_web": "https://climatech-plus.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 4,
+        "avis": 93,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10477528658414701452",
+        "nom": "Celsio",
+        "slug": "celsio",
+        "telephone": null,
+        "site_web": "https://www.celsio.fr/",
+        "adresse": "37 Rue des Peupliers",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "puteaux": {
+    "artisans": [
+      {
+        "id": "12515329660933202012",
+        "nom": "groupemlg installation vmc puteaux - nettoyage vmc",
+        "slug": "groupemlg-installation-vmc-puteaux-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://groupemlg-conseil-isolation-puteaux.com/",
+        "adresse": "46 Rue Benoît Malon",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11439461417369339712",
+        "nom": "JS - Installation/réparation pompe à chaleur - installation/réparation climatisation - ballon thermodynamique Puteaux",
+        "slug": "js-installationreparation-pompe-a-chaleur-installationreparation-climatisation-ballon-thermodynamique-puteaux",
+        "telephone": null,
+        "site_web": "https://jsidf-climatisation-pac.com/puteaux/",
+        "adresse": "111 Rue de la République",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8053755228033405539",
+        "nom": "CEDI climatisation entretien dépannage installation",
+        "slug": "cedi-climatisation-entretien-depannage-installation",
+        "telephone": null,
+        "site_web": "https://cedi.pro/92800/",
+        "adresse": "75 Rue de la République",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4660393517954167983",
+        "nom": "Litka vmc neuilly sur seine - installation vmc - nettoyage vmc",
+        "slug": "litka-vmc-neuilly-sur-seine-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "http://litka-vmc-neuilly-sur-seine.com/",
+        "adresse": "Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18145252289069939835",
+        "nom": "Steril Aire - Lampe UVC stérilisation par ultraviolets",
+        "slug": "steril-aire-lampe-uvc-sterilisation-par-ultraviolets",
+        "telephone": null,
+        "site_web": "https://www.steril-aire.fr/",
+        "adresse": "22 Av. Georges Pompidou",
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant de luminaires"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11731900289362445329",
+        "nom": "Enr-Free",
+        "slug": "enr-free",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "116 Rue de Verdun",
+        "note": 3,
+        "avis": 33,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "antony": {
+    "artisans": [
+      {
+        "id": "4335334763535320680",
+        "nom": "CTF Climatisation - Installation et Dépannage de Climatiseurs",
+        "slug": "ctf-climatisation-installation-et-depannage-de-climatiseurs",
+        "telephone": null,
+        "site_web": "http://www.ctf-climatisation.fr/",
+        "adresse": "2 Rue des Mûres",
+        "note": 4,
+        "avis": 63,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6508301905136310354",
+        "nom": "CHGE - installation - dépannage - entretien pompe à chaleur - installation climatisation réversible antony",
+        "slug": "chge-installation-depannage-entretien-pompe-a-chaleur-installation-climatisation-reversible-antony",
+        "telephone": null,
+        "site_web": "https://jsidf-climatisation-pac.com/antony/",
+        "adresse": "5 Rue Auguste Mounié",
+        "note": 4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14986544062784708876",
+        "nom": "Steyaert & Fils - Electricien Climatisation Domotique",
+        "slug": "steyaert-fils-electricien-climatisation-domotique",
+        "telephone": null,
+        "site_web": "https://www.antony-electricien.fr/",
+        "adresse": "108 Rue Pascal",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "745284559844300822",
+        "nom": "CK Clim",
+        "slug": "ck-clim",
+        "telephone": null,
+        "site_web": "http://ckclim.fr/contact0.html",
+        "adresse": "7 Rue Joseph Delon",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12788343604673705726",
+        "nom": "Stm2C Chauffage Plomberie",
+        "slug": "stm2c-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://stm2c.fr/",
+        "adresse": "36 Rue Céline",
+        "note": 4,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17266061907682101308",
+        "nom": "SFDC Chaudière, Pompe à Chaleur, Chauffe Eau",
+        "slug": "sfdc-chaudiere-pompe-a-chaleur-chauffe-eau",
+        "telephone": null,
+        "site_web": "http://www.sfdcantony.com/",
+        "adresse": "169 Av. de la Division Leclerc",
+        "note": 4,
+        "avis": 130,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16516407448101790553",
+        "nom": "DAIKIN INSTALLATEUR DEPANNAGE, multisplit , gainable, console, vrv",
+        "slug": "daikin-installateur-depannage-multisplit-gainable-console-vrv",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Av. François Arago",
+        "note": 4,
+        "avis": 16,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17338400704813407982",
+        "nom": "A.L.P Chauffage",
+        "slug": "alp-chauffage",
+        "telephone": null,
+        "site_web": "http://www.alpchauffage.com/",
+        "adresse": "16 Rue Victor Clément",
+        "note": 4,
+        "avis": 48,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8471648219390539879",
+        "nom": "B2clit vmc longjumeau - nettoyage vmc - maintenance vmc",
+        "slug": "b2clit-vmc-longjumeau-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-longjumeau.com/",
+        "adresse": "Longjumeau",
+        "note": 5,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "asnieres-sur-seine": {
+    "artisans": [
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "11 Rue des Frères Chausson",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9287460251557762347",
+        "nom": "Sematherm - Entreprise de maintenance CVC",
+        "slug": "sematherm-entreprise-de-maintenance-cvc",
+        "telephone": null,
+        "site_web": "https://www.sematherm.fr/",
+        "adresse": "4 Av. Laurent Cély",
+        "note": 5,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2766408714083807607",
+        "nom": "btqualit installation vmc clichy",
+        "slug": "btqualit-installation-vmc-clichy",
+        "telephone": null,
+        "site_web": "https://btqualit-installation-vmc-clichy.com/",
+        "adresse": "Clichy",
+        "note": 4,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10103524270305505754",
+        "nom": "CONCEPTIO Sarl",
+        "slug": "conceptio-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "51 Bd Voltaire",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4410603507355462835",
+        "nom": "TECHNIC CHAUFFAGE - CHAUFFAGISTE ASNIERES",
+        "slug": "technic-chauffage-chauffagiste-asnieres",
+        "telephone": null,
+        "site_web": "https://technic-chauffage92.com/",
+        "adresse": "39 Rue de Colombes",
+        "note": 4,
+        "avis": 42,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4660393517954167983",
+        "nom": "Litka vmc neuilly sur seine - installation vmc - nettoyage vmc",
+        "slug": "litka-vmc-neuilly-sur-seine-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "http://litka-vmc-neuilly-sur-seine.com/",
+        "adresse": "Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18417530162152854168",
+        "nom": "RENOVEL",
+        "slug": "renovel",
+        "telephone": null,
+        "site_web": "https://www.renovel.fr/",
+        "adresse": "12 Rue Paul Gillet",
+        "note": 4,
+        "avis": 165,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bagneux": {
+    "artisans": [
+      {
+        "id": "10610804110373473183",
+        "nom": "BT installation VMC Bagneux - Maintenance vmc - nettoyage",
+        "slug": "bt-installation-vmc-bagneux-maintenance-vmc-nettoyage",
+        "telephone": null,
+        "site_web": "https://bt-installation-vmc-bagneux.com/",
+        "adresse": "12 Av. Louis Pasteur",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5392154734301894576",
+        "nom": "JS - Installation/réparation pompe à chaleur - installation/réparation climatisation - ballon thermodynamique Bagneux",
+        "slug": "js-installationreparation-pompe-a-chaleur-installationreparation-climatisation-ballon-thermodynamique-bagneux",
+        "telephone": null,
+        "site_web": "https://jsidf-climatisation-pac.com/bagneux/",
+        "adresse": "31 Av. Louis Pasteur",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14308978490025062027",
+        "nom": "Plombier chauffagiste bagneux",
+        "slug": "plombier-chauffagiste-bagneux",
+        "telephone": null,
+        "site_web": "http://plombierchauffagistebagneux.fr/",
+        "adresse": "52 Rue Jean Longuet",
+        "note": 5,
+        "avis": 138,
+        "type": "Plombier"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13905579513978637156",
+        "nom": "ETGE",
+        "slug": "etge",
+        "telephone": null,
+        "site_web": "https://www.etge-climatisation.fr/",
+        "adresse": "Cachan",
+        "note": 4,
+        "avis": 50,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "Clamart",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "boulogne-billancourt": {
+    "artisans": [
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "72 Rue Marcel Dassault",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1612123778723928279",
+        "nom": "CEVC Climatisation 92",
+        "slug": "cevc-climatisation-92",
+        "telephone": null,
+        "site_web": "https://climatisation-92-service.fr/",
+        "adresse": "73 Rue du Château",
+        "note": 4,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14766082064669826603",
+        "nom": "Climatisation 92 Express – Installation & Dépannage à Boulogne-Billancourt",
+        "slug": "climatisation-92-express-installation-depannage-a-boulogne-billancourt",
+        "telephone": null,
+        "site_web": "https://climatisationboulogne.fr/",
+        "adresse": "73 Av. Jean Baptiste Clement",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7885856348527635772",
+        "nom": "Yohann CHICHE- CLIMATISATION 92 -INSTALLATION ET DEPANNAGE",
+        "slug": "yohann-chiche-climatisation-92-installation-et-depannage",
+        "telephone": null,
+        "site_web": "https://www.artisanyohann.fr/",
+        "adresse": "4 Sq. des Moulineaux",
+        "note": 4,
+        "avis": 34,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "bourg-la-reine": {
+    "artisans": [
+      {
+        "id": "7531990079899503439",
+        "nom": "CLIMAT BLEU",
+        "slug": "climat-bleu",
+        "telephone": null,
+        "site_web": "http://www.climatbleu-chauffage-climatisation.fr/",
+        "adresse": "Village Artisanal, 33 Rue de la Bièvre ATELIER N°4",
+        "note": 4,
+        "avis": 57,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4440865742600285757",
+        "nom": "SIM-TCE plombier chauffagiste électricien climatisation",
+        "slug": "sim-tce-plombier-chauffagiste-electricien-climatisation",
+        "telephone": null,
+        "site_web": "http://www.sim-plombier-chauffagiste92.fr/",
+        "adresse": "17 Av. du Général Leclerc",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9886944028879975420",
+        "nom": "Microclimat Idf",
+        "slug": "microclimat-idf",
+        "telephone": null,
+        "site_web": "http://www.microclimat-idf.fr/",
+        "adresse": "33 Rue de la Bièvre Atelier N°6",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7232925524620562111",
+        "nom": "HYDROtherm",
+        "slug": "hydrotherm",
+        "telephone": null,
+        "site_web": "https://hydrosyb.fr/",
+        "adresse": "7 Rue le Bouvier",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13905579513978637156",
+        "nom": "ETGE",
+        "slug": "etge",
+        "telephone": null,
+        "site_web": "https://www.etge-climatisation.fr/",
+        "adresse": "Cachan",
+        "note": 4,
+        "avis": 50,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3419864691641629554",
+        "nom": "Bruno Dessymoulie",
+        "slug": "bruno-dessymoulie",
+        "telephone": null,
+        "site_web": "https://www.dessymoulie-chauffage.fr/",
+        "adresse": "1 Av. des Vergers",
+        "note": 4,
+        "avis": 25,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chatenay-malabry": {
+    "artisans": [
+      {
+        "id": "9702450427101188110",
+        "nom": "JS-Installation/réparation pompe à chaleur - installation/réparation climatisation -ballon thermodynamique Chatenay Malabry",
+        "slug": "js-installationreparation-pompe-a-chaleur-installationreparation-climatisation-ballon-thermodynamique-chatenay-malabry",
+        "telephone": null,
+        "site_web": "https://jsidf-climatisation-pac.com/chatenay/",
+        "adresse": "1 All. de Malézieu",
+        "note": 5,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2100887274239773717",
+        "nom": "Chauffagiste Therm innov",
+        "slug": "chauffagiste-therm-innov",
+        "telephone": null,
+        "site_web": "https://www.therminnov-chauffagiste-92.fr/",
+        "adresse": "06 51 07 35 81",
+        "note": 5,
+        "avis": 49,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "Clamart",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "chatillon": {
+    "artisans": [
+      {
+        "id": "3346287306526414776",
+        "nom": "BT installation VMC Chatillon - Maintenance",
+        "slug": "bt-installation-vmc-chatillon-maintenance",
+        "telephone": null,
+        "site_web": "https://bt-installation-vmc-chatillon.com/",
+        "adresse": "50 Rue Gabriel Péri",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2307600125360146902",
+        "nom": "Ambiance clim",
+        "slug": "ambiance-clim",
+        "telephone": null,
+        "site_web": "https://ambianceclim.fr/",
+        "adresse": "7 Rue Courtois",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5378866339304913372",
+        "nom": "Locaclima",
+        "slug": "locaclima",
+        "telephone": null,
+        "site_web": "http://locaclima.com/",
+        "adresse": "32 Rue Pierre Semard",
+        "note": 3,
+        "avis": 9,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "17665291940922824335",
+        "nom": "Renovair Genie Climatique",
+        "slug": "renovair-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.renovair.com/",
+        "adresse": "32 Rue Pierre Semard",
+        "note": 3,
+        "avis": 12,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "chaville": {
+    "artisans": [
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "4 Rue Guilleminot",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "973428942769258587",
+        "nom": "Jeremy Plombier Chaville",
+        "slug": "jeremy-plombier-chaville",
+        "telephone": null,
+        "site_web": "https://jeremyplombierchaville.fr/",
+        "adresse": "12 Rue des Fontaines Marivel",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "Saint-Cloud",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14255718411290399158",
+        "nom": "SC2E - Plomberie Chauffage Couverture",
+        "slug": "sc2e-plomberie-chauffage-couverture",
+        "telephone": null,
+        "site_web": "http://www.sc2e.fr/",
+        "adresse": "1091 Av. Roger Salengro",
+        "note": 4,
+        "avis": 56,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6761711899154725860",
+        "nom": "ACDP Assistance Contrat Dépannage Pose",
+        "slug": "acdp-assistance-contrat-depannage-pose",
+        "telephone": null,
+        "site_web": "https://www.chauffage-acdp-chaville.com/",
+        "adresse": "1730 Av. Roger Salengro",
+        "note": 3,
+        "avis": 40,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "clamart": {
+    "artisans": [
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "4 All. Louise Bourgeois",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8504956672075000427",
+        "nom": "RENOVANS",
+        "slug": "renovans",
+        "telephone": null,
+        "site_web": "https://renovans.fr/",
+        "adresse": "30 Rue Paul Vaillant Couturier",
+        "note": 5,
+        "avis": 20,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16718196359302754249",
+        "nom": "ROCLIM Clamart (Pôle Thermique) : Chauffage - Climatisation - Ventilation - Traitement de l'eau",
+        "slug": "roclim-clamart-pole-thermique-chauffage-climatisation-ventilation-traitement-de-leau",
+        "telephone": null,
+        "site_web": "http://www.roclim.fr/",
+        "adresse": "59-61 Av. Marguerite Renaudin",
+        "note": 4,
+        "avis": 30,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5579313763310265292",
+        "nom": "Les Professionnels du Chauffage - LPC",
+        "slug": "les-professionnels-du-chauffage-lpc",
+        "telephone": null,
+        "site_web": "https://www.chauffage-lpc.fr/",
+        "adresse": "Rue Pierre et Marie Curie",
+        "note": 4,
+        "avis": 115,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17465600136206511505",
+        "nom": "CP7",
+        "slug": "cp7",
+        "telephone": null,
+        "site_web": "https://www.cp7-renovation.fr/",
+        "adresse": "41 Rue de l'Espérance",
+        "note": 4,
+        "avis": 118,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5869132804739352886",
+        "nom": "Solectram",
+        "slug": "solectram",
+        "telephone": null,
+        "site_web": "http://www.solectram.fr/",
+        "adresse": "111 Rue des Closiaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12072200112212498413",
+        "nom": "PLOMB ART CLAM ART",
+        "slug": "plomb-art-clam-art",
+        "telephone": null,
+        "site_web": "http://www.plombart-clamart.fr/",
+        "adresse": "8 Rue des Aubépines",
+        "note": 4,
+        "avis": 178,
+        "type": "Plombier"
+      },
+      {
+        "id": "12927347846224615563",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://versailles.maclem.fr/",
+        "adresse": "Le Plessis-Robinson",
+        "note": 4,
+        "avis": 50,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "clichy": {
+    "artisans": [
+      {
+        "id": "2766408714083807607",
+        "nom": "btqualit installation vmc clichy",
+        "slug": "btqualit-installation-vmc-clichy",
+        "telephone": null,
+        "site_web": "https://btqualit-installation-vmc-clichy.com/",
+        "adresse": "19 Rue Morice",
+        "note": 4,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2089560709442717437",
+        "nom": "GESCLIM",
+        "slug": "gesclim",
+        "telephone": null,
+        "site_web": "http://www.gesclim.com/",
+        "adresse": "7 Rue André Citroën",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "colombes": {
+    "artisans": [
+      {
+        "id": "12460507869038435259",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://colombes.maclem.fr/",
+        "adresse": "72 Rue des Champarons",
+        "note": 5,
+        "avis": 132,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "405200544592074374",
+        "nom": "bg installation climatisation - pompe à chaleur colombes - maintenance",
+        "slug": "bg-installation-climatisation-pompe-a-chaleur-colombes-maintenance",
+        "telephone": null,
+        "site_web": "http://jsidf-climatisation-pac.com/colombes/",
+        "adresse": "64 Rue Saint-Denis",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1662604185949990827",
+        "nom": "Set - Plomberie & Chauffage",
+        "slug": "set-plomberie-chauffage",
+        "telephone": null,
+        "site_web": "https://set-chauffage.fr/",
+        "adresse": "54 Rue du Bournard",
+        "note": 4,
+        "avis": 94,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2162299499565913695",
+        "nom": "France Air Paris Colombes",
+        "slug": "france-air-paris-colombes",
+        "telephone": null,
+        "site_web": "http://www.france-air.com/",
+        "adresse": "190 Rue d'Estienne d'Orves",
+        "note": 3,
+        "avis": 58,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13387480552426949936",
+        "nom": "Climatek services Climatisation",
+        "slug": "climatek-services-climatisation",
+        "telephone": null,
+        "site_web": "http://climatekservices.fr/",
+        "adresse": "La Garenne-Colombes",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11264191525587858945",
+        "nom": "E3 GENIE CLIMATIQUE",
+        "slug": "e3-genie-climatique",
+        "telephone": null,
+        "site_web": "http://www.e3clim.com/",
+        "adresse": "21 Rue du Président Salvador Allende",
+        "note": 4,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "fontenay-aux-roses": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2266727540495229888",
+        "nom": "Recharge Clim Auto - Fontenay-aux-Roses",
+        "slug": "recharge-clim-auto-fontenay-aux-roses",
+        "telephone": null,
+        "site_web": "https://www.rechargeclimauto.fr/",
+        "adresse": "70 Av. du Maréchal Foch",
+        "note": 4,
+        "avis": 182,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "712676022333030282",
+        "nom": "Artisan plombier Clement 92",
+        "slug": "artisan-plombier-clement-92",
+        "telephone": null,
+        "site_web": "http://www.plombierclement.com/?utm_source=gmb",
+        "adresse": "34 Rue Marx Dormoy",
+        "note": 4,
+        "avis": 461,
+        "type": "Plombier"
+      },
+      {
+        "id": "5961387593572862104",
+        "nom": "ESC Chailloux | Spécialiste des salles de bains à Fontenay-aux-Roses (92)",
+        "slug": "esc-chailloux-specialiste-des-salles-de-bains-a-fontenay-aux-roses-92",
+        "telephone": null,
+        "site_web": "https://www.salle-de-bain-chailloux.fr/",
+        "adresse": "68 Rue d'Estienne d'Orves",
+        "note": 5,
+        "avis": 6,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "Clamart",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "garches": {
+    "artisans": [
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "Saint-Cloud",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15856390842001893297",
+        "nom": "Klimat 92",
+        "slug": "klimat-92",
+        "telephone": null,
+        "site_web": "https://www.climatisation-92.com/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2621113041491606206",
+        "nom": "TOPacompagne iInstallation/réparation pompe à chaleur - installation/réparation climatisation Garches",
+        "slug": "topacompagne-iinstallationreparation-pompe-a-chaleur-installationreparation-climatisation-garches",
+        "telephone": null,
+        "site_web": "https://acompagne-isogarches-combles.com/",
+        "adresse": "15 Rue du 19 Janvier",
+        "note": 5,
+        "avis": 16,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13778665656386237269",
+        "nom": "Climatech Plus - Expert Climaticien - Pompe A Chaleur - RGE QUALIPAC",
+        "slug": "climatech-plus-expert-climaticien-pompe-a-chaleur-rge-qualipac",
+        "telephone": null,
+        "site_web": "https://climatech-plus.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 4,
+        "avis": 93,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5336869619193592227",
+        "nom": "Entreprise Basto - Plombier / Chauffagiste",
+        "slug": "entreprise-basto-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://entreprisebasto-plomberie-chauffagiste.fr/",
+        "adresse": "14 Bd Raymond Poincaré",
+        "note": 5,
+        "avis": 72,
+        "type": "Plombier"
+      },
+      {
+        "id": "9531252057614670390",
+        "nom": "ventilation rueil airqualit",
+        "slug": "ventilation-rueil-airqualit",
+        "telephone": null,
+        "site_web": "https://ventilation-rueil-airqualit.com/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "la-garenne-colombes": {
+    "artisans": [
+      {
+        "id": "13387480552426949936",
+        "nom": "Climatek services Climatisation",
+        "slug": "climatek-services-climatisation",
+        "telephone": null,
+        "site_web": "http://climatekservices.fr/",
+        "adresse": "18 bis Bd de la République",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12460507869038435259",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://colombes.maclem.fr/",
+        "adresse": "Colombes",
+        "note": 5,
+        "avis": 132,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4660393517954167983",
+        "nom": "Litka vmc neuilly sur seine - installation vmc - nettoyage vmc",
+        "slug": "litka-vmc-neuilly-sur-seine-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "http://litka-vmc-neuilly-sur-seine.com/",
+        "adresse": "Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4296688742136001930",
+        "nom": "France Habitat Energie",
+        "slug": "france-habitat-energie",
+        "telephone": null,
+        "site_web": "https://fhe.fr/",
+        "adresse": "13 Bd de la République",
+        "note": 4,
+        "avis": 173,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2766408714083807607",
+        "nom": "btqualit installation vmc clichy",
+        "slug": "btqualit-installation-vmc-clichy",
+        "telephone": null,
+        "site_web": "https://btqualit-installation-vmc-clichy.com/",
+        "adresse": "Clichy",
+        "note": 4,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "gennevilliers": {
+    "artisans": [
+      {
+        "id": "13780350695574220828",
+        "nom": "Lorflex Paris - Gennevilliers",
+        "slug": "lorflex-paris-gennevilliers",
+        "telephone": null,
+        "site_web": "https://www.lorflex.fr/fr",
+        "adresse": "79 Av. Louis Roche",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "14264491964267114732",
+        "nom": "BT installation VMC genneviliers - Maintenance vmc - nettoyage",
+        "slug": "bt-installation-vmc-genneviliers-maintenance-vmc-nettoyage",
+        "telephone": null,
+        "site_web": "https://qualit-installation-vmc-genneviliers.com/",
+        "adresse": "1 Rue Claude Bernard",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17342309583582338862",
+        "nom": "TERRAS CVC",
+        "slug": "terras-cvc",
+        "telephone": null,
+        "site_web": "https://www.terrascvc.fr/",
+        "adresse": "9 Rue Rollet Salvan",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6208450932863546597",
+        "nom": "Sam Hélios - Climatisation, Ventilation, Chauffage",
+        "slug": "sam-helios-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.samhelios.com/",
+        "adresse": "119 Av. Louis Roche",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13462776707356412029",
+        "nom": "EXP AIR",
+        "slug": "exp-air",
+        "telephone": null,
+        "site_web": "http://www.exp-airclim.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "3 Rue Fulgence Bienvenue batiment a lot 2",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12447938188024294773",
+        "nom": "IDK Gennevilliers",
+        "slug": "idk-gennevilliers",
+        "telephone": null,
+        "site_web": "http://www.idk.fr/",
+        "adresse": "13 Quai des Gresillons",
+        "note": 4,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14687058191475932664",
+        "nom": "AZUR CLIM",
+        "slug": "azur-clim",
+        "telephone": null,
+        "site_web": "http://azur-clim.fr/",
+        "adresse": "18 Bd Gallieni",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "marnes-la-coquette": {
+    "artisans": [
+      {
+        "id": "8255562854274300590",
+        "nom": "Impec Entretien VMC",
+        "slug": "impec-entretien-vmc",
+        "telephone": null,
+        "site_web": "http://impecvmc.fr/",
+        "adresse": "26 Av. Etienne de Montgolfier",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "Saint-Cloud",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15856390842001893297",
+        "nom": "Klimat 92",
+        "slug": "klimat-92",
+        "telephone": null,
+        "site_web": "https://www.climatisation-92.com/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "montrouge": {
+    "artisans": [
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5004366693971029144",
+        "nom": "KLIMAT",
+        "slug": "klimat",
+        "telephone": null,
+        "site_web": "http://www.climatisation-75.fr/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 42,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11580214887606334838",
+        "nom": "Rouez ETS",
+        "slug": "rouez-ets",
+        "telephone": null,
+        "site_web": "https://www.rouez-chauffage-sanitaires-92.fr/",
+        "adresse": "Residence Verdun Racine, 5 Av. de Verdun",
+        "note": 4,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans la restauration après dégât des eaux"
+      },
+      {
+        "id": "242464748195005823",
+        "nom": "Air75 VMC - Entretien VMC Paris",
+        "slug": "air75-vmc-entretien-vmc-paris",
+        "telephone": null,
+        "site_web": "https://entretien-vmc.paris/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "neuilly-sur-seine": {
+    "artisans": [
+      {
+        "id": "4660393517954167983",
+        "nom": "Litka vmc neuilly sur seine - installation vmc - nettoyage vmc",
+        "slug": "litka-vmc-neuilly-sur-seine-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "http://litka-vmc-neuilly-sur-seine.com/",
+        "adresse": "17 Rue Saint-Pierre",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4830421184052523534",
+        "nom": "Etudes Services",
+        "slug": "etudes-services",
+        "telephone": null,
+        "site_web": "https://www.etudes-services.fr/?utm_source=gmb",
+        "adresse": "191 Av. Charles de Gaulle",
+        "note": 4,
+        "avis": 342,
+        "type": "Plombier"
+      },
+      {
+        "id": "2776548883018697162",
+        "nom": "Entreprise Climatisation Installation Dépannage Entretien (ECIDE)",
+        "slug": "entreprise-climatisation-installation-depannage-entretien-ecide",
+        "telephone": null,
+        "site_web": "https://ecide.fr/climatisation-neuilly-sur-seine/",
+        "adresse": "191 Av. Charles de Gaulle",
+        "note": 4,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9242450541665589032",
+        "nom": "Home Clim Service",
+        "slug": "home-clim-service",
+        "telephone": null,
+        "site_web": "https://www.homeclimservice.fr/agence-neuilly-sur-seine/",
+        "adresse": "8 Rue Victor Noir",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6111940240746296059",
+        "nom": "CEV",
+        "slug": "cev",
+        "telephone": null,
+        "site_web": "http://www.cevclim.com/",
+        "adresse": "176 Av. Charles de Gaulle",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14427188570491014519",
+        "nom": "AIRpropre entretien VMC - installation VMC Neuilly sur marne",
+        "slug": "airpropre-entretien-vmc-installation-vmc-neuilly-sur-marne",
+        "telephone": null,
+        "site_web": "https://airpropre-neuilly-marne.com/",
+        "adresse": "Neuilly-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "le-plessis-robinson": {
+    "artisans": [
+      {
+        "id": "14618820631691238492",
+        "nom": "ML Installation pompe à chaleur - installation climatisation - dépannage - entretien Plessis robinson",
+        "slug": "ml-installation-pompe-a-chaleur-installation-climatisation-depannage-entretien-plessis-robinson",
+        "telephone": null,
+        "site_web": "https://ml-isoidf-plessis.com/",
+        "adresse": "38 Rue du Carreau",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "Clamart",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12927347846224615563",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://versailles.maclem.fr/",
+        "adresse": "227 Bis Rue d'Aulnay",
+        "note": 4,
+        "avis": 50,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14602759230437592233",
+        "nom": "Résoconfort Depan'chauffage service",
+        "slug": "resoconfort-depanchauffage-service",
+        "telephone": null,
+        "site_web": "https://resoconfort.fr/agence/depanchauffage-service-chauffagiste-le-plessis-robinson/?utm_source=gmb",
+        "adresse": "23 Rue du 24 Août",
+        "note": 4,
+        "avis": 163,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1860524088239933952",
+        "nom": "GROUPE GROSJEAN",
+        "slug": "groupe-grosjean",
+        "telephone": null,
+        "site_web": "https://www.groupegrosjean.com/",
+        "adresse": "58 Rue de Fontenay",
+        "note": 4,
+        "avis": 28,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-cloud": {
+    "artisans": [
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "15 Rue de Béarn",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15856390842001893297",
+        "nom": "Klimat 92",
+        "slug": "klimat-92",
+        "telephone": null,
+        "site_web": "https://www.climatisation-92.com/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9531252057614670390",
+        "nom": "ventilation rueil airqualit",
+        "slug": "ventilation-rueil-airqualit",
+        "telephone": null,
+        "site_web": "https://ventilation-rueil-airqualit.com/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14256273505687200966",
+        "nom": "Simon Ryan plombier Saint-Cloud",
+        "slug": "simon-ryan-plombier-saint-cloud",
+        "telephone": null,
+        "site_web": "https://simonryanplombiersaint-cloud.fr/",
+        "adresse": "3 Rue Royale",
+        "note": 4,
+        "avis": 46,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sceaux": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": null,
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "Clamart",
+        "note": 5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7531990079899503439",
+        "nom": "CLIMAT BLEU",
+        "slug": "climat-bleu",
+        "telephone": null,
+        "site_web": "http://www.climatbleu-chauffage-climatisation.fr/",
+        "adresse": "Bourg-la-Reine",
+        "note": 4,
+        "avis": 57,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12927347846224615563",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://versailles.maclem.fr/",
+        "adresse": "Le Plessis-Robinson",
+        "note": 4,
+        "avis": 50,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14618820631691238492",
+        "nom": "ML Installation pompe à chaleur - installation climatisation - dépannage - entretien Plessis robinson",
+        "slug": "ml-installation-pompe-a-chaleur-installation-climatisation-depannage-entretien-plessis-robinson",
+        "telephone": null,
+        "site_web": "https://ml-isoidf-plessis.com/",
+        "adresse": "Le Plessis-Robinson",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "sevres": {
+    "artisans": [
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "Saint-Cloud",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1612123778723928279",
+        "nom": "CEVC Climatisation 92",
+        "slug": "cevc-climatisation-92",
+        "telephone": null,
+        "site_web": "https://climatisation-92-service.fr/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 4,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7885856348527635772",
+        "nom": "Yohann CHICHE- CLIMATISATION 92 -INSTALLATION ET DEPANNAGE",
+        "slug": "yohann-chiche-climatisation-92-installation-et-depannage",
+        "telephone": null,
+        "site_web": "https://www.artisanyohann.fr/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "suresnes": {
+    "artisans": [
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "45 Rue Albert Caron",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5818754275695767435",
+        "nom": "JS - Installation/réparation pompe à chaleur - installation/réparation climatisation - ballon thermodynamique Suresnes",
+        "slug": "js-installationreparation-pompe-a-chaleur-installationreparation-climatisation-ballon-thermodynamique-suresnes",
+        "telephone": null,
+        "site_web": "https://jsidf-climatisation-pac.com/suresnes/",
+        "adresse": "40 Rue Gambetta",
+        "note": 5,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7940520277496186802",
+        "nom": "HOMECLIM",
+        "slug": "homeclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "82b Bd Maréchal de Lattre de Tassigny",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7682685006968918567",
+        "nom": "Ocellis Energies - Génie climatique",
+        "slug": "ocellis-energies-genie-climatique",
+        "telephone": null,
+        "site_web": "https://ocellis-energies.fr/",
+        "adresse": "33 Rue Benoît Malon",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10236719031628177596",
+        "nom": "Ohm et Son",
+        "slug": "ohm-et-son",
+        "telephone": null,
+        "site_web": "http://www.ohm-son.com/?utm_source=gmb",
+        "adresse": "10 Rue de la Cerisaie",
+        "note": 4,
+        "avis": 31,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9531252057614670390",
+        "nom": "ventilation rueil airqualit",
+        "slug": "ventilation-rueil-airqualit",
+        "telephone": null,
+        "site_web": "https://ventilation-rueil-airqualit.com/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13778665656386237269",
+        "nom": "Climatech Plus - Expert Climaticien - Pompe A Chaleur - RGE QUALIPAC",
+        "slug": "climatech-plus-expert-climaticien-pompe-a-chaleur-rge-qualipac",
+        "telephone": null,
+        "site_web": "https://climatech-plus.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 4,
+        "avis": 93,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "vanves": {
+    "artisans": [
+      {
+        "id": "1948859019065152977",
+        "nom": "Airpur-sas",
+        "slug": "airpur-sas",
+        "telephone": null,
+        "site_web": "http://www.airpur-sas.fr/",
+        "adresse": "Vanves",
+        "note": 4,
+        "avis": 28,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "vaucresson": {
+    "artisans": [
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "Saint-Cloud",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8255562854274300590",
+        "nom": "Impec Entretien VMC",
+        "slug": "impec-entretien-vmc",
+        "telephone": null,
+        "site_web": "http://impecvmc.fr/",
+        "adresse": "Marnes-la-Coquette",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7518733113894861282",
+        "nom": "Entreprise MARTEL",
+        "slug": "entreprise-martel",
+        "telephone": null,
+        "site_web": "https://entreprise-martel.fr/",
+        "adresse": "9 Grande Rue",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9531252057614670390",
+        "nom": "ventilation rueil airqualit",
+        "slug": "ventilation-rueil-airqualit",
+        "telephone": null,
+        "site_web": "https://ventilation-rueil-airqualit.com/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15856390842001893297",
+        "nom": "Klimat 92",
+        "slug": "klimat-92",
+        "telephone": null,
+        "site_web": "https://www.climatisation-92.com/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "ville-davray": {
+    "artisans": [
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13564963733327655614",
+        "nom": "MLG vmc saint cloud - installation vmc - maintenance vmc",
+        "slug": "mlg-vmc-saint-cloud-installation-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlg-isolation-calor-renove-saintcloud.com/",
+        "adresse": "Saint-Cloud",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11548475291511271604",
+        "nom": "Jcb Plomberie",
+        "slug": "jcb-plomberie",
+        "telephone": null,
+        "site_web": "http://www.jcb-plomberie.com/?utm_source=gmb",
+        "adresse": "14 Rue de Saint-Cloud",
+        "note": 4,
+        "avis": 181,
+        "type": "Plombier"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15856390842001893297",
+        "nom": "Klimat 92",
+        "slug": "klimat-92",
+        "telephone": null,
+        "site_web": "https://www.climatisation-92.com/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8255562854274300590",
+        "nom": "Impec Entretien VMC",
+        "slug": "impec-entretien-vmc",
+        "telephone": null,
+        "site_web": "http://impecvmc.fr/",
+        "adresse": "Marnes-la-Coquette",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7414987593456856514",
+        "nom": "AIR'EAU TEC - Climatisation Rueil-Malmaison",
+        "slug": "aireau-tec-climatisation-rueil-malmaison",
+        "telephone": null,
+        "site_web": "http://www.air-eau-tec.fr/",
+        "adresse": "Rueil-Malmaison",
+        "note": 5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "villeneuve-la-garenne": {
+    "artisans": [
+      {
+        "id": "171275966410248842",
+        "nom": "Climat CVC",
+        "slug": "climat-cvc",
+        "telephone": null,
+        "site_web": "http://www.climat-cvc.fr/",
+        "adresse": "210 Bd Gallieni",
+        "note": 5,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18315808336082390335",
+        "nom": "Clim+",
+        "slug": "clim",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/villeneuve-clim-4078",
+        "adresse": "4 Rue de la Litte",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13070340568857293575",
+        "nom": "BILLIS CLIMATISATION",
+        "slug": "billis-climatisation",
+        "telephone": null,
+        "site_web": "http://www.billis-climatisation.com/",
+        "adresse": "6 Av. Marcellin Berthelot",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8870654009004617251",
+        "nom": "H2O DEPANNE RENOVE",
+        "slug": "h2o-depanne-renove",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "212 bis Bd Gallieni",
+        "note": 4,
+        "avis": 59,
+        "type": "Plombier"
+      },
+      {
+        "id": "6889643070381722846",
+        "nom": "Rivatherm",
+        "slug": "rivatherm",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Av. Marc Sangnier",
+        "note": 4,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17342309583582338862",
+        "nom": "TERRAS CVC",
+        "slug": "terras-cvc",
+        "telephone": null,
+        "site_web": "https://www.terrascvc.fr/",
+        "adresse": "Gennevilliers",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "2766408714083807607",
+        "nom": "btqualit installation vmc clichy",
+        "slug": "btqualit-installation-vmc-clichy",
+        "telephone": null,
+        "site_web": "https://btqualit-installation-vmc-clichy.com/",
+        "adresse": "Clichy",
+        "note": 4,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "bois-colombes": {
+    "artisans": [
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  }
+}

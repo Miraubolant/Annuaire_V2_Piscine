@@ -1,0 +1,1020 @@
+{
+  "sada": {
+    "artisans": [
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-port": {
+    "artisans": [
+      {
+        "id": "18189603174746776738",
+        "nom": "FRANCE AIR EXPORT La Réunion",
+        "slug": "france-air-export-la-reunion",
+        "telephone": null,
+        "site_web": "https://www.france-air-export.com/",
+        "adresse": "Le Port, La Réunion",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "bandrele": {
+    "artisans": [
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "boueni": {
+    "artisans": [
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9428593978040596423",
+        "nom": "Koungou froid et clim",
+        "slug": "koungou-froid-et-clim",
+        "telephone": null,
+        "site_web": "https://www.koungou-froid-et-clim.com/",
+        "adresse": "Koungou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8127739114700767089",
+        "nom": "MAY DOCTEUR CLIM",
+        "slug": "may-docteur-clim",
+        "telephone": null,
+        "site_web": "https://www.docteurclim.com/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "6785413759020083979",
+        "nom": "MAYOTTE CLIM",
+        "slug": "mayotte-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "chiconi": {
+    "artisans": [
+      {
+        "id": "10421016961776444385",
+        "nom": "CMS",
+        "slug": "cms",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chiconi, Mayotte",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "chirongui": {
+    "artisans": [
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "6785413759020083979",
+        "nom": "MAYOTTE CLIM",
+        "slug": "mayotte-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "dembeni": {
+    "artisans": [
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "6785413759020083979",
+        "nom": "MAYOTTE CLIM",
+        "slug": "mayotte-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "kani-keli": {
+    "artisans": [
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6785413759020083979",
+        "nom": "MAYOTTE CLIM",
+        "slug": "mayotte-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "koungou": {
+    "artisans": [
+      {
+        "id": "9428593978040596423",
+        "nom": "Koungou froid et clim",
+        "slug": "koungou-froid-et-clim",
+        "telephone": null,
+        "site_web": "https://www.koungou-froid-et-clim.com/",
+        "adresse": "11 rue bassoumaila",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8127739114700767089",
+        "nom": "MAY DOCTEUR CLIM",
+        "slug": "may-docteur-clim",
+        "telephone": null,
+        "site_web": "https://www.docteurclim.com/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7279022134652952691",
+        "nom": "Fritec Mayotte",
+        "slug": "fritec-mayotte",
+        "telephone": null,
+        "site_web": "http://www.fritec.fr/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "335400820621616879",
+        "nom": "AUSTRAL FROID",
+        "slug": "austral-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 1,
+        "type": "Entrepôt"
+      },
+      {
+        "id": "477024483299489072",
+        "nom": "Clim auto",
+        "slug": "clim-auto",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 5,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14790715084534243439",
+        "nom": "YESSS Electrique Mayotte",
+        "slug": "yesss-electrique-mayotte",
+        "telephone": null,
+        "site_web": "https://www.yesss-fr.com/",
+        "adresse": "vallée 3 longoni",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de matériel électrique"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "mamoudzou": {
+    "artisans": [
+      {
+        "id": "8127739114700767089",
+        "nom": "MAY DOCTEUR CLIM",
+        "slug": "may-docteur-clim",
+        "telephone": null,
+        "site_web": "https://www.docteurclim.com/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15131088649107833038",
+        "nom": "Light Green SARL",
+        "slug": "light-green-sarl",
+        "telephone": null,
+        "site_web": "http://www.lightgreen.fr/?utm_source=gmb",
+        "adresse": "Passamainty, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15982535129030275856",
+        "nom": "BA MADISTRIBUTION / BAMA SERVICE",
+        "slug": "ba-madistribution-bama-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin"
+      },
+      {
+        "id": "477024483299489072",
+        "nom": "Clim auto",
+        "slug": "clim-auto",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 5,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "1239773787980696775",
+        "nom": "sarl Rousseau - Padial",
+        "slug": "sarl-rousseau-padial",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 4,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "mtsamboro": {
+    "artisans": [
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9428593978040596423",
+        "nom": "Koungou froid et clim",
+        "slug": "koungou-froid-et-clim",
+        "telephone": null,
+        "site_web": "https://www.koungou-froid-et-clim.com/",
+        "adresse": "Koungou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9481753876534295695",
+        "nom": "Mayotte Construction Développement",
+        "slug": "mayotte-construction-developpement",
+        "telephone": null,
+        "site_web": "https://www.welinkbuilders.fr/menuisier/platrier/decorateur/peintre/couvreur/97630-mtsamboro-mayotte/mayotte-construction-developpement-1150",
+        "adresse": "Mtsamboro, Mayotte",
+        "note": 3,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13895858588768982212",
+        "nom": "MK ELEC",
+        "slug": "mk-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mtsamboro, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "15982535129030275856",
+        "nom": "BA MADISTRIBUTION / BAMA SERVICE",
+        "slug": "ba-madistribution-bama-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6785413759020083979",
+        "nom": "MAYOTTE CLIM",
+        "slug": "mayotte-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "mtsangamouji": {
+    "artisans": [
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "ouangani": {
+    "artisans": [
+      {
+        "id": "18312579433068876667",
+        "nom": "KL. Service Climatique",
+        "slug": "kl-service-climatique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16094294901875738905",
+        "nom": "Bâtis Eco Solution",
+        "slug": "batis-eco-solution",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/batisecosolution",
+        "adresse": "Ouangani, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "tsingoni": {
+    "artisans": [
+      {
+        "id": "15163630731573078744",
+        "nom": "AD TECH - CLIMATISATION Installation, Maintenance et Dépannage Mayotte 976",
+        "slug": "ad-tech-climatisation-installation-maintenance-et-depannage-mayotte-976",
+        "telephone": null,
+        "site_web": "https://ad-tech.yt/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "acoua": {
+    "artisans": [
+      {
+        "id": "17450533657285299030",
+        "nom": "Freres Madi Assani SARL",
+        "slug": "freres-madi-assani-sarl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/p/SARL-Freres-MADI-Assani-100067304960363/?locale=cy_GB&utm_source=gmb",
+        "adresse": "Canton d'Acoua, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Soudeur"
+      }
+    ]
+  },
+  "pamandzi": {
+    "artisans": [
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9428593978040596423",
+        "nom": "Koungou froid et clim",
+        "slug": "koungou-froid-et-clim",
+        "telephone": null,
+        "site_web": "https://www.koungou-froid-et-clim.com/",
+        "adresse": "Koungou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8127739114700767089",
+        "nom": "MAY DOCTEUR CLIM",
+        "slug": "may-docteur-clim",
+        "telephone": null,
+        "site_web": "https://www.docteurclim.com/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15473473246780874796",
+        "nom": "SOLEET",
+        "slug": "soleet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ouangani, Mayotte",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "335400820621616879",
+        "nom": "AUSTRAL FROID",
+        "slug": "austral-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 1,
+        "type": "Entrepôt"
+      },
+      {
+        "id": "477024483299489072",
+        "nom": "Clim auto",
+        "slug": "clim-auto",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 5,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "15131088649107833038",
+        "nom": "Light Green SARL",
+        "slug": "light-green-sarl",
+        "telephone": null,
+        "site_web": "http://www.lightgreen.fr/?utm_source=gmb",
+        "adresse": "Passamainty, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "bandraboua": {
+    "artisans": [
+      {
+        "id": "17447697419150576405",
+        "nom": "Technifroid Mayotte",
+        "slug": "technifroid-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12719140498872094625",
+        "nom": "frigodel",
+        "slug": "frigodel",
+        "telephone": null,
+        "site_web": "https://frigodel.fr/",
+        "adresse": "Bandraboua, Mayotte",
+        "note": 4,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15982535129030275856",
+        "nom": "BA MADISTRIBUTION / BAMA SERVICE",
+        "slug": "ba-madistribution-bama-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin"
+      },
+      {
+        "id": "1770627686169574235",
+        "nom": "MAHORECO",
+        "slug": "mahoreco",
+        "telephone": null,
+        "site_web": "https://mahoreco.com/",
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage et d'entretien"
+      }
+    ]
+  },
+  "dzaoudzi": {
+    "artisans": [
+      {
+        "id": "2885045150251072731",
+        "nom": "FROID CONCEPT – CLIMATISATION & ELECTRICITÉ & PLOMBERIE Installation Maintenance Dépannage à Mayotte 976",
+        "slug": "froid-concept-climatisation-electricite-plomberie-installation-maintenance-depannage-a-mayotte-976",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8127739114700767089",
+        "nom": "MAY DOCTEUR CLIM",
+        "slug": "may-docteur-clim",
+        "telephone": null,
+        "site_web": "https://www.docteurclim.com/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9428593978040596423",
+        "nom": "Koungou froid et clim",
+        "slug": "koungou-froid-et-clim",
+        "telephone": null,
+        "site_web": "https://www.koungou-froid-et-clim.com/",
+        "adresse": "Koungou, Mayotte",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15059319498539149975",
+        "nom": "AIR CLIM Mayotte",
+        "slug": "air-clim-mayotte",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bandraboua, Mayotte",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7279022134652952691",
+        "nom": "Fritec Mayotte",
+        "slug": "fritec-mayotte",
+        "telephone": null,
+        "site_web": "http://www.fritec.fr/",
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6048971998121941537",
+        "nom": "ICART MAYOTTE groupe EQUANS",
+        "slug": "icart-mayotte-groupe-equans",
+        "telephone": null,
+        "site_web": "http://www.equans.fr/",
+        "adresse": "Dembéni, Mayotte",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "335400820621616879",
+        "nom": "AUSTRAL FROID",
+        "slug": "austral-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 1,
+        "type": "Entrepôt"
+      },
+      {
+        "id": "18186189969497592752",
+        "nom": "Mayotte Développement Eco'Solutions",
+        "slug": "mayotte-developpement-ecosolutions",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mayotte",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "12719140498872094625",
+        "nom": "frigodel",
+        "slug": "frigodel",
+        "telephone": null,
+        "site_web": "https://frigodel.fr/",
+        "adresse": "Bandraboua, Mayotte",
+        "note": 4,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "477024483299489072",
+        "nom": "Clim auto",
+        "slug": "clim-auto",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mamoudzou, Mayotte",
+        "note": 4,
+        "avis": 5,
+        "type": "Garage automobile"
+      }
+    ]
+  }
+}

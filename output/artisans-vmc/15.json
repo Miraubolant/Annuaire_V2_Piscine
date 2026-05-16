@@ -1,0 +1,1936 @@
+{
+  "aurillac": {
+    "artisans": [
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "14701951198540375779",
+        "nom": "M.D.S. Axenergie Cantal (Maintenance Dépannage Services)",
+        "slug": "mds-axenergie-cantal-maintenance-depannage-services",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/33-mds-cantal",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 121,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11669376835052805043",
+        "nom": "Ntc",
+        "slug": "ntc",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/sarlntc",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4440151351474809459",
+        "nom": "Valet Ets - chauffagiste",
+        "slug": "valet-ets-chauffagiste",
+        "telephone": null,
+        "site_web": "http://www.chauffage-valet-15.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6146524744381869021",
+        "nom": "Regis Troupel EURL",
+        "slug": "regis-troupel-eurl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100089839486276&utm_source=gmb",
+        "adresse": "Aurillac",
+        "note": 3,
+        "avis": 11,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-mamet-la-salvetat": {
+    "artisans": [
+      {
+        "id": "17623611414965711272",
+        "nom": "SARL François BELAUBRE",
+        "slug": "sarl-francois-belaubre",
+        "telephone": null,
+        "site_web": "https://belaubre-plombier-chauffagiste.fr/",
+        "adresse": "La Croix Blanche",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "591478573631987612",
+        "nom": "Hoorelbeck Reynald",
+        "slug": "hoorelbeck-reynald",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue Des Clauzels",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "13879159253005235118",
+        "nom": "Maison de Santé (Saint Mamet la Salvetat)",
+        "slug": "maison-de-sante-saint-mamet-la-salvetat",
+        "telephone": null,
+        "site_web": "https://www.stmamet-lasalvetat.com/actu-vie-communale/500-ouverture-de-la-maison-de-sante",
+        "adresse": "10 rue Arsène Lacarriere Latour",
+        "note": 5,
+        "avis": 9,
+        "type": "Cabinet médical"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "Ytrac",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9047488715799858542",
+        "nom": "Aer Plus Ventilation",
+        "slug": "aer-plus-ventilation",
+        "telephone": null,
+        "site_web": "http://www.aerplus.fr/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 4,
+        "avis": 74,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "champs-sur-tarentaine-marchal": {
+    "artisans": [
+      {
+        "id": "16136668126624147080",
+        "nom": "Champs Energies",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des Glycines",
+        "note": 3,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "2321274939824804177",
+        "nom": "EURL SERRE Christophe TP - Assainissement / Vidange fosse",
+        "slug": "eurl-serre-christophe-tp-assainissement-vidange-fosse",
+        "telephone": null,
+        "site_web": "https://www.serretp.com/",
+        "adresse": "4 Pl. de l'Église",
+        "note": 4,
+        "avis": 3,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "916666608303854135",
+        "nom": "FP ELECTRICITE",
+        "slug": "fp-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vebret",
+        "note": 1,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "8527165330644070449",
+        "nom": "Artense Ramonage",
+        "slug": "artense-ramonage",
+        "telephone": null,
+        "site_web": "https://www.artenseramonage.fr/",
+        "adresse": "06 49 50 16 41",
+        "note": 5,
+        "avis": 2,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "lanobre": {
+    "artisans": [
+      {
+        "id": "12129252126387441076",
+        "nom": "Espinasse Laurent",
+        "slug": "espinasse-laurent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lanobre",
+        "note": 3,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "16136668126624147080",
+        "nom": "Champs Energies",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Champs-sur-Tarentaine-Marchal",
+        "note": 3,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "massiac": {
+    "artisans": [
+      {
+        "id": "13503642605774422152",
+        "nom": "PULSAT",
+        "slug": "pulsat",
+        "telephone": null,
+        "site_web": "https://magasins.pulsat.fr/145-pulsat-massiac?utm_source=gmb",
+        "adresse": "33 Av. du Général de Gaulle",
+        "note": 4,
+        "avis": 47,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "6774894459210273367",
+        "nom": "ARPH",
+        "slug": "arph",
+        "telephone": null,
+        "site_web": "https://www.arph-renov-habitat.fr/",
+        "adresse": "Brassac-les-Mines",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4812874880912872027",
+        "nom": "TM VENTILATION",
+        "slug": "tm-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Clonas-sur-Varèze",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5711078634623991110",
+        "nom": "HYGIS Clermont Ferrand - Roanne",
+        "slug": "hygis-clermont-ferrand-roanne",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-installation-hotte-vmc-climatisation-clermont-ferrand-puy-de-dome-63.html",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16917979712207880611",
+        "nom": "TED Travaux d'Electricité et Dépannages",
+        "slug": "ted-travaux-delectricite-et-depannages",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/1BjCE33xQZ/",
+        "adresse": "Le Breuil-sur-Couze",
+        "note": 5,
+        "avis": 34,
+        "type": "Électricien"
+      },
+      {
+        "id": "746253176482420155",
+        "nom": "SAS CORDESSE",
+        "slug": "sas-cordesse",
+        "telephone": null,
+        "site_web": "http://www.cordesse-chauffage.fr/",
+        "adresse": "Neuvéglise-sur-Truyère",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "neussargues-en-pinatelle": {
+    "artisans": [
+      {
+        "id": "8411127429734936771",
+        "nom": "Bonnet Stéphane",
+        "slug": "bonnet-stephane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "neuveglise-sur-truyere": {
+    "artisans": [
+      {
+        "id": "746253176482420155",
+        "nom": "SAS CORDESSE",
+        "slug": "sas-cordesse",
+        "telephone": null,
+        "site_web": "http://www.cordesse-chauffage.fr/",
+        "adresse": "Neuvéglise-sur-Truyère",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8653137539911593807",
+        "nom": "Cordesse",
+        "slug": "cordesse",
+        "telephone": null,
+        "site_web": "https://www.cordesse-chauffage.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "16158219381101826702",
+        "nom": "GMG Froid",
+        "slug": "gmg-froid",
+        "telephone": null,
+        "site_web": "http://www.gmgfroid.fr/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 3,
+        "avis": 6,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "polminhac": {
+    "artisans": [
+      {
+        "id": "12716278011396789135",
+        "nom": "SARL Ladoux",
+        "slug": "sarl-ladoux",
+        "telephone": null,
+        "site_web": "http://www.chauffage-sanitaire-cantal.fr/",
+        "adresse": "Vic-sur-Cère",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16158219381101826702",
+        "nom": "GMG Froid",
+        "slug": "gmg-froid",
+        "telephone": null,
+        "site_web": "http://www.gmgfroid.fr/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 3,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12078576458616469979",
+        "nom": "P.E.A Plomberie Chauffage Climatisation",
+        "slug": "pea-plomberie-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://peaplomberiechauff.wixsite.com/pea-plomberie-cc?utm_source=gmb",
+        "adresse": "Arpajon-sur-Cère",
+        "note": 4,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "4440151351474809459",
+        "nom": "Valet Ets - chauffagiste",
+        "slug": "valet-ets-chauffagiste",
+        "telephone": null,
+        "site_web": "http://www.chauffage-valet-15.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5833610850076658025",
+        "nom": "Sas Viguier",
+        "slug": "sas-viguier",
+        "telephone": null,
+        "site_web": "https://www.viguier-sas.fr/",
+        "adresse": "Saint-Cernin",
+        "note": 2,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6146524744381869021",
+        "nom": "Regis Troupel EURL",
+        "slug": "regis-troupel-eurl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100089839486276&utm_source=gmb",
+        "adresse": "Aurillac",
+        "note": 3,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "riom-es-montagnes": {
+    "artisans": [
+      {
+        "id": "17903220150901553084",
+        "nom": "Labbelec",
+        "slug": "labbelec",
+        "telephone": null,
+        "site_web": "http://www.electricien-cantal.fr/",
+        "adresse": "25 Rue de la Gentiane",
+        "note": 4,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "3976163575421749699",
+        "nom": "CHAUMEIL FRÈRES",
+        "slug": "chaumeil-freres",
+        "telephone": null,
+        "site_web": "http://sarl-chaumeil-freres.fr/",
+        "adresse": "4 WIDE STREET",
+        "note": 3,
+        "avis": 2,
+        "type": "Entreprise de domotique"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7771138031025215681",
+        "nom": "David Delpeuch",
+        "slug": "david-delpeuch",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19 Av. de Collandres",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "saint-cernin": {
+    "artisans": [
+      {
+        "id": "5833610850076658025",
+        "nom": "Sas Viguier",
+        "slug": "sas-viguier",
+        "telephone": null,
+        "site_web": "https://www.viguier-sas.fr/",
+        "adresse": "D43",
+        "note": 2,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13257783355971047611",
+        "nom": "Lesmarie Victor",
+        "slug": "lesmarie-victor",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Lot. de Saint-Martin de Valois",
+        "note": 3,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-simon": {
+    "artisans": [
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "vic-sur-cere": {
+    "artisans": [
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "arpajon-sur-cere": {
+    "artisans": [
+      {
+        "id": "17250372663861774858",
+        "nom": "Rt Fluides",
+        "slug": "rt-fluides",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/SasRTFLuides/?__tn__=%2As-R",
+        "adresse": "Arpajon-sur-Cère",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "champagnac": {
+    "artisans": [
+      {
+        "id": "14793623225796544120",
+        "nom": "Auvergne Froid Concept",
+        "slug": "auvergne-froid-concept",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mauriac",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4812874880912872027",
+        "nom": "TM VENTILATION",
+        "slug": "tm-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Clonas-sur-Varèze",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16136668126624147080",
+        "nom": "Champs Energies",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Champs-sur-Tarentaine-Marchal",
+        "note": 3,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13572789986910584327",
+        "nom": "Thermo Périgord Services",
+        "slug": "thermo-perigord-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cénac-et-Saint-Julien",
+        "note": 4,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      }
+    ]
+  },
+  "jussac": {
+    "artisans": [
+      {
+        "id": "6928850576610780859",
+        "nom": "SARL CARCY",
+        "slug": "sarl-carcy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Reilhac",
+        "note": 4,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6460313812625316419",
+        "nom": "MT’ELEC",
+        "slug": "mtelec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "380 La Tremolière",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12716278011396789135",
+        "nom": "SARL Ladoux",
+        "slug": "sarl-ladoux",
+        "telephone": null,
+        "site_web": "http://www.chauffage-sanitaire-cantal.fr/",
+        "adresse": "Vic-sur-Cère",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11669376835052805043",
+        "nom": "Ntc",
+        "slug": "ntc",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/sarlntc",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "Ytrac",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "15440157157055148580",
+        "nom": "Hrn 15",
+        "slug": "hrn-15",
+        "telephone": null,
+        "site_web": "http://www.hrn15.fr/",
+        "adresse": "Naucelles",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9705376570637051705",
+        "nom": "Jordanne Services Electricité",
+        "slug": "jordanne-services-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Naucelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "mauriac": {
+    "artisans": [
+      {
+        "id": "14793623225796544120",
+        "nom": "Auvergne Froid Concept",
+        "slug": "auvergne-froid-concept",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mauriac",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "606394586709821809",
+        "nom": "Bellanger SARL",
+        "slug": "bellanger-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mauriac",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "17446667977421028163",
+        "nom": "Chauvet Didier",
+        "slug": "chauvet-didier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Vigean",
+        "note": 4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "2021146540197312806",
+        "nom": "CEDEO Mauriac : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-mauriac-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/mauriac-cedeo-1859",
+        "adresse": "Mauriac",
+        "note": 5,
+        "avis": 13,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "3834072925007061376",
+        "nom": "RSM",
+        "slug": "rsm",
+        "telephone": null,
+        "site_web": "http://www.chauffage-salvary.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "5501376585776418065",
+        "nom": "RSM Salvary",
+        "slug": "rsm-salvary",
+        "telephone": null,
+        "site_web": "https://www.chauffage-salvary.fr/contact",
+        "adresse": "Mauriac",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "maurs": {
+    "artisans": [
+      {
+        "id": "1840287454426653756",
+        "nom": "BIEDERMANN SAS",
+        "slug": "biedermann-sas",
+        "telephone": null,
+        "site_web": "http://biedermannsas.site-solocal.com/",
+        "adresse": "3 Bois de l'Estang",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10355939209823951622",
+        "nom": "Sarl Bac M.o.l",
+        "slug": "sarl-bac-mol",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6130 Rue de la Gare",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "15637742303794831608",
+        "nom": "Pompidou Sylvain",
+        "slug": "pompidou-sylvain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Pl. Jean Moulin",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "8871820450689955530",
+        "nom": "Maison de Santé de Maurs",
+        "slug": "maison-de-sante-de-maurs",
+        "telephone": null,
+        "site_web": "https://msp-maurs.fr/",
+        "adresse": "1 Rue du Collège",
+        "note": 3,
+        "avis": 3,
+        "type": "Maison de santé"
+      },
+      {
+        "id": "6263868057887720849",
+        "nom": "Bourg Eric",
+        "slug": "bourg-eric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "68 Tour de ville",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "1036813315991876777",
+        "nom": "EURL Lavigne Pradier réseau TERRES DE FENETRE",
+        "slug": "eurl-lavigne-pradier-reseau-terres-de-fenetre",
+        "telephone": null,
+        "site_web": "https://aurillac.terresdefenetre.fr/",
+        "adresse": "4 Rue du 8 Mai 1945",
+        "note": 5,
+        "avis": 12,
+        "type": "Artisanat"
+      },
+      {
+        "id": "1350759495027359284",
+        "nom": "CPE Climatisation",
+        "slug": "cpe-climatisation",
+        "telephone": null,
+        "site_web": "https://www.cpe-climatisation.fr/",
+        "adresse": "Saint-Maur-des-Fossés",
+        "note": 3,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15337117432635599239",
+        "nom": "TRANSITION ÉNERGIE 94",
+        "slug": "transition-energie-94",
+        "telephone": null,
+        "site_web": "https://saintmaurdesfosses.maclem.fr/",
+        "adresse": "Champigny-sur-Marne",
+        "note": 5,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5918955182732098685",
+        "nom": "Lavigne Pradier - Terres de Fenêtre",
+        "slug": "lavigne-pradier-terres-de-fenetre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rue du 8 Mai 1945",
+        "note": null,
+        "avis": null,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "murat": {
+    "artisans": [
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "48 Rue du Faubourg Notre Dame",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3277455447611287054",
+        "nom": "CC Electricité",
+        "slug": "cc-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI, Les Clages",
+        "note": 3,
+        "avis": 8,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "naucelles": {
+    "artisans": [
+      {
+        "id": "1311447618548893514",
+        "nom": "Dalkia Froid Solutions",
+        "slug": "dalkia-froid-solutions",
+        "telephone": null,
+        "site_web": "https://www.dalkiafroidsolutions.com/?utm_source=gmb",
+        "adresse": "20 Rte du Parapluie",
+        "note": 1,
+        "avis": 1,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "15440157157055148580",
+        "nom": "Hrn 15",
+        "slug": "hrn-15",
+        "telephone": null,
+        "site_web": "http://www.hrn15.fr/",
+        "adresse": "9 Rte d'Ayrens",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10293003259544946637",
+        "nom": "Clauger Aurillac",
+        "slug": "clauger-aurillac",
+        "telephone": null,
+        "site_web": "https://www.clauger.com/fr/?utm_source=gmb",
+        "adresse": "5 ZA des 4 chemins",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements industriels"
+      }
+    ]
+  },
+  "pleaux": {
+    "artisans": [
+      {
+        "id": "3360237801453430525",
+        "nom": "SARL PARSOIRE ELECTRICITE",
+        "slug": "sarl-parsoire-electricite",
+        "telephone": null,
+        "site_web": "http://www.parsoire-electricite.fr/",
+        "adresse": "Pleaux",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "roannes-saint-mary": {
+    "artisans": [
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "1 Chem. de Ste Barbe",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1788687949556744499",
+        "nom": "Gimenez David",
+        "slug": "gimenez-david",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Bourg",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "17341174724046520081",
+        "nom": "Deguirard Electricité Générale SARL",
+        "slug": "deguirard-electricite-generale-sarl",
+        "telephone": null,
+        "site_web": "http://www.deguirard-electricien.fr/",
+        "adresse": "Sansac-de-Marmiesse",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "6618233657660390511",
+        "nom": "EURL Samuel Astier",
+        "slug": "eurl-samuel-astier",
+        "telephone": null,
+        "site_web": "https://www.eurlsamuelastier.fr/",
+        "adresse": "04 71 64 04 23",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "3202305757872306526",
+        "nom": "L'Atelier Éco-Energies - Pompe à Chaleur et Climatisation",
+        "slug": "latelier-eco-energies-pompe-a-chaleur-et-climatisation",
+        "telephone": null,
+        "site_web": "https://www.atelierecoenergies.fr/",
+        "adresse": "Commelle-Vernay",
+        "note": 4,
+        "avis": 101,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12078576458616469979",
+        "nom": "P.E.A Plomberie Chauffage Climatisation",
+        "slug": "pea-plomberie-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://peaplomberiechauff.wixsite.com/pea-plomberie-cc?utm_source=gmb",
+        "adresse": "Arpajon-sur-Cère",
+        "note": 4,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "11823936292886882087",
+        "nom": "EURL Laroussinie Pierre Plombier Chauffagiste",
+        "slug": "eurl-laroussinie-pierre-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/eurl-laroussinie-pierre-1146",
+        "adresse": "Lafeuillade-en-Vézie",
+        "note": 4,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "8296771470177144260",
+        "nom": "Euro Froid",
+        "slug": "euro-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lafeuillade-en-Vézie",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-flour": {
+    "artisans": [
+      {
+        "id": "10409830058144793830",
+        "nom": "CEDEO Saint-Flour : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-saint-flour-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/st-flour-cedeo-1482",
+        "adresse": "Andelat",
+        "note": 4,
+        "avis": 8,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "6773299739547004854",
+        "nom": "Calmels PETITFOUR",
+        "slug": "calmels-petitfour",
+        "telephone": null,
+        "site_web": "http://www.societecalmelspetitfour.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "21 Av. du Commandant Delorme",
+        "note": 3,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "9896152228108349296",
+        "nom": "SAS TARDIEU Joel",
+        "slug": "sas-tardieu-joel",
+        "telephone": null,
+        "site_web": "https://www.seguin-saint-flour.com/",
+        "adresse": "27 Rue Henri Rassemusse",
+        "note": 3,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "16158219381101826702",
+        "nom": "GMG Froid",
+        "slug": "gmg-froid",
+        "telephone": null,
+        "site_web": "http://www.gmgfroid.fr/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 3,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11692475408076963985",
+        "nom": "SARL Ruat Jonathan Urgence Plomberie",
+        "slug": "sarl-ruat-jonathan-urgence-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100089098675095&locale=fr_FR&utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 86,
+        "type": "Plombier"
+      },
+      {
+        "id": "15470640104443693945",
+        "nom": "Al distribution",
+        "slug": "al-distribution",
+        "telephone": null,
+        "site_web": "https://www.cheminee-poele.fr/",
+        "adresse": "zi montplain",
+        "note": null,
+        "avis": null,
+        "type": "Cheministe"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16878605019839666420",
+        "nom": "Raynaud Jérôme",
+        "slug": "raynaud-jerome",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Andelat",
+        "note": 1,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "8994309804249857870",
+        "nom": "Climat Express - Climatisation Saint-Georges-de-Beauce",
+        "slug": "climat-express-climatisation-saint-georges-de-beauce",
+        "telephone": null,
+        "site_web": "https://www.climatexpress.ca/",
+        "adresse": "Saint-Georges, QC, Canada",
+        "note": 4,
+        "avis": 188,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17262424929169117244",
+        "nom": "POULIN EXPERT",
+        "slug": "poulin-expert",
+        "telephone": null,
+        "site_web": "https://www.poulinexpert.com/",
+        "adresse": "Saint-Georges, QC, Canada",
+        "note": 4,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16158219381101826702",
+        "nom": "GMG Froid",
+        "slug": "gmg-froid",
+        "telephone": null,
+        "site_web": "http://www.gmgfroid.fr/",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 3,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16291603594553792010",
+        "nom": "Sun Climat",
+        "slug": "sun-climat",
+        "telephone": null,
+        "site_web": "http://www.sunclimat.fr/?utm_source=gmb",
+        "adresse": "Bussy-Saint-Georges",
+        "note": 4,
+        "avis": 344,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13623236560014962138",
+        "nom": "LLP GRAND OUEST",
+        "slug": "llp-grand-ouest",
+        "telephone": null,
+        "site_web": "https://www.llp-grandouest.fr/",
+        "adresse": "Saint-Georges-sur-Loire",
+        "note": 4,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10674158202318453579",
+        "nom": "CapSud - Installation panneaux solaires et climatisation",
+        "slug": "capsud-installation-panneaux-solaires-et-climatisation",
+        "telephone": null,
+        "site_web": "https://www.capsud-clim.fr/",
+        "adresse": "Saint-Georges-d'Orques",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7622925877378340697",
+        "nom": "FHV - France Hygiène Ventilation Mayenne",
+        "slug": "fhv-france-hygiene-ventilation-mayenne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-mayenne/",
+        "adresse": "Saint-Georges-Buttavent",
+        "note": 4,
+        "avis": 30,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "saint-paul-des-landes": {
+    "artisans": [
+      {
+        "id": "14798875116753740055",
+        "nom": "Clim R",
+        "slug": "clim-r",
+        "telephone": null,
+        "site_web": "https://clim-r.fr/",
+        "adresse": "06 81 53 61 96",
+        "note": 5,
+        "avis": 21,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4764934031169298059",
+        "nom": "Climatic Solutions",
+        "slug": "climatic-solutions",
+        "telephone": null,
+        "site_web": "http://www.climaticsolutions.fr/",
+        "adresse": "Mont-de-Marsan",
+        "note": 5,
+        "avis": 147,
+        "type": "Plombier"
+      },
+      {
+        "id": "16260119749231839516",
+        "nom": "A.V.2.S",
+        "slug": "av2s",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-du-Mont",
+        "note": 5,
+        "avis": 23,
+        "type": "Centre de formation continue"
+      },
+      {
+        "id": "531165746754651161",
+        "nom": "Euroclim",
+        "slug": "euroclim",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Euroclim-159504244110674/",
+        "adresse": "05 58 91 90 81",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "14845775780789908268",
+        "nom": "DEC Energies Biscarrosse",
+        "slug": "dec-energies-biscarrosse",
+        "telephone": null,
+        "site_web": "https://www.dec-energies.fr/?utm_source=gmb&utm_medium=organic",
+        "adresse": "Biscarrosse",
+        "note": 5,
+        "avis": 106,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18263602229197975068",
+        "nom": "GARBAY Energies",
+        "slug": "garbay-energies",
+        "telephone": null,
+        "site_web": "http://www.garbayenergies.com/",
+        "adresse": "76 Rue de la ZI",
+        "note": 4,
+        "avis": 58,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2489440755679388616",
+        "nom": "DEC Energies Saint-Geours-de-Maremne",
+        "slug": "dec-energies-saint-geours-de-maremne",
+        "telephone": null,
+        "site_web": "https://www.dec-energies.fr/?utm_source=gmb&utm_medium=organic",
+        "adresse": "Saint-Geours-de-Maremne",
+        "note": 4,
+        "avis": 227,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12548571060449521214",
+        "nom": "DEC Energies Saint-Pierre-du-Mont",
+        "slug": "dec-energies-saint-pierre-du-mont",
+        "telephone": null,
+        "site_web": "https://www.dec-energies.fr/?utm_source=gmb&utm_medium=organic",
+        "adresse": "Saint-Pierre-du-Mont",
+        "note": 4,
+        "avis": 47,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9437931058426926567",
+        "nom": "Molinès et Fils",
+        "slug": "molines-et-fils",
+        "telephone": null,
+        "site_web": "http://www.sarl-molines.fr/?utm_source=gmb",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 67,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sansac-de-marmiesse": {
+    "artisans": [
+      {
+        "id": "17341174724046520081",
+        "nom": "Deguirard Electricité Générale SARL",
+        "slug": "deguirard-electricite-generale-sarl",
+        "telephone": null,
+        "site_web": "http://www.deguirard-electricien.fr/",
+        "adresse": "8 Rue des Artisans",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14391219651852077162",
+        "nom": "Maintenance Dépannage Electricité ( M.D.E )",
+        "slug": "maintenance-depannage-electricite-mde",
+        "telephone": null,
+        "site_web": "http://www.mde-electricien.com/",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "4440151351474809459",
+        "nom": "Valet Ets - chauffagiste",
+        "slug": "valet-ets-chauffagiste",
+        "telephone": null,
+        "site_web": "http://www.chauffage-valet-15.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10758940307961868738",
+        "nom": "FD ELEC",
+        "slug": "fd-elec",
+        "telephone": null,
+        "site_web": "https://www.fd-elec.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "15440157157055148580",
+        "nom": "Hrn 15",
+        "slug": "hrn-15",
+        "telephone": null,
+        "site_web": "http://www.hrn15.fr/",
+        "adresse": "Naucelles",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "Ytrac",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "ytrac": {
+    "artisans": [
+      {
+        "id": "17365975753504675053",
+        "nom": "RCThermique",
+        "slug": "rcthermique",
+        "telephone": null,
+        "site_web": "http://rcthermique.e-monsite.com/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 2,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "22 Rte de Tulle",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15440157157055148580",
+        "nom": "Hrn 15",
+        "slug": "hrn-15",
+        "telephone": null,
+        "site_web": "http://www.hrn15.fr/",
+        "adresse": "Naucelles",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17341174724046520081",
+        "nom": "Deguirard Electricité Générale SARL",
+        "slug": "deguirard-electricite-generale-sarl",
+        "telephone": null,
+        "site_web": "http://www.deguirard-electricien.fr/",
+        "adresse": "Sansac-de-Marmiesse",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "12078576458616469979",
+        "nom": "P.E.A Plomberie Chauffage Climatisation",
+        "slug": "pea-plomberie-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://peaplomberiechauff.wixsite.com/pea-plomberie-cc?utm_source=gmb",
+        "adresse": "Arpajon-sur-Cère",
+        "note": 4,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "16447771545587903823",
+        "nom": "Max Elec",
+        "slug": "max-elec",
+        "telephone": null,
+        "site_web": "https://maxelec-15.fr/",
+        "adresse": "Cambian",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "vezac": {
+    "artisans": [
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "13572789986910584327",
+        "nom": "Thermo Périgord Services",
+        "slug": "thermo-perigord-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cénac-et-Saint-Julien",
+        "note": 4,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6146524744381869021",
+        "nom": "Regis Troupel EURL",
+        "slug": "regis-troupel-eurl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100089839486276&utm_source=gmb",
+        "adresse": "Aurillac",
+        "note": 3,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "Ytrac",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      }
+    ]
+  }
+}

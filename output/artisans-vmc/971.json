@@ -1,0 +1,2403 @@
+{
+  "marly-la-ville": {
+    "artisans": [
+      {
+        "id": "569714446335989117",
+        "nom": "C.Giel Confort",
+        "slug": "cgiel-confort",
+        "telephone": null,
+        "site_web": "https://sites.google.com/view/cgiel-confort/accueil?authuser=0",
+        "adresse": "46 Rue du Colonel Fabien",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12464765056329596183",
+        "nom": "Action Dépannage",
+        "slug": "action-depannage",
+        "telephone": null,
+        "site_web": "http://www.actiondepannage.com/",
+        "adresse": "14 Rue Roger Salengro",
+        "note": 4,
+        "avis": 60,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7666723659708713320",
+        "nom": "AEROCLIMAT Solutions Climatiques",
+        "slug": "aeroclimat-solutions-climatiques",
+        "telephone": null,
+        "site_web": "https://www.aeroclimat.com/",
+        "adresse": "Fosses",
+        "note": 5,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "34790618103424647",
+        "nom": "Groupmgenergy installation VMC - Réparation vmc ermont - maintenance",
+        "slug": "groupmgenergy-installation-vmc-reparation-vmc-ermont-maintenance",
+        "telephone": null,
+        "site_web": "https://groupmgenergy-ermont-isolation.com/",
+        "adresse": "Ermont",
+        "note": 5,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8395043464110198025",
+        "nom": "R-Elec Solutions",
+        "slug": "r-elec-solutions",
+        "telephone": null,
+        "site_web": "http://www.r-elec.net/",
+        "adresse": "06 81 98 74 64",
+        "note": 5,
+        "avis": 54,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "955685085119984142",
+        "nom": "BM VMC",
+        "slug": "bm-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 58 09 03 59",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "persan": {
+    "artisans": [
+      {
+        "id": "8028502485937832814",
+        "nom": "PCV CONFORT",
+        "slug": "pcv-confort",
+        "telephone": null,
+        "site_web": "http://www.pcv-confort.fr/",
+        "adresse": "10 Chem. Noir",
+        "note": 3,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "3073182803883903325",
+        "nom": "TECHNI CONFORT",
+        "slug": "techni-confort",
+        "telephone": null,
+        "site_web": "https://www.techniconfort-france.com/",
+        "adresse": "Chambly",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14168650070024640728",
+        "nom": "JSA CLIM",
+        "slug": "jsa-clim",
+        "telephone": null,
+        "site_web": "https://jsaclim.fr/",
+        "adresse": "Bornel",
+        "note": 5,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11198120034822668942",
+        "nom": "Techni Thermie",
+        "slug": "techni-thermie",
+        "telephone": null,
+        "site_web": "http://www.techni-thermie.fr/?utm_source=gmb",
+        "adresse": "Bernes-sur-Oise",
+        "note": 4,
+        "avis": 86,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4776156519095056224",
+        "nom": "EM ENERGIES CLIM",
+        "slug": "em-energies-clim",
+        "telephone": null,
+        "site_web": "https://www.em-energies-clim.fr/",
+        "adresse": "Bruyères-sur-Oise",
+        "note": 5,
+        "avis": 30,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14002263582545398746",
+        "nom": "Aéraulique Installation - Nettoyage/Maintenance de Ventilation (VMC) | Nettoyage de Hotte Professionnelle | Paris IDF I",
+        "slug": "aeraulique-installation-nettoyagemaintenance-de-ventilation-vmc-nettoyage-de-hotte-professionnelle-paris-idf-i",
+        "telephone": null,
+        "site_web": "https://www.aeraulique-installation.com/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5348106821923393498",
+        "nom": "Les Artisans Compagnons",
+        "slug": "les-artisans-compagnons",
+        "telephone": null,
+        "site_web": "https://artisans-compagnons-95.fr/",
+        "adresse": "58 Av. Gaston Vermeire",
+        "note": 4,
+        "avis": 30,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4845754973378760085",
+        "nom": "MCP",
+        "slug": "mcp",
+        "telephone": null,
+        "site_web": "http://mcp-france.com/",
+        "adresse": "Chambly",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9556089474280845507",
+        "nom": "FGV 95 - Fabrication Gaine Ventilation",
+        "slug": "fgv-95-fabrication-gaine-ventilation",
+        "telephone": null,
+        "site_web": "https://www.fgv95.com/?preview=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2ODkwODU1ODguNDY0MDE1LCJleHAiOjE2ODkwODkxODguNDY0MDI2LCJ3aWQiOjMxNzQ0Njh9.mNH4tuTlGQJtjANeaReamesrnK3T5YwIu-afUeGPtSA",
+        "adresse": "Boran-sur-Oise",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "seugy": {
+    "artisans": [
+      {
+        "id": "15407330267683475314",
+        "nom": "Green Energy",
+        "slug": "green-energy",
+        "telephone": null,
+        "site_web": "https://www.greenenergy-climatisation.com/",
+        "adresse": "Belloy-en-France",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4776156519095056224",
+        "nom": "EM ENERGIES CLIM",
+        "slug": "em-energies-clim",
+        "telephone": null,
+        "site_web": "https://www.em-energies-clim.fr/",
+        "adresse": "Bruyères-sur-Oise",
+        "note": 5,
+        "avis": 30,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "34790618103424647",
+        "nom": "Groupmgenergy installation VMC - Réparation vmc ermont - maintenance",
+        "slug": "groupmgenergy-installation-vmc-reparation-vmc-ermont-maintenance",
+        "telephone": null,
+        "site_web": "https://groupmgenergy-ermont-isolation.com/",
+        "adresse": "Ermont",
+        "note": 5,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5820276250803668529",
+        "nom": "CJF Climatisation",
+        "slug": "cjf-climatisation",
+        "telephone": null,
+        "site_web": "http://www.cjfclimatisation.fr/",
+        "adresse": "Domont",
+        "note": 4,
+        "avis": 30,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9556089474280845507",
+        "nom": "FGV 95 - Fabrication Gaine Ventilation",
+        "slug": "fgv-95-fabrication-gaine-ventilation",
+        "telephone": null,
+        "site_web": "https://www.fgv95.com/?preview=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2ODkwODU1ODguNDY0MDE1LCJleHAiOjE2ODkwODkxODguNDY0MDI2LCJ3aWQiOjMxNzQ0Njh9.mNH4tuTlGQJtjANeaReamesrnK3T5YwIu-afUeGPtSA",
+        "adresse": "Boran-sur-Oise",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4550529452802408565",
+        "nom": "Group installation vmc montmorency - maintenance vmc",
+        "slug": "group-installation-vmc-montmorency-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-montmorency.com/",
+        "adresse": "Montmorency",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14002263582545398746",
+        "nom": "Aéraulique Installation - Nettoyage/Maintenance de Ventilation (VMC) | Nettoyage de Hotte Professionnelle | Paris IDF I",
+        "slug": "aeraulique-installation-nettoyagemaintenance-de-ventilation-vmc-nettoyage-de-hotte-professionnelle-paris-idf-i",
+        "telephone": null,
+        "site_web": "https://www.aeraulique-installation.com/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11486165192251010831",
+        "nom": "Fan Hom Ventilation",
+        "slug": "fan-hom-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Belloy-en-France",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8364588811651326638",
+        "nom": "System Froid",
+        "slug": "system-froid",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/107138528590940?utm_source=gmb",
+        "adresse": "Maffliers",
+        "note": 4,
+        "avis": 80,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "le-thillay": {
+    "artisans": [
+      {
+        "id": "13172774630833573895",
+        "nom": "LES ÉNERGIES CRISTINO",
+        "slug": "les-energies-cristino",
+        "telephone": null,
+        "site_web": "https://goussainville.maclem.fr/",
+        "adresse": "81 Chem. de Saint-Denis",
+        "note": 5,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7877330711101647950",
+        "nom": "Ec2r",
+        "slug": "ec2r",
+        "telephone": null,
+        "site_web": "https://www.ec2r95.fr/",
+        "adresse": "5 Av. Jeanne d'Arc",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "955685085119984142",
+        "nom": "BM VMC",
+        "slug": "bm-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 58 09 03 59",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17316548887899412767",
+        "nom": "Climatisation De France",
+        "slug": "climatisation-de-france",
+        "telephone": null,
+        "site_web": "http://www.climatisation-de-france.fr/?utm_source=gmb",
+        "adresse": "Goussainville",
+        "note": 1,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8395043464110198025",
+        "nom": "R-Elec Solutions",
+        "slug": "r-elec-solutions",
+        "telephone": null,
+        "site_web": "http://www.r-elec.net/",
+        "adresse": "06 81 98 74 64",
+        "note": 5,
+        "avis": 54,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4461834141245859402",
+        "nom": "Électricité De Sousa - Électricien IRVE Val d'Oise",
+        "slug": "electricite-de-sousa-electricien-irve-val-doise",
+        "telephone": null,
+        "site_web": "https://electricitedesousa.fr/",
+        "adresse": "29 Av. Henri Dunant",
+        "note": 5,
+        "avis": 24,
+        "type": "Électricien"
+      },
+      {
+        "id": "14002263582545398746",
+        "nom": "Aéraulique Installation - Nettoyage/Maintenance de Ventilation (VMC) | Nettoyage de Hotte Professionnelle | Paris IDF I",
+        "slug": "aeraulique-installation-nettoyagemaintenance-de-ventilation-vmc-nettoyage-de-hotte-professionnelle-paris-idf-i",
+        "telephone": null,
+        "site_web": "https://www.aeraulique-installation.com/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5820276250803668529",
+        "nom": "CJF Climatisation",
+        "slug": "cjf-climatisation",
+        "telephone": null,
+        "site_web": "http://www.cjfclimatisation.fr/",
+        "adresse": "Domont",
+        "note": 4,
+        "avis": 30,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "us": {
+    "artisans": [
+      {
+        "id": "14002263582545398746",
+        "nom": "Aéraulique Installation - Nettoyage/Maintenance de Ventilation (VMC) | Nettoyage de Hotte Professionnelle | Paris IDF I",
+        "slug": "aeraulique-installation-nettoyagemaintenance-de-ventilation-vmc-nettoyage-de-hotte-professionnelle-paris-idf-i",
+        "telephone": null,
+        "site_web": "https://www.aeraulique-installation.com/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8356739145046217475",
+        "nom": "Linstallateur de vmc de courbevoie",
+        "slug": "linstallateur-de-vmc-de-courbevoie",
+        "telephone": null,
+        "site_web": "https://linstallateur-de-vmc-de-courbevoie.com/",
+        "adresse": "Courbevoie",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17870214749713275070",
+        "nom": "JML Clim & Pompe à chaleur",
+        "slug": "jml-clim-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://cvcmulot.wixsite.com/jmlclim",
+        "adresse": "Le Perchay",
+        "note": 4,
+        "avis": 37,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "vemars": {
+    "artisans": [
+      {
+        "id": "1915328338708984847",
+        "nom": "Thermoclima",
+        "slug": "thermoclima",
+        "telephone": null,
+        "site_web": "http://thermoclima.fr/",
+        "adresse": "06 72 46 54 68",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8395043464110198025",
+        "nom": "R-Elec Solutions",
+        "slug": "r-elec-solutions",
+        "telephone": null,
+        "site_web": "http://www.r-elec.net/",
+        "adresse": "06 81 98 74 64",
+        "note": 5,
+        "avis": 54,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7666723659708713320",
+        "nom": "AEROCLIMAT Solutions Climatiques",
+        "slug": "aeroclimat-solutions-climatiques",
+        "telephone": null,
+        "site_web": "https://www.aeroclimat.com/",
+        "adresse": "Fosses",
+        "note": 5,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "955685085119984142",
+        "nom": "BM VMC",
+        "slug": "bm-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 58 09 03 59",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5425300000182559220",
+        "nom": "GROUPBT vmc mitry mory - installation vmc - nettoyage vmc",
+        "slug": "groupbt-vmc-mitry-mory-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://jeni-isolation-mitry-mory.com/",
+        "adresse": "Mitry-Mory",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "la-desirade": {
+    "artisans": [
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2071284578579343778",
+        "nom": "G.F.C - La Galaxie du Froid et de la Climatisation",
+        "slug": "gfc-la-galaxie-du-froid-et-de-la-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4748824305355744083",
+        "nom": "Villa la Désirade",
+        "slug": "villa-la-desirade",
+        "telephone": null,
+        "site_web": "https://snaptrip.com/properties/1198918?utm_source=GoogleVR&utm_medium=paid&utm_campaign=direct_link",
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Location de vacances"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8810853892069809323",
+        "nom": "La Désirade 80",
+        "slug": "la-desirade-80",
+        "telephone": null,
+        "site_web": "https://villadesirade80.com/",
+        "adresse": "Saint-François, Guadeloupe",
+        "note": 4,
+        "avis": 4,
+        "type": "Location d'appartement de vacances"
+      },
+      {
+        "id": "4959038971812313847",
+        "nom": "Idéal location",
+        "slug": "ideal-location",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Désirade, Guadeloupe",
+        "note": 2,
+        "avis": 8,
+        "type": "Agence de location de voitures"
+      },
+      {
+        "id": "9518729820416999031",
+        "nom": "CLIM VERTE dépannage Chaudière gaz , Climatisation - PAC ,VMC simple - double flux",
+        "slug": "clim-verte-depannage-chaudiere-gaz-climatisation-pac-vmc-simple-double-flux",
+        "telephone": null,
+        "site_web": "https://climverte.fr/",
+        "adresse": "Mouvaux",
+        "note": 4,
+        "avis": 21,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15196034150372377117",
+        "nom": "QUALIBLUE",
+        "slug": "qualiblue",
+        "telephone": null,
+        "site_web": "https://www.qualiblue.com/",
+        "adresse": "Sainte-Anne, Guadeloupe",
+        "note": 3,
+        "avis": 15,
+        "type": "Services aux entreprises"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      }
+    ]
+  },
+  "deshaies": {
+    "artisans": [
+      {
+        "id": "1346170084365692995",
+        "nom": "Déhélec",
+        "slug": "dehelec",
+        "telephone": null,
+        "site_web": "https://electricitedeshaie.wixsite.com/website-1",
+        "adresse": "Imp. Fleury",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12773633081571362834",
+        "nom": "ACHP",
+        "slug": "achp",
+        "telephone": null,
+        "site_web": "http://www.achp971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3330307844800648700",
+        "nom": "CHO & FOI CLIMATISATIONS",
+        "slug": "cho-foi-climatisations",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/chofoisarl/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3882576782559246106",
+        "nom": "Étude et Application des Systèmes EAS",
+        "slug": "etude-et-application-des-systemes-eas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14989765002564374698",
+        "nom": "Entretien Climatisation Guadeloupe : Clim Cleaner",
+        "slug": "entretien-climatisation-guadeloupe-clim-cleaner",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1625107875143371321",
+        "nom": "MANICLIM SERVICE",
+        "slug": "maniclim-service",
+        "telephone": null,
+        "site_web": "https://maniclimservice.com/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7822057567883943316",
+        "nom": "ICE CLIM PRO",
+        "slug": "ice-clim-pro",
+        "telephone": null,
+        "site_web": "https://iceclimpro.fr/",
+        "adresse": "Petit-Canal, Guadeloupe",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2071284578579343778",
+        "nom": "G.F.C - La Galaxie du Froid et de la Climatisation",
+        "slug": "gfc-la-galaxie-du-froid-et-de-la-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "goyave": {
+    "artisans": [
+      {
+        "id": "2743372263439037041",
+        "nom": "Sweetclim",
+        "slug": "sweetclim",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Sweetclim",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 39,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Rue Léopold Sédar Senghor LES ABYMES CEDEX",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16703933529578909892",
+        "nom": "ALLIANTZ ECO HABITAT ANTILLES",
+        "slug": "alliantz-eco-habitat-antilles",
+        "telephone": null,
+        "site_web": "https://www.alliantz-eco-habitat.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 123,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "morne-a-leau": {
+    "artisans": [
+      {
+        "id": "17220159974085427265",
+        "nom": "Bordelais SAS",
+        "slug": "bordelais-sas",
+        "telephone": null,
+        "site_web": "https://www.climatisation-bordelais.fr/?utm_source=gmb",
+        "adresse": "35 Rue du Cimetière",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7943966849789446465",
+        "nom": "Electroclim VELP",
+        "slug": "electroclim-velp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Richeval Nord",
+        "note": 4,
+        "avis": 30,
+        "type": "Siège social"
+      },
+      {
+        "id": "2840122461482289960",
+        "nom": "aabat.fr",
+        "slug": "aabatfr",
+        "telephone": null,
+        "site_web": "http://www.aabat.fr/",
+        "adresse": "136 Rte de Bosredon",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "1967527671898894571",
+        "nom": "EG FROID",
+        "slug": "eg-froid",
+        "telephone": null,
+        "site_web": "https://wa.me/message/KFEKAB2WKQEDC1",
+        "adresse": "+590 691 24 23 76",
+        "note": 5,
+        "avis": 37,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12773633081571362834",
+        "nom": "ACHP",
+        "slug": "achp",
+        "telephone": null,
+        "site_web": "http://www.achp971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7089375877303303525",
+        "nom": "Entreprise d'aménagement intérieur & rénovation à Morne à l'eau",
+        "slug": "entreprise-damenagement-interieur-renovation-a-morne-a-leau",
+        "telephone": null,
+        "site_web": "http://www.glemamenagement.fr/",
+        "adresse": "Morne-à-l'Eau, Guadeloupe",
+        "note": 4,
+        "avis": 11,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "7410142172088619954",
+        "nom": "SOS Plombier Guadeloupe",
+        "slug": "sos-plombier-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.sosplombierguadeloupe.com/?utm_source=gmb",
+        "adresse": "+590 690 52 62 89",
+        "note": 4,
+        "avis": 52,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "terre-de-haut": {
+    "artisans": [
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "vieux-fort": {
+    "artisans": [
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Rue Léopold Sédar Senghor LES ABYMES CEDEX",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "capesterre-de-marie-galante": {
+    "artisans": [
+      {
+        "id": "5523824057701607820",
+        "nom": "Ardens Plomberie",
+        "slug": "ardens-plomberie",
+        "telephone": null,
+        "site_web": "https://www.plomberie-ardens.fr/",
+        "adresse": "Grand-Bourg, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8731159859520519511",
+        "nom": "Caslit installation vmc nanterre",
+        "slug": "caslit-installation-vmc-nanterre",
+        "telephone": null,
+        "site_web": "https://caslit-installation-vmc-nanterre.com/",
+        "adresse": "Nanterre",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3330307844800648700",
+        "nom": "CHO & FOI CLIMATISATIONS",
+        "slug": "cho-foi-climatisations",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/chofoisarl/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12773633081571362834",
+        "nom": "ACHP",
+        "slug": "achp",
+        "telephone": null,
+        "site_web": "http://www.achp971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16703933529578909892",
+        "nom": "ALLIANTZ ECO HABITAT ANTILLES",
+        "slug": "alliantz-eco-habitat-antilles",
+        "telephone": null,
+        "site_web": "https://www.alliantz-eco-habitat.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 123,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "2071284578579343778",
+        "nom": "G.F.C - La Galaxie du Froid et de la Climatisation",
+        "slug": "gfc-la-galaxie-du-froid-et-de-la-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "grand-bourg": {
+    "artisans": [
+      {
+        "id": "17276199542383827576",
+        "nom": "Travaux.com",
+        "slug": "travauxcom",
+        "telephone": null,
+        "site_web": "https://www.travaux.com/",
+        "adresse": "Aix-en-Provence",
+        "note": 3,
+        "avis": 918,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "2007775201179930212",
+        "nom": "Actitherm",
+        "slug": "actitherm",
+        "telephone": null,
+        "site_web": "http://www.actitherm-bourg-en-bresse.fr/",
+        "adresse": "Bourg-en-Bresse",
+        "note": 4,
+        "avis": 32,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "5531909502153098151",
+        "nom": "chauff sanit",
+        "slug": "chauff-sanit",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bourg-en-Bresse",
+        "note": 4,
+        "avis": 82,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "le-gosier": {
+    "artisans": [
+      {
+        "id": "8642157869236083193",
+        "nom": "FCEG",
+        "slug": "fceg",
+        "telephone": null,
+        "site_web": "https://www.froidclimelec.fr/",
+        "adresse": "Poucet, Route de la Riviera",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6975983352322861026",
+        "nom": "LG Services Plomberie, Entretien Climatisation 100% BIO",
+        "slug": "lg-services-plomberie-entretien-climatisation-100-bio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lot. Frair Unis",
+        "note": 4,
+        "avis": 14,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "3337420314800774790",
+        "nom": "SCCA SERVICE climatisation auto",
+        "slug": "scca-service-climatisation-auto",
+        "telephone": null,
+        "site_web": "https://sccaservice-climatisationauto.fr/fr",
+        "adresse": "Route de la riviera poucet",
+        "note": 4,
+        "avis": 100,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13387355818677117726",
+        "nom": "Plombier artisan - SaniExpert",
+        "slug": "plombier-artisan-saniexpert",
+        "telephone": null,
+        "site_web": "https://api.whatsapp.com/send/?phone=0690342393&text=Entreprise+SaniExpert+%C3%A0+votre+service+%21&type=phone_number&app_absent=0",
+        "adresse": "1 Rue Du Docteur Hélène",
+        "note": 4,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "12751615442593864192",
+        "nom": "Electro Clim Auto",
+        "slug": "electro-clim-auto",
+        "telephone": null,
+        "site_web": "http://www.electro-clim-auto.com/",
+        "adresse": "Gosier (Le, Guadeloupe",
+        "note": 3,
+        "avis": 7,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "5338068573572535209",
+        "nom": "Maison Confort",
+        "slug": "maison-confort",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/MaisonConfortGuadeloupe/",
+        "adresse": "Gosier (Le, Guadeloupe",
+        "note": null,
+        "avis": null,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6500238035155815686",
+        "nom": "Top Clim",
+        "slug": "top-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "798 Rte de Besson",
+        "note": null,
+        "avis": null,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "14367579312229198815",
+        "nom": "Atout Renov Guadeloupe SAS A.R.G",
+        "slug": "atout-renov-guadeloupe-sas-arg",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "près de la station service",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur d'aluminium"
+      },
+      {
+        "id": "18445791799110720520",
+        "nom": "MSMJ ELECTRICITE",
+        "slug": "msmj-electricite",
+        "telephone": null,
+        "site_web": "http://www.msmj-elec.com/",
+        "adresse": "Rte de pliane",
+        "note": 4,
+        "avis": 4,
+        "type": "Service d'installation électrique"
+      }
+    ]
+  },
+  "petit-canal": {
+    "artisans": [
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "anse-bertrand": {
+    "artisans": [
+      {
+        "id": "7822057567883943316",
+        "nom": "ICE CLIM PRO",
+        "slug": "ice-clim-pro",
+        "telephone": null,
+        "site_web": "https://iceclimpro.fr/",
+        "adresse": "Petit-Canal, Guadeloupe",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17220159974085427265",
+        "nom": "Bordelais SAS",
+        "slug": "bordelais-sas",
+        "telephone": null,
+        "site_web": "https://www.climatisation-bordelais.fr/?utm_source=gmb",
+        "adresse": "Morne-à-l'Eau, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16703933529578909892",
+        "nom": "ALLIANTZ ECO HABITAT ANTILLES",
+        "slug": "alliantz-eco-habitat-antilles",
+        "telephone": null,
+        "site_web": "https://www.alliantz-eco-habitat.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 123,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "baie-mahault": {
+    "artisans": [
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Immeuble SUD",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2071284578579343778",
+        "nom": "G.F.C - La Galaxie du Froid et de la Climatisation",
+        "slug": "gfc-la-galaxie-du-froid-et-de-la-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Moudong Sud, 97122",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "12773633081571362834",
+        "nom": "ACHP",
+        "slug": "achp",
+        "telephone": null,
+        "site_web": "http://www.achp971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "ZI JARRY, 23 Rue de l'Industrie",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16703933529578909892",
+        "nom": "ALLIANTZ ECO HABITAT ANTILLES",
+        "slug": "alliantz-eco-habitat-antilles",
+        "telephone": null,
+        "site_web": "https://www.alliantz-eco-habitat.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rue Alfred Lumière",
+        "note": 4,
+        "avis": 123,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "58 Rue Ferdinand Forest",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3330307844800648700",
+        "nom": "CHO & FOI CLIMATISATIONS",
+        "slug": "cho-foi-climatisations",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/chofoisarl/",
+        "adresse": "Immeuble SOCOGAR, lot n° 16 6, Rue Ferdinand Forest",
+        "note": 2,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14438556003227642769",
+        "nom": "Airwell Antilles/Guyane",
+        "slug": "airwell-antillesguyane",
+        "telephone": null,
+        "site_web": "https://www.airwell.com/",
+        "adresse": "167 Lot. ZAC de la Grande Voie a la Ja",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2577032581553241435",
+        "nom": "Eskimo Antilles",
+        "slug": "eskimo-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Immeuble le relais, 9 Imp. des Palétuviers",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17336933161057187498",
+        "nom": "Sun Tech Distribution Guadeloupe",
+        "slug": "sun-tech-distribution-guadeloupe",
+        "telephone": null,
+        "site_web": "http://www.suntech-karaib.fr/",
+        "adresse": "LD Calvaire, Rue Brice Armand ROSTAL Section Gossain",
+        "note": 3,
+        "avis": 11,
+        "type": "Fournisseur de chauffe-eau solaires"
+      }
+    ]
+  },
+  "bouillante": {
+    "artisans": [
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "lamentin": {
+    "artisans": [
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5598703286767520868",
+        "nom": "Genifroid",
+        "slug": "genifroid",
+        "telephone": null,
+        "site_web": "https://genifroid.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14989765002564374698",
+        "nom": "Entretien Climatisation Guadeloupe : Clim Cleaner",
+        "slug": "entretien-climatisation-guadeloupe-clim-cleaner",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "pointe-noire": {
+    "artisans": [
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-claude": {
+    "artisans": [
+      {
+        "id": "15992544634811295242",
+        "nom": "ZF RENOVA Chauffage Clim Sanitaire Plomberie / RGE PAC",
+        "slug": "zf-renova-chauffage-clim-sanitaire-plomberie-rge-pac",
+        "telephone": null,
+        "site_web": "http://www.zfrenova.com/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "12051278750585636024",
+        "nom": "V.F Confort I Au fil du bain",
+        "slug": "vf-confort-i-au-fil-du-bain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Claude",
+        "note": 3,
+        "avis": 16,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9830227718804752647",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/197-engie-home-services-saint-claude?utm_source=gmb",
+        "adresse": "Saint-Claude",
+        "note": 1,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17386306006275693848",
+        "nom": "Picard",
+        "slug": "picard",
+        "telephone": null,
+        "site_web": "https://picard-saint-claude.fr/",
+        "adresse": "Saint-Claude",
+        "note": 3,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17276199542383827576",
+        "nom": "Travaux.com",
+        "slug": "travauxcom",
+        "telephone": null,
+        "site_web": "https://www.travaux.com/",
+        "adresse": "Aix-en-Provence",
+        "note": 3,
+        "avis": 918,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8386796842771810659",
+        "nom": "CVC ÉNERGIE | Jura | Chauffagiste, Frigoriste, Climatisation/Pompe à chaleur, Electricien, Froid Commercial, Chambre froide",
+        "slug": "cvc-energie-jura-chauffagiste-frigoriste-climatisationpompe-a-chaleur-electricien-froid-commercial-chambre-froide",
+        "telephone": null,
+        "site_web": "http://www.cvcenergie.com/",
+        "adresse": "Hauts de Bienne",
+        "note": 4,
+        "avis": 60,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "16291603594553792010",
+        "nom": "Sun Climat",
+        "slug": "sun-climat",
+        "telephone": null,
+        "site_web": "http://www.sunclimat.fr/?utm_source=gmb",
+        "adresse": "Bussy-Saint-Georges",
+        "note": 4,
+        "avis": 344,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15767795972308854847",
+        "nom": "Air Et Eau",
+        "slug": "air-et-eau",
+        "telephone": null,
+        "site_web": "http://www.air-eau-ventilation.com/",
+        "adresse": "Grenoble",
+        "note": 4,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1720405292328593334",
+        "nom": "Rvde",
+        "slug": "rvde",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Victor",
+        "note": null,
+        "avis": null,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "saint-francois": {
+    "artisans": [
+      {
+        "id": "14989765002564374698",
+        "nom": "Entretien Climatisation Guadeloupe : Clim Cleaner",
+        "slug": "entretien-climatisation-guadeloupe-clim-cleaner",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des donneuses d eau Saint françois",
+        "note": 4,
+        "avis": 10,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17669307287843377986",
+        "nom": "Confort Antilles",
+        "slug": "confort-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "+590 690 94 45 81",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13882285131098429129",
+        "nom": "Tropic Froid Services - Froid & Climatisation",
+        "slug": "tropic-froid-services-froid-climatisation",
+        "telephone": null,
+        "site_web": "https://tropicfroidservices.fr/",
+        "adresse": "RN4 morne Gorot",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4097936998000054608",
+        "nom": "Climalizé",
+        "slug": "climalize",
+        "telephone": null,
+        "site_web": "http://www.climalize.net/",
+        "adresse": "Rue de la République",
+        "note": 4,
+        "avis": 13,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4859498732249640498",
+        "nom": "CLIM'INSTALL",
+        "slug": "climinstall",
+        "telephone": null,
+        "site_web": "https://clim-install.com/",
+        "adresse": "+590 690 97 19 43",
+        "note": 5,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3166467126891263450",
+        "nom": "Sanigere alsace",
+        "slug": "sanigere-alsace",
+        "telephone": null,
+        "site_web": "http://www.sanigerealsace.fr/",
+        "adresse": "Saint-Louis",
+        "note": 4,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "17276199542383827576",
+        "nom": "Travaux.com",
+        "slug": "travauxcom",
+        "telephone": null,
+        "site_web": "https://www.travaux.com/",
+        "adresse": "Aix-en-Provence",
+        "note": 3,
+        "avis": 918,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "14604443719815103656",
+        "nom": "ETS Schurrer",
+        "slug": "ets-schurrer",
+        "telephone": null,
+        "site_web": "https://www.ets-schurrer.com/?utm_source=gmb",
+        "adresse": "Hésingue",
+        "note": 4,
+        "avis": 199,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15767795972308854847",
+        "nom": "Air Et Eau",
+        "slug": "air-et-eau",
+        "telephone": null,
+        "site_web": "http://www.air-eau-ventilation.com/",
+        "adresse": "Grenoble",
+        "note": 4,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "sainte-anne": {
+    "artisans": [
+      {
+        "id": "5767049558800122459",
+        "nom": "Jt Climatisation Plomberie",
+        "slug": "jt-climatisation-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Anne, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3285130672019138635",
+        "nom": "Techni Froid Service",
+        "slug": "techni-froid-service",
+        "telephone": null,
+        "site_web": "http://techni-froid-service.com/",
+        "adresse": "Sainte-Anne, Guadeloupe",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "pointe-a-pitre": {
+    "artisans": [
+      {
+        "id": "3027043552678736190",
+        "nom": "CONCEPT ENERGIES NOUVELLES",
+        "slug": "concept-energies-nouvelles",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/cen.climatisation/",
+        "adresse": "RDC TOUR FAIDHERBE RESIDENCE ESPACE 2000 BOULEVARD FAIDHERBE",
+        "note": 4,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9429955603145991729",
+        "nom": "CTAC CLIM",
+        "slug": "ctac-clim",
+        "telephone": null,
+        "site_web": "https://ctac-clim.fr/",
+        "adresse": "6 Rue Raspail",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Rue Léopold Sédar Senghor LES ABYMES CEDEX",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3330307844800648700",
+        "nom": "CHO & FOI CLIMATISATIONS",
+        "slug": "cho-foi-climatisations",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/chofoisarl/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2071284578579343778",
+        "nom": "G.F.C - La Galaxie du Froid et de la Climatisation",
+        "slug": "gfc-la-galaxie-du-froid-et-de-la-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4346076683251874693",
+        "nom": "ART-ECO HABITAT",
+        "slug": "art-eco-habitat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 70,
+        "type": "Entrepreneur en énergie solaire"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2362921586174722990",
+        "nom": "ENR FREE GUADELOUPE",
+        "slug": "enr-free-guadeloupe",
+        "telephone": null,
+        "site_web": "http://www.enr-free.com/",
+        "adresse": "94 Rue Frébault",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "basse-terre": {
+    "artisans": [
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "vieux-habitants": {
+    "artisans": [
+      {
+        "id": "16189049250064375181",
+        "nom": "S2S Energie",
+        "slug": "s2s-energie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vieux-Habitants, Guadeloupe",
+        "note": 4,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-moule": {
+    "artisans": [
+      {
+        "id": "17532966424821395230",
+        "nom": "coupan clim",
+        "slug": "coupan-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "boisvin 97160 LE MOULE Moule",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13910910435725398641",
+        "nom": "Paradis Clim & Froid",
+        "slug": "paradis-clim-froid",
+        "telephone": null,
+        "site_web": "https://paradisclimfroid.fr/",
+        "adresse": "12 Rue Gaston Monnerville",
+        "note": null,
+        "avis": null,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17837772646079560738",
+        "nom": "Concept Store by Nady Technik Clim & Froid",
+        "slug": "concept-store-by-nady-technik-clim-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8MJ2+CG3, D 114",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17823526887947095185",
+        "nom": "Air Pur Clim",
+        "slug": "air-pur-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Route de Saint François",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "317274493290241101",
+        "nom": "Climelec GPE",
+        "slug": "climelec-gpe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "378 Rue Stephane Carrien",
+        "note": 3,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12071608337788830733",
+        "nom": "Do Froid & Climatisation",
+        "slug": "do-froid-climatisation",
+        "telephone": null,
+        "site_web": "https://dofroidclim.com/",
+        "adresse": "Bartel Grand Fond Le Moule GP, 97160",
+        "note": 4,
+        "avis": 3,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15489258118983888586",
+        "nom": "DK ARTISAN",
+        "slug": "dk-artisan",
+        "telephone": null,
+        "site_web": "https://www.dkartisan.fr/",
+        "adresse": "Morne corneille",
+        "note": 5,
+        "avis": 14,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "baillif": {
+    "artisans": [
+      {
+        "id": "17530024033461611720",
+        "nom": "SUPERCLIMAT BAILLIF",
+        "slug": "superclimat-baillif",
+        "telephone": null,
+        "site_web": "https://superclimat.fr/",
+        "adresse": "2766+Q3G",
+        "note": 3,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9742224776408058712",
+        "nom": "RTN Plomberie et Climatisation",
+        "slug": "rtn-plomberie-et-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "130, Allée de l'industrie, ZA Les Pères Blancs",
+        "note": 4,
+        "avis": 41,
+        "type": "Plombier"
+      },
+      {
+        "id": "13775104273106859358",
+        "nom": "Prestaclim",
+        "slug": "prestaclim",
+        "telephone": null,
+        "site_web": "http://www.prestaclim.com/?utm_source=gmb",
+        "adresse": "Plus de 7 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8667961278516155033",
+        "nom": "Climec Technologique",
+        "slug": "climec-technologique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ROUTE DE SAINT-LOUIS RUE GRATIEN CANDACE BAILLIF",
+        "note": 3,
+        "avis": 26,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "les-abymes": {
+    "artisans": [
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1457931242433624759",
+        "nom": "GEM",
+        "slug": "gem",
+        "telephone": null,
+        "site_web": "https://www.gem.fr/",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12874646113341792039",
+        "nom": "Superclimat Les Abymes",
+        "slug": "superclimat-les-abymes",
+        "telephone": null,
+        "site_web": "https://superclimat.fr/",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3027043552678736190",
+        "nom": "CONCEPT ENERGIES NOUVELLES",
+        "slug": "concept-energies-nouvelles",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/cen.climatisation/",
+        "adresse": "POINTE A PITRE, Guadeloupe",
+        "note": 4,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4642035207626219048",
+        "nom": "Domosf'air",
+        "slug": "domosfair",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/TCE.Climatisation/",
+        "adresse": "Avenue gabriel bach, Le Raizet",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15268009098668673622",
+        "nom": "Guiban Antilles",
+        "slug": "guiban-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13882285131098429129",
+        "nom": "Tropic Froid Services - Froid & Climatisation",
+        "slug": "tropic-froid-services-froid-climatisation",
+        "telephone": null,
+        "site_web": "https://tropicfroidservices.fr/",
+        "adresse": "Saint-François, Guadeloupe",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2577032581553241435",
+        "nom": "Eskimo Antilles",
+        "slug": "eskimo-antilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  }
+}

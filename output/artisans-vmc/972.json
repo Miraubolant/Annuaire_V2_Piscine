@@ -1,0 +1,2833 @@
+{
+  "capesterre-belle-eau": {
+    "artisans": [
+      {
+        "id": "12013567472935665795",
+        "nom": "PLOMBERIE EXPRESS",
+        "slug": "plomberie-express",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des Raisiniers",
+        "note": 5,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "5226524145703707868",
+        "nom": "Clims Des Îles",
+        "slug": "clims-des-iles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 7 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "11648619971518454860",
+        "nom": "JO PLOMBERY",
+        "slug": "jo-plombery",
+        "telephone": null,
+        "site_web": "https://sites.google.com/view/%20joplombery",
+        "adresse": "9 Rue Léon Philis Seymour",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "795566676768701700",
+        "nom": "CLIMCAR",
+        "slug": "climcar",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue de Fromager",
+        "note": 4,
+        "avis": 17,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "7291865337454930118",
+        "nom": "System Elec 971 | Intervention Rapide‎ sur toute la Guadeloupe",
+        "slug": "system-elec-971-intervention-rapide-sur-toute-la-guadeloupe",
+        "telephone": null,
+        "site_web": "https://system-elec.fr/",
+        "adresse": "Rte de Petit Marquisat",
+        "note": 4,
+        "avis": 79,
+        "type": "Électricien"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16600826476239522465",
+        "nom": "CENTRAL'TECH",
+        "slug": "centraltech",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3C2P+R7P",
+        "note": 5,
+        "avis": 1,
+        "type": "Siège social"
+      },
+      {
+        "id": "12773633081571362834",
+        "nom": "ACHP",
+        "slug": "achp",
+        "telephone": null,
+        "site_web": "http://www.achp971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "865923970545406693",
+        "nom": "h2m industrie",
+        "slug": "h2m-industrie",
+        "telephone": null,
+        "site_web": "https://www.h2m-industrie.fr/",
+        "adresse": "170 Moravie, Rue de Cambrefort",
+        "note": null,
+        "avis": null,
+        "type": "Entreprise de maintenance aéronautique"
+      },
+      {
+        "id": "3330307844800648700",
+        "nom": "CHO & FOI CLIMATISATIONS",
+        "slug": "cho-foi-climatisations",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/chofoisarl/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "gourbeyre": {
+    "artisans": [
+      {
+        "id": "13900599676275401293",
+        "nom": "SBP Concept",
+        "slug": "sbp-concept",
+        "telephone": null,
+        "site_web": "http://sbp-concept.com/",
+        "adresse": "N748 rue Pierre et René Hincelin, Blanchet",
+        "note": 4,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12699048355306481537",
+        "nom": "CLIMMOBAT",
+        "slug": "climmobat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guadeloupe",
+        "note": 2,
+        "avis": 6,
+        "type": "Siège social"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12907872148372797589",
+        "nom": "Société Nouvelle Guy Bonhomme",
+        "slug": "societe-nouvelle-guy-bonhomme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "X8W5+CGC Dupere, Rue Dourneaux Duperre",
+        "note": null,
+        "avis": null,
+        "type": "installateur VMC ventilation"
+      }
+    ]
+  },
+  "petit-bourg": {
+    "artisans": [
+      {
+        "id": "6751315037443140975",
+        "nom": "pro cold fwi",
+        "slug": "pro-cold-fwi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. de Tivoli",
+        "note": 4,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 4,
+        "avis": 406,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12773633081571362834",
+        "nom": "ACHP",
+        "slug": "achp",
+        "telephone": null,
+        "site_web": "http://www.achp971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12446177735990799338",
+        "nom": "EC'EAU PLUS",
+        "slug": "eceau-plus",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "IMMEUBLE ODYSSEE, ZAC DE COLIN",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "202730773825261016",
+        "nom": "Clim Cash Jarry Baie-Mahaut - Guadeloupe",
+        "slug": "clim-cash-jarry-baie-mahaut-guadeloupe",
+        "telephone": null,
+        "site_web": "https://www.climcash-guadeloupe.fr/",
+        "adresse": "Baie-Mahault, Guadeloupe",
+        "note": 2,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9897251560356783650",
+        "nom": "SYSTEM'S MATIC",
+        "slug": "systems-matic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "188 Chem. de Malgre Tout",
+        "note": null,
+        "avis": null,
+        "type": "Entreprise d'automatisation"
+      },
+      {
+        "id": "9750111615029680799",
+        "nom": "Chemin malgré tout",
+        "slug": "chemin-malgre-tout",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "188, 97170 chemin malgré tout",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "12416605780011516377",
+        "nom": "Vid' Fosse",
+        "slug": "vid-fosse",
+        "telephone": null,
+        "site_web": "https://www.guadeloupe-assainissement.com/",
+        "adresse": "396 Chem. De Clede",
+        "note": 5,
+        "avis": 2,
+        "type": "Service d'assainissement"
+      }
+    ]
+  },
+  "port-louis": {
+    "artisans": [
+      {
+        "id": "8342721829501911627",
+        "nom": "Chauclimeco",
+        "slug": "chauclimeco",
+        "telephone": null,
+        "site_web": "https://chauclimeco.com/",
+        "adresse": "Port-Saint-Louis-du-Rhône",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "9412249409923283341",
+        "nom": "C E P DEPANNAGE",
+        "slug": "c-e-p-depannage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Rose, Guadeloupe",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "trois-rivieres": {
+    "artisans": [
+      {
+        "id": "727117062903637572",
+        "nom": "Climatisation Express inc - Chauffage-Climatisation-Ventilation Trois-Rivières",
+        "slug": "climatisation-express-inc-chauffage-climatisation-ventilation-trois-rivieres",
+        "telephone": null,
+        "site_web": "https://www.climatisationexpress.ca/gmb-thermopompes-chauffage-ecoenergetiques/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 5,
+        "avis": 335,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9098755135559568329",
+        "nom": "Climatisation S.Montour | Entrepreneur en chauffage, ventilation et climatisation à Trois-Rivières",
+        "slug": "climatisation-smontour-entrepreneur-en-chauffage-ventilation-et-climatisation-a-trois-rivieres",
+        "telephone": null,
+        "site_web": "https://climatisation-s-montour.jimdosite.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 5,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3276838272209417834",
+        "nom": "Sanitair Ventilation",
+        "slug": "sanitair-ventilation",
+        "telephone": null,
+        "site_web": "https://www.411habitation.com/nettoyage-conduits/mauricie/trois-rivieres-2/nettoyage-conduits-trois-rivieres.htm",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 5,
+        "avis": 106,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12463696053812422441",
+        "nom": "JDS Multiservice",
+        "slug": "jds-multiservice",
+        "telephone": null,
+        "site_web": "http://www.jdsmultiservice.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 4,
+        "avis": 113,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13912909375309961996",
+        "nom": "RB Ventilation",
+        "slug": "rb-ventilation",
+        "telephone": null,
+        "site_web": "https://rbventilation.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 5,
+        "avis": 106,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6067853544659114733",
+        "nom": "Climatisation Trois-Rivières",
+        "slug": "climatisation-trois-rivieres",
+        "telephone": null,
+        "site_web": "https://climatisationtroisrivieres.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 4,
+        "avis": 145,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7109978211053556177",
+        "nom": "Net-Air, Nettoyage de conduits Trois-Rivières",
+        "slug": "net-air-nettoyage-de-conduits-trois-rivieres",
+        "telephone": null,
+        "site_web": "https://www.411habitation.com/nettoyage-conduits/mauricie/trois-rivieres-5/nettoyage-conduits-trois-rivieres.htm",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 4,
+        "avis": 187,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11315455221933942348",
+        "nom": "HydroKleen Trois-Rivières",
+        "slug": "hydrokleen-trois-rivieres",
+        "telephone": null,
+        "site_web": "https://hydrokleencanada.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18193121401465182526",
+        "nom": "Chartray Réfrigération | Vente, Installation et Entretien | Climatisation, Thermopompe et Chauffage Trois-Rivières",
+        "slug": "chartray-refrigeration-vente-installation-et-entretien-climatisation-thermopompe-et-chauffage-trois-rivieres",
+        "telephone": null,
+        "site_web": "http://chartray.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 4,
+        "avis": 165,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13996434330366954178",
+        "nom": "ADF Ventilation inc.",
+        "slug": "adf-ventilation-inc",
+        "telephone": null,
+        "site_web": "http://adfventilation.com/",
+        "adresse": "Trois-Rivières, QC, Canada",
+        "note": 5,
+        "avis": 5,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "basse-pointe": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "macouba": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3224332859937539964",
+        "nom": "Universal Cold",
+        "slug": "universal-cold",
+        "telephone": null,
+        "site_web": "https://universalcold.fr/",
+        "adresse": "Rivière-Salée, Martinique",
+        "note": 4,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18439646893027007350",
+        "nom": "Froidelec-SBF climatisation",
+        "slug": "froidelec-sbf-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climatisation-froidelec-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12908787304121626539",
+        "nom": "Clim Cash Robert - Martinique",
+        "slug": "clim-cash-robert-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "le-precheur": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Auraclimatisation?utm_source=gmb",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3224332859937539964",
+        "nom": "Universal Cold",
+        "slug": "universal-cold",
+        "telephone": null,
+        "site_web": "https://universalcold.fr/",
+        "adresse": "Rivière-Salée, Martinique",
+        "note": 4,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-joseph": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Habitation Rivière Blanche 7.5 km route de",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16519069852417818011",
+        "nom": "EPS CLIM AUTO",
+        "slug": "eps-clim-auto",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3285 N4",
+        "note": null,
+        "avis": null,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "schlcher": {
+    "artisans": [
+      {
+        "id": "16660230297640919148",
+        "nom": "AIR SYSTEM CLIM",
+        "slug": "air-system-clim",
+        "telephone": null,
+        "site_web": "https://www.airsystemclim.fr/",
+        "adresse": "Schoelcher, Martinique",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12977666096836839821",
+        "nom": "GALAX’ECO",
+        "slug": "galaxeco",
+        "telephone": null,
+        "site_web": "http://www.galaxeco.com/",
+        "adresse": "Schoelcher, Martinique",
+        "note": 4,
+        "avis": 12,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1438275840605690904",
+        "nom": "SEB CLIM",
+        "slug": "seb-clim",
+        "telephone": null,
+        "site_web": "https://www.seb-clim972.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 383,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-morne-vert": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "17119953217185693293",
+        "nom": "ANTILLES CLIMATISATION",
+        "slug": "antilles-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/antillesClimatisation01/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Auraclimatisation?utm_source=gmb",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-diamant": {
+    "artisans": [
+      {
+        "id": "11081574260996744517",
+        "nom": "Clim-Dim EURL",
+        "slug": "clim-dim-eurl",
+        "telephone": null,
+        "site_web": "https://www.martinique-climatisation.fr/",
+        "adresse": "quartier O Mullane",
+        "note": 5,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "ducos": {
+    "artisans": [
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Centre Cocotte Plaza Ducos MQ 97224",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3093331531994811000",
+        "nom": "Clima Clean",
+        "slug": "clima-clean",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Immeuble Laguerre, ZI Champigny, escalier B",
+        "note": 2,
+        "avis": 11,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "gros-morne": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Auraclimatisation?utm_source=gmb",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17631476107281350616",
+        "nom": "Jo Plomberie 972",
+        "slug": "jo-plomberie-972",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Petite Tracee",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "le-lamentin": {
+    "artisans": [
+      {
+        "id": "9327409945072315946",
+        "nom": "CLIM PLUS Martinique",
+        "slug": "clim-plus-martinique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zone Industrielle de Californie",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "291 Chem. Bellonie",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16417492279765662740",
+        "nom": "Ecofrost - Clim Master",
+        "slug": "ecofrost-clim-master",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/CLIM-MASTER-355268689862/?utm_source=gmb",
+        "adresse": "Beleme Résidence Capucine",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Immeuble Talic, 469 ZI la Lezarde",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5191513662012035232",
+        "nom": "Clim Care Service",
+        "slug": "clim-care-service",
+        "telephone": null,
+        "site_web": "https://bookeo.com/climcareservice",
+        "adresse": "67 Rue Emmanuel Courant",
+        "note": 4,
+        "avis": 92,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "5598703286767520868",
+        "nom": "Genifroid",
+        "slug": "genifroid",
+        "telephone": null,
+        "site_web": "https://genifroid.fr/",
+        "adresse": "67 Chem. Bois Jolimont",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11735156948647165387",
+        "nom": "Froid Mat Climatisation Martinique",
+        "slug": "froid-mat-climatisation-martinique",
+        "telephone": null,
+        "site_web": "https://www.climatisation-martinique.fr/",
+        "adresse": "Zone industrielle de Californie",
+        "note": 3,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-lorrain": {
+    "artisans": [
+      {
+        "id": "6289652196075417490",
+        "nom": "Flux lorrain -F2E",
+        "slug": "flux-lorrain-f2e",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/people/FLUX-lorrain/100063505302762/",
+        "adresse": "Houdreville",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16292064454251007102",
+        "nom": "Lorraine Ventilation Sanitation",
+        "slug": "lorraine-ventilation-sanitation",
+        "telephone": null,
+        "site_web": "http://lorraine-ventilation-sanitation.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "15575338675346658355",
+        "nom": "Le plombier lorrain",
+        "slug": "le-plombier-lorrain",
+        "telephone": null,
+        "site_web": "https://plombier-lorrain-13.fr/",
+        "adresse": "Fos-sur-Mer",
+        "note": 4,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "8298038574848425726",
+        "nom": "MJR CHAUFFAGE : Chauffage, Climatisation, Pompe à chaleur, Ventilation",
+        "slug": "mjr-chauffage-chauffage-climatisation-pompe-a-chaleur-ventilation",
+        "telephone": null,
+        "site_web": "https://www.jrchauffage.com/",
+        "adresse": "Talange",
+        "note": 4,
+        "avis": 67,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13488659477125987262",
+        "nom": "Lorraine Ventilation Sanitation",
+        "slug": "lorraine-ventilation-sanitation",
+        "telephone": null,
+        "site_web": "https://lorraine-ventilation-sanitation.fr/contact/",
+        "adresse": "Beuvezin",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15751183757373005100",
+        "nom": "HYGIEN' AIR Solutions",
+        "slug": "hygien-air-solutions",
+        "telephone": null,
+        "site_web": "https://www.hygien-air-solutions.fr/contact",
+        "adresse": "Marly",
+        "note": 4,
+        "avis": 25,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13678329207964974147",
+        "nom": "LORRAINE CHAUFFAGE",
+        "slug": "lorraine-chauffage",
+        "telephone": null,
+        "site_web": "https://www.lorraine-chauffage.fr/",
+        "adresse": "Augny",
+        "note": 5,
+        "avis": 129,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-marin": {
+    "artisans": [
+      {
+        "id": "17953888258622563249",
+        "nom": "CEBI",
+        "slug": "cebi",
+        "telephone": null,
+        "site_web": "https://www.cebiclimatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Zone Artisanale et Commerciale de la Duprey",
+        "note": 4,
+        "avis": 110,
+        "type": "Électricien"
+      },
+      {
+        "id": "8639745663375936790",
+        "nom": "Caraibe Réfrigération SARL",
+        "slug": "caraibe-refrigeration-sarl",
+        "telephone": null,
+        "site_web": "https://www.caraibe-refrigeration.fr/",
+        "adresse": "Marina bassin, n1 Bd Allegre",
+        "note": 4,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-esprit": {
+    "artisans": [
+      {
+        "id": "15376533056319992973",
+        "nom": "LASR CLIMATISATION",
+        "slug": "lasr-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Esprit, Martinique",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-pierre": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "bellefontaine": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "10823299722155915373",
+        "nom": "Evonergy",
+        "slug": "evonergy",
+        "telephone": null,
+        "site_web": "http://www.evonergy.fr/",
+        "adresse": "Toulouse",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14748519796157635549",
+        "nom": "C2 Climea",
+        "slug": "c2-climea",
+        "telephone": null,
+        "site_web": "https://www.c2climea.fr/",
+        "adresse": "Toulouse",
+        "note": 4,
+        "avis": 92,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "le-morne-rouge": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16660230297640919148",
+        "nom": "AIR SYSTEM CLIM",
+        "slug": "air-system-clim",
+        "telephone": null,
+        "site_web": "https://www.airsystemclim.fr/",
+        "adresse": "Schoelcher, Martinique",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "5598703286767520868",
+        "nom": "Genifroid",
+        "slug": "genifroid",
+        "telephone": null,
+        "site_web": "https://genifroid.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "la-trinite": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10133065177827878918",
+        "nom": "Air & Eau Concept",
+        "slug": "air-eau-concept",
+        "telephone": null,
+        "site_web": "https://www.climatisation-aireauconcept.fr/?utm_source=gmb",
+        "adresse": "La Trinité",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15536753144740453510",
+        "nom": "S3C - Groupe PPC -Pièces Point Chauffe",
+        "slug": "s3c-groupe-ppc-pieces-point-chauffe",
+        "telephone": null,
+        "site_web": "http://www.pieces-chauffe.fr/",
+        "adresse": "La Trinité",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-carbet": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17119953217185693293",
+        "nom": "ANTILLES CLIMATISATION",
+        "slug": "antilles-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/antillesClimatisation01/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "73183987173329164",
+        "nom": "Beneri SARL",
+        "slug": "beneri-sarl",
+        "telephone": null,
+        "site_web": "https://www.beneri-sarl.fr/",
+        "adresse": "Martinique",
+        "note": 5,
+        "avis": 11,
+        "type": "Service d'extermination des nuisibles"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17231609754611597598",
+        "nom": "MonElectricien",
+        "slug": "monelectricien",
+        "telephone": null,
+        "site_web": "http://www.mecalv.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "fort-de-france": {
+    "artisans": [
+      {
+        "id": "18439646893027007350",
+        "nom": "Froidelec-SBF climatisation",
+        "slug": "froidelec-sbf-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climatisation-froidelec-martinique.fr/",
+        "adresse": "8 Av. Paul Nardal",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1438275840605690904",
+        "nom": "SEB CLIM",
+        "slug": "seb-clim",
+        "telephone": null,
+        "site_web": "https://www.seb-clim972.com/",
+        "adresse": "Bâtiment B - porte 14, Centre Commercial Le Trident, Av. Louis Domergue Montgeralde",
+        "note": 4,
+        "avis": 383,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Immeuble Corniche 3, Centre Commercial de Bellevue, Boulevard de la Marne",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "4,5km Route du lamentin,",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "F34 Les Flamboyants, Cité Dillon Nord-Est",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17119953217185693293",
+        "nom": "ANTILLES CLIMATISATION",
+        "slug": "antilles-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/antillesClimatisation01/",
+        "adresse": "389 Rue Auguste Flaun",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16660230297640919148",
+        "nom": "AIR SYSTEM CLIM",
+        "slug": "air-system-clim",
+        "telephone": null,
+        "site_web": "https://www.airsystemclim.fr/",
+        "adresse": "Schoelcher, Martinique",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16641067803723891026",
+        "nom": "ENERGIE CLIM SARL",
+        "slug": "energie-clim-sarl",
+        "telephone": null,
+        "site_web": "http://www.energieclim972.fr/",
+        "adresse": "Centre Commercial De Bellevue, Av. Frantz Fanon",
+        "note": 3,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-francois": {
+    "artisans": [
+      {
+        "id": "7786461329547839947",
+        "nom": "Atlantic Froid",
+        "slug": "atlantic-froid",
+        "telephone": null,
+        "site_web": "https://www.atlanticfroid.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Vapeur Est",
+        "note": 3,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-marigot": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3224332859937539964",
+        "nom": "Universal Cold",
+        "slug": "universal-cold",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rivière-Salée, Martinique",
+        "note": 4,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "riviere-salee": {
+    "artisans": [
+      {
+        "id": "2646138995389725097",
+        "nom": "JB CLIM Auto Service",
+        "slug": "jb-clim-auto-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Quartier fond-masson, Chem. Remi Minot",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "3224332859937539964",
+        "nom": "Universal Cold",
+        "slug": "universal-cold",
+        "telephone": null,
+        "site_web": "https://universalcold.fr/",
+        "adresse": "Deslandes 1, Rue de la Source",
+        "note": 4,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3730107528507535440",
+        "nom": "Plomberie Dom Rivière salée",
+        "slug": "plomberie-dom-riviere-salee",
+        "telephone": null,
+        "site_web": "https://plomberiedom.com/",
+        "adresse": "Rue Mandela, ZAC de l'Espérance",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "2356631696077809963",
+        "nom": "Kay’Élèk",
+        "slug": "kayelek",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61557540178949&utm_source=gmb",
+        "adresse": "4 Lotissement Pois Doux",
+        "note": 4,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "13500428915469764210",
+        "nom": "JFservices",
+        "slug": "jfservices",
+        "telephone": null,
+        "site_web": "http://jfservices-sav.fr/",
+        "adresse": "31 Rue Nérée Peria",
+        "note": 3,
+        "avis": 9,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Auraclimatisation?utm_source=gmb",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8487359676554136156",
+        "nom": "Pluie & Vie",
+        "slug": "pluie-vie",
+        "telephone": null,
+        "site_web": "http://www.pluie-et-vie.com/",
+        "adresse": "4 Voie de l'espérance",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur de citernes d'eau de pluie"
+      },
+      {
+        "id": "5096405403664191881",
+        "nom": "Martinique froid services",
+        "slug": "martinique-froid-services",
+        "telephone": null,
+        "site_web": "https://martiniquefroidservices.com/",
+        "adresse": "Ducos, Martinique",
+        "note": 3,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-anne": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3285130672019138635",
+        "nom": "Techni Froid Service",
+        "slug": "techni-froid-service",
+        "telephone": null,
+        "site_web": "http://techni-froid-service.com/",
+        "adresse": "Sainte-Anne, Guadeloupe",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15767795972308854847",
+        "nom": "Air Et Eau",
+        "slug": "air-et-eau",
+        "telephone": null,
+        "site_web": "http://www.air-eau-ventilation.com/",
+        "adresse": "Grenoble",
+        "note": 4,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16249938655571433020",
+        "nom": "Atmeo",
+        "slug": "atmeo",
+        "telephone": null,
+        "site_web": "https://www.atmeo.fr/",
+        "adresse": "Lyon",
+        "note": 4,
+        "avis": 99,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-luce": {
+    "artisans": [
+      {
+        "id": "12010179272871710480",
+        "nom": "Aery Nantes - climatisation, ventilation et chauffage",
+        "slug": "aery-nantes-climatisation-ventilation-et-chauffage",
+        "telephone": null,
+        "site_web": "http://www.aery.fr/",
+        "adresse": "Sainte-Luce-sur-Loire",
+        "note": 5,
+        "avis": 208,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6326104225124588446",
+        "nom": "A.T.I.B. Sté",
+        "slug": "atib-ste",
+        "telephone": null,
+        "site_web": "https://www.atib.fr/",
+        "adresse": "Sainte-Luce-sur-Loire",
+        "note": 4,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6371024051334490837",
+        "nom": "Groupe Le Carré Nantes (ASH)",
+        "slug": "groupe-le-carre-nantes-ash",
+        "telephone": null,
+        "site_web": "https://www.groupelecarre-nantes.fr/?utm_source=gmb",
+        "adresse": "Sainte-Luce-sur-Loire",
+        "note": 4,
+        "avis": 54,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "7593117386166504928",
+        "nom": "E-Solus",
+        "slug": "e-solus",
+        "telephone": null,
+        "site_web": "https://e-solus.fr/",
+        "adresse": "Sainte-Luce-sur-Loire",
+        "note": 4,
+        "avis": 57,
+        "type": "Électricien"
+      },
+      {
+        "id": "14489447830533061594",
+        "nom": "Secafi",
+        "slug": "secafi",
+        "telephone": null,
+        "site_web": "http://secaficlimatisation.com/?utm_source=gmb",
+        "adresse": "Carquefou",
+        "note": 4,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      }
+    ]
+  },
+  "sainte-marie": {
+    "artisans": [
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "le-vauclin": {
+    "artisans": [
+      {
+        "id": "12833296093511878732",
+        "nom": "Eddy Pruvost",
+        "slug": "eddy-pruvost",
+        "telephone": null,
+        "site_web": "https://www.plombierelec.com/",
+        "adresse": "H44J+98J, Voie Communale de Bel Air",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17953888258622563249",
+        "nom": "CEBI",
+        "slug": "cebi",
+        "telephone": null,
+        "site_web": "https://www.cebiclimatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Le Marin, Martinique",
+        "note": 4,
+        "avis": 110,
+        "type": "Électricien"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15447340906803921841",
+        "nom": "King Cold - Installation et entretien de Climatiseur en Martinique",
+        "slug": "king-cold-installation-et-entretien-de-climatiseur-en-martinique",
+        "telephone": null,
+        "site_web": "https://www.kingcold.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 3,
+        "avis": 29,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "les-trois-ilets": {
+    "artisans": [
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17953888258622563249",
+        "nom": "CEBI",
+        "slug": "cebi",
+        "telephone": null,
+        "site_web": "https://www.cebiclimatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Le Marin, Martinique",
+        "note": 4,
+        "avis": 110,
+        "type": "Électricien"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Auraclimatisation?utm_source=gmb",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17119953217185693293",
+        "nom": "ANTILLES CLIMATISATION",
+        "slug": "antilles-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/antillesClimatisation01/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "case-pilote": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "369681339717827027",
+        "nom": "Clim Cash Lamentin - Martinique",
+        "slug": "clim-cash-lamentin-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Lamentin, Martinique",
+        "note": 3,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "654587229773118267",
+        "nom": "Froid Express Martinique",
+        "slug": "froid-express-martinique",
+        "telephone": null,
+        "site_web": "https://www.froidexpress.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2994784148363702336",
+        "nom": "Norfroid",
+        "slug": "norfroid",
+        "telephone": null,
+        "site_web": "https://norfroid-04.webself.net/services",
+        "adresse": "Sainte-Marie, Martinique",
+        "note": 3,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4026138204985373356",
+        "nom": "E.S PRO",
+        "slug": "es-pro",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "+596 696 03 61 76",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "7587664987617087133",
+        "nom": "Village médical",
+        "slug": "village-medical",
+        "telephone": null,
+        "site_web": "https://www.villagemedicalcasepilote.mq/",
+        "adresse": "474 rue jean claude zié-mé",
+        "note": null,
+        "avis": null,
+        "type": "Maison de santé"
+      }
+    ]
+  }
+}

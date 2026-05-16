@@ -1,0 +1,6073 @@
+{
+  "reilhac": {
+    "artisans": [
+      {
+        "id": "6928850576610780859",
+        "nom": "SARL CARCY",
+        "slug": "sarl-carcy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue de Lestoubeyre",
+        "note": 4,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15440157157055148580",
+        "nom": "Hrn 15",
+        "slug": "hrn-15",
+        "telephone": null,
+        "site_web": "http://www.hrn15.fr/",
+        "adresse": "Naucelles",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4812874880912872027",
+        "nom": "TM VENTILATION",
+        "slug": "tm-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Clonas-sur-Varèze",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "Ytrac",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "11714191178108158533",
+        "nom": "Energiair",
+        "slug": "energiair",
+        "telephone": null,
+        "site_web": "https://energiair.fr/",
+        "adresse": "Limoges",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17250372663861774858",
+        "nom": "Rt Fluides",
+        "slug": "rt-fluides",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/SasRTFLuides/?__tn__=%2As-R",
+        "adresse": "Arpajon-sur-Cère",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "ydes": {
+    "artisans": [
+      {
+        "id": "1812784803575690064",
+        "nom": "Papon Dominique",
+        "slug": "papon-dominique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 bis Imp. Martial Lapeyre",
+        "note": 4,
+        "avis": 3,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "884769268915872248",
+        "nom": "Doulcet Cyril",
+        "slug": "doulcet-cyril",
+        "telephone": null,
+        "site_web": "http://sarldoulcet.com/",
+        "adresse": "1 All. de Sumène Artense",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "668715453443607639",
+        "nom": "GECO - spécialiste du traitement de l'air - Déshumidification & Ventilation",
+        "slug": "geco-specialiste-du-traitement-de-lair-deshumidification-ventilation",
+        "telephone": null,
+        "site_web": "https://www.geco.fr/",
+        "adresse": "Drusenheim",
+        "note": 4,
+        "avis": 29,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "9140887711020245435",
+        "nom": "Réverclim | Pac | Chauffage | Plomberie",
+        "slug": "reverclim-pac-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.reverclim.fr/",
+        "adresse": "Meyzieu",
+        "note": 4,
+        "avis": 83,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "le-rouget-pers": {
+    "artisans": [
+      {
+        "id": "14124942284117795060",
+        "nom": "Baissac Gérard Eurl",
+        "slug": "baissac-gerard-eurl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Imp. du Fourgues",
+        "note": 4,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": null,
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "Roannes-Saint-Mary",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13817954678838159384",
+        "nom": "IN'AUV ENERGIES",
+        "slug": "inauv-energies",
+        "telephone": null,
+        "site_web": "https://www.inauv-energies.fr/",
+        "adresse": "Aurillac",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": null,
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "642244758347989979",
+        "nom": "Villaret Sarl",
+        "slug": "villaret-sarl",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Aurillac",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "Ytrac",
+        "note": 4,
+        "avis": 102,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "17623611414965711272",
+        "nom": "SARL François BELAUBRE",
+        "slug": "sarl-francois-belaubre",
+        "telephone": null,
+        "site_web": "https://belaubre-plombier-chauffagiste.fr/",
+        "adresse": "Saint-Mamet-la-Salvetat",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "17341174724046520081",
+        "nom": "Deguirard Electricité Générale SARL",
+        "slug": "deguirard-electricite-generale-sarl",
+        "telephone": null,
+        "site_web": "http://www.deguirard-electricien.fr/",
+        "adresse": "Sansac-de-Marmiesse",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": null,
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "Murat",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15440157157055148580",
+        "nom": "Hrn 15",
+        "slug": "hrn-15",
+        "telephone": null,
+        "site_web": "http://www.hrn15.fr/",
+        "adresse": "Naucelles",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "angouleme": {
+    "artisans": [
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "23 Imp. Leroy",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10999740592854130106",
+        "nom": "2PHR ENERGY",
+        "slug": "2phr-energy",
+        "telephone": null,
+        "site_web": "https://2phr-energy.fr/",
+        "adresse": "401 Rue de Bordeaux",
+        "note": 5,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18258341331968894074",
+        "nom": "TLC",
+        "slug": "tlc",
+        "telephone": null,
+        "site_web": "http://lebraultthomas.site-solocal.com/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "4055966305050384614",
+        "nom": "MJ ENR",
+        "slug": "mj-enr",
+        "telephone": null,
+        "site_web": "https://www.mjenr.fr/",
+        "adresse": "401 Rue de Bordeaux",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "asnieres-sur-nouere": {
+    "artisans": [
+      {
+        "id": "11707444510451387284",
+        "nom": "bt plus installation vmc asnieres sur seine - nettoyage vmc - maintenance vmc",
+        "slug": "bt-plus-installation-vmc-asnieres-sur-seine-nettoyage-vmc-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://bt-plus-renovation-sdb-asnieres.com/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3972560749237224837",
+        "nom": "X P Plomberie",
+        "slug": "x-p-plomberie",
+        "telephone": null,
+        "site_web": "https://www.xp-plomberie.fr/",
+        "adresse": "102 Rte des Maréchaux",
+        "note": 5,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "9287460251557762347",
+        "nom": "Sematherm - Entreprise de maintenance CVC",
+        "slug": "sematherm-entreprise-de-maintenance-cvc",
+        "telephone": null,
+        "site_web": "https://www.sematherm.fr/",
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "644521888624418651",
+        "nom": "AEPC 16",
+        "slug": "aepc-16",
+        "telephone": null,
+        "site_web": "https://aepc16-plombier-charente.fr/",
+        "adresse": "6 impasse du safran",
+        "note": 4,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10103524270305505754",
+        "nom": "CONCEPTIO Sarl",
+        "slug": "conceptio-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Asnières-sur-Seine",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9560596497526112637",
+        "nom": "Etablissement Narcès",
+        "slug": "etablissement-narces",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/NARCES-Nicolas-170769016308101/",
+        "adresse": "lotissement les petits bois 16290",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15431973922520320937",
+        "nom": "pose et rénovation du sud ouest",
+        "slug": "pose-et-renovation-du-sud-ouest",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bois du Chadutaud",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      }
+    ]
+  },
+  "baignes-sainte-radegonde": {
+    "artisans": [
+      {
+        "id": "3624452413736446913",
+        "nom": "Vulfin Energies Confort",
+        "slug": "vulfin-energies-confort",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/vulfinenergiesconfort.vulfin/?utm_source=gmb",
+        "adresse": "9 Rue J.C.H Entier Duroc",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13566868846384985656",
+        "nom": "Bonnaudin Père et Fils",
+        "slug": "bonnaudin-pere-et-fils",
+        "telephone": null,
+        "site_web": "http://www.electricien-touverac-bonnaudinpereetfils-hager.fr/",
+        "adresse": "Touvérac",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "1174339121378820801",
+        "nom": "MULTI RURAL",
+        "slug": "multi-rural",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rue Gros Rederching",
+        "note": 4,
+        "avis": 6,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "barbezieux-saint-hilaire": {
+    "artisans": [
+      {
+        "id": "4848807439636910126",
+        "nom": "Eco'tech Confort",
+        "slug": "ecotech-confort",
+        "telephone": null,
+        "site_web": "http://www.ecotechconfort.fr/",
+        "adresse": "18 Rue Victor Hugo",
+        "note": 4,
+        "avis": 48,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8251854129656950165",
+        "nom": "Chauffage Plomberie Carrara",
+        "slug": "chauffage-plomberie-carrara",
+        "telephone": null,
+        "site_web": "http://www.cpc16.fr/",
+        "adresse": "ZA Plaisance, 2 Rue des Maines",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8750330960498822489",
+        "nom": "Charente Dépannage Domestique",
+        "slug": "charente-depannage-domestique",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61556596808838",
+        "adresse": "5 Chem. des Douves",
+        "note": 4,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "14120991029688443886",
+        "nom": "Thermique Electricité",
+        "slug": "thermique-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "le bourg de st hilaire",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9885130253019543654",
+        "nom": "DuSolid Rénov'",
+        "slug": "dusolid-renov",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61556167251915",
+        "adresse": "06 19 16 68 94",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "5953912477657166555",
+        "nom": "Sarl Guillemot",
+        "slug": "sarl-guillemot",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarlGuillemot16?utm_source=gmb",
+        "adresse": "3 A Chem. de la Bourgeade",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "7139000472284613333",
+        "nom": "Téréva Barbezieux",
+        "slug": "tereva-barbezieux",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394583--agence-tereva-barbezieux",
+        "adresse": "2 Rte de Chalais",
+        "note": 4,
+        "avis": 26,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "11042318392061965113",
+        "nom": "SARL AVEONE",
+        "slug": "sarl-aveone",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Av. Vergne",
+        "note": 4,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "2393171874378265422",
+        "nom": "Davias Electricité",
+        "slug": "davias-electricite",
+        "telephone": null,
+        "site_web": "http://davias-electricite.fr/",
+        "adresse": "75 B Rue de la République",
+        "note": 3,
+        "avis": 12,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "barret": {
+    "artisans": [
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "boutiers-saint-trojan": {
+    "artisans": [
+      {
+        "id": "15886081209485381213",
+        "nom": "Renov.Bat Couvreur-Zingueur",
+        "slug": "renovbat-couvreur-zingueur",
+        "telephone": null,
+        "site_web": "https://www.renovbat-couverture.fr/",
+        "adresse": "4 Pl. de l'Église",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14197134018090800370",
+        "nom": "LIMC menuiserie",
+        "slug": "limc-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "265 Chem. du Belvédère",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14766060826408083834",
+        "nom": "MEYER VENTILATION",
+        "slug": "meyer-ventilation",
+        "telephone": null,
+        "site_web": "https://meyerventilation.fr/",
+        "adresse": "Argonay",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16958716361620976184",
+        "nom": "Iso'Lead - Isolation de combles et installation de VMC",
+        "slug": "isolead-isolation-de-combles-et-installation-de-vmc",
+        "telephone": null,
+        "site_web": "http://www.iso-lead.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5369348521194155879",
+        "nom": "B.Viseux : Rénovation Immobilère",
+        "slug": "bviseux-renovation-immobilere",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Brice.viseux",
+        "adresse": "Cognac",
+        "note": 4,
+        "avis": 11,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "9537969245247857721",
+        "nom": "Sani-Chauf",
+        "slug": "sani-chauf",
+        "telephone": null,
+        "site_web": "http://sanichauf1617.jimdofree.com/",
+        "adresse": "Cognac",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "brie": {
+    "artisans": [
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "8 Le Qur de la Loge",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2687401854983944516",
+        "nom": "Technic Froid Charente (TFC)",
+        "slug": "technic-froid-charente-tfc",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100090255770063",
+        "adresse": "130 Chem. des Ecuries",
+        "note": 5,
+        "avis": 27,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "brigueuil": {
+    "artisans": [
+      {
+        "id": "8148614801962304137",
+        "nom": "A.C.E.",
+        "slug": "ace",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "27 Av. Gén de Gaulle",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17610433986153117054",
+        "nom": "ABCH BELLAYER Cédric",
+        "slug": "abch-bellayer-cedric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Rue Saint-Georges",
+        "note": 3,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18272257660548394105",
+        "nom": "A3C Energies SAS",
+        "slug": "a3c-energies-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Junien",
+        "note": 5,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11687892968512598503",
+        "nom": "Ets Roy",
+        "slug": "ets-roy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte de Lesterps",
+        "note": 4,
+        "avis": 13,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "chabanais": {
+    "artisans": [
+      {
+        "id": "8253018705665792911",
+        "nom": "GARRAUD SAS - Plombier - chauffagiste",
+        "slug": "garraud-sas-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue Gambetta",
+        "note": 4,
+        "avis": 68,
+        "type": "Plombier"
+      },
+      {
+        "id": "9835584381420105961",
+        "nom": "Proj'elect Sarl",
+        "slug": "projelect-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZAE LES CHASSATS",
+        "note": 4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "13752965211663344399",
+        "nom": "CASTORP",
+        "slug": "castorp",
+        "telephone": null,
+        "site_web": "http://www.castorp.fr/",
+        "adresse": "Rue Palant Lamirande",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7677226372258187893",
+        "nom": "Maison de Santé de Chabanais",
+        "slug": "maison-de-sante-de-chabanais",
+        "telephone": null,
+        "site_web": "https://chabanais.fr/pratique/sante/",
+        "adresse": "4 Chem. des Bouvières",
+        "note": 4,
+        "avis": 7,
+        "type": "Maison de santé"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17166790585097930401",
+        "nom": "Pfrimmer Fils SAS",
+        "slug": "pfrimmer-fils-sas",
+        "telephone": null,
+        "site_web": "http://www.electricite-pfrimmer-87.fr/?utm_source=gmb",
+        "adresse": "Saint-Junien",
+        "note": 4,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18129320602114844557",
+        "nom": "Camp Robert Ets",
+        "slug": "camp-robert-ets",
+        "telephone": null,
+        "site_web": "https://www.r-camp.fr/",
+        "adresse": "Saint-Junien",
+        "note": 4,
+        "avis": 49,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8148614801962304137",
+        "nom": "A.C.E.",
+        "slug": "ace",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brigueuil",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "champniers": {
+    "artisans": [
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "27 Imp. de la Persienne",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1397044149262534365",
+        "nom": "plomberie chauffage climatisation E.S.I. Dépannage Installation",
+        "slug": "plomberie-chauffage-climatisation-esi-depannage-installation",
+        "telephone": null,
+        "site_web": "http://esi-energie.fr/",
+        "adresse": "98 Rue des Chênes",
+        "note": 5,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14066120009406259113",
+        "nom": "Picoty Tech 16-17 Champniers",
+        "slug": "picoty-tech-16-17-champniers",
+        "telephone": null,
+        "site_web": "http://www.picoty.fr/",
+        "adresse": "1001 Rte des Platanes",
+        "note": 3,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8039672038871535656",
+        "nom": "Cspe - Chauffage Sanitaire Plomberie Electricité Champniers",
+        "slug": "cspe-chauffage-sanitaire-plomberie-electricite-champniers",
+        "telephone": null,
+        "site_web": "https://www.cspe-philippedavid-champniers.fr/",
+        "adresse": "363 Rue Lucien Deschamps",
+        "note": 4,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "16964046521196536291",
+        "nom": "Maxithermie",
+        "slug": "maxithermie",
+        "telephone": null,
+        "site_web": "http://maxithermie.com/",
+        "adresse": "990 rue de l'Arêtier La Croix Blanche",
+        "note": 4,
+        "avis": 3,
+        "type": "Grossiste"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Ruelle-sur-Touvre",
+        "note": 4,
+        "avis": 123,
+        "type": "Plombier"
+      },
+      {
+        "id": "285357713425753174",
+        "nom": "SARL EECE",
+        "slug": "sarl-eece",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rue de l'Auvent",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "17001422627982104574",
+        "nom": "Entreprise Burgaud",
+        "slug": "entreprise-burgaud",
+        "telephone": null,
+        "site_web": "https://entreprise-burgaud-16.fr/",
+        "adresse": "81 Rue des Martinets",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chasseneuil-sur-bonnieure": {
+    "artisans": [
+      {
+        "id": "3565804981046764021",
+        "nom": "HB SYSTEME - Chasseneuil-sur-Bonnieure - L'Isle d'Espagnac",
+        "slug": "hb-systeme-chasseneuil-sur-bonnieure-lisle-despagnac",
+        "telephone": null,
+        "site_web": "http://www.hbsysteme.fr/",
+        "adresse": "Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "12880396147719371085",
+        "nom": "Afia Energies",
+        "slug": "afia-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lieu-dit, Le Grand Pré",
+        "note": 5,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "188433292199499940",
+        "nom": "Gacon Robert",
+        "slug": "gacon-robert",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29 Rte d'Angoulême",
+        "note": 3,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14656349379919119858",
+        "nom": "MG climatic",
+        "slug": "mg-climatic",
+        "telephone": null,
+        "site_web": "https://www.mgclimatic.fr/",
+        "adresse": "06 23 07 81 79",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14021045534558203367",
+        "nom": "ASIMTEC ELECTRICITÉ",
+        "slug": "asimtec-electricite",
+        "telephone": null,
+        "site_web": "http://asimtec.fr/",
+        "adresse": "12 Zone d'Emploi Les Pièces de l'Àge 16260",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": null,
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "8934553516649744450",
+        "nom": "HB Système",
+        "slug": "hb-systeme",
+        "telephone": null,
+        "site_web": "http://www.hbsysteme.fr/?fbclid=IwAR0vCqUUS95vm7o0nlel1GFz90lBosaJ1VGimk27Y-Pi3cetPlrwtCUb6og",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "15718654012685557561",
+        "nom": "MC-Thermic EIRL Martzel Christophe",
+        "slug": "mc-thermic-eirl-martzel-christophe",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/930487297035274",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "chassors": {
+    "artisans": [
+      {
+        "id": "12095538539439103226",
+        "nom": "Lacoste Ludovic Chauffage Sanitaire",
+        "slug": "lacoste-ludovic-chauffage-sanitaire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chassors",
+        "note": 3,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14583236980631188584",
+        "nom": "A D Chaud Froid",
+        "slug": "a-d-chaud-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Triac-Lautrait",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "chateaubernard": {
+    "artisans": [
+      {
+        "id": "14777166120465623063",
+        "nom": "Humaux Sébastien EURL IDE Bâtiment - Électricité, Plomberie, Chauffage, Climatisation, Pompe à Chaleur",
+        "slug": "humaux-sebastien-eurl-ide-batiment-electricite-plomberie-chauffage-climatisation-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "http://www.ide-batiment.fr/",
+        "adresse": "06 48 18 77 74",
+        "note": 4,
+        "avis": 81,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": null,
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "parc du fief du roy, Rue Pierre Latecoere",
+        "note": 3,
+        "avis": 40,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "chateauneuf-sur-charente": {
+    "artisans": [
+      {
+        "id": "8378485258297482962",
+        "nom": "Moreau Grégory Rénovation",
+        "slug": "moreau-gregory-renovation",
+        "telephone": null,
+        "site_web": "http://www.mg-renovation.net/",
+        "adresse": "1 Rue Aristide Briand",
+        "note": 5,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "9214334546873934501",
+        "nom": "Freddy rouach",
+        "slug": "freddy-rouach",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32 Lasdoux",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "13581177368872191780",
+        "nom": "ETS JAUVIN",
+        "slug": "ets-jauvin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Bd Jean Moulin",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "12320365375763230715",
+        "nom": "Sarl Castel Thermique",
+        "slug": "sarl-castel-thermique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue Antoine Descoffre",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3609009549597557517",
+        "nom": "Baspeyras Jean-Paul",
+        "slug": "baspeyras-jean-paul",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rte d'Angoulême",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "18060729415373043399",
+        "nom": "Gatineau Tp",
+        "slug": "gatineau-tp",
+        "telephone": null,
+        "site_web": "http://www.gatineau-tp-terrassements.fr/",
+        "adresse": "CHATEAUNEUF",
+        "note": 4,
+        "avis": 12,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "689386864216761065",
+        "nom": "MESLIER CHRISTIAN",
+        "slug": "meslier-christian",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Route Châteauneuf",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chazelles": {
+    "artisans": [
+      {
+        "id": "2081225133770608589",
+        "nom": "Chinvest",
+        "slug": "chinvest",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte de Marthon",
+        "note": 3,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13557249464674752668",
+        "nom": "MaxBat Rénovation",
+        "slug": "maxbat-renovation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "07 86 11 12 89",
+        "note": null,
+        "avis": null,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7758371147068941199",
+        "nom": "Chazelles Angoulême Cheminée, poêle à bois, poêle à granulés",
+        "slug": "chazelles-angouleme-cheminee-poele-a-bois-poele-a-granules",
+        "telephone": null,
+        "site_web": "https://www.chazelles.com/store-locator/magasin/magasin-en-charente-cheminee-poele-insert-chazelles/",
+        "adresse": "Gond-Pontouvre",
+        "note": 4,
+        "avis": 42,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "12823506320678771879",
+        "nom": "Dam'elec",
+        "slug": "damelec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 impasse des sables, chez Bâtisse",
+        "note": 4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "12801373786138208911",
+        "nom": "JV Clim Chauffage",
+        "slug": "jv-clim-chauffage",
+        "telephone": null,
+        "site_web": "http://jvclimchauffage.fr/",
+        "adresse": "Chazelles-sur-Lavieu",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "10445864348438793553",
+        "nom": "FONSECA PHILIPPE",
+        "slug": "fonseca-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Rue de Chez Bâtisses",
+        "note": 4,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "7979703106821791084",
+        "nom": "Dubois Olivier",
+        "slug": "dubois-olivier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Chem. des Buissons",
+        "note": 4,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4797586278963922799",
+        "nom": "CONFORT VERT ENERGIES",
+        "slug": "confort-vert-energies",
+        "telephone": null,
+        "site_web": "http://www.confort-vert-energies.fr/",
+        "adresse": "Chazelles-sur-Lyon",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "claix": {
+    "artisans": [
+      {
+        "id": "3203386207923020087",
+        "nom": "SAS CLIMEFROID",
+        "slug": "sas-climefroid",
+        "telephone": null,
+        "site_web": "https://www.climefroid16.com/",
+        "adresse": "Claix",
+        "note": 4,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "cognac": {
+    "artisans": [
+      {
+        "id": "14777166120465623063",
+        "nom": "Humaux Sébastien EURL IDE Bâtiment - Électricité, Plomberie, Chauffage, Climatisation, Pompe à Chaleur",
+        "slug": "humaux-sebastien-eurl-ide-batiment-electricite-plomberie-chauffage-climatisation-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "http://www.ide-batiment.fr/",
+        "adresse": "06 48 18 77 74",
+        "note": 4,
+        "avis": 81,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "456904256215793525",
+        "nom": "Etablissements Perot",
+        "slug": "etablissements-perot",
+        "telephone": null,
+        "site_web": "https://perot-cognac.fr/",
+        "adresse": "6 Rue de l'Artisanat",
+        "note": 4,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13603533410196467398",
+        "nom": "3D CLIM",
+        "slug": "3d-clim",
+        "telephone": null,
+        "site_web": "https://lamaison3d.fr/",
+        "adresse": "3 Rue du Vieux Pont",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16868387336580990171",
+        "nom": "Eco Energie Concept",
+        "slug": "eco-energie-concept",
+        "telephone": null,
+        "site_web": "http://www.eco-energie-concept.fr/",
+        "adresse": "16 Rue de Pons",
+        "note": 4,
+        "avis": 77,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": null,
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "Châteaubernard",
+        "note": 3,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "13725203856368172274",
+        "nom": "ADI GENIE CLIMATIQUE",
+        "slug": "adi-genie-climatique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "33 Rue de Segonzac",
+        "note": 3,
+        "avis": 8,
+        "type": "Entreprise"
+      },
+      {
+        "id": "9537969245247857721",
+        "nom": "Sani-Chauf",
+        "slug": "sani-chauf",
+        "telephone": null,
+        "site_web": "http://sanichauf1617.jimdofree.com/",
+        "adresse": "58 Rue Henri Fichon",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "confolens": {
+    "artisans": [
+      {
+        "id": "6753575242869013906",
+        "nom": "Proxi Confort - Sani Chauff Elec",
+        "slug": "proxi-confort-sani-chauff-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Av. de Saint-Germain",
+        "note": 3,
+        "avis": 13,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "18313392672422875257",
+        "nom": "Thromas",
+        "slug": "thromas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue de l'Ouillette",
+        "note": 3,
+        "avis": 6,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "5927853298137153638",
+        "nom": "B&C HOME",
+        "slug": "bc-home",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZA La, 10 Rue de l'Ouillette, Rue de la Croix Saint-Georges",
+        "note": 4,
+        "avis": 29,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "la-couronne": {
+    "artisans": [
+      {
+        "id": "18258341331968894074",
+        "nom": "TLC",
+        "slug": "tlc",
+        "telephone": null,
+        "site_web": "http://lebraultthomas.site-solocal.com/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12147998440725451269",
+        "nom": "Cematech",
+        "slug": "cematech",
+        "telephone": null,
+        "site_web": "http://www.cematech.fr/?utm_source=gmb",
+        "adresse": "Petit-Couronne",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9630952549888412657",
+        "nom": "SODIMAC",
+        "slug": "sodimac",
+        "telephone": null,
+        "site_web": "http://www.sodimac16.fr/",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 32,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13755625767094272014",
+        "nom": "HomeServe Rénov' (ex EnergyGo)",
+        "slug": "homeserve-renov-ex-energygo",
+        "telephone": null,
+        "site_web": "https://www.energy-go.fr/",
+        "adresse": "Puymoyen",
+        "note": 4,
+        "avis": 45,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8069638607931653903",
+        "nom": "SARL Correia Frères",
+        "slug": "sarl-correia-freres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "16484035159984235168",
+        "nom": "Omelec 16",
+        "slug": "omelec-16",
+        "telephone": null,
+        "site_web": "https://www.omelec16.fr/",
+        "adresse": "Magnac-sur-Touvre",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "dignac": {
+    "artisans": [
+      {
+        "id": "4322852861271094999",
+        "nom": "SARL DL CLIMATIQUE 16",
+        "slug": "sarl-dl-climatique-16",
+        "telephone": null,
+        "site_web": "http://www.dl-climatique16.fr/",
+        "adresse": "Sers",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8367796666110602475",
+        "nom": "DUNAC ENERGIE",
+        "slug": "dunac-energie",
+        "telephone": null,
+        "site_web": "https://www.dunacenergie.fr/",
+        "adresse": "La Salvetat-Saint-Gilles",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18258341331968894074",
+        "nom": "TLC",
+        "slug": "tlc",
+        "telephone": null,
+        "site_web": "http://lebraultthomas.site-solocal.com/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "dirac": {
+    "artisans": [
+      {
+        "id": "6270162158288707117",
+        "nom": "m2o entreprises",
+        "slug": "m2o-entreprises",
+        "telephone": null,
+        "site_web": "https://www.m2o-entreprises.fr/",
+        "adresse": "105 ZE, Les Bois des Faye",
+        "note": 4,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3169612425665346477",
+        "nom": "Techn'Rgie",
+        "slug": "technrgie",
+        "telephone": null,
+        "site_web": "https://www.technrgie.com/",
+        "adresse": "Mornac",
+        "note": 5,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "gensac-la-pallue": {
+    "artisans": [
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Électricien"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": null,
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "Châteaubernard",
+        "note": 3,
+        "avis": 40,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "hiersac": {
+    "artisans": [
+      {
+        "id": "14607732746557326708",
+        "nom": "Technigaz 16",
+        "slug": "technigaz-16",
+        "telephone": null,
+        "site_web": "http://technigaz16-hiersac.site-solocal.com/",
+        "adresse": "5 Rue de la Cour",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15251318632185510244",
+        "nom": "BJM Électricité - Photovoltaïque - Climatisation",
+        "slug": "bjm-electricite-photovoltaique-climatisation",
+        "telephone": null,
+        "site_web": "https://www.bjmelectricite.fr/",
+        "adresse": "Saint-Saturnin",
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11688642168667572895",
+        "nom": "PRESTA16",
+        "slug": "presta16",
+        "telephone": null,
+        "site_web": "https://www.presta16.com/",
+        "adresse": "Anais",
+        "note": 5,
+        "avis": 123,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13445932940741440919",
+        "nom": "VP Tech - Climatisation, PAC",
+        "slug": "vp-tech-climatisation-pac",
+        "telephone": null,
+        "site_web": "https://www.vp-tech.fr/",
+        "adresse": "La Chapelle-des-Pots",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "Vœuil-et-Giget",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "lisle-despagnac": {
+    "artisans": [
+      {
+        "id": "6954112649728488768",
+        "nom": "ADI Genie Climatique",
+        "slug": "adi-genie-climatique",
+        "telephone": null,
+        "site_web": "http://www.adigenieclimatique.com/",
+        "adresse": "217 Av. de la République",
+        "note": 3,
+        "avis": 42,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7551496708866067679",
+        "nom": "Thermique Charente",
+        "slug": "thermique-charente",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "152 Bd Salvador Allende",
+        "note": 4,
+        "avis": 29,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7509448499331655835",
+        "nom": "Cegeclim Energies",
+        "slug": "cegeclim-energies",
+        "telephone": null,
+        "site_web": "https://cegeclim-energies.com/",
+        "adresse": "67 Av. Maryse Bastié",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3777580379908621121",
+        "nom": "2MD",
+        "slug": "2md",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "72 Avenue Maryse Bastié, ZI N°3",
+        "note": 4,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7818424319558781189",
+        "nom": "ECC Energie Chauffage Confort",
+        "slug": "ecc-energie-chauffage-confort",
+        "telephone": null,
+        "site_web": "http://www.energiecc.fr/",
+        "adresse": "65 Av. Maryse Bastié",
+        "note": 4,
+        "avis": 87,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "83 Av. de Montbron",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1582820605556014812",
+        "nom": "Dalkia Froid Solutions",
+        "slug": "dalkia-froid-solutions",
+        "telephone": null,
+        "site_web": "https://www.dalkiafroidsolutions.com/?utm_source=gmb",
+        "adresse": "57 Av. Maryse Bastié",
+        "note": 3,
+        "avis": 3,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "18139524367796485836",
+        "nom": "TOPGAZ",
+        "slug": "topgaz",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/TOPGAZ16/",
+        "adresse": "225 bis Av. de la République",
+        "note": 4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "montmoreau": {
+    "artisans": [
+      {
+        "id": "7405757621485452581",
+        "nom": "S.B.CLIM",
+        "slug": "sbclim",
+        "telephone": null,
+        "site_web": "https://s-b-clim.fr/",
+        "adresse": "Les Marchais",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3121611988203680509",
+        "nom": "SAS GENDRON",
+        "slug": "sas-gendron",
+        "telephone": null,
+        "site_web": "http://www.gendrondavid.fr/",
+        "adresse": "1 ZONE DU MAINE BRUN",
+        "note": 3,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "11748761113703525011",
+        "nom": "N-ELEC16 N",
+        "slug": "n-elec16-n",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Grand Rue",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "3896417968016631118",
+        "nom": "Carron Eric",
+        "slug": "carron-eric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Av. de l'Angoumois",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "651779178722866084",
+        "nom": "Renov'ed",
+        "slug": "renoved",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La motte",
+        "note": 3,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "4905249036732500553",
+        "nom": "Ramonage Tarlé Giraud Distribution",
+        "slug": "ramonage-tarle-giraud-distribution",
+        "telephone": null,
+        "site_web": "https://www.tarle-giraud-distribution.fr/",
+        "adresse": "ZONE ARTISANALE BOIS ET GARENNE",
+        "note": null,
+        "avis": null,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2061628960350324392",
+        "nom": "PRO&Cie - Ent. Lescure Philippe",
+        "slug": "procie-ent-lescure-philippe",
+        "telephone": null,
+        "site_web": "https://www.procie.com/",
+        "adresse": "17 Av. de l'Aquitaine",
+        "note": 4,
+        "avis": 39,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15060073505077792840",
+        "nom": "Guérin Philippe",
+        "slug": "guerin-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rue Bujateau, Rue Henri Dunant",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "aigre": {
+    "artisans": [
+      {
+        "id": "17489500325531161178",
+        "nom": "ETABLISSEMENTS SYLVESTRE",
+        "slug": "etablissements-sylvestre",
+        "telephone": null,
+        "site_web": "https://www.sylvestre-energies.fr/",
+        "adresse": "Za De Villejésus",
+        "note": 3,
+        "avis": 20,
+        "type": "Entreprise d'énergie solaire"
+      }
+    ]
+  },
+  "balzac": {
+    "artisans": [
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3013386189325188945",
+        "nom": "Technitoit Angoulême",
+        "slug": "technitoit-angouleme",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/charente-16-angouleme-renovation?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 178,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "val-de-cognac": {
+    "artisans": [
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16868387336580990171",
+        "nom": "Eco Energie Concept",
+        "slug": "eco-energie-concept",
+        "telephone": null,
+        "site_web": "http://www.eco-energie-concept.fr/",
+        "adresse": "Cognac",
+        "note": 4,
+        "avis": 77,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": null,
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "Châteaubernard",
+        "note": 3,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "15305638626736863901",
+        "nom": "Eco'energie Concept",
+        "slug": "ecoenergie-concept",
+        "telephone": null,
+        "site_web": "https://www.eco-energie-concept.fr/",
+        "adresse": "Chaniers",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17987583618999528623",
+        "nom": "CVC17",
+        "slug": "cvc17",
+        "telephone": null,
+        "site_web": "http://www.cvc17.com/",
+        "adresse": "La Rochelle",
+        "note": 4,
+        "avis": 66,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7285815605631640555",
+        "nom": "Christophe Bureau",
+        "slug": "christophe-bureau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 20 ans en activité",
+        "note": 5,
+        "avis": 36,
+        "type": "Électricien"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14582678082133636240",
+        "nom": "Ener'J (pompes à chaleur, climatisation, ventilation)",
+        "slug": "enerj-pompes-a-chaleur-climatisation-ventilation",
+        "telephone": null,
+        "site_web": "https://enerj86.fr/",
+        "adresse": "Lavoux",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "fleac": {
+    "artisans": [
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18258341331968894074",
+        "nom": "TLC",
+        "slug": "tlc",
+        "telephone": null,
+        "site_web": "http://lebraultthomas.site-solocal.com/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18203709265024492371",
+        "nom": "Chauvet romain MVPS",
+        "slug": "chauvet-romain-mvps",
+        "telephone": null,
+        "site_web": "http://www.mvps-depannage.fr/?utm_source=gmb",
+        "adresse": "15 Rue du Château d'Eau",
+        "note": 5,
+        "avis": 63,
+        "type": "Menuisier"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7818424319558781189",
+        "nom": "ECC Energie Chauffage Confort",
+        "slug": "ecc-energie-chauffage-confort",
+        "telephone": null,
+        "site_web": "http://www.energiecc.fr/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 87,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "jarnac": {
+    "artisans": [
+      {
+        "id": "10496358984693446845",
+        "nom": "PASSION RENOV' PAYET",
+        "slug": "passion-renov-payet",
+        "telephone": null,
+        "site_web": "http://www.passionrenov.fr/",
+        "adresse": "59 Av. du Général Leclerc",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "6885826705159790840",
+        "nom": "M.N.T Chauvet",
+        "slug": "mnt-chauvet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "57 Rue Jacques Moreau",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2186591663713523625",
+        "nom": "Idéal'Energie",
+        "slug": "idealenergie",
+        "telephone": null,
+        "site_web": "https://www.ideal-energie.fr/",
+        "adresse": "1 Rue Pasteur",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15086619504706875219",
+        "nom": "Etablissements Merlet",
+        "slug": "etablissements-merlet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Bis All. des Bouvents",
+        "note": 4,
+        "avis": 32,
+        "type": "Plombier"
+      },
+      {
+        "id": "9736832242120842219",
+        "nom": "Clim Elec Froid",
+        "slug": "clim-elec-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Imp. Saint-Cybard",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14456795263365519850",
+        "nom": "LA MAISON 3D agence du 17",
+        "slug": "la-maison-3d-agence-du-17",
+        "telephone": null,
+        "site_web": "https://lamaison3d.fr/",
+        "adresse": "Jarnac-Champagne",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5308332462901431223",
+        "nom": "Demontoux Patrick",
+        "slug": "demontoux-patrick",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Chem. des Granges",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "11792383609571592607",
+        "nom": "Bou'chaud Confort",
+        "slug": "bouchaud-confort",
+        "telephone": null,
+        "site_web": "https://www.bouchaud-confort.fr/?utm_source=gmb",
+        "adresse": "32 Av. de l'Europe",
+        "note": 5,
+        "avis": 22,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1942558176263607576",
+        "nom": "La Maison 3D",
+        "slug": "la-maison-3d",
+        "telephone": null,
+        "site_web": "https://lamaison3d.fr/",
+        "adresse": "Cognac",
+        "note": 5,
+        "avis": 44,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "terres-de-haute-charente": {
+    "artisans": [
+      {
+        "id": "9158302112368152412",
+        "nom": "Habitat Thermique Services",
+        "slug": "habitat-thermique-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Claud",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3565804981046764021",
+        "nom": "HB SYSTEME - Chasseneuil-sur-Bonnieure - L'Isle d'Espagnac",
+        "slug": "hb-systeme-chasseneuil-sur-bonnieure-lisle-despagnac",
+        "telephone": null,
+        "site_web": "http://www.hbsysteme.fr/",
+        "adresse": "Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": null,
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "14575332280625418852",
+        "nom": "Maison de Santé",
+        "slug": "maison-de-sante",
+        "telephone": null,
+        "site_web": "http://www.terresdehautecharente.fr/pages/au-quotidien/sante/",
+        "adresse": "5bis Rue des Paleines",
+        "note": 4,
+        "avis": 36,
+        "type": "installateur VMC ventilation"
+      },
+      {
+        "id": "12862093707161283129",
+        "nom": "BMI Tuilerie Roumazières-Loubert",
+        "slug": "bmi-tuilerie-roumazieres-loubert",
+        "telephone": null,
+        "site_web": "http://www.bmigroup.com/fr",
+        "adresse": "Roumazières-Loubert",
+        "note": 4,
+        "avis": 69,
+        "type": "Fabricant"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "183675934526874821",
+        "nom": "Bozier Michel",
+        "slug": "bozier-michel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 Rue des Sablons",
+        "note": 4,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "bellevigne": {
+    "artisans": [
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "139186969747243908",
+        "nom": "Kemp'air Ventilation",
+        "slug": "kempair-ventilation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/pages/category/Cleaning-Service/Kempair-ventilation-456241538507794/?utm_source=gmb",
+        "adresse": "Saint-Yvi",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17987583618999528623",
+        "nom": "CVC17",
+        "slug": "cvc17",
+        "telephone": null,
+        "site_web": "http://www.cvc17.com/",
+        "adresse": "La Rochelle",
+        "note": 4,
+        "avis": 66,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11150688618424345209",
+        "nom": "SNPC",
+        "slug": "snpc",
+        "telephone": null,
+        "site_web": "https://snpc2235.bzh/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14427188570491014519",
+        "nom": "AIRpropre entretien VMC - installation VMC Neuilly sur marne",
+        "slug": "airpropre-entretien-vmc-installation-vmc-neuilly-sur-marne",
+        "telephone": null,
+        "site_web": "https://airpropre-neuilly-marne.com/",
+        "adresse": "Neuilly-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16278720309958426887",
+        "nom": "E.S.E.R.Électricité",
+        "slug": "eserelectricite",
+        "telephone": null,
+        "site_web": "https://www.instagram.com/e.s.e.r.electricite.generale/?utm_source=gmb",
+        "adresse": "Mareuil",
+        "note": 5,
+        "avis": 48,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "merpins": {
+    "artisans": [
+      {
+        "id": "16952817439680747928",
+        "nom": "DL Thermique",
+        "slug": "dl-thermique",
+        "telephone": null,
+        "site_web": "http://www.dl-thermique.fr/",
+        "adresse": "1 Rue du Bois Merrains",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6904979177078040962",
+        "nom": "Home Elec Confort",
+        "slug": "home-elec-confort",
+        "telephone": null,
+        "site_web": "https://www.home-elec-confort.fr/",
+        "adresse": "95 Rue du Puits",
+        "note": 5,
+        "avis": 35,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "montbron": {
+    "artisans": [
+      {
+        "id": "7882113900026295004",
+        "nom": "CAL'EAU Plombier Chauffagiste Climaticien",
+        "slug": "caleau-plombier-chauffagiste-climaticien",
+        "telephone": null,
+        "site_web": "https://www.caleau.fr/",
+        "adresse": "05 45 96 40 89",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8659621744485337762",
+        "nom": "Horte et Tardoire Bâtiment",
+        "slug": "horte-et-tardoire-batiment",
+        "telephone": null,
+        "site_web": "https://www.htb-montbron.fr/?utm_source=gmb",
+        "adresse": "Lieu-dit Hormeau, 3 Rte d'Orgedeuil",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": null,
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": null,
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "nanteuil-en-vallee": {
+    "artisans": [
+      {
+        "id": "4591463600691159024",
+        "nom": "Baluteau Plomberie Chauffage",
+        "slug": "baluteau-plomberie-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "le Peux Moutardon",
+        "note": 4,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "8615467638540425973",
+        "nom": "Couillaud Nicolas",
+        "slug": "couillaud-nicolas",
+        "telephone": null,
+        "site_web": "https://www.nicolas-nc.fr/?utm_source=gmb",
+        "adresse": "lieu-dit",
+        "note": 3,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14514029447793486703",
+        "nom": "MMCC",
+        "slug": "mmcc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Puyménard",
+        "note": 4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15995946475488314277",
+        "nom": "Elec Sol'Air",
+        "slug": "elec-solair",
+        "telephone": null,
+        "site_web": "https://www.elecsolair.com/",
+        "adresse": "Ruffec",
+        "note": 4,
+        "avis": 77,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "nercillac": {
+    "artisans": [
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13445932940741440919",
+        "nom": "VP Tech - Climatisation, PAC",
+        "slug": "vp-tech-climatisation-pac",
+        "telephone": null,
+        "site_web": "https://www.vp-tech.fr/",
+        "adresse": "La Chapelle-des-Pots",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2186591663713523625",
+        "nom": "Idéal'Energie",
+        "slug": "idealenergie",
+        "telephone": null,
+        "site_web": "https://www.ideal-energie.fr/",
+        "adresse": "Jarnac",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5763307005331571134",
+        "nom": "Sarl JF Barny",
+        "slug": "sarl-jf-barny",
+        "telephone": null,
+        "site_web": "https://barnyservices.fr/",
+        "adresse": "Segonzac",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13608298758879120621",
+        "nom": "C-l'air",
+        "slug": "c-lair",
+        "telephone": null,
+        "site_web": "https://www.c-lair.fr/",
+        "adresse": "Villenave-d'Ornon",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": null,
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "Châteaubernard",
+        "note": 3,
+        "avis": 40,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "puymoyen": {
+    "artisans": [
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2982377415841606374",
+        "nom": "Mousnier DGM - Plombier Chauffagiste",
+        "slug": "mousnier-dgm-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.mousnier-dgm.fr/",
+        "adresse": "119 Rue d'Angoulême",
+        "note": 5,
+        "avis": 132,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13601452669256532107",
+        "nom": "Radoux 16 - Chauffage et électricien à Angoulème, Cognac",
+        "slug": "radoux-16-chauffage-et-electricien-a-angouleme-cognac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "116 Rue d'Angoulême",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "Vœuil-et-Giget",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "13755625767094272014",
+        "nom": "HomeServe Rénov' (ex EnergyGo)",
+        "slug": "homeserve-renov-ex-energygo",
+        "telephone": null,
+        "site_web": "https://www.energy-go.fr/",
+        "adresse": "1A Imp. des Entreprises",
+        "note": 4,
+        "avis": 45,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4055966305050384614",
+        "nom": "MJ ENR",
+        "slug": "mj-enr",
+        "telephone": null,
+        "site_web": "https://www.mjenr.fr/",
+        "adresse": "Angoulême",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      }
+    ]
+  },
+  "rivieres": {
+    "artisans": [
+      {
+        "id": "16069028109676229007",
+        "nom": "Compagnie Française des Energies Nouvelles CFEN",
+        "slug": "compagnie-francaise-des-energies-nouvelles-cfen",
+        "telephone": null,
+        "site_web": "http://www.cfen-16.com/?utm_source=gmb",
+        "adresse": "Rivières",
+        "note": 4,
+        "avis": 155,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "linars": {
+    "artisans": [
+      {
+        "id": "15191255667129140251",
+        "nom": "Larc elec",
+        "slug": "larc-elec",
+        "telephone": null,
+        "site_web": "https://www.larc-elec-charente.fr/",
+        "adresse": "4 lotissement bois de la touche",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "18203709265024492371",
+        "nom": "Chauvet romain MVPS",
+        "slug": "chauvet-romain-mvps",
+        "telephone": null,
+        "site_web": "http://www.mvps-depannage.fr/?utm_source=gmb",
+        "adresse": "Fléac",
+        "note": 5,
+        "avis": 63,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Ruelle-sur-Touvre",
+        "note": 4,
+        "avis": 123,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mornac": {
+    "artisans": [
+      {
+        "id": "4309782745163358581",
+        "nom": "DEBEAULIEU",
+        "slug": "debeaulieu",
+        "telephone": null,
+        "site_web": "http://debeaulieusa.fr/",
+        "adresse": "37 Rte des Grands Champs",
+        "note": 3,
+        "avis": 4,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "chalais": {
+    "artisans": [
+      {
+        "id": "11790673883491769755",
+        "nom": "Climabitat",
+        "slug": "climabitat",
+        "telephone": null,
+        "site_web": "https://www.instagram.com/climabitat16/?utm_source=gmb",
+        "adresse": "67 Rte de Bordeaux",
+        "note": 4,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14509618604179560947",
+        "nom": "PROTELEC - PROTCLIM",
+        "slug": "protelec-protclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte de Bordeaux",
+        "note": 4,
+        "avis": 60,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "14637752375979745143",
+        "nom": "Silanès Energies",
+        "slug": "silanes-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21 Av. de la Gare",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8089132800042636660",
+        "nom": "Aveco Energie",
+        "slug": "aveco-energie",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/AVECO-%C3%89nergie-498175023708289/?ref=br_rs&utm_source=gmb",
+        "adresse": "Saint-Aigulin",
+        "note": 4,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "371992826395981197",
+        "nom": "Hot Technique",
+        "slug": "hot-technique",
+        "telephone": null,
+        "site_web": "https://www.hottechnique.fr/",
+        "adresse": "Abzac",
+        "note": 4,
+        "avis": 207,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7203046381708510432",
+        "nom": "M.C.G Construction",
+        "slug": "mcg-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "exideuil-sur-vienne": {
+    "artisans": [
+      {
+        "id": "18272257660548394105",
+        "nom": "A3C Energies SAS",
+        "slug": "a3c-energies-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Junien",
+        "note": 5,
+        "avis": 29,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14582678082133636240",
+        "nom": "Ener'J (pompes à chaleur, climatisation, ventilation)",
+        "slug": "enerj-pompes-a-chaleur-climatisation-ventilation",
+        "telephone": null,
+        "site_web": "https://enerj86.fr/",
+        "adresse": "Lavoux",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3565804981046764021",
+        "nom": "HB SYSTEME - Chasseneuil-sur-Bonnieure - L'Isle d'Espagnac",
+        "slug": "hb-systeme-chasseneuil-sur-bonnieure-lisle-despagnac",
+        "telephone": null,
+        "site_web": "http://www.hbsysteme.fr/",
+        "adresse": "Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "8148614801962304137",
+        "nom": "A.C.E.",
+        "slug": "ace",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Brigueuil",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10736909083078615215",
+        "nom": "SL Thermique",
+        "slug": "sl-thermique",
+        "telephone": null,
+        "site_web": "https://www.sl-thermique.fr/",
+        "adresse": "Limoges",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17519587390888415946",
+        "nom": "Berrand Sarl",
+        "slug": "berrand-sarl",
+        "telephone": null,
+        "site_web": "https://www.berrand-sarl.fr/EnR/",
+        "adresse": "Verneuil-sur-Vienne",
+        "note": 5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15176214081313591936",
+        "nom": "SARL VULFIN & frères",
+        "slug": "sarl-vulfin-freres",
+        "telephone": null,
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/ets-vulfin-et-freres-1465",
+        "adresse": "La Rochette",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "garat": {
+    "artisans": [
+      {
+        "id": "15586090164625757035",
+        "nom": "HIPEC",
+        "slug": "hipec",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/HIPEC-118009286992473/",
+        "adresse": "344 Rue de Ladoux",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3169612425665346477",
+        "nom": "Techn'Rgie",
+        "slug": "technrgie",
+        "telephone": null,
+        "site_web": "https://www.technrgie.com/",
+        "adresse": "Mornac",
+        "note": 5,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6954112649728488768",
+        "nom": "ADI Genie Climatique",
+        "slug": "adi-genie-climatique",
+        "telephone": null,
+        "site_web": "http://www.adigenieclimatique.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 3,
+        "avis": 42,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3670533301910655712",
+        "nom": "Pigier Electricite Services",
+        "slug": "pigier-electricite-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue des Vendanges",
+        "note": 2,
+        "avis": 8,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "gond-pontouvre": {
+    "artisans": [
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "115 Rte de Vars",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4322393628752228623",
+        "nom": "Sociéte Maintenance Energie Renouvelable",
+        "slug": "societe-maintenance-energie-renouvelable",
+        "telephone": null,
+        "site_web": "https://www.smer-energies.fr/?utm_source=gmb",
+        "adresse": "275 Rte de Vars",
+        "note": 4,
+        "avis": 79,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15144123326975783958",
+        "nom": "E.K.A Confort",
+        "slug": "eka-confort",
+        "telephone": null,
+        "site_web": "http://www.ekaconfort.com/",
+        "adresse": "80 Rte de Paris",
+        "note": 4,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6529518830843692305",
+        "nom": "Prestalliance",
+        "slug": "prestalliance",
+        "telephone": null,
+        "site_web": "https://fr-fr.facebook.com/prestalliance/?utm_source=gmb",
+        "adresse": "27 Rue de la Garenne",
+        "note": 5,
+        "avis": 2,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Ruelle-sur-Touvre",
+        "note": 4,
+        "avis": 123,
+        "type": "Plombier"
+      },
+      {
+        "id": "18139524367796485836",
+        "nom": "TOPGAZ",
+        "slug": "topgaz",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/TOPGAZ16/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "3013386189325188945",
+        "nom": "Technitoit Angoulême",
+        "slug": "technitoit-angouleme",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/charente-16-angouleme-renovation?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 178,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "val-des-vignes": {
+    "artisans": [
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "66394994268645079",
+        "nom": "unairdequalite installation vmc Suresnes - nettoyage VMC",
+        "slug": "unairdequalite-installation-vmc-suresnes-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://unairdequalite-suresnes-vmc.com/",
+        "adresse": "Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "561348152767212737",
+        "nom": "AIR QUALITE ALPES",
+        "slug": "air-qualite-alpes",
+        "telephone": null,
+        "site_web": "http://airqualite.site-solocal.com/?utm_source=gmb",
+        "adresse": "Villaz",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11586399819458404433",
+        "nom": "MP Clim & Sol Air - Installation climatisation",
+        "slug": "mp-clim-sol-air-installation-climatisation",
+        "telephone": null,
+        "site_web": "https://www.mpclimsolair.com/",
+        "adresse": "07 82 67 51 94",
+        "note": 5,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6167916910299838063",
+        "nom": "VYTEC",
+        "slug": "vytec",
+        "telephone": null,
+        "site_web": "http://www.vytec.fr/",
+        "adresse": "Meaux",
+        "note": 5,
+        "avis": 40,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "mansle-les-fontaines": {
+    "artisans": [
+      {
+        "id": "10312856471720076276",
+        "nom": "froid charente assistance",
+        "slug": "froid-charente-assistance",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Chênes",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1148243586497973777",
+        "nom": "Agnès et Mérenne",
+        "slug": "agnes-et-merenne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29B Rue Grange du Chapitre",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "9781585135992363180",
+        "nom": "LVV-CONSTRUCTION",
+        "slug": "lvv-construction",
+        "telephone": null,
+        "site_web": "https://www.lvv-construction-charente.fr/",
+        "adresse": "8 Rue Grande",
+        "note": 5,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15176214081313591936",
+        "nom": "SARL VULFIN & frères",
+        "slug": "sarl-vulfin-freres",
+        "telephone": null,
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/ets-vulfin-et-freres-1465",
+        "adresse": "La Rochette",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13750430133132988",
+        "nom": "Adom Express",
+        "slug": "adom-express",
+        "telephone": null,
+        "site_web": "https://adom-express.fr/",
+        "adresse": "Lichères",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6941903005202864172",
+        "nom": "IDEM Tarraud Dominique",
+        "slug": "idem-tarraud-dominique",
+        "telephone": null,
+        "site_web": "http://www.depannage-electromenager-mansle.fr/",
+        "adresse": "36 Rue Grande",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12029837058987326329",
+        "nom": "Dépannage d'électroménagers",
+        "slug": "depannage-delectromenagers",
+        "telephone": null,
+        "site_web": "https://www.depannage-electromenager-mansle.fr/contact",
+        "adresse": "36 Rue Grande",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation d'appareils électroménagers"
+      }
+    ]
+  },
+  "mouthiers-sur-boeme": {
+    "artisans": [
+      {
+        "id": "12366236404023799268",
+        "nom": "GAUTHIER Michaël",
+        "slug": "gauthier-michael",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/michaelgauthierplomberiechauffage",
+        "adresse": "9 Chem. de la Chauveterie",
+        "note": 5,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "8904719658445576958",
+        "nom": "SASEM",
+        "slug": "sasem",
+        "telephone": null,
+        "site_web": "http://www.sasem.fr/",
+        "adresse": "19 BIS Rue de la Côté À Bournet",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "3582864962908658486",
+        "nom": "Artisan Couvreur 16 - Démoussage Toiture Mouthiers-sur-Boëme, Réparation Fuites, Dépannage Toit, Étanchéité",
+        "slug": "artisan-couvreur-16-demoussage-toiture-mouthiers-sur-boeme-reparation-fuites-depannage-toit-etancheite",
+        "telephone": null,
+        "site_web": "https://artisan-couvreur-16.ovh/",
+        "adresse": "8 Pl. du Champ de Foire",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "Vœuil-et-Giget",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "11791082914178201459",
+        "nom": "SD Energy",
+        "slug": "sd-energy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 a, Rue de la Bussière",
+        "note": 5,
+        "avis": 10,
+        "type": "Électricien"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8372245068139594068",
+        "nom": "Croisé Bâtiment",
+        "slug": "croise-batiment",
+        "telephone": null,
+        "site_web": "https://www.croisebatiment.com/",
+        "adresse": "2 zone des Rentes",
+        "note": null,
+        "avis": null,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5986981178348608716",
+        "nom": "ELAN Clôture",
+        "slug": "elan-cloture",
+        "telephone": null,
+        "site_web": "https://elancloture.fr/",
+        "adresse": "face déchetterie, ZE, Les Rentes",
+        "note": 4,
+        "avis": 34,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "magnac-sur-touvre": {
+    "artisans": [
+      {
+        "id": "11660881255375491399",
+        "nom": "Monsieur Rey - Électricien",
+        "slug": "monsieur-rey-electricien",
+        "telephone": null,
+        "site_web": "https://monsieur-rey.fr/",
+        "adresse": "11 Rue Jean Mermoz",
+        "note": 5,
+        "avis": 48,
+        "type": "Électricien"
+      },
+      {
+        "id": "168505287637495288",
+        "nom": "Socarex Electricité",
+        "slug": "socarex-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue Aristide Briand",
+        "note": 4,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "16484035159984235168",
+        "nom": "Omelec 16",
+        "slug": "omelec-16",
+        "telephone": null,
+        "site_web": "https://www.omelec16.fr/",
+        "adresse": "33 bis Rue Jean Jaurès",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6954112649728488768",
+        "nom": "ADI Genie Climatique",
+        "slug": "adi-genie-climatique",
+        "telephone": null,
+        "site_web": "http://www.adigenieclimatique.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 3,
+        "avis": 42,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3169612425665346477",
+        "nom": "Techn'Rgie",
+        "slug": "technrgie",
+        "telephone": null,
+        "site_web": "https://www.technrgie.com/",
+        "adresse": "Mornac",
+        "note": 5,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7289431778712004524",
+        "nom": "Etablissements Michel Guignard",
+        "slug": "etablissements-michel-guignard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rue la Fontaine",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "7818424319558781189",
+        "nom": "ECC Energie Chauffage Confort",
+        "slug": "ecc-energie-chauffage-confort",
+        "telephone": null,
+        "site_web": "http://www.energiecc.fr/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 87,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Ruelle-sur-Touvre",
+        "note": 4,
+        "avis": 123,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "nersac": {
+    "artisans": [
+      {
+        "id": "8573885173856938997",
+        "nom": "JMB Concept",
+        "slug": "jmb-concept",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "14 Rue du Pontreau",
+        "note": 4,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4138988352464609079",
+        "nom": "Vallade Jean-Christophe",
+        "slug": "vallade-jean-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "43 Rue Ampère",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "1856332950799562540",
+        "nom": "Gouyoux Christophe",
+        "slug": "gouyoux-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "31 Rue Grande Rue",
+        "note": 3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4055966305050384614",
+        "nom": "MJ ENR",
+        "slug": "mj-enr",
+        "telephone": null,
+        "site_web": "https://www.mjenr.fr/",
+        "adresse": "Angoulême",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "Vœuil-et-Giget",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "15251318632185510244",
+        "nom": "BJM Électricité - Photovoltaïque - Climatisation",
+        "slug": "bjm-electricite-photovoltaique-climatisation",
+        "telephone": null,
+        "site_web": "https://www.bjmelectricite.fr/",
+        "adresse": "Saint-Saturnin",
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "mainxe-gondeville": {
+    "artisans": [
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "sireuil": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": null,
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "Saint-Yrieix-sur-Charente",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11606631726931951664",
+        "nom": "VMC Confort - Installation & Entretien",
+        "slug": "vmc-confort-installation-entretien",
+        "telephone": null,
+        "site_web": "https://vmc-installation-entretien.fr/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "La Courneuve",
+        "note": null,
+        "avis": null,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17987583618999528623",
+        "nom": "CVC17",
+        "slug": "cvc17",
+        "telephone": null,
+        "site_web": "http://www.cvc17.com/",
+        "adresse": "La Rochelle",
+        "note": 4,
+        "avis": 66,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "la-rochefoucauld-en-angoumois": {
+    "artisans": [
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "7 Lot. Clos des Marronniers",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": null,
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3169612425665346477",
+        "nom": "Techn'Rgie",
+        "slug": "technrgie",
+        "telephone": null,
+        "site_web": "https://www.technrgie.com/",
+        "adresse": "Mornac",
+        "note": 5,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15860804521107278103",
+        "nom": "HAEC",
+        "slug": "haec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rivières",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "rouillac": {
+    "artisans": [
+      {
+        "id": "13950301004694758605",
+        "nom": "JC Thermie",
+        "slug": "jc-thermie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rouillac",
+        "note": 4,
+        "avis": 13,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "roullet-saint-estephe": {
+    "artisans": [
+      {
+        "id": "3897104351416041791",
+        "nom": "S M E Confort",
+        "slug": "s-m-e-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "85 Rue Nationale",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7015145829131075586",
+        "nom": "Auto-home",
+        "slug": "auto-home",
+        "telephone": null,
+        "site_web": "https://auto-home.fr/",
+        "adresse": "07 80 96 31 60",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16958716361620976184",
+        "nom": "Iso'Lead - Isolation de combles et installation de VMC",
+        "slug": "isolead-isolation-de-combles-et-installation-de-vmc",
+        "telephone": null,
+        "site_web": "http://www.iso-lead.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "8573885173856938997",
+        "nom": "JMB Concept",
+        "slug": "jmb-concept",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nersac",
+        "note": 4,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "9686996128003754957",
+        "nom": "Sarl mn thermique",
+        "slug": "sarl-mn-thermique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Couronne",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "8149307318628845123",
+        "nom": "VM Matériaux",
+        "slug": "vm-materiaux",
+        "telephone": null,
+        "site_web": "https://magasin.vm-materiaux.fr/4-vm-materiaux-roullet?utm_source=gmb",
+        "adresse": "Z.I. Les Fontaines - Sortie 64 N10, Rue du Negoce",
+        "note": 3,
+        "avis": 96,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "ruelle-sur-touvre": {
+    "artisans": [
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Parc de la rocade, Rte de Gond-Pontouvre",
+        "note": 4,
+        "avis": 123,
+        "type": "Plombier"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6874566545277636603",
+        "nom": "Optima Techni Net",
+        "slug": "optima-techni-net",
+        "telephone": null,
+        "site_web": "http://www.optima-techninet.fr/?utm_source=gmb",
+        "adresse": "400 Rte de Gond-Pontouvre",
+        "note": 4,
+        "avis": 7,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3169612425665346477",
+        "nom": "Techn'Rgie",
+        "slug": "technrgie",
+        "telephone": null,
+        "site_web": "https://www.technrgie.com/",
+        "adresse": "Mornac",
+        "note": 5,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11660881255375491399",
+        "nom": "Monsieur Rey - Électricien",
+        "slug": "monsieur-rey-electricien",
+        "telephone": null,
+        "site_web": "https://monsieur-rey.fr/",
+        "adresse": "Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 48,
+        "type": "Électricien"
+      },
+      {
+        "id": "6954112649728488768",
+        "nom": "ADI Genie Climatique",
+        "slug": "adi-genie-climatique",
+        "telephone": null,
+        "site_web": "http://www.adigenieclimatique.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 3,
+        "avis": 42,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7818424319558781189",
+        "nom": "ECC Energie Chauffage Confort",
+        "slug": "ecc-energie-chauffage-confort",
+        "telephone": null,
+        "site_web": "http://www.energiecc.fr/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 87,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8237818269079021029",
+        "nom": "Cjl Services",
+        "slug": "cjl-services",
+        "telephone": null,
+        "site_web": "https://www.cjl-electricite.fr/?utm_source=gmb",
+        "adresse": "Soyaux",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "ruffec": {
+    "artisans": [
+      {
+        "id": "15995946475488314277",
+        "nom": "Elec Sol'Air",
+        "slug": "elec-solair",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Bd Duportal",
+        "note": 4,
+        "avis": 77,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2387914416813722007",
+        "nom": "Cuisson et Réfrigération",
+        "slug": "cuisson-et-refrigeration",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI de la, Rue de la Gare",
+        "note": 3,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9011093863885146844",
+        "nom": "VIMA solution plomberie dépannage",
+        "slug": "vima-solution-plomberie-depannage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Montjean",
+        "note": 5,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "2958392971874085130",
+        "nom": "Entreprise Jean-Claude Starcevic",
+        "slug": "entreprise-jean-claude-starcevic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI Nord les, Chem. des Pinats",
+        "note": 3,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "16305608566792622074",
+        "nom": "Téréva Ruffec",
+        "slug": "tereva-ruffec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "30 Rte de Montjean",
+        "note": 3,
+        "avis": 29,
+        "type": "Magasin de matériel de plomberie"
+      }
+    ]
+  },
+  "saint-amant-de-boixe": {
+    "artisans": [
+      {
+        "id": "2833370596320585455",
+        "nom": "Fabrication Aéraulique de la Boixe",
+        "slug": "fabrication-aeraulique-de-la-boixe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zone Emploi La Gagnerie",
+        "note": 5,
+        "avis": 6,
+        "type": "installateur VMC ventilation"
+      },
+      {
+        "id": "11688642168667572895",
+        "nom": "PRESTA16",
+        "slug": "presta16",
+        "telephone": null,
+        "site_web": "https://www.presta16.com/",
+        "adresse": "Anais",
+        "note": 5,
+        "avis": 123,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1874980890299210545",
+        "nom": "Charrier Elec",
+        "slug": "charrier-elec",
+        "telephone": null,
+        "site_web": "https://www.charrier-elec.fr/",
+        "adresse": "5 Rue du Clos",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "10053125787331845424",
+        "nom": "EGM ENTREPRISE GÉNÉRALE DE MENUISERIE",
+        "slug": "egm-entreprise-generale-de-menuiserie",
+        "telephone": null,
+        "site_web": "https://www.egm-16.fr/",
+        "adresse": "13 Rue Bellevue",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16958716361620976184",
+        "nom": "Iso'Lead - Isolation de combles et installation de VMC",
+        "slug": "isolead-isolation-de-combles-et-installation-de-vmc",
+        "telephone": null,
+        "site_web": "http://www.iso-lead.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": null,
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-claud": {
+    "artisans": [
+      {
+        "id": "9158302112368152412",
+        "nom": "Habitat Thermique Services",
+        "slug": "habitat-thermique-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Claud",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-meme-les-carrieres": {
+    "artisans": [
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14583236980631188584",
+        "nom": "A D Chaud Froid",
+        "slug": "a-d-chaud-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Triac-Lautrait",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "Vœuil-et-Giget",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9736832242120842219",
+        "nom": "Clim Elec Froid",
+        "slug": "clim-elec-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Jarnac",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": null,
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-michel": {
+    "artisans": [
+      {
+        "id": "11140853255913628746",
+        "nom": "Auvinet Mickael électricité/ventilation/climatisation/chauffage a inertie",
+        "slug": "auvinet-mickael-electriciteventilationclimatisationchauffage-a-inertie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Michel-en-l'Herm",
+        "note": 4,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "9707167155154110504",
+        "nom": "Ininstal",
+        "slug": "ininstal",
+        "telephone": null,
+        "site_web": "http://www.ininstal2-chauffageelec.fr/",
+        "adresse": "Saint-Michel-sur-Meurthe",
+        "note": 4,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13186075490360128886",
+        "nom": "Greenable - Maintenance de Ventilation, hottes et entretien VMC",
+        "slug": "greenable-maintenance-de-ventilation-hottes-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://green-able.fr/",
+        "adresse": "Les Herbiers",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15219545158291244796",
+        "nom": "Air 9 Protection",
+        "slug": "air-9-protection",
+        "telephone": null,
+        "site_web": "https://air9protection.com/",
+        "adresse": "06 89 87 87 89",
+        "note": 5,
+        "avis": 10,
+        "type": "Siège social"
+      },
+      {
+        "id": "9630952549888412657",
+        "nom": "SODIMAC",
+        "slug": "sodimac",
+        "telephone": null,
+        "site_web": "http://www.sodimac16.fr/",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 32,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14554492194031729490",
+        "nom": "CLIMARVOR",
+        "slug": "climarvor",
+        "telephone": null,
+        "site_web": "http://www.climarvor.fr/",
+        "adresse": "Saint-Malo",
+        "note": 4,
+        "avis": 89,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11027436994154372724",
+        "nom": "Sarl Lesoeur",
+        "slug": "sarl-lesoeur",
+        "telephone": null,
+        "site_web": "https://ventilation-sarl-lesoeur22.fr/",
+        "adresse": "Coëtmieux",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "saint-saturnin": {
+    "artisans": [
+      {
+        "id": "15251318632185510244",
+        "nom": "BJM Électricité - Photovoltaïque - Climatisation",
+        "slug": "bjm-electricite-photovoltaique-climatisation",
+        "telephone": null,
+        "site_web": "https://www.bjmelectricite.fr/",
+        "adresse": "Saint-Saturnin",
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-yrieix-sur-charente": {
+    "artisans": [
+      {
+        "id": "4530755548938166995",
+        "nom": "TFVM",
+        "slug": "tfvm",
+        "telephone": null,
+        "site_web": "https://www.tfvm-ventilation.fr/",
+        "adresse": "397 Rue de Saint-Jean d'Angély",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      },
+      {
+        "id": "17588446922941827424",
+        "nom": "Entreprise ALLARD",
+        "slug": "entreprise-allard",
+        "telephone": null,
+        "site_web": "http://www.ent-allard.com/",
+        "adresse": "350 Rue de Saint-Jean d'Angély",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2805349008933519871",
+        "nom": "ENAO Solutions",
+        "slug": "enao-solutions",
+        "telephone": null,
+        "site_web": "https://www.enao-solutions.com/",
+        "adresse": "11 Rue de Saint-Jean d'Angély",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17516313800794331486",
+        "nom": "Homemaitre SARL",
+        "slug": "homemaitre-sarl",
+        "telephone": null,
+        "site_web": "http://www.homemaitre.fr/?utm_source=gmb",
+        "adresse": "32 Rue Raoul Verlet",
+        "note": 4,
+        "avis": 51,
+        "type": "Électricien"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "Vœuil-et-Giget",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "4314361477784882281",
+        "nom": "MC Rénovation 16 - Rénovation générale du bâtiment",
+        "slug": "mc-renovation-16-renovation-generale-du-batiment",
+        "telephone": null,
+        "site_web": "https://www.mcrenovation16.fr/",
+        "adresse": "124 Rue de Royan",
+        "note": 4,
+        "avis": 23,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16403545560589101998",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/158-engie-home-services-angouleme?utm_source=gmb",
+        "adresse": "Angoulême",
+        "note": 4,
+        "avis": 387,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "segonzac": {
+    "artisans": [
+      {
+        "id": "5763307005331571134",
+        "nom": "Sarl JF Barny",
+        "slug": "sarl-jf-barny",
+        "telephone": null,
+        "site_web": "https://barnyservices.fr/",
+        "adresse": "13 rue du coteau",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "565062519104345801",
+        "nom": "Croizard électricité générale",
+        "slug": "croizard-electricite-generale",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Chez Allard",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "taponnat-fleurignac": {
+    "artisans": [
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": null,
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "touvre": {
+    "artisans": [
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3169612425665346477",
+        "nom": "Techn'Rgie",
+        "slug": "technrgie",
+        "telephone": null,
+        "site_web": "https://www.technrgie.com/",
+        "adresse": "Mornac",
+        "note": 5,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Ruelle-sur-Touvre",
+        "note": 4,
+        "avis": 123,
+        "type": "Plombier"
+      },
+      {
+        "id": "11660881255375491399",
+        "nom": "Monsieur Rey - Électricien",
+        "slug": "monsieur-rey-electricien",
+        "telephone": null,
+        "site_web": "https://monsieur-rey.fr/",
+        "adresse": "Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 48,
+        "type": "Électricien"
+      },
+      {
+        "id": "8069638607931653903",
+        "nom": "SARL Correia Frères",
+        "slug": "sarl-correia-freres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "3013386189325188945",
+        "nom": "Technitoit Angoulême",
+        "slug": "technitoit-angouleme",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/charente-16-angouleme-renovation?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 178,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16484035159984235168",
+        "nom": "Omelec 16",
+        "slug": "omelec-16",
+        "telephone": null,
+        "site_web": "https://www.omelec16.fr/",
+        "adresse": "Magnac-sur-Touvre",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "13755625767094272014",
+        "nom": "HomeServe Rénov' (ex EnergyGo)",
+        "slug": "homeserve-renov-ex-energygo",
+        "telephone": null,
+        "site_web": "https://www.energy-go.fr/",
+        "adresse": "Puymoyen",
+        "note": 4,
+        "avis": 45,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "8757419587299425427",
+        "nom": "ATC Bernard Plombier Chauffagiste",
+        "slug": "atc-bernard-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.atcbernard.fr/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 92,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "vars": {
+    "artisans": [
+      {
+        "id": "3618651135141805172",
+        "nom": "VAR CLIMATISATION",
+        "slug": "var-climatisation",
+        "telephone": null,
+        "site_web": "http://www.var-climatisation.com/",
+        "adresse": "Draguignan",
+        "note": 5,
+        "avis": 90,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18108749856290970424",
+        "nom": "Unity France - Plomberie, chauffage & climatisation",
+        "slug": "unity-france-plomberie-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://www.unity-france.com/",
+        "adresse": "La Valette-du-Var",
+        "note": 4,
+        "avis": 50,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vuil-et-giget": {
+    "artisans": [
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": null,
+        "site_web": "https://imex16.fr/",
+        "adresse": "27 Rue de Tivoli",
+        "note": 4,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2689053418269066491",
+        "nom": "Sud Ouest Maintenance",
+        "slug": "sud-ouest-maintenance",
+        "telephone": null,
+        "site_web": "http://www.sud-ouest-maintenance.fr/",
+        "adresse": "Rue Principale",
+        "note": 3,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "4267298257667348492",
+        "nom": "OPTIM +",
+        "slug": "optim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "52 Rue de Tivoli",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8237818269079021029",
+        "nom": "Cjl Services",
+        "slug": "cjl-services",
+        "telephone": null,
+        "site_web": "https://www.cjl-electricite.fr/?utm_source=gmb",
+        "adresse": "Soyaux",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "9686996128003754957",
+        "nom": "Sarl mn thermique",
+        "slug": "sarl-mn-thermique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Couronne",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "2982377415841606374",
+        "nom": "Mousnier DGM - Plombier Chauffagiste",
+        "slug": "mousnier-dgm-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.mousnier-dgm.fr/",
+        "adresse": "Puymoyen",
+        "note": 5,
+        "avis": 132,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "val-de-bonnieure": {
+    "artisans": [
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": null,
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3565804981046764021",
+        "nom": "HB SYSTEME - Chasseneuil-sur-Bonnieure - L'Isle d'Espagnac",
+        "slug": "hb-systeme-chasseneuil-sur-bonnieure-lisle-despagnac",
+        "telephone": null,
+        "site_web": "http://www.hbsysteme.fr/",
+        "adresse": "Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": null,
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "06 48 14 77 53",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15995946475488314277",
+        "nom": "Elec Sol'Air",
+        "slug": "elec-solair",
+        "telephone": null,
+        "site_web": "https://www.elecsolair.com/",
+        "adresse": "Ruffec",
+        "note": 4,
+        "avis": 77,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4055966305050384614",
+        "nom": "MJ ENR",
+        "slug": "mj-enr",
+        "telephone": null,
+        "site_web": "https://www.mjenr.fr/",
+        "adresse": "Angoulême",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8069638607931653903",
+        "nom": "SARL Correia Frères",
+        "slug": "sarl-correia-freres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "salles-dangles": {
+    "artisans": [
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7395432732624636303",
+        "nom": "SAS Tardieu Electricité",
+        "slug": "sas-tardieu-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Genté",
+        "note": 4,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": null,
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "Châteaubernard",
+        "note": 3,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "38780497058441364",
+        "nom": "Sarl M G S",
+        "slug": "sarl-m-g-s",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Salles-d'Angles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1141492344962431779",
+        "nom": "J.C.Pose",
+        "slug": "jcpose",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/15VQA4yRJb/",
+        "adresse": "Rue du Colombar",
+        "note": 5,
+        "avis": 13,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "16776184365247060212",
+        "nom": "SAS JOACKIM TURPAIN",
+        "slug": "sas-joackim-turpain",
+        "telephone": null,
+        "site_web": "https://www.jturpain-menuiserie.fr/",
+        "adresse": "Cognac",
+        "note": 4,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9629210575964206014",
+        "nom": "KBELEC électricité Antenne Climatisation dépannage Installation Vendée",
+        "slug": "kbelec-electricite-antenne-climatisation-depannage-installation-vendee",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Angles",
+        "note": 4,
+        "avis": 28,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "soyaux": {
+    "artisans": [
+      {
+        "id": "15910748269157909609",
+        "nom": "APIC PLOMBERIE ET CHAUFFAGE",
+        "slug": "apic-plomberie-et-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 Rue des Frères Pélissier Appartement 74",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8237818269079021029",
+        "nom": "Cjl Services",
+        "slug": "cjl-services",
+        "telephone": null,
+        "site_web": "https://www.cjl-electricite.fr/?utm_source=gmb",
+        "adresse": "3 Pl. Jacques Cartier",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "13755625767094272014",
+        "nom": "HomeServe Rénov' (ex EnergyGo)",
+        "slug": "homeserve-renov-ex-energygo",
+        "telephone": null,
+        "site_web": "https://www.energy-go.fr/",
+        "adresse": "Puymoyen",
+        "note": 4,
+        "avis": 45,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "11660881255375491399",
+        "nom": "Monsieur Rey - Électricien",
+        "slug": "monsieur-rey-electricien",
+        "telephone": null,
+        "site_web": "https://monsieur-rey.fr/",
+        "adresse": "Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 48,
+        "type": "Électricien"
+      },
+      {
+        "id": "13682501253731139848",
+        "nom": "BIOMOTIK KMJ HABITAT",
+        "slug": "biomotik-kmj-habitat",
+        "telephone": null,
+        "site_web": "https://revendeur.rika.fr/46-rika-charente-biomotik-kmj-habitat-soyaux?utm_source=gmb",
+        "adresse": "32 Rue D'Epagnac, Le Poirier Cadet",
+        "note": 4,
+        "avis": 36,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "8069638607931653903",
+        "nom": "SARL Correia Frères",
+        "slug": "sarl-correia-freres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "10545530251030278594",
+        "nom": "Leroy Merlin Soyaux - Angoulême - Cognac",
+        "slug": "leroy-merlin-soyaux-angouleme-cognac",
+        "telephone": null,
+        "site_web": "https://www.leroymerlin.fr/magasins/soyaux-angouleme.html",
+        "adresse": "D939 Av. du Général de Gaulle",
+        "note": 3,
+        "avis": 3,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "3013386189325188945",
+        "nom": "Technitoit Angoulême",
+        "slug": "technitoit-angouleme",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/charente-16-angouleme-renovation?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 178,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8757419587299425427",
+        "nom": "ATC Bernard Plombier Chauffagiste",
+        "slug": "atc-bernard-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.atcbernard.fr/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 92,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "vindelle": {
+    "artisans": [
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": null,
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "Champniers",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": null,
+        "site_web": "https://f2c.site/",
+        "adresse": "Brie",
+        "note": 4,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4322852861271094999",
+        "nom": "SARL DL CLIMATIQUE 16",
+        "slug": "sarl-dl-climatique-16",
+        "telephone": null,
+        "site_web": "http://www.dl-climatique16.fr/",
+        "adresse": "Sers",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15176214081313591936",
+        "nom": "SARL VULFIN & frères",
+        "slug": "sarl-vulfin-freres",
+        "telephone": null,
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/ets-vulfin-et-freres-1465",
+        "adresse": "La Rochette",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": null,
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7818424319558781189",
+        "nom": "ECC Energie Chauffage Confort",
+        "slug": "ecc-energie-chauffage-confort",
+        "telephone": null,
+        "site_web": "http://www.energiecc.fr/",
+        "adresse": "L'Isle-d'Espagnac",
+        "note": 4,
+        "avis": 87,
+        "type": "Chauffagiste"
+      }
+    ]
+  }
+}

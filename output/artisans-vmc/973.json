@@ -1,0 +1,1612 @@
+{
+  "lajoupa-bouillon": {
+    "artisans": [
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "les-anses-darlet": {
+    "artisans": [
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17299480629097679088",
+        "nom": "Clim Cash Fort de France - Martinique",
+        "slug": "clim-cash-fort-de-france-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16664922612813283404",
+        "nom": "Maison Anses-d'Arlet",
+        "slug": "maison-anses-darlet",
+        "telephone": null,
+        "site_web": "https://travel.homerez.com/da/book/22696663/property",
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Location de vacances"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "18071597202899971912",
+        "nom": "Aura Climatisation",
+        "slug": "aura-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Auraclimatisation?utm_source=gmb",
+        "adresse": "Le Robert, Martinique",
+        "note": 4,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7786461329547839947",
+        "nom": "Atlantic Froid",
+        "slug": "atlantic-froid",
+        "telephone": null,
+        "site_web": "https://www.atlanticfroid.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Le François, Martinique",
+        "note": 3,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "kourou": {
+    "artisans": [
+      {
+        "id": "12545268678350791977",
+        "nom": "POLAR-PRO FRANCE climatisation et plomberie",
+        "slug": "polar-pro-france-climatisation-et-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/POLARPRO973",
+        "adresse": "com/channel/UCHjnpTAZV6koDnBXNp_m97w, 1 Avenue des Frères Kennedy https://www.youtube",
+        "note": 4,
+        "avis": 12,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17347246417076460606",
+        "nom": "Frigelec",
+        "slug": "frigelec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Marcel Dassault ZI Pariacabo Kourou",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8326358486829800894",
+        "nom": "Climatisation Froid Guyane",
+        "slug": "climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "http://www.climatisation-froid-guyane.com/",
+        "adresse": "9 Rue Louis Breguet",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10229184347371605577",
+        "nom": "SKF - Société Kouroucienne de Froid",
+        "slug": "skf-societe-kouroucienne-de-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI PARIACABO, Av. de Prefontaine",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1044224501741615090",
+        "nom": "Elite K'lim",
+        "slug": "elite-klim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42 RUE ROSA",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15668071690525571482",
+        "nom": "T.S.E.C",
+        "slug": "tsec",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/tsec.sawh/",
+        "adresse": "06 94 97 76 06",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17346494847515198080",
+        "nom": "FOSELEV AGINTIS GUYANE - Kourou",
+        "slug": "foselev-agintis-guyane-kourou",
+        "telephone": null,
+        "site_web": "https://www.foselev.com/agence/contracting-foselev-agintis-guyane-kourou/",
+        "adresse": "72 ZI PARIACABO, Rue Marcel Dassault",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "12011868835869022393",
+        "nom": "SOCIETE KOUROUCIENNE DE FROID",
+        "slug": "societe-kouroucienne-de-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "+594 594 32 08 14",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14003736011250935656",
+        "nom": "AES Industrie",
+        "slug": "aes-industrie",
+        "telephone": null,
+        "site_web": "http://aes-guyane.fr/",
+        "adresse": "11 rue Zénobé Gramme, 97310 ZI Pariacabo",
+        "note": null,
+        "avis": null,
+        "type": "Entreprise d'énergie solaire"
+      }
+    ]
+  },
+  "riviere-pilote": {
+    "artisans": [
+      {
+        "id": "17953888258622563249",
+        "nom": "CEBI",
+        "slug": "cebi",
+        "telephone": null,
+        "site_web": "https://www.cebiclimatisation.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Le Marin, Martinique",
+        "note": 4,
+        "avis": 110,
+        "type": "Électricien"
+      },
+      {
+        "id": "7002892681694227203",
+        "nom": "COLD CARAIBE",
+        "slug": "cold-caraibe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Luce, Martinique",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1029425693091702236",
+        "nom": "Clim Cash Ducos - Martinique",
+        "slug": "clim-cash-ducos-martinique",
+        "telephone": null,
+        "site_web": "https://www.climcash-martinique.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3224332859937539964",
+        "nom": "Universal Cold",
+        "slug": "universal-cold",
+        "telephone": null,
+        "site_web": "https://universalcold.fr/",
+        "adresse": "Rivière-Salée, Martinique",
+        "note": 4,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2599165545811094372",
+        "nom": "Air Clean",
+        "slug": "air-clean",
+        "telephone": null,
+        "site_web": "https://www.climatisationmartinique.com/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9520155217287725744",
+        "nom": "Split Clim",
+        "slug": "split-clim",
+        "telephone": null,
+        "site_web": "https://www.lefroid-splitclim.fr/?utm_source=gmb",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15447340906803921841",
+        "nom": "King Cold - Installation et entretien de Climatiseur en Martinique",
+        "slug": "king-cold-installation-et-entretien-de-climatiseur-en-martinique",
+        "telephone": null,
+        "site_web": "https://www.kingcold.fr/",
+        "adresse": "Ducos, Martinique",
+        "note": 3,
+        "avis": 29,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4486538118973312797",
+        "nom": "JORDY CLIM SERVICES",
+        "slug": "jordy-clim-services",
+        "telephone": null,
+        "site_web": "https://www.jordy-clim-services.fr/",
+        "adresse": "Le Lamentin, Martinique",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de climatisation automobile"
+      },
+      {
+        "id": "15220446470695495092",
+        "nom": "CARAIBES FROID ENERGIES",
+        "slug": "caraibes-froid-energies",
+        "telephone": null,
+        "site_web": "https://www.caraibesfroid.com/",
+        "adresse": "Fort-de-France, Martinique",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "le-robert": {
+    "artisans": [
+      {
+        "id": "2448167810332609920",
+        "nom": "EKO SYSTEM SARL",
+        "slug": "eko-system-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Quartier Monnerot",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14330325253723269033",
+        "nom": "CLIMATISATION MARTINIQUE",
+        "slug": "climatisation-martinique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bâtiment de La Poste, Rue de l'artisanat, Za, Parc de la Semair",
+        "note": 4,
+        "avis": 101,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "regina": {
+    "artisans": [
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17109988440144891691",
+        "nom": "Entreprise Chanteranne Lepaul",
+        "slug": "entreprise-chanteranne-lepaul",
+        "telephone": null,
+        "site_web": "http://www.chanteranne-lepaul.fr/",
+        "adresse": "Plombières-les-Bains",
+        "note": 4,
+        "avis": 34,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9302237046712378747",
+        "nom": "SOUET Electricité EnR - Electricien Janzé",
+        "slug": "souet-electricite-enr-electricien-janze",
+        "telephone": null,
+        "site_web": "https://www.souet-electricite-chauffage.fr/",
+        "adresse": "Janzé",
+        "note": 4,
+        "avis": 37,
+        "type": "Électricien"
+      },
+      {
+        "id": "297482644521460358",
+        "nom": "Home plomberie",
+        "slug": "home-plomberie",
+        "telephone": null,
+        "site_web": "https://www.homeplomberie06.fr/",
+        "adresse": "Cagnes-sur-Mer",
+        "note": 5,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "13659587602477766162",
+        "nom": "Le Pelet",
+        "slug": "le-pelet",
+        "telephone": null,
+        "site_web": "https://lepelet.com/",
+        "adresse": "Brignais",
+        "note": 5,
+        "avis": 112,
+        "type": "Plombier"
+      },
+      {
+        "id": "9589693617976448122",
+        "nom": "Green Thermique",
+        "slug": "green-thermique",
+        "telephone": null,
+        "site_web": "https://greenthermique.fr/?utm_source=gmb",
+        "adresse": "Joué-lès-Tours",
+        "note": 4,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3110065467790780942",
+        "nom": "LES COMPAGNONS DU VENT",
+        "slug": "les-compagnons-du-vent",
+        "telephone": null,
+        "site_web": "https://www.lescompagnonsduvent.bzh/",
+        "adresse": "Guipavas",
+        "note": 4,
+        "avis": 306,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9937805018851325319",
+        "nom": "ELEC FLUIDE",
+        "slug": "elec-fluide",
+        "telephone": null,
+        "site_web": "http://www.elec-fluide.fr/",
+        "adresse": "Noyal-sur-Vilaine",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "258183926226534180",
+        "nom": "RGénie Climatique - Isère",
+        "slug": "rgenie-climatique-isere",
+        "telephone": null,
+        "site_web": "https://www.rgenieclim.fr/",
+        "adresse": "Poisat",
+        "note": 5,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8374569807692492842",
+        "nom": "Electro-Cable",
+        "slug": "electro-cable",
+        "telephone": null,
+        "site_web": "https://www.electro-cable.fr/",
+        "adresse": "Yerres",
+        "note": 4,
+        "avis": 59,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "cayenne": {
+    "artisans": [
+      {
+        "id": "6557584937454941053",
+        "nom": "LCF Climatisation & Froid Guyane",
+        "slug": "lcf-climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "https://lcf-climatisation.fr/",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10137599196169834041",
+        "nom": "Guyane Climatisation",
+        "slug": "guyane-climatisation",
+        "telephone": null,
+        "site_web": "https://guyaneclim.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4711881872564569251",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": null,
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6477284937112888310",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 3,
+        "avis": 20,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "iracoubo": {
+    "artisans": [
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Route du Tigre DC7A cabassou 1 Cayenne",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "2561 Rte de Remire",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "macouria": {
+    "artisans": [
+      {
+        "id": "14461932548815743849",
+        "nom": "J.L.C Climatisation",
+        "slug": "jlc-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 6,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "10137599196169834041",
+        "nom": "Guyane Climatisation",
+        "slug": "guyane-climatisation",
+        "telephone": null,
+        "site_web": "https://guyaneclim.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13070284807730302827",
+        "nom": "service plomb",
+        "slug": "service-plomb",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "les rive de soula, 27 rue de l'acarouani, BT 8A2 3",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "Montjoly, Guyane française",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "8994309804249857870",
+        "nom": "Climat Express - Climatisation Saint-Georges-de-Beauce",
+        "slug": "climat-express-climatisation-saint-georges-de-beauce",
+        "telephone": null,
+        "site_web": "https://www.climatexpress.ca/",
+        "adresse": "Saint-Georges, QC, Canada",
+        "note": 4,
+        "avis": 188,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17262424929169117244",
+        "nom": "POULIN EXPERT",
+        "slug": "poulin-expert",
+        "telephone": null,
+        "site_web": "https://www.poulinexpert.com/",
+        "adresse": "Saint-Georges, QC, Canada",
+        "note": 4,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16291603594553792010",
+        "nom": "Sun Climat",
+        "slug": "sun-climat",
+        "telephone": null,
+        "site_web": "http://www.sunclimat.fr/?utm_source=gmb",
+        "adresse": "Bussy-Saint-Georges",
+        "note": 4,
+        "avis": 344,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7622925877378340697",
+        "nom": "FHV - France Hygiène Ventilation Mayenne",
+        "slug": "fhv-france-hygiene-ventilation-mayenne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-mayenne/",
+        "adresse": "Saint-Georges-Buttavent",
+        "note": 4,
+        "avis": 30,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11586399819458404433",
+        "nom": "MP Clim & Sol Air - Installation climatisation",
+        "slug": "mp-clim-sol-air-installation-climatisation",
+        "telephone": null,
+        "site_web": "https://www.mpclimsolair.com/",
+        "adresse": "07 82 67 51 94",
+        "note": 5,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10674158202318453579",
+        "nom": "CapSud - Installation panneaux solaires et climatisation",
+        "slug": "capsud-installation-panneaux-solaires-et-climatisation",
+        "telephone": null,
+        "site_web": "https://www.capsud-clim.fr/",
+        "adresse": "Saint-Georges-d'Orques",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      }
+    ]
+  },
+  "roura": {
+    "artisans": [
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": null,
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15196034150372377117",
+        "nom": "QUALIBLUE",
+        "slug": "qualiblue",
+        "telephone": null,
+        "site_web": "https://www.qualiblue.com/",
+        "adresse": "Sainte-Anne, Guadeloupe",
+        "note": 3,
+        "avis": 15,
+        "type": "Services aux entreprises"
+      }
+    ]
+  },
+  "saint-laurent-du-maroni": {
+    "artisans": [
+      {
+        "id": "9967731615122698480",
+        "nom": "Monsieur Clim",
+        "slug": "monsieur-clim",
+        "telephone": null,
+        "site_web": "http://www.monsieurclim.gf/",
+        "adresse": "Avenue Gaston Monerville 230",
+        "note": 4,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9847209911635199614",
+        "nom": "911 CLIM DEPANNAGE",
+        "slug": "911-clim-depannage",
+        "telephone": null,
+        "site_web": "http://www.911climdepannage.fr/",
+        "adresse": "1 Rue Thiers",
+        "note": 4,
+        "avis": 44,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17798422955058027331",
+        "nom": "LE GAC Saint Laurent du Maroni",
+        "slug": "le-gac-saint-laurent-du-maroni",
+        "telephone": null,
+        "site_web": "http://www.legac-materiaux.com/",
+        "adresse": "Allée des Gardénias 6 N 1 Saint Laurent du Maroni, 6 N1",
+        "note": 3,
+        "avis": 54,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "8710835604419180088",
+        "nom": "BATIX SAS",
+        "slug": "batix-sas",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/BATIX-103550224391922/",
+        "adresse": "11 Bd du Maroni",
+        "note": null,
+        "avis": null,
+        "type": "Entreprise de génie civil"
+      }
+    ]
+  },
+  "montsinery-tonnegrande": {
+    "artisans": [
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "2561 Rte de Remire",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "12439399907864755958",
+        "nom": "CLIMATICA",
+        "slug": "climatica",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cayenne, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": null,
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "grand-santi": {
+    "artisans": [
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2561 Rte de Remire",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "apatou": {
+    "artisans": [
+      {
+        "id": "4711881872564569251",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6557584937454941053",
+        "nom": "LCF Climatisation & Froid Guyane",
+        "slug": "lcf-climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "https://lcf-climatisation.fr/",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8326358486829800894",
+        "nom": "Climatisation Froid Guyane",
+        "slug": "climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "http://www.climatisation-froid-guyane.com/",
+        "adresse": "Kourou, Guyane française",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "Montjoly, Guyane française",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "17347246417076460606",
+        "nom": "Frigelec",
+        "slug": "frigelec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10113990237624059206",
+        "nom": "France énergie solution pompe à chaleur et climatisation",
+        "slug": "france-energie-solution-pompe-a-chaleur-et-climatisation",
+        "telephone": null,
+        "site_web": "https://france-es.fr/",
+        "adresse": "Angers",
+        "note": 4,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12439399907864755958",
+        "nom": "CLIMATICA",
+        "slug": "climatica",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cayenne, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10137599196169834041",
+        "nom": "Guyane Climatisation",
+        "slug": "guyane-climatisation",
+        "telephone": null,
+        "site_web": "https://guyaneclim.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "awala-yalimapo": {
+    "artisans": [
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "matoury": {
+    "artisans": [
+      {
+        "id": "6557584937454941053",
+        "nom": "LCF Climatisation & Froid Guyane",
+        "slug": "lcf-climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "https://lcf-climatisation.fr/",
+        "adresse": "6 Rue Sapotille",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4956661340807345301",
+        "nom": "SOS CLIM",
+        "slug": "sos-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 2,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Cogneau Lamirande, 600 Rte de la Distillerie",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "965707869944259823",
+        "nom": "SABECKS CLIMATISATION",
+        "slug": "sabecks-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1893 Chem. de la Levée",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4711881872564569251",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": null,
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5304423036137740703",
+        "nom": "Qualité froid climatisation - s.a.v électroménager",
+        "slug": "qualite-froid-climatisation-sav-electromenager",
+        "telephone": null,
+        "site_web": "https://www.sumupbookings.com/qualite-froid",
+        "adresse": "13 Rue de la Cotonnière",
+        "note": 1,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14461932548815743849",
+        "nom": "J.L.C Climatisation",
+        "slug": "jlc-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 6,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "10040823907317233290",
+        "nom": "ISOCOOL973",
+        "slug": "isocool973",
+        "telephone": null,
+        "site_web": "https://www.isocool973.com/",
+        "adresse": "Guyane française",
+        "note": null,
+        "avis": null,
+        "type": "Usine frigorifique"
+      }
+    ]
+  },
+  "maripasoula": {
+    "artisans": [
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4711881872564569251",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "6557584937454941053",
+        "nom": "LCF Climatisation & Froid Guyane",
+        "slug": "lcf-climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "https://lcf-climatisation.fr/",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14461932548815743849",
+        "nom": "J.L.C Climatisation",
+        "slug": "jlc-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 6,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "9967731615122698480",
+        "nom": "Monsieur Clim",
+        "slug": "monsieur-clim",
+        "telephone": null,
+        "site_web": "http://www.monsieurclim.gf/",
+        "adresse": "Saint-Laurent-du-Maroni, Guyane française",
+        "note": 4,
+        "avis": 39,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8326358486829800894",
+        "nom": "Climatisation Froid Guyane",
+        "slug": "climatisation-froid-guyane",
+        "telephone": null,
+        "site_web": "http://www.climatisation-froid-guyane.com/",
+        "adresse": "Kourou, Guyane française",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "Montjoly, Guyane française",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "10137599196169834041",
+        "nom": "Guyane Climatisation",
+        "slug": "guyane-climatisation",
+        "telephone": null,
+        "site_web": "https://guyaneclim.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": null,
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "papaichton": {
+    "artisans": [
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10137599196169834041",
+        "nom": "Guyane Climatisation",
+        "slug": "guyane-climatisation",
+        "telephone": null,
+        "site_web": "https://guyaneclim.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12439399907864755958",
+        "nom": "CLIMATICA",
+        "slug": "climatica",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cayenne, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9967731615122698480",
+        "nom": "Monsieur Clim",
+        "slug": "monsieur-clim",
+        "telephone": null,
+        "site_web": "http://www.monsieurclim.gf/",
+        "adresse": "Saint-Laurent-du-Maroni, Guyane française",
+        "note": 4,
+        "avis": 39,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": null,
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "Montjoly, Guyane française",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "6611838463493563455",
+        "nom": "Papaïchton, Guyane française",
+        "slug": "papaichton-guyane-francaise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "RV42+GJ3",
+        "note": null,
+        "avis": null,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15765348598894906246",
+        "nom": "Mairie de Papaïchton",
+        "slug": "mairie-de-papaichton",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "RV42+Q4X",
+        "note": 3,
+        "avis": 3,
+        "type": "Hôtel de ville"
+      }
+    ]
+  },
+  "mana": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4660393517954167983",
+        "nom": "Litka vmc neuilly sur seine - installation vmc - nettoyage vmc",
+        "slug": "litka-vmc-neuilly-sur-seine-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "http://litka-vmc-neuilly-sur-seine.com/",
+        "adresse": "Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13229800496914321886",
+        "nom": "Ma climatisation & pompe à chaleur",
+        "slug": "ma-climatisation-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://www.pompeschaleurpro.fr/",
+        "adresse": "Montreuil",
+        "note": 4,
+        "avis": 33,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "camopi": {
+    "artisans": [
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "remire-montjoly": {
+    "artisans": [
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "Montjoly, Guyane française",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "10137599196169834041",
+        "nom": "Guyane Climatisation",
+        "slug": "guyane-climatisation",
+        "telephone": null,
+        "site_web": "https://guyaneclim.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "673397576811077496",
+        "nom": "JK CLIMATISATION",
+        "slug": "jk-climatisation",
+        "telephone": null,
+        "site_web": "https://www.jk-climatisation.fr/",
+        "adresse": "785F, avenue Gaston Monnerville",
+        "note": null,
+        "avis": null,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4711881872564569251",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "16875494347070009380",
+        "nom": "Marius Climatisation",
+        "slug": "marius-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Marius-Climatisation-service-climatisation-GUYANE-104813081123966/",
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": null,
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14461932548815743849",
+        "nom": "J.L.C Climatisation",
+        "slug": "jlc-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 4,
+        "avis": 6,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Matoury, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "12439399907864755958",
+        "nom": "CLIMATICA",
+        "slug": "climatica",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cayenne, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12961443124109289803",
+        "nom": "GETELEC GUYANE SAS - GETELEC Energies et CITEOS Guyane",
+        "slug": "getelec-guyane-sas-getelec-energies-et-citeos-guyane",
+        "telephone": null,
+        "site_web": "http://www.getelec-guyane.fr/",
+        "adresse": "Cayenne, Guyane française",
+        "note": 4,
+        "avis": 7,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "sinnamary": {
+    "artisans": [
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2561 Rte de Remire",
+        "note": 4,
+        "avis": 45,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  }
+}

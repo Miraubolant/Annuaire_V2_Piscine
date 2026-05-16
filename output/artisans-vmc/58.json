@@ -1,0 +1,3517 @@
+{
+  "neuvy-sur-loire": {
+    "artisans": [
+      {
+        "id": "10838121802433035835",
+        "nom": "NEUVY COUVERTURE traitement de toiture traitement anti mousse et rénovation",
+        "slug": "neuvy-couverture-traitement-de-toiture-traitement-anti-mousse-et-renovation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "27 Rue Alexandre Paris",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8769834927202669894",
+        "nom": "Sarl Dufour Freres",
+        "slug": "sarl-dufour-freres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "31 Rue Jean Jaurès",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "7668022912106734497",
+        "nom": "Eurl Thierry Raud",
+        "slug": "eurl-thierry-raud",
+        "telephone": null,
+        "site_web": "https://eurltraud.wixsite.com/eurl-thierry-raud",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14797100993344356279",
+        "nom": "Ets Bourroux Mr Ledoux",
+        "slug": "ets-bourroux-mr-ledoux",
+        "telephone": null,
+        "site_web": "https://entreprisebourroux.fr/?utm_source=gmb",
+        "adresse": "Cosne-Cours-sur-Loire",
+        "note": 4,
+        "avis": 20,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11556407747020606910",
+        "nom": "WOOD CENTER",
+        "slug": "wood-center",
+        "telephone": null,
+        "site_web": "https://www.woodcenter.fr/",
+        "adresse": "Bonny-sur-Loire",
+        "note": 4,
+        "avis": 54,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8134157684516402125",
+        "nom": "Vannier Froid Climatisation SARL",
+        "slug": "vannier-froid-climatisation-sarl",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/Vannier-Froid-Climatisation-130151204431196/",
+        "adresse": "Lion-en-Sullias",
+        "note": 3,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8022245569863522875",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/SARL-DME-111513804704291/?utm_source=gmb",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4376903867210154814",
+        "nom": "Entreprise Desbois",
+        "slug": "entreprise-desbois",
+        "telephone": null,
+        "site_web": "http://www.entreprise-desbois.fr/",
+        "adresse": "Cosne-Cours-sur-Loire",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "cercy-la-tour": {
+    "artisans": [
+      {
+        "id": "4912712081036060161",
+        "nom": "GMC SERVICES",
+        "slug": "gmc-services",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/gmcercy",
+        "adresse": "4 Quai Antoine Lacharme",
+        "note": 3,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10233603148704551115",
+        "nom": "CASSIER COMBUSTIBLES",
+        "slug": "cassier-combustibles",
+        "telephone": null,
+        "site_web": "http://www.cassier-combustibles.fr/",
+        "adresse": "33 bis Av. Louis Coudant",
+        "note": 4,
+        "avis": 30,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9633744388725778155",
+        "nom": "Beaunée Patrick",
+        "slug": "beaunee-patrick",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des Petites Brunettes",
+        "note": 4,
+        "avis": 3,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "challuy": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11979812089771241573",
+        "nom": "Audry Nicolas",
+        "slug": "audry-nicolas",
+        "telephone": null,
+        "site_web": "https://www.audry-58.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "215 Rte de Lyon",
+        "note": 4,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8103901983636653434",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/52-engie-home-services-nevers?utm_source=gmb",
+        "adresse": "Sermoise-sur-Loire",
+        "note": 4,
+        "avis": 175,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7800792414597329578",
+        "nom": "Barros Père et Fils",
+        "slug": "barros-pere-et-fils",
+        "telephone": null,
+        "site_web": "http://www.barros-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 32,
+        "type": "Plombier"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "932751183161926030",
+        "nom": "Technitoit Nevers",
+        "slug": "technitoit-nevers",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/nievre-58-nevers-renovation?utm_source=google&utm_medium=gmb",
+        "adresse": "Marzy",
+        "note": 4,
+        "avis": 142,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-charite-sur-loire": {
+    "artisans": [
+      {
+        "id": "17449642062299171322",
+        "nom": "Apc Virgil PEIGNOT",
+        "slug": "apc-virgil-peignot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "46 Rue de Gerigny",
+        "note": 5,
+        "avis": 30,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8457895785424813418",
+        "nom": "J.C.B. Plomb-Elec",
+        "slug": "jcb-plomb-elec",
+        "telephone": null,
+        "site_web": "https://www.jcb-electricien-58.fr/",
+        "adresse": "4 Quai Maréchal Foch",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13683084496312401919",
+        "nom": "Quenehen Sarl",
+        "slug": "quenehen-sarl",
+        "telephone": null,
+        "site_web": "http://quenehen.site-solocal.com/",
+        "adresse": "La, 3 Av. de la Gare",
+        "note": 4,
+        "avis": 21,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17630018027379750956",
+        "nom": "Flamme & Confort",
+        "slug": "flamme-confort",
+        "telephone": null,
+        "site_web": "https://www.ramonage58.fr/",
+        "adresse": "30 Rue de Gerigny",
+        "note": 5,
+        "avis": 3,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "7965554883950496934",
+        "nom": "S.G.A - J.MEYER",
+        "slug": "sga-jmeyer",
+        "telephone": null,
+        "site_web": "https://www.j-meyer-sga.fr/",
+        "adresse": "24 Rue de Gerigny",
+        "note": 5,
+        "avis": 1,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "15390542147103898644",
+        "nom": "Mathew Pouffier Services",
+        "slug": "mathew-pouffier-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12 Gd Rue François Mitterrand",
+        "note": 4,
+        "avis": 5,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "17808506544172303808",
+        "nom": "Eco-bio Chauff",
+        "slug": "eco-bio-chauff",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue du Pont",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12008711833914666964",
+        "nom": "JEVOUSCOUVRE",
+        "slug": "jevouscouvre",
+        "telephone": null,
+        "site_web": "https://www.jevouscouvre.fr/",
+        "adresse": "La, Gerigny",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1541099695951375462",
+        "nom": "SARL SLE BâtHyVolt",
+        "slug": "sarl-sle-bathyvolt",
+        "telephone": null,
+        "site_web": "https://www.bathyvolt.fr/",
+        "adresse": "Herry",
+        "note": 5,
+        "avis": 28,
+        "type": "Entreprise d'énergie solaire"
+      }
+    ]
+  },
+  "clamecy": {
+    "artisans": [
+      {
+        "id": "1095519780059922750",
+        "nom": "SARL SANYTHERMIC SN",
+        "slug": "sarl-sanythermic-sn",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Pl. de Bethléem",
+        "note": 3,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8603066834084110024",
+        "nom": "MC PAC ENERGIES",
+        "slug": "mc-pac-energies",
+        "telephone": null,
+        "site_web": "https://www.merlinchristophe.fr/",
+        "adresse": "5 Av. Saint-Exupéry",
+        "note": 3,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1973367362019603844",
+        "nom": "SAS Éric HITIER",
+        "slug": "sas-eric-hitier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Quai Saint-Roch",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "9117963432229462354",
+        "nom": "Merlin Christophe",
+        "slug": "merlin-christophe",
+        "telephone": null,
+        "site_web": "https://www.merlinchristophe.fr/",
+        "adresse": "Av. Saint-Exupéry",
+        "note": 3,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "2836558177229973277",
+        "nom": "Entreprise Tapin",
+        "slug": "entreprise-tapin",
+        "telephone": null,
+        "site_web": "https://www.electriciteclamecy.fr/",
+        "adresse": "16 Rte de Pressures",
+        "note": 3,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "1760484212230350596",
+        "nom": "Mille et 1 Services",
+        "slug": "mille-et-1-services",
+        "telephone": null,
+        "site_web": "http://poelegranulesnievre.fr/",
+        "adresse": "Varzy",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17400557166900220474",
+        "nom": "SARL DESPIGNES + ELEC",
+        "slug": "sarl-despignes-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "47 Rte de Pressures",
+        "note": 3,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "7976244787447851993",
+        "nom": "ENTREPRISE VM ESPACES VERTS: Élagueur - Abattage d'arbres Entretien Taille de Haies Camion-Nacelle 58 Nièvre Clamecy Varzy",
+        "slug": "entreprise-vm-espaces-verts-elagueur-abattage-darbres-entretien-taille-de-haies-camion-nacelle-58-nievre-clamecy-varzy",
+        "telephone": null,
+        "site_web": "https://vmspacesverds.wixstudio.io/jardinier58",
+        "adresse": "1 Imp. des Jolivets",
+        "note": 5,
+        "avis": 8,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "8392331717518582041",
+        "nom": "jousseaume renald",
+        "slug": "jousseaume-renald",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Surgy",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "1690616874478498737",
+        "nom": "Morvan Eco Installations",
+        "slug": "morvan-eco-installations",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Germain-des-Champs",
+        "note": 5,
+        "avis": 21,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "cosne-cours-sur-loire": {
+    "artisans": [
+      {
+        "id": "4376903867210154814",
+        "nom": "Entreprise Desbois",
+        "slug": "entreprise-desbois",
+        "telephone": null,
+        "site_web": "http://www.entreprise-desbois.fr/",
+        "adresse": "LES PATUREAUX NORD, 34 RUE DE VILLECHAUD, Chp du Latin ZA DU",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14797100993344356279",
+        "nom": "Ets Bourroux Mr Ledoux",
+        "slug": "ets-bourroux-mr-ledoux",
+        "telephone": null,
+        "site_web": "https://entreprisebourroux.fr/?utm_source=gmb",
+        "adresse": "2 Rue du Noyer d'Amour",
+        "note": 4,
+        "avis": 20,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7668022912106734497",
+        "nom": "Eurl Thierry Raud",
+        "slug": "eurl-thierry-raud",
+        "telephone": null,
+        "site_web": "https://eurltraud.wixsite.com/eurl-thierry-raud",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17751847506378813142",
+        "nom": "Dalkia Froid Solutions",
+        "slug": "dalkia-froid-solutions",
+        "telephone": null,
+        "site_web": "https://www.dalkiafroidsolutions.com/?utm_source=gmb",
+        "adresse": "Rue des Limes",
+        "note": 5,
+        "avis": 1,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "16470657733828218956",
+        "nom": "Eco Conseil",
+        "slug": "eco-conseil",
+        "telephone": null,
+        "site_web": "https://www.ecoconseil-energie.com/",
+        "adresse": "2 Rue Robert Naberis",
+        "note": 4,
+        "avis": 117,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5355507527117373988",
+        "nom": "Energie 2000 Plus",
+        "slug": "energie-2000-plus",
+        "telephone": null,
+        "site_web": "http://www.energie2000plus.com/?utm_source=gmb",
+        "adresse": "Le, Zone Industrielle, 7 Allée Entrepreneurs, All. du Tremblat",
+        "note": 3,
+        "avis": 31,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8022245569863522875",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/SARL-DME-111513804704291/?utm_source=gmb",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10434427649609590163",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.sarl-dme58.fr/",
+        "adresse": "Tracy-sur-Loire",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14448185305348436800",
+        "nom": "Entreprise Chabanne",
+        "slug": "entreprise-chabanne",
+        "telephone": null,
+        "site_web": "https://www.entreprise-chabanne.fr/",
+        "adresse": "1 Allée des Taillandiers",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "3519311417153794062",
+        "nom": "SARL Ambiance Habitat / Ambiance résine",
+        "slug": "sarl-ambiance-habitat-ambiance-resine",
+        "telephone": null,
+        "site_web": "http://www.ambiance-habitat.fr/",
+        "adresse": "Alligny-Cosne",
+        "note": 5,
+        "avis": 11,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "coulanges-les-nevers": {
+    "artisans": [
+      {
+        "id": "12124890456932637944",
+        "nom": "Palladium",
+        "slug": "palladium",
+        "telephone": null,
+        "site_web": "https://www.palladium-nevers.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14779174443729652849",
+        "nom": "GENEOL GENIE CLIMATIQUE",
+        "slug": "geneol-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.geneol.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "8227767835140852698",
+        "nom": "Sarl Leymonie",
+        "slug": "sarl-leymonie",
+        "telephone": null,
+        "site_web": "https://www.sarlleymonie.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9808356150292142124",
+        "nom": "SOCOREBAT®️ NEVERS - Maçonnerie - Enduit Façade - Rénovation - Extension de Maison - Isolation Extérieur RGE | Nièvre 58",
+        "slug": "socorebat-nevers-maconnerie-enduit-facade-renovation-extension-de-maison-isolation-exterieur-rge-nievre-58",
+        "telephone": null,
+        "site_web": "https://www.socorebat-france.fr/bourgogne/nievre/nevers",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 56,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4190617257404917390",
+        "nom": "Fytech",
+        "slug": "fytech",
+        "telephone": null,
+        "site_web": "https://fytech58.fr/gmb/site",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "16201017367510578053",
+        "nom": "E.M.D Services",
+        "slug": "emd-services",
+        "telephone": null,
+        "site_web": "https://www.antenne-nevers.fr/",
+        "adresse": "64 Rue des Filles",
+        "note": 4,
+        "avis": 42,
+        "type": "Service de réparation d'appareils électroménagers"
+      }
+    ]
+  },
+  "lormes": {
+    "artisans": [
+      {
+        "id": "10848897586304753532",
+        "nom": "TTBE Jerkovic Martin, Chauffage Plomberie Électricité",
+        "slug": "ttbe-jerkovic-martin-chauffage-plomberie-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 ter Rte de Brassy",
+        "note": 5,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5542306280913123008",
+        "nom": "Etablissements H. Paganie",
+        "slug": "etablissements-h-paganie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "26 Av. du 8 Mai",
+        "note": 4,
+        "avis": 9,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "1690616874478498737",
+        "nom": "Morvan Eco Installations",
+        "slug": "morvan-eco-installations",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Germain-des-Champs",
+        "note": 5,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12313264931717219248",
+        "nom": "TISSIER dimitri",
+        "slug": "tissier-dimitri",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61560898573332&locale=fr_FR&utm_source=gmb",
+        "adresse": "1 Rue des Champs Monnot",
+        "note": null,
+        "avis": null,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "marzy": {
+    "artisans": [
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "932751183161926030",
+        "nom": "Technitoit Nevers",
+        "slug": "technitoit-nevers",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/nievre-58-nevers-renovation?utm_source=google&utm_medium=gmb",
+        "adresse": "ZAC de Marzy, Rte de Fourchambault",
+        "note": 4,
+        "avis": 142,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10619016815304348870",
+        "nom": "LGV ELEC",
+        "slug": "lgv-elec",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/lgvelec",
+        "adresse": "76b Rte de Nevers",
+        "note": 4,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14779174443729652849",
+        "nom": "GENEOL GENIE CLIMATIQUE",
+        "slug": "geneol-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.geneol.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "9808356150292142124",
+        "nom": "SOCOREBAT®️ NEVERS - Maçonnerie - Enduit Façade - Rénovation - Extension de Maison - Isolation Extérieur RGE | Nièvre 58",
+        "slug": "socorebat-nevers-maconnerie-enduit-facade-renovation-extension-de-maison-isolation-exterieur-rge-nievre-58",
+        "telephone": null,
+        "site_web": "https://www.socorebat-france.fr/bourgogne/nievre/nevers",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 56,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2505787260206155983",
+        "nom": "Tecnik Alliance",
+        "slug": "tecnik-alliance",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/226507690548158",
+        "adresse": "Garchizy",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "moulins-engilbert": {
+    "artisans": [
+      {
+        "id": "12214097087516022686",
+        "nom": "Langevin Jean-Philippe",
+        "slug": "langevin-jean-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte de Limanton",
+        "note": 1,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "4332140316561903441",
+        "nom": "DELIGEARD AUVERGNE ENERGIES (DAE) DE DIETRICH partenaire conventionné ET TOSHIBA Pro Confort exclusif allier, PHOTOVOLTAIQUE",
+        "slug": "deligeard-auvergne-energies-dae-de-dietrich-partenaire-conventionne-et-toshiba-pro-confort-exclusif-allier-photovoltaique",
+        "telephone": null,
+        "site_web": "https://www.deligeard-auvergne-energies.fr/",
+        "adresse": "Saint-Pourçain-sur-Sioule",
+        "note": 4,
+        "avis": 85,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13503794809000481108",
+        "nom": "Showroom P2F",
+        "slug": "showroom-p2f",
+        "telephone": null,
+        "site_web": "http://www.sasup2f.com/",
+        "adresse": "Yzeure",
+        "note": 5,
+        "avis": 5,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4155999763487708462",
+        "nom": "Desmercières Electricité Générale",
+        "slug": "desmercieres-electricite-generale",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Desmercieres/?utm_source=gmb",
+        "adresse": "Toulon-sur-Allier",
+        "note": 4,
+        "avis": 24,
+        "type": "Électricien"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3948964342798207604",
+        "nom": "Roche Particuliers",
+        "slug": "roche-particuliers",
+        "telephone": null,
+        "site_web": "http://www.etsroche.fr/",
+        "adresse": "Moulins",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2077471599128796024",
+        "nom": "THERMACLIM AUVERGNE",
+        "slug": "thermaclim-auvergne",
+        "telephone": null,
+        "site_web": "http://www.thermaclim-auvergne.fr/",
+        "adresse": "Saint-Pourçain-sur-Sioule",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16713599219086603204",
+        "nom": "Millard Froid SA",
+        "slug": "millard-froid-sa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Yzeure",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8551034265892230946",
+        "nom": "Ets THEVENET",
+        "slug": "ets-thevenet",
+        "telephone": null,
+        "site_web": "https://groupethevenet.fr/agence-thevenet-yzeure/",
+        "adresse": "Yzeure",
+        "note": 3,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "10642741298140969331",
+        "nom": "Doras Moulins-Engilbert",
+        "slug": "doras-moulins-engilbert",
+        "telephone": null,
+        "site_web": "https://www.doras.fr/?utm_source=gmb",
+        "adresse": "Rte de Châtillon",
+        "note": 3,
+        "avis": 71,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "premery": {
+    "artisans": [
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue de la Gare",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "16624163256272376600",
+        "nom": "Canamero Sarl",
+        "slug": "canamero-sarl",
+        "telephone": null,
+        "site_web": "http://www.canamero.com/",
+        "adresse": "7 Rue du 19 Mars 1962",
+        "note": 4,
+        "avis": 19,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5568938489646345096",
+        "nom": "E.P.E Sarl",
+        "slug": "epe-sarl",
+        "telephone": null,
+        "site_web": "https://www.epe-premery.fr/",
+        "adresse": "10 Grande Rue",
+        "note": 4,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "13683084496312401919",
+        "nom": "Quenehen Sarl",
+        "slug": "quenehen-sarl",
+        "telephone": null,
+        "site_web": "http://quenehen.site-solocal.com/",
+        "adresse": "La Charité-sur-Loire",
+        "note": 4,
+        "avis": 21,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2353501462135567882",
+        "nom": "OMDS",
+        "slug": "omds",
+        "telephone": null,
+        "site_web": "http://www.o-m-d-s.fr/",
+        "adresse": "Saint-Franchy",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17311907825615870692",
+        "nom": "Epe Pascault - Extra",
+        "slug": "epe-pascault-extra",
+        "telephone": null,
+        "site_web": "https://www.extra.fr/magasin/extra-premery",
+        "adresse": "10 Grande Rue",
+        "note": 3,
+        "avis": 9,
+        "type": "Service de réparation d'appareils électroménagers"
+      }
+    ]
+  },
+  "saint-amand-en-puisaye": {
+    "artisans": [
+      {
+        "id": "13051659578619203685",
+        "nom": "Sarl Dauvissat",
+        "slug": "sarl-dauvissat",
+        "telephone": null,
+        "site_web": "https://www.copra.fr/magasin/dauvissat-58318-saint-amand-en-puisay/",
+        "adresse": "Dampierre-sous-Bouhy",
+        "note": 4,
+        "avis": 11,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6251250548076312269",
+        "nom": "SAS FONTAINE",
+        "slug": "sas-fontaine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 7 ans en activité",
+        "note": 1,
+        "avis": 3,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-benin-dazy": {
+    "artisans": [
+      {
+        "id": "3284940023115207085",
+        "nom": "AD Energie",
+        "slug": "ad-energie",
+        "telephone": null,
+        "site_web": "https://www.adenergie58.fr/",
+        "adresse": "51 Rue François Mitterrand",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14969899031484018418",
+        "nom": "Extra - Sotec",
+        "slug": "extra-sotec",
+        "telephone": null,
+        "site_web": "https://www.extra.fr/magasin/extra-st-benin-dazy",
+        "adresse": "29 Rue de la Badelle",
+        "note": 4,
+        "avis": 14,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9565550444908118167",
+        "nom": "SARL SOTEC SALLE DE BAINS CUISINES",
+        "slug": "sarl-sotec-salle-de-bains-cuisines",
+        "telephone": null,
+        "site_web": "http://www.sotec-salledebain-cuisine.fr/",
+        "adresse": "29 Rue de la Badelle",
+        "note": 5,
+        "avis": 5,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "14057541866625070533",
+        "nom": "O Coin Du Feu",
+        "slug": "o-coin-du-feu",
+        "telephone": null,
+        "site_web": "https://www.ocoindufeu58.fr/",
+        "adresse": "13 Rue Victor Hugo",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15822535305691290863",
+        "nom": "Billardon Franck",
+        "slug": "billardon-franck",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "27 Rue de la Badelle",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14626036151247437631",
+        "nom": "SPAC",
+        "slug": "spac",
+        "telephone": null,
+        "site_web": "http://spac58.fr/",
+        "adresse": "06 78 58 57 57",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "17959437105502476563",
+        "nom": "Charpente Couverture Nivernaise",
+        "slug": "charpente-couverture-nivernaise",
+        "telephone": null,
+        "site_web": "https://www.sarl-ccn.fr/",
+        "adresse": "27 Rue de la Badelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7707901515075923649",
+        "nom": "Technifacades",
+        "slug": "technifacades",
+        "telephone": null,
+        "site_web": "https://facades.techni-groupe.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 3,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "saint-eloi": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14310846798575538285",
+        "nom": "E.p.n.",
+        "slug": "epn",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 rte Zone Industrielle",
+        "note": 4,
+        "avis": 49,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-leger-des-vignes": {
+    "artisans": [
+      {
+        "id": "427616827273051245",
+        "nom": "ERCAEE",
+        "slug": "ercaee",
+        "telephone": null,
+        "site_web": "https://ercaee.com/",
+        "adresse": "ZA La Chaume aux Sables",
+        "note": 4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "2082782092019426173",
+        "nom": "MCTA",
+        "slug": "mcta",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15 Rue de la Loge",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de transformation des métaux"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4912712081036060161",
+        "nom": "GMC SERVICES",
+        "slug": "gmc-services",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/gmcercy",
+        "adresse": "Cercy-la-Tour",
+        "note": 3,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9245230702129953421",
+        "nom": "D'HOME ELEC",
+        "slug": "dhome-elec",
+        "telephone": null,
+        "site_web": "https://www.d-homelec.fr/",
+        "adresse": "Toury-Lurcy",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "511527372321830325",
+        "nom": "Artisan•JASON Couverture/Toiture 58-03🏡",
+        "slug": "artisanjason-couverturetoiture-58-03",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Decize",
+        "note": 4,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-pierre-le-moutier": {
+    "artisans": [
+      {
+        "id": "15244388094589434887",
+        "nom": "Etablissements Hiblot Ex Perraudin",
+        "slug": "etablissements-hiblot-ex-perraudin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "38 Av. Georges Clemenceau",
+        "note": 2,
+        "avis": 4,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "684413025786885872",
+        "nom": "D.P.C Dépannage Plomberie Chauffage",
+        "slug": "dpc-depannage-plomberie-chauffage",
+        "telephone": null,
+        "site_web": "http://www.dpc-livry.com/",
+        "adresse": "19 Rue de Livry",
+        "note": 4,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "17488646867398941162",
+        "nom": "Expert Services",
+        "slug": "expert-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Rue de Saint-Roch",
+        "note": 4,
+        "avis": 19,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12602587568936674355",
+        "nom": "La Maison Qui Rénov | Isolation et Rénovation",
+        "slug": "la-maison-qui-renov-isolation-et-renovation",
+        "telephone": null,
+        "site_web": "https://www.la-maison-qui-renov.fr/",
+        "adresse": "16 Av. Raymond Coutin",
+        "note": 4,
+        "avis": 46,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "sauvigny-les-bois": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14279876709469213629",
+        "nom": "ACTIV Nevers",
+        "slug": "activ-nevers",
+        "telephone": null,
+        "site_web": "https://nevers.activ-renovation.com/",
+        "adresse": "Magny-Cours",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12402132929314969544",
+        "nom": "Entreprise Mangeon",
+        "slug": "entreprise-mangeon",
+        "telephone": null,
+        "site_web": "http://www.entreprise-mangeon.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 3,
+        "avis": 46,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10825488813215732101",
+        "nom": "Entreprise Gonin",
+        "slug": "entreprise-gonin",
+        "telephone": null,
+        "site_web": "https://www.gonin-entreprise.fr/",
+        "adresse": "Sermoise-sur-Loire",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "sermoise-sur-loire": {
+    "artisans": [
+      {
+        "id": "8103901983636653434",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/52-engie-home-services-nevers?utm_source=gmb",
+        "adresse": "26 Rte de Lyon",
+        "note": 4,
+        "avis": 175,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14176008616622215181",
+        "nom": "SEDELEC S.A.S",
+        "slug": "sedelec-sas",
+        "telephone": null,
+        "site_web": "http://www.sedelec.net/",
+        "adresse": "102 Bis Rte de Lyon",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10825488813215732101",
+        "nom": "Entreprise Gonin",
+        "slug": "entreprise-gonin",
+        "telephone": null,
+        "site_web": "https://www.gonin-entreprise.fr/",
+        "adresse": "1bis Rue des Trappes",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14279876709469213629",
+        "nom": "ACTIV Nevers",
+        "slug": "activ-nevers",
+        "telephone": null,
+        "site_web": "https://nevers.activ-renovation.com/",
+        "adresse": "Magny-Cours",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7800792414597329578",
+        "nom": "Barros Père et Fils",
+        "slug": "barros-pere-et-fils",
+        "telephone": null,
+        "site_web": "http://www.barros-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 32,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "urzy": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14306464806239238230",
+        "nom": "Chauffage Nivernais",
+        "slug": "chauffage-nivernais",
+        "telephone": null,
+        "site_web": "https://www.chauffage-nivernais.com/",
+        "adresse": "15 Rue des Huttes",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "8103901983636653434",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/52-engie-home-services-nevers?utm_source=gmb",
+        "adresse": "Sermoise-sur-Loire",
+        "note": 4,
+        "avis": 175,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14279876709469213629",
+        "nom": "ACTIV Nevers",
+        "slug": "activ-nevers",
+        "telephone": null,
+        "site_web": "https://nevers.activ-renovation.com/",
+        "adresse": "Magny-Cours",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "varzy": {
+    "artisans": [
+      {
+        "id": "1760484212230350596",
+        "nom": "Mille et 1 Services",
+        "slug": "mille-et-1-services",
+        "telephone": null,
+        "site_web": "http://poelegranulesnievre.fr/",
+        "adresse": "9 Av. de la Charité",
+        "note": 5,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10700260521069962506",
+        "nom": "SARL IDFC",
+        "slug": "sarl-idfc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21 chemin de la Bordafaux",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de réfrigérateurs commerciaux"
+      },
+      {
+        "id": "4899266053724087683",
+        "nom": "SARL Pregermain Marques",
+        "slug": "sarl-pregermain-marques",
+        "telephone": null,
+        "site_web": "https://sarl-pregermain-marques.jimdofree.com/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5770331803733859242",
+        "nom": "Heron Laurent",
+        "slug": "heron-laurent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "26 Rue Rex Barrat",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "8603066834084110024",
+        "nom": "MC PAC ENERGIES",
+        "slug": "mc-pac-energies",
+        "telephone": null,
+        "site_web": "https://www.merlinchristophe.fr/",
+        "adresse": "Clamecy",
+        "note": 3,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4815790608150894863",
+        "nom": "SIDMA Menuiserie - Jean-Francis Botté - Fenêtres, Portes, Volets, Véranda",
+        "slug": "sidma-menuiserie-jean-francis-botte-fenetres-portes-volets-veranda",
+        "telephone": null,
+        "site_web": "http://www.sarl-sidma.fr/",
+        "adresse": "3 Rue de la Font Sainte-Eugénie",
+        "note": 4,
+        "avis": 47,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9117963432229462354",
+        "nom": "Merlin Christophe",
+        "slug": "merlin-christophe",
+        "telephone": null,
+        "site_web": "https://www.merlinchristophe.fr/",
+        "adresse": "Clamecy",
+        "note": 3,
+        "avis": 16,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chantenay-saint-imbert": {
+    "artisans": [
+      {
+        "id": "14553235794543949546",
+        "nom": "Entreprise Chantenoise SARL",
+        "slug": "entreprise-chantenoise-sarl",
+        "telephone": null,
+        "site_web": "http://entreprisechantenoisesarl.site-solocal.com/?utm_source=gmb",
+        "adresse": "3 Rue de la Bissate",
+        "note": 4,
+        "avis": 12,
+        "type": "Maçon"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2891757951165078937",
+        "nom": "Charpentier menuisier Deteix Christian",
+        "slug": "charpentier-menuisier-deteix-christian",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue de la Scierie",
+        "note": 1,
+        "avis": 1,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "12402132929314969544",
+        "nom": "Entreprise Mangeon",
+        "slug": "entreprise-mangeon",
+        "telephone": null,
+        "site_web": "http://www.entreprise-mangeon.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 3,
+        "avis": 46,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4812874880912872027",
+        "nom": "TM VENTILATION",
+        "slug": "tm-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Clonas-sur-Varèze",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7800792414597329578",
+        "nom": "Barros Père et Fils",
+        "slug": "barros-pere-et-fils",
+        "telephone": null,
+        "site_web": "http://www.barros-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 32,
+        "type": "Plombier"
+      },
+      {
+        "id": "5711078634623991110",
+        "nom": "HYGIS Clermont Ferrand - Roanne",
+        "slug": "hygis-clermont-ferrand-roanne",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-installation-hotte-vmc-climatisation-clermont-ferrand-puy-de-dome-63.html",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9808356150292142124",
+        "nom": "SOCOREBAT®️ NEVERS - Maçonnerie - Enduit Façade - Rénovation - Extension de Maison - Isolation Extérieur RGE | Nièvre 58",
+        "slug": "socorebat-nevers-maconnerie-enduit-facade-renovation-extension-de-maison-isolation-exterieur-rge-nievre-58",
+        "telephone": null,
+        "site_web": "https://www.socorebat-france.fr/bourgogne/nievre/nevers",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 56,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16576136522100707700",
+        "nom": "AYA Ventilation.",
+        "slug": "aya-ventilation",
+        "telephone": null,
+        "site_web": "https://www.ayaventilation.fr/contact.html",
+        "adresse": "Roncq",
+        "note": 4,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "decize": {
+    "artisans": [
+      {
+        "id": "16066667820529785315",
+        "nom": "Decize Maintenance",
+        "slug": "decize-maintenance",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "18 Rte de Moulins",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4739750781785199827",
+        "nom": "Grandjean Fabrice",
+        "slug": "grandjean-fabrice",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Ets-Grandjean-490385761727756/",
+        "adresse": "19 Rue de la République BP 40",
+        "note": 4,
+        "avis": 56,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "18425350139937683484",
+        "nom": "CEDEO Decize : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-decize-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/decize-cedeo-2283",
+        "adresse": "81 Av. du 14 Juillet",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4912712081036060161",
+        "nom": "GMC SERVICES",
+        "slug": "gmc-services",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/gmcercy",
+        "adresse": "Cercy-la-Tour",
+        "note": 3,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1537651067025973611",
+        "nom": "Dnv Maintenance",
+        "slug": "dnv-maintenance",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Bd Voltaire",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "67185771179485181",
+        "nom": "C'pro Travaux",
+        "slug": "cpro-travaux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "119 Av. de Verdun",
+        "note": 4,
+        "avis": 46,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "donzy": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7668022912106734497",
+        "nom": "Eurl Thierry Raud",
+        "slug": "eurl-thierry-raud",
+        "telephone": null,
+        "site_web": "https://eurltraud.wixsite.com/eurl-thierry-raud",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3284940023115207085",
+        "nom": "AD Energie",
+        "slug": "ad-energie",
+        "telephone": null,
+        "site_web": "https://www.adenergie58.fr/",
+        "adresse": "Saint-Benin-d'Azy",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "11336377623706455517",
+        "nom": "SARL DAVID FOUGERET",
+        "slug": "sarl-david-fougeret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pougny",
+        "note": 3,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "2505787260206155983",
+        "nom": "Tecnik Alliance",
+        "slug": "tecnik-alliance",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/226507690548158",
+        "adresse": "Garchizy",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10572573858542144096",
+        "nom": "Jérôme Campoy Electricité",
+        "slug": "jerome-campoy-electricite",
+        "telephone": null,
+        "site_web": "http://www.jeromecampoyelectricitelspa.com/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 5,
+        "avis": 74,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "garchizy": {
+    "artisans": [
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "35 Rue Francis Bar",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2505787260206155983",
+        "nom": "Tecnik Alliance",
+        "slug": "tecnik-alliance",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/226507690548158",
+        "adresse": "242 Rue Roland Bordet",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14779174443729652849",
+        "nom": "GENEOL GENIE CLIMATIQUE",
+        "slug": "geneol-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.geneol.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17699005087354214599",
+        "nom": "ATSME Dépannage",
+        "slug": "atsme-depannage",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/ATSME-D%C3%A9pannage-Woetter-Christian-228152577384036/?utm_source=gmb",
+        "adresse": "846 Rue Ambroise Croizat",
+        "note": 4,
+        "avis": 18,
+        "type": "Électricien"
+      },
+      {
+        "id": "5166003990665228281",
+        "nom": "Machecourt Fabien",
+        "slug": "machecourt-fabien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "630 Rue Gabriel Péri",
+        "note": 4,
+        "avis": 6,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "guerigny": {
+    "artisans": [
+      {
+        "id": "14306464806239238230",
+        "nom": "Chauffage Nivernais",
+        "slug": "chauffage-nivernais",
+        "telephone": null,
+        "site_web": "https://www.chauffage-nivernais.com/",
+        "adresse": "Urzy",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1680685399935057563",
+        "nom": "JCR-58",
+        "slug": "jcr-58",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "18 Imp. des Boirats",
+        "note": 2,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "939504820332050082",
+        "nom": "Les CoMi Déboucheurs",
+        "slug": "les-comi-deboucheurs",
+        "telephone": null,
+        "site_web": "https://www.lescomideboucheurs.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "40 Grande Rue",
+        "note": 4,
+        "avis": 63,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "6719673016596918451",
+        "nom": "Flamme Decor SAS",
+        "slug": "flamme-decor-sas",
+        "telephone": null,
+        "site_web": "http://www.flamme-decor.fr/",
+        "adresse": "10 Grande Rue",
+        "note": 5,
+        "avis": 4,
+        "type": "Cheministe"
+      },
+      {
+        "id": "2634669943262607235",
+        "nom": "Delin Johnny SARL",
+        "slug": "delin-johnny-sarl",
+        "telephone": null,
+        "site_web": "http://www.delin-couverture.fr/",
+        "adresse": "57 Grande Rue",
+        "note": 4,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8799616923942266607",
+        "nom": "Vagne Services Verts",
+        "slug": "vagne-services-verts",
+        "telephone": null,
+        "site_web": "https://vagneservicesverts.fr/",
+        "adresse": "27 Rue de Balleray",
+        "note": 4,
+        "avis": 1,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      }
+    ]
+  },
+  "imphy": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5669270898404742481",
+        "nom": "Sas Canamero",
+        "slug": "sas-canamero",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Av. Jean Jaurès",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14310846798575538285",
+        "nom": "E.p.n.",
+        "slug": "epn",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/epnimphy/",
+        "adresse": "Saint-Éloi",
+        "note": 4,
+        "avis": 49,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10204149912832195974",
+        "nom": "Dumarest Christian",
+        "slug": "dumarest-christian",
+        "telephone": null,
+        "site_web": "http://www.dumarest-chelec.com/",
+        "adresse": "Saint-Ouen-sur-Loire",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "6118386138396294454",
+        "nom": "IMPHY SERVICES",
+        "slug": "imphy-services",
+        "telephone": null,
+        "site_web": "http://www.imphyservices.fr/",
+        "adresse": "Sauvigny-les-Bois",
+        "note": 4,
+        "avis": 28,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "4249018889645811687",
+        "nom": "CHEC Comptoir Hygiène Entretien Centre",
+        "slug": "chec-comptoir-hygiene-entretien-centre",
+        "telephone": null,
+        "site_web": "https://sarl-chec.fr/?utm_source=gmb",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 40,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10825488813215732101",
+        "nom": "Entreprise Gonin",
+        "slug": "entreprise-gonin",
+        "telephone": null,
+        "site_web": "https://www.gonin-entreprise.fr/",
+        "adresse": "Sermoise-sur-Loire",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "7800792414597329578",
+        "nom": "Barros Père et Fils",
+        "slug": "barros-pere-et-fils",
+        "telephone": null,
+        "site_web": "http://www.barros-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 32,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "magny-cours": {
+    "artisans": [
+      {
+        "id": "14279876709469213629",
+        "nom": "ACTIV Nevers",
+        "slug": "activ-nevers",
+        "telephone": null,
+        "site_web": "https://nevers.activ-renovation.com/",
+        "adresse": "2 Rue du Pré Morand",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "nevers": {
+    "artisans": [
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "109 Fbg du Grand Mouësse",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12124890456932637944",
+        "nom": "Palladium",
+        "slug": "palladium",
+        "telephone": null,
+        "site_web": "https://www.palladium-nevers.com/",
+        "adresse": "126 Rue Mademoiselle Bourgeois",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7896248661618096752",
+        "nom": "Nevers Maintenance",
+        "slug": "nevers-maintenance",
+        "telephone": null,
+        "site_web": "https://www.nevers-maintenance.fr/?utm_source=gmb",
+        "adresse": "Varennes-Vauzelles",
+        "note": 4,
+        "avis": 46,
+        "type": "Plombier"
+      },
+      {
+        "id": "14176008616622215181",
+        "nom": "SEDELEC S.A.S",
+        "slug": "sedelec-sas",
+        "telephone": null,
+        "site_web": "http://www.sedelec.net/",
+        "adresse": "Sermoise-sur-Loire",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "11 Rue Georges Dufaud",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4249018889645811687",
+        "nom": "CHEC Comptoir Hygiène Entretien Centre",
+        "slug": "chec-comptoir-hygiene-entretien-centre",
+        "telephone": null,
+        "site_web": "https://sarl-chec.fr/?utm_source=gmb",
+        "adresse": "14 Bd Pierre de Coubertin",
+        "note": 4,
+        "avis": 40,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14779174443729652849",
+        "nom": "GENEOL GENIE CLIMATIQUE",
+        "slug": "geneol-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.geneol.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1172957934655747588",
+        "nom": "CEDEO Nevers : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-nevers-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/nevers-cedeo-2282",
+        "adresse": "9-11 Bd de la République",
+        "note": 3,
+        "avis": 40,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "15563249188953050105",
+        "nom": "Soleco Énergie",
+        "slug": "soleco-energie",
+        "telephone": null,
+        "site_web": "https://www.soleco-energie.com/",
+        "adresse": "88 Bis Av. Colbert",
+        "note": 4,
+        "avis": 21,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "varennes-vauzelles": {
+    "artisans": [
+      {
+        "id": "14779174443729652849",
+        "nom": "GENEOL GENIE CLIMATIQUE",
+        "slug": "geneol-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.geneol.fr/",
+        "adresse": "11 Rue Edouard Branly",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7896248661618096752",
+        "nom": "Nevers Maintenance",
+        "slug": "nevers-maintenance",
+        "telephone": null,
+        "site_web": "https://www.nevers-maintenance.fr/?utm_source=gmb",
+        "adresse": "52T Bd Camille Dagonneau",
+        "note": 4,
+        "avis": 46,
+        "type": "Plombier"
+      },
+      {
+        "id": "15631464241163046756",
+        "nom": "Gallois Robert et Associés",
+        "slug": "gallois-robert-et-associes",
+        "telephone": null,
+        "site_web": "http://www.sarl-gallois.fr/",
+        "adresse": "50 Rue Marcel Robin",
+        "note": 3,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12402132929314969544",
+        "nom": "Entreprise Mangeon",
+        "slug": "entreprise-mangeon",
+        "telephone": null,
+        "site_web": "http://www.entreprise-mangeon.fr/",
+        "adresse": "24 Bd Camille Dagonneau",
+        "note": 3,
+        "avis": 46,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6468400467426079482",
+        "nom": "Chauffagiste Izi confort, filiale EDF",
+        "slug": "chauffagiste-izi-confort-filiale-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=nevers",
+        "adresse": "7 bis Rte de Paris",
+        "note": 4,
+        "avis": 79,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "10263834785937299778",
+        "nom": "Odyssee Plomberie",
+        "slug": "odyssee-plomberie",
+        "telephone": null,
+        "site_web": "https://www.odysseeplomberie.fr/?utm_source=gmb",
+        "adresse": "30 Rte de Foncelin",
+        "note": 5,
+        "avis": 23,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chateau-chinon-ville": {
+    "artisans": [
+      {
+        "id": "12645246499428767016",
+        "nom": "Evrard et fils",
+        "slug": "evrard-et-fils",
+        "telephone": null,
+        "site_web": "https://www.evrard-etfils.fr/contact-plomberie-chauffage-electricite-climatisation-chateau-chinon.html",
+        "adresse": "Château-Chinon (Ville)",
+        "note": 2,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2080681833984179977",
+        "nom": "Energie 2000 Plus",
+        "slug": "energie-2000-plus",
+        "telephone": null,
+        "site_web": "http://www.energie2000plus.com/",
+        "adresse": "Château-Chinon (Ville)",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pougues-les-eaux": {
+    "artisans": [
+      {
+        "id": "6182855410833889385",
+        "nom": "Langumier Philippe",
+        "slug": "langumier-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2800 Av. de Paris",
+        "note": 4,
+        "avis": 66,
+        "type": "Plombier"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15631464241163046756",
+        "nom": "Gallois Robert et Associés",
+        "slug": "gallois-robert-et-associes",
+        "telephone": null,
+        "site_web": "http://www.sarl-gallois.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 3,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12402132929314969544",
+        "nom": "Entreprise Mangeon",
+        "slug": "entreprise-mangeon",
+        "telephone": null,
+        "site_web": "http://www.entreprise-mangeon.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 3,
+        "avis": 46,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "9808356150292142124",
+        "nom": "SOCOREBAT®️ NEVERS - Maçonnerie - Enduit Façade - Rénovation - Extension de Maison - Isolation Extérieur RGE | Nièvre 58",
+        "slug": "socorebat-nevers-maconnerie-enduit-facade-renovation-extension-de-maison-isolation-exterieur-rge-nievre-58",
+        "telephone": null,
+        "site_web": "https://www.socorebat-france.fr/bourgogne/nievre/nevers",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 56,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "587670626318044681",
+        "nom": "Laprade Kevin",
+        "slug": "laprade-kevin",
+        "telephone": null,
+        "site_web": "http://www.couverture-laprade.fr/",
+        "adresse": "255 Av. de Paris",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chaulgnes": {
+    "artisans": [
+      {
+        "id": "13683084496312401919",
+        "nom": "Quenehen Sarl",
+        "slug": "quenehen-sarl",
+        "telephone": null,
+        "site_web": "http://quenehen.site-solocal.com/",
+        "adresse": "La Charité-sur-Loire",
+        "note": 4,
+        "avis": 21,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4017423212515052748",
+        "nom": "Yakar Rémi",
+        "slug": "yakar-remi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17 Rte de Soury",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6182855410833889385",
+        "nom": "Langumier Philippe",
+        "slug": "langumier-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pougues-les-Eaux",
+        "note": 4,
+        "avis": 66,
+        "type": "Plombier"
+      },
+      {
+        "id": "2505787260206155983",
+        "nom": "Tecnik Alliance",
+        "slug": "tecnik-alliance",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/226507690548158",
+        "adresse": "Garchizy",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16233850972273545850",
+        "nom": "Thermo-Centre",
+        "slug": "thermo-centre",
+        "telephone": null,
+        "site_web": "http://www.thermo-centre.fr/",
+        "adresse": "Jouet-sur-l'Aubois",
+        "note": 4,
+        "avis": 61,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12801884414934492171",
+        "nom": "Cochemé David",
+        "slug": "cocheme-david",
+        "telephone": null,
+        "site_web": "http://www.cocheme-david.fr/",
+        "adresse": "10 Rte d'Orge",
+        "note": 4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14306464806239238230",
+        "nom": "Chauffage Nivernais",
+        "slug": "chauffage-nivernais",
+        "telephone": null,
+        "site_web": "https://www.chauffage-nivernais.com/",
+        "adresse": "Urzy",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11046632674650384371",
+        "nom": "CLIM'EN BERRY",
+        "slug": "climen-berry",
+        "telephone": null,
+        "site_web": "http://climenberry.com/",
+        "adresse": "Quantilly",
+        "note": 5,
+        "avis": 87,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "corbigny": {
+    "artisans": [
+      {
+        "id": "8806992988129458999",
+        "nom": "Viodé Entreprise SA",
+        "slug": "viode-entreprise-sa",
+        "telephone": null,
+        "site_web": "http://www.viode.fr/?utm_source=gmb",
+        "adresse": "Rue de Clamecy",
+        "note": 3,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "12724045028472777671",
+        "nom": "Entreprise Houssin et Fils",
+        "slug": "entreprise-houssin-et-fils",
+        "telephone": null,
+        "site_web": "http://www.houssin-corbigny.fr/",
+        "adresse": "Rte de Saint-Saulgé",
+        "note": 3,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2932479055404986480",
+        "nom": "Vimec Sarl",
+        "slug": "vimec-sarl",
+        "telephone": null,
+        "site_web": "http://www.vimecsarl.wordpress.com/",
+        "adresse": "9 Rue des Beuchots",
+        "note": 5,
+        "avis": 5,
+        "type": "Mécanicien.ne de précision"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "1690616874478498737",
+        "nom": "Morvan Eco Installations",
+        "slug": "morvan-eco-installations",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Germain-des-Champs",
+        "note": 5,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8717697136775616318",
+        "nom": "Weldom Corbigny",
+        "slug": "weldom-corbigny",
+        "telephone": null,
+        "site_web": "https://www.weldom.fr/m/weldom-corbigny",
+        "adresse": "5 Pl. du Champ de Foire",
+        "note": 4,
+        "avis": 487,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17160672274870966408",
+        "nom": "MEH ÉNERGIES NEVERS",
+        "slug": "meh-energies-nevers",
+        "telephone": null,
+        "site_web": "https://www.monexperthabitat.com/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 229,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "165463234425034943",
+        "nom": "Doras Corbigny",
+        "slug": "doras-corbigny",
+        "telephone": null,
+        "site_web": "https://www.doras.fr/?utm_source=gmb",
+        "adresse": "Av. du 8 Mai 1945",
+        "note": 4,
+        "avis": 47,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14306464806239238230",
+        "nom": "Chauffage Nivernais",
+        "slug": "chauffage-nivernais",
+        "telephone": null,
+        "site_web": "https://www.chauffage-nivernais.com/",
+        "adresse": "Urzy",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "dornes": {
+    "artisans": [
+      {
+        "id": "6392143172549921518",
+        "nom": "Patrick GINNAIN EI",
+        "slug": "patrick-ginnain-ei",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Le Sapin",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de bois"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4812874880912872027",
+        "nom": "TM VENTILATION",
+        "slug": "tm-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Clonas-sur-Varèze",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9245230702129953421",
+        "nom": "D'HOME ELEC",
+        "slug": "dhome-elec",
+        "telephone": null,
+        "site_web": "https://www.d-homelec.fr/",
+        "adresse": "Toury-Lurcy",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14279876709469213629",
+        "nom": "ACTIV Nevers",
+        "slug": "activ-nevers",
+        "telephone": null,
+        "site_web": "https://nevers.activ-renovation.com/",
+        "adresse": "Magny-Cours",
+        "note": 4,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9987732959600060508",
+        "nom": "RENAULT Garage Varême Sas",
+        "slug": "renault-garage-vareme-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "76 Rte de Moulins",
+        "note": 4,
+        "avis": 69,
+        "type": "Atelier de mécanique automobile"
+      }
+    ]
+  },
+  "fourchambault": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "Garchizy",
+        "note": 3,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2501564398398673427",
+        "nom": "Sonimac",
+        "slug": "sonimac",
+        "telephone": null,
+        "site_web": "http://sonimac.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "932751183161926030",
+        "nom": "Technitoit Nevers",
+        "slug": "technitoit-nevers",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/nievre-58-nevers-renovation?utm_source=google&utm_medium=gmb",
+        "adresse": "Marzy",
+        "note": 4,
+        "avis": 142,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3428630965844153241",
+        "nom": "EG CURT",
+        "slug": "eg-curt",
+        "telephone": null,
+        "site_web": "https://www.curt-sarl.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "19 Rue René Levannier",
+        "note": 4,
+        "avis": 35,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "16233850972273545850",
+        "nom": "Thermo-Centre",
+        "slug": "thermo-centre",
+        "telephone": null,
+        "site_web": "http://www.thermo-centre.fr/",
+        "adresse": "Jouet-sur-l'Aubois",
+        "note": 4,
+        "avis": 61,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "7800792414597329578",
+        "nom": "Barros Père et Fils",
+        "slug": "barros-pere-et-fils",
+        "telephone": null,
+        "site_web": "http://www.barros-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6182855410833889385",
+        "nom": "Langumier Philippe",
+        "slug": "langumier-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pougues-les-Eaux",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "la-machine": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "11606631726931951664",
+        "nom": "VMC Confort - Installation & Entretien",
+        "slug": "vmc-confort-installation-entretien",
+        "telephone": null,
+        "site_web": "https://vmc-installation-entretien.fr/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "La Courneuve",
+        "note": null,
+        "avis": null,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "saint-parize-le-chatel": {
+    "artisans": [
+      {
+        "id": "1463386920481494006",
+        "nom": "Entreprise Le Her - Climatisation Nevers et alentours",
+        "slug": "entreprise-le-her-climatisation-nevers-et-alentours",
+        "telephone": null,
+        "site_web": "https://entreprise-le-her.fr/",
+        "adresse": "Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 70,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14779174443729652849",
+        "nom": "GENEOL GENIE CLIMATIQUE",
+        "slug": "geneol-genie-climatique",
+        "telephone": null,
+        "site_web": "https://www.geneol.fr/",
+        "adresse": "Varennes-Vauzelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "15762741386439344559",
+        "nom": "Eurl Bastien VANNIER - Climat Confort - Climatisation",
+        "slug": "eurl-bastien-vannier-climat-confort-climatisation",
+        "telephone": null,
+        "site_web": "https://www.climat-confort.net/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 61,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10204149912832195974",
+        "nom": "Dumarest Christian",
+        "slug": "dumarest-christian",
+        "telephone": null,
+        "site_web": "http://www.dumarest-chelec.com/",
+        "adresse": "Saint-Ouen-sur-Loire",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "14410246011615057616",
+        "nom": "BAUDRAS ET FILS",
+        "slug": "baudras-et-fils",
+        "telephone": null,
+        "site_web": "https://www.baudras-nevers.fr/",
+        "adresse": "Nevers",
+        "note": 4,
+        "avis": 16,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "16576136522100707700",
+        "nom": "AYA Ventilation.",
+        "slug": "aya-ventilation",
+        "telephone": null,
+        "site_web": "https://www.ayaventilation.fr/contact.html",
+        "adresse": "Roncq",
+        "note": 4,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-pere": {
+    "artisans": [
+      {
+        "id": "7668022912106734497",
+        "nom": "Eurl Thierry Raud",
+        "slug": "eurl-thierry-raud",
+        "telephone": null,
+        "site_web": "https://eurltraud.wixsite.com/eurl-thierry-raud",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8022245569863522875",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/SARL-DME-111513804704291/?utm_source=gmb",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13064886991401885716",
+        "nom": "Eco-Bio Energie",
+        "slug": "eco-bio-energie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Père",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "luzy": {
+    "artisans": [
+      {
+        "id": "12876710530528237200",
+        "nom": "Andriot Philippe SARL",
+        "slug": "andriot-philippe-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Bis Rue Ledru Rollin",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "9399938034453785803",
+        "nom": "sarl PIRIOT Patrick",
+        "slug": "sarl-piriot-patrick",
+        "telephone": null,
+        "site_web": "https://www.achetezaluzy.fr/piriot-electricite-luzy/",
+        "adresse": "16 Rue des Bagelles",
+        "note": 5,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4912712081036060161",
+        "nom": "GMC SERVICES",
+        "slug": "gmc-services",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/gmcercy",
+        "adresse": "Cercy-la-Tour",
+        "note": 3,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12927827337632257342",
+        "nom": "Chorobate",
+        "slug": "chorobate",
+        "telephone": null,
+        "site_web": "http://chorobate.com/",
+        "adresse": "51 Rte de Toulon sur Arroux",
+        "note": 4,
+        "avis": 4,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7248096774933203362",
+        "nom": "MY VENTILATION",
+        "slug": "my-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Prémery",
+        "note": 5,
+        "avis": 2,
+        "type": "Entretien de propriétés"
+      },
+      {
+        "id": "11101200667168955652",
+        "nom": "ACTIV",
+        "slug": "activ",
+        "telephone": null,
+        "site_web": "https://activ-renovation.com/",
+        "adresse": "Montceau-les-Mines",
+        "note": 3,
+        "avis": 196,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1777527794746862869",
+        "nom": "SARL LAMOUREUX ET MAIZIERES",
+        "slug": "sarl-lamoureux-et-maizieres",
+        "telephone": null,
+        "site_web": "https://www.achetezaluzy.fr/lamoureux-et-maizieres-a-luzy/",
+        "adresse": "Rue de Pont",
+        "note": 3,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "pouilly-sur-loire": {
+    "artisans": [
+      {
+        "id": "13319603031682226516",
+        "nom": "HC Froid",
+        "slug": "hc-froid",
+        "telephone": null,
+        "site_web": "https://www.hc-froid.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "16 Rue Louis Joseph Gousse",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9244638820933739613",
+        "nom": "Hc Froid",
+        "slug": "hc-froid",
+        "telephone": null,
+        "site_web": "https://www.hc-froid.com/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7668022912106734497",
+        "nom": "Eurl Thierry Raud",
+        "slug": "eurl-thierry-raud",
+        "telephone": null,
+        "site_web": "https://eurltraud.wixsite.com/eurl-thierry-raud",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17035376563563169266",
+        "nom": "Chaud froid",
+        "slug": "chaud-froid",
+        "telephone": null,
+        "site_web": "http://chaudfroid18240.fr/",
+        "adresse": "Léré",
+        "note": 4,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8022245569863522875",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/SARL-DME-111513804704291/?utm_source=gmb",
+        "adresse": "Saint-Père",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10434427649609590163",
+        "nom": "SARL DME",
+        "slug": "sarl-dme",
+        "telephone": null,
+        "site_web": "https://www.sarl-dme58.fr/",
+        "adresse": "Tracy-sur-Loire",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2497 @@
+{
+  "la-porte-du-der": {
+    "artisans": [
+      {
+        "id": "10177855163672701190",
+        "nom": "GLC Climatisation 52",
+        "slug": "glc-climatisation-52",
+        "telephone": null,
+        "site_web": "https://glcdiffusion.fr/",
+        "adresse": "La Porte du Der",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11669483660406686926",
+        "nom": "Aquatherm",
+        "slug": "aquatherm",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Porte du Der",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8444707481349454552",
+        "nom": "BAUWENS",
+        "slug": "bauwens",
+        "telephone": null,
+        "site_web": "https://www.entreprise-bauwens.fr/",
+        "adresse": "La Porte du Der",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8066848357997693991",
+        "nom": "SARL Chevry energies",
+        "slug": "sarl-chevry-energies",
+        "telephone": null,
+        "site_web": "https://www.chevry-energies.fr/",
+        "adresse": "Giffaumont-Champaubert",
+        "note": 3,
+        "avis": 3,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "val-de-meuse": {
+    "artisans": [
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "6424728301887426024",
+        "nom": "SDI Ventilation : Audit - Etude - Dégraissage des hottes - Dépoussiérage des VMC et CTA - Installation et maintenance",
+        "slug": "sdi-ventilation-audit-etude-degraissage-des-hottes-depoussierage-des-vmc-et-cta-installation-et-maintenance",
+        "telephone": null,
+        "site_web": "https://www.sdiventilation.com/",
+        "adresse": "Richardménil",
+        "note": 4,
+        "avis": 55,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "16292064454251007102",
+        "nom": "Lorraine Ventilation Sanitation",
+        "slug": "lorraine-ventilation-sanitation",
+        "telephone": null,
+        "site_web": "http://lorraine-ventilation-sanitation.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3616857756536470546",
+        "nom": "EFC - Vmc - Ventilation Mécanique Contrôlée pose - maintenance",
+        "slug": "efc-vmc-ventilation-mecanique-controlee-pose-maintenance",
+        "telephone": null,
+        "site_web": "http://www.efc-vmc.fr/",
+        "adresse": "Noidans-lès-Vesoul",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2897557745510139319",
+        "nom": "JLM Chauffage Plomberie Sanitaire Ventilation SARL",
+        "slug": "jlm-chauffage-plomberie-sanitaire-ventilation-sarl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/JLM-Chauffage-Climatisation-105345541908182?utm_source=gmb",
+        "adresse": "Ludres",
+        "note": 4,
+        "avis": 87,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12563723009880523219",
+        "nom": "CMN3énergies",
+        "slug": "cmn3energies",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/CMN3energies",
+        "adresse": "Vroncourt",
+        "note": 5,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "nogent": {
+    "artisans": [
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "rives-dervoises": {
+    "artisans": [
+      {
+        "id": "10177855163672701190",
+        "nom": "GLC Climatisation 52",
+        "slug": "glc-climatisation-52",
+        "telephone": null,
+        "site_web": "https://glcdiffusion.fr/",
+        "adresse": "La Porte du Der",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "8066848357997693991",
+        "nom": "SARL Chevry energies",
+        "slug": "sarl-chevry-energies",
+        "telephone": null,
+        "site_web": "https://www.chevry-energies.fr/",
+        "adresse": "Giffaumont-Champaubert",
+        "note": 3,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8444707481349454552",
+        "nom": "BAUWENS",
+        "slug": "bauwens",
+        "telephone": null,
+        "site_web": "https://www.entreprise-bauwens.fr/",
+        "adresse": "La Porte du Der",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5994815755051770920",
+        "nom": "MD'AIR Ventilation-VMC Paris",
+        "slug": "mdair-ventilation-vmc-paris",
+        "telephone": null,
+        "site_web": "http://www.mdairventilation.fr/",
+        "adresse": "07 69 64 31 79",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2301534430487816012",
+        "nom": "ALTP",
+        "slug": "altp",
+        "telephone": null,
+        "site_web": "https://www.altp-52.fr/",
+        "adresse": "8 Rue du Voyeu Tonnelier",
+        "note": null,
+        "avis": null,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "17269957941133594288",
+        "nom": "LG Ventilation & Climatisation",
+        "slug": "lg-ventilation-climatisation",
+        "telephone": null,
+        "site_web": "http://www.lgventilationetclimatisation.fr/",
+        "adresse": "Fouchères",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4066391846400179288",
+        "nom": "Schneider Dany",
+        "slug": "schneider-dany",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue de la Gare",
+        "note": 2,
+        "avis": 2,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "rolampont": {
+    "artisans": [
+      {
+        "id": "15763304767064918536",
+        "nom": "Bernand Cédric",
+        "slug": "bernand-cedric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Parc D'activité de Référence Langres Nord",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18408445660763302887",
+        "nom": "Etnair",
+        "slug": "etnair",
+        "telephone": null,
+        "site_web": "http://etnair.com/",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 48,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "307818289978766542",
+        "nom": "Bernand Cédric",
+        "slug": "bernand-cedric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Parc D'activité de Référence Langres Nord",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "2697838891407697480",
+        "nom": "GEDIMAT Rolampont",
+        "slug": "gedimat-rolampont",
+        "telephone": null,
+        "site_web": "https://www.gedimat.fr/?magDest=2560",
+        "adresse": "21 Av. de la Gare",
+        "note": 4,
+        "avis": 47,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5313335328897056250",
+        "nom": "Hatterer Electricité",
+        "slug": "hatterer-electricite",
+        "telephone": null,
+        "site_web": "http://hatterer-electricite.fr/?utm_source=gmb",
+        "adresse": "Saints-Geosmes",
+        "note": 4,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "12022726968490061252",
+        "nom": "D J M",
+        "slug": "d-j-m",
+        "telephone": null,
+        "site_web": "http://www.djm52.com/",
+        "adresse": "4 rue Saboterie",
+        "note": 4,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-dizier": {
+    "artisans": [
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "2 Rue Charles Lucot Local N°5",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "15562385901194906929",
+        "nom": "D.PRO CHAUFFAGE",
+        "slug": "dpro-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Imp. des Jules",
+        "note": 4,
+        "avis": 122,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "8195240853851242806",
+        "nom": "BL Energies",
+        "slug": "bl-energies",
+        "telephone": null,
+        "site_web": "http://www.blenergies.fr/",
+        "adresse": "zac JP Timbaud, 1 All. des Laminoirs",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11087194844774899371",
+        "nom": "Sobra",
+        "slug": "sobra",
+        "telephone": null,
+        "site_web": "http://www.sobra-52.com/",
+        "adresse": "Rue Berthelot",
+        "note": 3,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9852650469337955306",
+        "nom": "Chauffage Der Energies",
+        "slug": "chauffage-der-energies",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61556545740704",
+        "adresse": "Bettancourt-la-Ferrée",
+        "note": 5,
+        "avis": 50,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "Villiers-en-Lieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4850591013679429279",
+        "nom": "CEDEO Saint-Dizier : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-saint-dizier-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/saint-dizier-cedeo-5368",
+        "adresse": "25 Bis Rue du Puits Royau",
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "15782078753501455566",
+        "nom": "Daniel Remenant",
+        "slug": "daniel-remenant",
+        "telephone": null,
+        "site_web": "https://adr52.fr/contact/",
+        "adresse": "5 Rue Franz Liszt",
+        "note": 4,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "6877871879364468303",
+        "nom": "EGS Electricité Générale Services SARL",
+        "slug": "egs-electricite-generale-services-sarl",
+        "telephone": null,
+        "site_web": "https://www.egs-saintdizier.fr/",
+        "adresse": "41 Rue Berthelot",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "villiers-en-lieu": {
+    "artisans": [
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "ZI de Saint Dizier",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "wassy": {
+    "artisans": [
+      {
+        "id": "2365935555472149329",
+        "nom": "Boschung Sarl",
+        "slug": "boschung-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue du 8 mai Zone Artisanale Le Retiesson",
+        "note": 3,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "16126399461035078438",
+        "nom": "Rollin Stéphane",
+        "slug": "rollin-stephane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rue Parmentier",
+        "note": 4,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "le-montsaugeonnais": {
+    "artisans": [
+      {
+        "id": "3616857756536470546",
+        "nom": "EFC - Vmc - Ventilation Mécanique Contrôlée pose - maintenance",
+        "slug": "efc-vmc-ventilation-mecanique-controlee-pose-maintenance",
+        "telephone": null,
+        "site_web": "http://www.efc-vmc.fr/",
+        "adresse": "Noidans-lès-Vesoul",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "16932858377828460665",
+        "nom": "HYGIS Franche-Comté | Entretien et nettoyage des ventilations Hotte - VMC - Climatisation Jura Doubs",
+        "slug": "hygis-franche-comte-entretien-et-nettoyage-des-ventilations-hotte-vmc-climatisation-jura-doubs",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-nettoyage-hotte-vmc-climatisation-besancon-montbeliard-doubs-25.html",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "10976372683243754521",
+        "nom": "Styl Rénov",
+        "slug": "styl-renov",
+        "telephone": null,
+        "site_web": "http://www.styl-renov.fr/",
+        "adresse": "ZI, Rue du Champ Miolin",
+        "note": 4,
+        "avis": 10,
+        "type": "Maçon"
+      },
+      {
+        "id": "7472986395340160065",
+        "nom": "LINOTTE CHAUFFAGE",
+        "slug": "linotte-chauffage",
+        "telephone": null,
+        "site_web": "https://www.linotte-chauffage-couverture.fr/",
+        "adresse": "Fayl-Billot",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "16292064454251007102",
+        "nom": "Lorraine Ventilation Sanitation",
+        "slug": "lorraine-ventilation-sanitation",
+        "telephone": null,
+        "site_web": "http://lorraine-ventilation-sanitation.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de nettoyage et d'entretien"
+      }
+    ]
+  },
+  "saints-geosmes": {
+    "artisans": [
+      {
+        "id": "5313335328897056250",
+        "nom": "Hatterer Electricité",
+        "slug": "hatterer-electricite",
+        "telephone": null,
+        "site_web": "http://hatterer-electricite.fr/?utm_source=gmb",
+        "adresse": "Zae Les Mennetriers, 5 Imp. du Menetrier",
+        "note": 4,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "9748828369962434905",
+        "nom": "Sarl Morisot",
+        "slug": "sarl-morisot",
+        "telephone": null,
+        "site_web": "http://www.morisot-sarl.com/",
+        "adresse": "7 Imp. du Menetrier",
+        "note": 4,
+        "avis": 39,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "bettancourt-la-ferree": {
+    "artisans": [
+      {
+        "id": "9852650469337955306",
+        "nom": "Chauffage Der Energies",
+        "slug": "chauffage-der-energies",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61556545740704",
+        "adresse": "10 Rue du Maquis Mauguet",
+        "note": 5,
+        "avis": 50,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "15562385901194906929",
+        "nom": "D.PRO CHAUFFAGE",
+        "slug": "dpro-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Dizier",
+        "note": 4,
+        "avis": 122,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "Villiers-en-Lieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11087194844774899371",
+        "nom": "Sobra",
+        "slug": "sobra",
+        "telephone": null,
+        "site_web": "http://www.sobra-52.com/",
+        "adresse": "Saint-Dizier",
+        "note": 3,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8195240853851242806",
+        "nom": "BL Energies",
+        "slug": "bl-energies",
+        "telephone": null,
+        "site_web": "http://www.blenergies.fr/",
+        "adresse": "Saint-Dizier",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7155443384741852118",
+        "nom": "EGBI | Electricien Bettencourt-la-Ferrée",
+        "slug": "egbi-electricien-bettencourt-la-ferree",
+        "telephone": null,
+        "site_web": "http://www.egbi-electricite-52.com/",
+        "adresse": "635 Rue de la Place",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "15782078753501455566",
+        "nom": "Daniel Remenant",
+        "slug": "daniel-remenant",
+        "telephone": null,
+        "site_web": "https://adr52.fr/contact/",
+        "adresse": "Saint-Dizier",
+        "note": 4,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bourbonne-les-bains": {
+    "artisans": [
+      {
+        "id": "11837958237476490519",
+        "nom": "Sanitech",
+        "slug": "sanitech",
+        "telephone": null,
+        "site_web": "http://www.sanitech52.fr/",
+        "adresse": "18 Rue Vellonne",
+        "note": 4,
+        "avis": 24,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7280975061012016078",
+        "nom": "SARL DESHAYES",
+        "slug": "sarl-deshayes",
+        "telephone": null,
+        "site_web": "https://www.electricien-bourbonnelesbains-deshayes-hager.fr/contact",
+        "adresse": "29 Rue Vellonne",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "3616857756536470546",
+        "nom": "EFC - Vmc - Ventilation Mécanique Contrôlée pose - maintenance",
+        "slug": "efc-vmc-ventilation-mecanique-controlee-pose-maintenance",
+        "telephone": null,
+        "site_web": "http://www.efc-vmc.fr/",
+        "adresse": "Noidans-lès-Vesoul",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "7472986395340160065",
+        "nom": "LINOTTE CHAUFFAGE",
+        "slug": "linotte-chauffage",
+        "telephone": null,
+        "site_web": "https://www.linotte-chauffage-couverture.fr/",
+        "adresse": "Fayl-Billot",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12148703440167281473",
+        "nom": "PRO&Cie - Ent. Deshayes",
+        "slug": "procie-ent-deshayes",
+        "telephone": null,
+        "site_web": "https://www.procie.com/",
+        "adresse": "29 Rue Vellonne",
+        "note": 3,
+        "avis": 17,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16932858377828460665",
+        "nom": "HYGIS Franche-Comté | Entretien et nettoyage des ventilations Hotte - VMC - Climatisation Jura Doubs",
+        "slug": "hygis-franche-comte-entretien-et-nettoyage-des-ventilations-hotte-vmc-climatisation-jura-doubs",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-nettoyage-hotte-vmc-climatisation-besancon-montbeliard-doubs-25.html",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "306291032082003995",
+        "nom": "Sarl Piquée",
+        "slug": "sarl-piquee",
+        "telephone": null,
+        "site_web": "http://www.piquee-energies.com/",
+        "adresse": "Fayl-Billot",
+        "note": 3,
+        "avis": 42,
+        "type": "Plombier"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      }
+    ]
+  },
+  "chancenay": {
+    "artisans": [
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "Villiers-en-Lieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14883648787102686258",
+        "nom": "Installation vmc Chessy garantie - nettoyage - maintenance VMC",
+        "slug": "installation-vmc-chessy-garantie-nettoyage-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://chessy-eco-vmc-garantie.com/",
+        "adresse": "Chessy",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "12716270456055339549",
+        "nom": "Lecomte clim' chauff'",
+        "slug": "lecomte-clim-chauff",
+        "telephone": null,
+        "site_web": "https://sites.google.com/climchauff.com/wwwclimchauffcom/accueil",
+        "adresse": "Robert-Espagne",
+        "note": 4,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15562385901194906929",
+        "nom": "D.PRO CHAUFFAGE",
+        "slug": "dpro-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Dizier",
+        "note": 4,
+        "avis": 122,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "chaumont": {
+    "artisans": [
+      {
+        "id": "18408445660763302887",
+        "nom": "Etnair",
+        "slug": "etnair",
+        "telephone": null,
+        "site_web": "http://etnair.com/",
+        "adresse": "1 Rue des Pinsons",
+        "note": 4,
+        "avis": 48,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "8 Rte de Langres",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11797350359268820763",
+        "nom": "Entreprise Jv",
+        "slug": "entreprise-jv",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Entreprise-J-V-1091334567551829",
+        "adresse": "12 Bis Rue Bartholdi",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6611245671049078750",
+        "nom": "Jacques Lalin Sarl",
+        "slug": "jacques-lalin-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plein’Est RD 619, D619",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16840236198001224715",
+        "nom": "AB.ELECTRICITE",
+        "slug": "abelectricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-le-Sec",
+        "note": 4,
+        "avis": 89,
+        "type": "Électricien"
+      },
+      {
+        "id": "1049219396727965543",
+        "nom": "Groupe Le Carré Chaumont (CCH)",
+        "slug": "groupe-le-carre-chaumont-cch",
+        "telephone": null,
+        "site_web": "https://www.groupelecarre-chaumont.fr/?utm_source=gmb",
+        "adresse": "99 Rue Pierre Curie",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "4688587869286384662",
+        "nom": "Centrale Dépannage",
+        "slug": "centrale-depannage",
+        "telephone": null,
+        "site_web": "https://www.centrale-depannage.fr/",
+        "adresse": "3 Av. du Général Leclerc",
+        "note": 4,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7072273478762841680",
+        "nom": "CEDEO Chaumont : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-chaumont-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/chaumont-cedeo-2588",
+        "adresse": "ZI DAME HUGUENOTTE",
+        "note": 4,
+        "avis": 14,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "chevillon": {
+    "artisans": [
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "14902660451490605511",
+        "nom": "Ced'elec",
+        "slug": "cedelec",
+        "telephone": null,
+        "site_web": "https://www.cedelec52.fr/",
+        "adresse": "3 Rue du Château de Sommeville",
+        "note": 4,
+        "avis": 16,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "eclaron-braucourt-sainte-liviere": {
+    "artisans": [
+      {
+        "id": "18115468794515019619",
+        "nom": "Saurel Stéphane",
+        "slug": "saurel-stephane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Rue du Pré au Champ",
+        "note": 3,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13045515990749594790",
+        "nom": "3p Plomberie",
+        "slug": "3p-plomberie",
+        "telephone": null,
+        "site_web": "https://www.3pplomberie.fr/",
+        "adresse": "12 Rue Joliot Curie",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11389449809344595366",
+        "nom": "SARL Berteaux Ludovic",
+        "slug": "sarl-berteaux-ludovic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rte d'Humbécourt",
+        "note": null,
+        "avis": null,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8066848357997693991",
+        "nom": "SARL Chevry energies",
+        "slug": "sarl-chevry-energies",
+        "telephone": null,
+        "site_web": "https://www.chevry-energies.fr/",
+        "adresse": "Giffaumont-Champaubert",
+        "note": 3,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8195240853851242806",
+        "nom": "BL Energies",
+        "slug": "bl-energies",
+        "telephone": null,
+        "site_web": "http://www.blenergies.fr/",
+        "adresse": "Saint-Dizier",
+        "note": 4,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "Villiers-en-Lieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11087194844774899371",
+        "nom": "Sobra",
+        "slug": "sobra",
+        "telephone": null,
+        "site_web": "http://www.sobra-52.com/",
+        "adresse": "Saint-Dizier",
+        "note": 3,
+        "avis": 25,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "fayl-billot": {
+    "artisans": [
+      {
+        "id": "4007516108541289159",
+        "nom": "ATV2F ENERGIE",
+        "slug": "atv2f-energie",
+        "telephone": null,
+        "site_web": "https://www.atv2fenergie.fr/",
+        "adresse": "35 Rue de Vesoul",
+        "note": 5,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7472986395340160065",
+        "nom": "LINOTTE CHAUFFAGE",
+        "slug": "linotte-chauffage",
+        "telephone": null,
+        "site_web": "https://www.linotte-chauffage-couverture.fr/",
+        "adresse": "12 Rue de la Haie de Montbraux",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14858449761365678238",
+        "nom": "Létreux Énergie",
+        "slug": "letreux-energie",
+        "telephone": null,
+        "site_web": "https://www.letreux-energie.fr/",
+        "adresse": "06 11 19 68 07",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "306291032082003995",
+        "nom": "Sarl Piquée",
+        "slug": "sarl-piquee",
+        "telephone": null,
+        "site_web": "http://www.piquee-energies.com/",
+        "adresse": "ZI La Rose des Vents",
+        "note": 3,
+        "avis": 42,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11254683059643941708",
+        "nom": "Vacher SARL",
+        "slug": "vacher-sarl",
+        "telephone": null,
+        "site_web": "http://www.vacher-elec.com/",
+        "adresse": "14 Rue de la Haie de Montbraux",
+        "note": 4,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "16932858377828460665",
+        "nom": "HYGIS Franche-Comté | Entretien et nettoyage des ventilations Hotte - VMC - Climatisation Jura Doubs",
+        "slug": "hygis-franche-comte-entretien-et-nettoyage-des-ventilations-hotte-vmc-climatisation-jura-doubs",
+        "telephone": null,
+        "site_web": "https://www.hygis.com/entretien-nettoyage-hotte-vmc-climatisation-besancon-montbeliard-doubs-25.html",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3616857756536470546",
+        "nom": "EFC - Vmc - Ventilation Mécanique Contrôlée pose - maintenance",
+        "slug": "efc-vmc-ventilation-mecanique-controlee-pose-maintenance",
+        "telephone": null,
+        "site_web": "http://www.efc-vmc.fr/",
+        "adresse": "Noidans-lès-Vesoul",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "14149578888747257007",
+        "nom": "FHV Besançon / Doubs - Jura",
+        "slug": "fhv-besancon-doubs-jura",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/fhv-besancon/",
+        "adresse": "03 59 28 48 23",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4861538633404098095",
+        "nom": "DW Plomberie & Chauffage",
+        "slug": "dw-plomberie-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 77 25 23 86",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "langres": {
+    "artisans": [
+      {
+        "id": "14698124281344085850",
+        "nom": "Chaudières MIQUÉE",
+        "slug": "chaudieres-miquee",
+        "telephone": null,
+        "site_web": "http://www.chaudieres-miquee.fr/",
+        "adresse": "ZI Les Franchises 528 rue de l'Étoile",
+        "note": 5,
+        "avis": 15,
+        "type": "Fabricant"
+      },
+      {
+        "id": "5728270063554607604",
+        "nom": "Centrale Dépannage",
+        "slug": "centrale-depannage",
+        "telephone": null,
+        "site_web": "https://www.centrale-depannage.fr/",
+        "adresse": "5 Av. Turenne",
+        "note": 3,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9748828369962434905",
+        "nom": "Sarl Morisot",
+        "slug": "sarl-morisot",
+        "telephone": null,
+        "site_web": "http://www.morisot-sarl.com/",
+        "adresse": "Saints-Geosmes",
+        "note": 4,
+        "avis": 39,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5313335328897056250",
+        "nom": "Hatterer Electricité",
+        "slug": "hatterer-electricite",
+        "telephone": null,
+        "site_web": "http://hatterer-electricite.fr/?utm_source=gmb",
+        "adresse": "Saints-Geosmes",
+        "note": 4,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "12243246316685961761",
+        "nom": "Électricité Générale 52",
+        "slug": "electricite-generale-52",
+        "telephone": null,
+        "site_web": "https://electricitegenerale52.fr/",
+        "adresse": "1 Av. Turenne",
+        "note": 5,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "1611696806190772699",
+        "nom": "Verdot Vincent",
+        "slug": "verdot-vincent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "92 Rue de la Tuilerie",
+        "note": 4,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "2740953585360747267",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/207-engie-home-services-chaumont?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13590746195488772442",
+        "nom": "Flashelec52",
+        "slug": "flashelec52",
+        "telephone": null,
+        "site_web": "https://flashelec52.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 20,
+        "type": "Électricien"
+      },
+      {
+        "id": "7472986395340160065",
+        "nom": "LINOTTE CHAUFFAGE",
+        "slug": "linotte-chauffage",
+        "telephone": null,
+        "site_web": "https://www.linotte-chauffage-couverture.fr/",
+        "adresse": "Fayl-Billot",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "joinville": {
+    "artisans": [
+      {
+        "id": "258953002170648043",
+        "nom": "Delta Chauffage Sarl",
+        "slug": "delta-chauffage-sarl",
+        "telephone": null,
+        "site_web": "http://delta-chauffage.chauffagiste-viessmann.fr/",
+        "adresse": "48 Av. de Lorraine",
+        "note": 3,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2382388646925123543",
+        "nom": "blit installation vmc chaville - maintenance vmc",
+        "slug": "blit-installation-vmc-chaville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://blit-atmosphere-ventilation-chaville.com/",
+        "adresse": "Chaville",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "11590735867658571527",
+        "nom": "Scoditti LC",
+        "slug": "scoditti-lc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rupt",
+        "note": 4,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11380068338563551507",
+        "nom": "VMC Air Pur Perreux",
+        "slug": "vmc-air-pur-perreux",
+        "telephone": null,
+        "site_web": "https://vmcairpurperreux.com/",
+        "adresse": "Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "bayard-sur-marne": {
+    "artisans": [
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "Villiers-en-Lieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12125205161767597739",
+        "nom": "Fadel Eddie",
+        "slug": "fadel-eddie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36 Bis Av. Charles Burgeat",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "11912152255693501817",
+        "nom": "Fermap",
+        "slug": "fermap",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue de la Petite Varenne",
+        "note": 3,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11087194844774899371",
+        "nom": "Sobra",
+        "slug": "sobra",
+        "telephone": null,
+        "site_web": "http://www.sobra-52.com/",
+        "adresse": "Saint-Dizier",
+        "note": 3,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17214006501936082884",
+        "nom": "Wyclim",
+        "slug": "wyclim",
+        "telephone": null,
+        "site_web": "https://www.wy-clim.fr/",
+        "adresse": "La Neuville-en-Tourne-à-Fuy",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16292064454251007102",
+        "nom": "Lorraine Ventilation Sanitation",
+        "slug": "lorraine-ventilation-sanitation",
+        "telephone": null,
+        "site_web": "http://lorraine-ventilation-sanitation.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "chamarandes-choignes": {
+    "artisans": [
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "119 Rte de Langres",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18408445660763302887",
+        "nom": "Etnair",
+        "slug": "etnair",
+        "telephone": null,
+        "site_web": "http://etnair.com/",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 48,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4688587869286384662",
+        "nom": "Centrale Dépannage",
+        "slug": "centrale-depannage",
+        "telephone": null,
+        "site_web": "https://www.centrale-depannage.fr/",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16840236198001224715",
+        "nom": "AB.ELECTRICITE",
+        "slug": "abelectricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-le-Sec",
+        "note": 4,
+        "avis": 89,
+        "type": "Électricien"
+      },
+      {
+        "id": "2731580695877200506",
+        "nom": "Infirmières libérales Enza Sacco, Amandine Minot & Justine Dos Santos",
+        "slug": "infirmieres-liberales-enza-sacco-amandine-minot-justine-dos-santos",
+        "telephone": null,
+        "site_web": "https://www.doctolib.fr/infirmier/chaumont/amandine-minot?pid=practice-493488&agenda_ids[]=1490131",
+        "adresse": "Chaumont",
+        "note": 5,
+        "avis": 7,
+        "type": "Cabinet infirmier"
+      },
+      {
+        "id": "10887528238368721037",
+        "nom": "Ng Chauffage",
+        "slug": "ng-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chaumont",
+        "note": 3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "eurville-bienville": {
+    "artisans": [
+      {
+        "id": "689909042814315580",
+        "nom": "Godin Sarl",
+        "slug": "godin-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Avenue Jacques Marcellot, ZA \"Les Vieilles Forges\"",
+        "note": 3,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "1852911190439326729",
+        "nom": "Ufm Permec",
+        "slug": "ufm-permec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Rue des Longues Royes",
+        "note": 4,
+        "avis": 2,
+        "type": "Grossiste"
+      },
+      {
+        "id": "15782078753501455566",
+        "nom": "Daniel Remenant",
+        "slug": "daniel-remenant",
+        "telephone": null,
+        "site_web": "https://adr52.fr/contact/",
+        "adresse": "Saint-Dizier",
+        "note": 4,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6415765723420923612",
+        "nom": "Atout Fermeture",
+        "slug": "atout-fermeture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "18 Rue de la Folette",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "226517865934793384",
+        "nom": "Chauffage central sanitaire services",
+        "slug": "chauffage-central-sanitaire-services",
+        "telephone": null,
+        "site_web": "https://www.chauffage-sanitaire-services.com/",
+        "adresse": "Villiers-en-Lieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      }
+    ]
+  },
+  "chateauvillain": {
+    "artisans": [
+      {
+        "id": "14167939439182234855",
+        "nom": "Sarl Energie R",
+        "slug": "sarl-energie-r",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte de Châtillon",
+        "note": 4,
+        "avis": 6,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "17496559639021622155",
+        "nom": "Yung Plomberie Chauffage",
+        "slug": "yung-plomberie-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue de Bar sur Aube",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "16467180096902248534",
+        "nom": "TOULZA Plomberie",
+        "slug": "toulza-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/people/Toulza-Plomberie/100094505703885/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5471831818704044849",
+        "nom": "Castel Assainissement",
+        "slug": "castel-assainissement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue de Bourgogne",
+        "note": 4,
+        "avis": 13,
+        "type": "Service d'évacuation des eaux"
+      },
+      {
+        "id": "16840236198001224715",
+        "nom": "AB.ELECTRICITE",
+        "slug": "abelectricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-le-Sec",
+        "note": 4,
+        "avis": 89,
+        "type": "Électricien"
+      },
+      {
+        "id": "11154903562360903326",
+        "nom": "Yung Briot SAS",
+        "slug": "yung-briot-sas",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/SAS-YUNG-BRIOT-109832817916615/?utm_source=gmb",
+        "adresse": "64 bis Rue des Récollets",
+        "note": null,
+        "avis": null,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5994815755051770920",
+        "nom": "MD'AIR Ventilation-VMC Paris",
+        "slug": "mdair-ventilation-vmc-paris",
+        "telephone": null,
+        "site_web": "http://www.mdairventilation.fr/",
+        "adresse": "07 69 64 31 79",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "froncles": {
+    "artisans": [
+      {
+        "id": "3616857756536470546",
+        "nom": "EFC - Vmc - Ventilation Mécanique Contrôlée pose - maintenance",
+        "slug": "efc-vmc-ventilation-mecanique-controlee-pose-maintenance",
+        "telephone": null,
+        "site_web": "http://www.efc-vmc.fr/",
+        "adresse": "Noidans-lès-Vesoul",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4101667574319938523",
+        "nom": "EAC ÉLECTRICITÉ – Électricien à Chaumont & alentours (52)",
+        "slug": "eac-electricite-electricien-a-chaumont-alentours-52",
+        "telephone": null,
+        "site_web": "https://eac-electricite.fr/?utm_source=gmb",
+        "adresse": "Doulaincourt-Saucourt",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "18060994875535741817",
+        "nom": "Conform'Elec",
+        "slug": "conformelec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bricon",
+        "note": 4,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "12563723009880523219",
+        "nom": "CMN3énergies",
+        "slug": "cmn3energies",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/CMN3energies",
+        "adresse": "Vroncourt",
+        "note": 5,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "bologne": {
+    "artisans": [
+      {
+        "id": "16221445926332437991",
+        "nom": "Domotec Srl",
+        "slug": "domotec-srl",
+        "telephone": null,
+        "site_web": "http://www.domotecsrl.com/",
+        "adresse": "Bologna, Metropolitan City of Bologna, Italie",
+        "note": 5,
+        "avis": 291,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8671168550125425110",
+        "nom": "Condizionatori Bologna",
+        "slug": "condizionatori-bologna",
+        "telephone": null,
+        "site_web": "http://www.condizionatoribologna.info/",
+        "adresse": "Bologna, Metropolitan City of Bologna, Italie",
+        "note": 5,
+        "avis": 174,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3844616225488478793",
+        "nom": "Procalit vmc boulogne billancourt - Nettoyage et Entretien vmc",
+        "slug": "procalit-vmc-boulogne-billancourt-nettoyage-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://procalit-vmc-boulogne-billancourt.com/",
+        "adresse": "Boulogne-Billancourt",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16840236198001224715",
+        "nom": "AB.ELECTRICITE",
+        "slug": "abelectricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Villiers-le-Sec",
+        "note": 4,
+        "avis": 89,
+        "type": "Électricien"
+      },
+      {
+        "id": "15182124714577654360",
+        "nom": "DAIKIN AEROTECH Center Clima Bologna",
+        "slug": "daikin-aerotech-center-clima-bologna",
+        "telephone": null,
+        "site_web": "http://www.centerclima.eu/",
+        "adresse": "Bologna, Metropolitan City of Bologna, Italie",
+        "note": 4,
+        "avis": 502,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12758293057268719432",
+        "nom": "DAIKIN Aerotech Air Teamdomotico Bologna",
+        "slug": "daikin-aerotech-air-teamdomotico-bologna",
+        "telephone": null,
+        "site_web": "http://www.airteamdomotico.it/",
+        "adresse": "Bologna, Metropolitan City of Bologna, Italie",
+        "note": 4,
+        "avis": 382,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10221766067392861893",
+        "nom": "MACH 1 Impianti",
+        "slug": "mach-1-impianti",
+        "telephone": null,
+        "site_web": "https://www.bolognaclimatizzatori.it/",
+        "adresse": "Bologna, Metropolitan City of Bologna, Italie",
+        "note": 4,
+        "avis": 74,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6457828406710576723",
+        "nom": "Clima.T",
+        "slug": "climat",
+        "telephone": null,
+        "site_web": "http://www.clima-t.com/",
+        "adresse": "Bologna, Metropolitan City of Bologna, Italie",
+        "note": 4,
+        "avis": 72,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "biesles": {
+    "artisans": [
+      {
+        "id": "4879122804419464746",
+        "nom": "EC52",
+        "slug": "ec52",
+        "telephone": null,
+        "site_web": "http://www.ec52.fr/?utm_source=gmb",
+        "adresse": "Chamarandes-Choignes",
+        "note": 4,
+        "avis": 52,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "chalindrey": {
+    "artisans": [
+      {
+        "id": "2769961446727315654",
+        "nom": "Entreprise VARROT",
+        "slug": "entreprise-varrot",
+        "telephone": null,
+        "site_web": "http://www.ramonage-chalindrey.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Zi Moulières",
+        "note": 4,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1289062799002571745",
+        "nom": "Drut entreprise",
+        "slug": "drut-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sarl-drut.fr/",
+        "adresse": "14 Rue Diderot",
+        "note": 2,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11135767231662340152",
+        "nom": "Varrot Jacquy",
+        "slug": "varrot-jacquy",
+        "telephone": null,
+        "site_web": "http://www.ramonage-chalindrey.com/",
+        "adresse": "D136",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "12519372434382382687",
+        "nom": "La Flamme Ardente",
+        "slug": "la-flamme-ardente",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saints-Geosmes",
+        "note": 4,
+        "avis": 19,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "9748828369962434905",
+        "nom": "Sarl Morisot",
+        "slug": "sarl-morisot",
+        "telephone": null,
+        "site_web": "http://www.morisot-sarl.com/",
+        "adresse": "Saints-Geosmes",
+        "note": 4,
+        "avis": 39,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "868567386098430882",
+        "nom": "Huguenin Etienne",
+        "slug": "huguenin-etienne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Pl. Tassel",
+        "note": 4,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "15485299679390808413",
+        "nom": "sas rollee claude",
+        "slug": "sas-rollee-claude",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/",
+        "adresse": "Nogent",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5313335328897056250",
+        "nom": "Hatterer Electricité",
+        "slug": "hatterer-electricite",
+        "telephone": null,
+        "site_web": "http://hatterer-electricite.fr/?utm_source=gmb",
+        "adresse": "Saints-Geosmes",
+        "note": 4,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "7472986395340160065",
+        "nom": "LINOTTE CHAUFFAGE",
+        "slug": "linotte-chauffage",
+        "telephone": null,
+        "site_web": "https://www.linotte-chauffage-couverture.fr/",
+        "adresse": "Fayl-Billot",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7365762894979073515",
+        "nom": "Rollée Claude SAS",
+        "slug": "rollee-claude-sas",
+        "telephone": null,
+        "site_web": "http://www.rollee-claude.fr/?utm_source=gmb",
+        "adresse": "Chaumont",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  }
+}

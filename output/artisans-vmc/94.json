@@ -1,0 +1,4586 @@
+{
+  "ormesson-sur-marne": {
+    "artisans": [
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "84 Rue du Belvédère",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18269108920093814786",
+        "nom": "M-Energies Service",
+        "slug": "m-energies-service",
+        "telephone": null,
+        "site_web": "https://m-energies.fr/?utm_source=gmb",
+        "adresse": "27 rte Provins, RN4",
+        "note": 4,
+        "avis": 88,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6176331200787337242",
+        "nom": "MD Génie Climatique : Votre expert en plomberie, chauffage, ventilation et climatisation.",
+        "slug": "md-genie-climatique-votre-expert-en-plomberie-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://mdgenieclimatique.fr/",
+        "adresse": "Noiseau",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "2080153659120443482",
+        "nom": "Solaris | Entreprise climatisation et pompe à chaleur (94)",
+        "slug": "solaris-entreprise-climatisation-et-pompe-a-chaleur-94",
+        "telephone": null,
+        "site_web": "https://www.solaris-climatisation.fr/",
+        "adresse": "Chennevières-sur-Marne",
+        "note": 4,
+        "avis": 52,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10957735035482500342",
+        "nom": "Solaris North Pole | Entreprise Froid et Climatisation",
+        "slug": "solaris-north-pole-entreprise-froid-et-climatisation",
+        "telephone": null,
+        "site_web": "http://www.group-solaris.com/",
+        "adresse": "Chennevières-sur-Marne",
+        "note": 4,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2099166652627060643",
+        "nom": "AIR ENERGIE CLIMATIC (AEC)",
+        "slug": "air-energie-climatic-aec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chennevières-sur-Marne",
+        "note": 5,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15385728771463527983",
+        "nom": "Société De Maintenance Chauffage S.M.C",
+        "slug": "societe-de-maintenance-chauffage-smc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "94 Av. du Général de Gaulle",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14101817424147883930",
+        "nom": "O2LCLIM - Entreprise Climatisation | Installation Climatisation | Maintenance Climatisation",
+        "slug": "o2lclim-entreprise-climatisation-installation-climatisation-maintenance-climatisation",
+        "telephone": null,
+        "site_web": "http://www.o2lclim.fr/",
+        "adresse": "Chennevières-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "valenton": {
+    "artisans": [
+      {
+        "id": "15331273853877042633",
+        "nom": "La Clé du Froid",
+        "slug": "la-cle-du-froid",
+        "telephone": null,
+        "site_web": "http://www.lacledufroid.com/",
+        "adresse": "Rue Gabriel Péri",
+        "note": 4,
+        "avis": 55,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9425312152233462917",
+        "nom": "Clément",
+        "slug": "clement",
+        "telephone": null,
+        "site_web": "http://www.sarl-clement.fr/?utm_source=gmb",
+        "adresse": "178 Av. de la Division du General Leclerc",
+        "note": 5,
+        "avis": 57,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16317172769592414381",
+        "nom": "macfroid",
+        "slug": "macfroid",
+        "telephone": null,
+        "site_web": "http://macfroid.fr/",
+        "adresse": "3 rue Am in ata, Rue Aminata Traoré",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "ablon-sur-seine": {
+    "artisans": [
+      {
+        "id": "11347211802978590935",
+        "nom": "CLIM'R",
+        "slug": "climr",
+        "telephone": null,
+        "site_web": "https://climr.fr/",
+        "adresse": "Villeneuve-le-Roi",
+        "note": 4,
+        "avis": 67,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9864784309833189424",
+        "nom": "As climventil",
+        "slug": "as-climventil",
+        "telephone": null,
+        "site_web": "https://asclimventil.fr/",
+        "adresse": "06 99 09 58 97",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12906561450927792852",
+        "nom": "OMEGA CLIM",
+        "slug": "omega-clim",
+        "telephone": null,
+        "site_web": "http://www.omegaclim.fr/",
+        "adresse": "Draveil",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18295503175135035483",
+        "nom": "SCEPA",
+        "slug": "scepa",
+        "telephone": null,
+        "site_web": "https://scepa.fr/",
+        "adresse": "Villeneuve-le-Roi",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18080102767441365985",
+        "nom": "OD CLIM",
+        "slug": "od-clim",
+        "telephone": null,
+        "site_web": "http://www.odclim.fr/",
+        "adresse": "06 62 33 62 75",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "arcueil": {
+    "artisans": [
+      {
+        "id": "8129907645852746339",
+        "nom": "BT installation VMC Arcueil - Maintenance vmc - nettoyage",
+        "slug": "bt-installation-vmc-arcueil-maintenance-vmc-nettoyage",
+        "telephone": null,
+        "site_web": "https://bt-installation-vmc-arcueil.com/",
+        "adresse": "Arcueil",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9968320219581775788",
+        "nom": "CPIC",
+        "slug": "cpic",
+        "telephone": null,
+        "site_web": "http://www.cpic.fr/",
+        "adresse": "Arcueil",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "boissy-saint-leger": {
+    "artisans": [
+      {
+        "id": "2448117975533734361",
+        "nom": "Frigo Climat Système",
+        "slug": "frigo-climat-systeme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13F Av. Charles de Gaulle",
+        "note": 4,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8531491609351940062",
+        "nom": "EME-SERVICE",
+        "slug": "eme-service",
+        "telephone": null,
+        "site_web": "http://eme-service.fr/",
+        "adresse": "6 Rue du 8 Mai 1945",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9485789467824125610",
+        "nom": "ENEA SOLUTIONS",
+        "slug": "enea-solutions",
+        "telephone": null,
+        "site_web": "https://www.enea-solutions.fr/",
+        "adresse": "4 Rue des Bouleaux",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2749112943665263886",
+        "nom": "IMD ENERGIES",
+        "slug": "imd-energies",
+        "telephone": null,
+        "site_web": "https://imd-energies.fr/",
+        "adresse": "13 Av. Charles de Gaulle",
+        "note": 4,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4673340509840825370",
+        "nom": "Variance Clim",
+        "slug": "variance-clim",
+        "telephone": null,
+        "site_web": "https://www.varianceclim.com/",
+        "adresse": "6 Rue du 8 Mai 1945",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4365258155988996659",
+        "nom": "GUITTON ET FILS Chauffagiste entretien chaudières gaz et PAC",
+        "slug": "guitton-et-fils-chauffagiste-entretien-chaudieres-gaz-et-pac",
+        "telephone": null,
+        "site_web": "http://www.guittonetfils.fr/",
+        "adresse": "18 Avenue du Général Leclerc (angle, 1 Rue Chirol",
+        "note": 4,
+        "avis": 59,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7120617876344282289",
+        "nom": "HELP Confort HCB Services",
+        "slug": "help-confort-hcb-services",
+        "telephone": null,
+        "site_web": "https://www.helpconfort.com/agency/102-help-confort-creteil",
+        "adresse": "18 Av. du Général Leclerc",
+        "note": 4,
+        "avis": 37,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bonneuil-sur-marne": {
+    "artisans": [
+      {
+        "id": "15045116927057739072",
+        "nom": "Lindab France - Bonneuil",
+        "slug": "lindab-france-bonneuil",
+        "telephone": null,
+        "site_web": "https://www.lindab.fr/",
+        "adresse": "Bonneuil-sur-Marne",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18247855136452786830",
+        "nom": "VENTIL CLIM",
+        "slug": "ventil-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bonneuil-sur-Marne",
+        "note": 5,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "bry-sur-marne": {
+    "artisans": [
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5632902207180039723",
+        "nom": "Plombier MOREL - Artisan BRY SUR MARNE 94",
+        "slug": "plombier-morel-artisan-bry-sur-marne-94",
+        "telephone": null,
+        "site_web": "https://www.plombier-bry-sur-marne.com/",
+        "adresse": "60 Gd Rue Charles de Gaulle",
+        "note": 4,
+        "avis": 133,
+        "type": "Plombier"
+      },
+      {
+        "id": "11380068338563551507",
+        "nom": "VMC Air Pur Perreux",
+        "slug": "vmc-air-pur-perreux",
+        "telephone": null,
+        "site_web": "https://vmcairpurperreux.com/",
+        "adresse": "Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14427188570491014519",
+        "nom": "AIRpropre entretien VMC - installation VMC Neuilly sur marne",
+        "slug": "airpropre-entretien-vmc-installation-vmc-neuilly-sur-marne",
+        "telephone": null,
+        "site_web": "https://airpropre-neuilly-marne.com/",
+        "adresse": "Neuilly-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3797143064257263690",
+        "nom": "mgnergy installation pompe a chaleur bry-sur-marne - RGE pompe à chaleur",
+        "slug": "mgnergy-installation-pompe-a-chaleur-bry-sur-marne-rge-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://mgnergy-pompe-a-chaleur-bry.com/",
+        "adresse": "2 Rue de la Gare",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9914457002805384032",
+        "nom": "Chauffagiste Izi confort, filiale EDF",
+        "slug": "chauffagiste-izi-confort-filiale-edf",
+        "telephone": null,
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=joinville-le-pont",
+        "adresse": "104 Av. Georges Clemenceau",
+        "note": 4,
+        "avis": 254,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "cachan": {
+    "artisans": [
+      {
+        "id": "13905579513978637156",
+        "nom": "ETGE",
+        "slug": "etge",
+        "telephone": null,
+        "site_web": "https://www.etge-climatisation.fr/",
+        "adresse": "175 Av. Aristide Briand",
+        "note": 4,
+        "avis": 50,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12487348203641063119",
+        "nom": "Group installation VMC cachan - réparation vmc",
+        "slug": "group-installation-vmc-cachan-reparation-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-cachan.com/",
+        "adresse": "7 Rue Mirabeau",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "champigny-sur-marne": {
+    "artisans": [
+      {
+        "id": "13655676026506310194",
+        "nom": "J.B.Ventilation",
+        "slug": "jbventilation",
+        "telephone": null,
+        "site_web": "https://www.jbventilation.fr/",
+        "adresse": "16 Rue des Roitelets",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5980003230254473289",
+        "nom": "R Flo Climatisation",
+        "slug": "r-flo-climatisation",
+        "telephone": null,
+        "site_web": "http://www.rfloclimatisation.fr/",
+        "adresse": "118 Rue du 19 Mars 1962",
+        "note": 4,
+        "avis": 28,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15269001901812746944",
+        "nom": "Aux Temps Climatiques",
+        "slug": "aux-temps-climatiques",
+        "telephone": null,
+        "site_web": "http://www.auxtempsclimatiques.fr/",
+        "adresse": "12 bis Rue du Docteur Charcot, 27 Rue de Patay",
+        "note": 5,
+        "avis": 63,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5661749458970223543",
+        "nom": "Clim Évolution",
+        "slug": "clim-evolution",
+        "telephone": null,
+        "site_web": "https://www.clim-evolution.fr/",
+        "adresse": "16 Rue des Roitelets",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "Ormesson-sur-Marne",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8688332091033222388",
+        "nom": "Applitech",
+        "slug": "applitech",
+        "telephone": null,
+        "site_web": "http://www.applitech.biz/",
+        "adresse": "951 Rue Marcel Paul",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11215632822721892251",
+        "nom": "SEIF Industrie",
+        "slug": "seif-industrie",
+        "telephone": null,
+        "site_web": "https://www.seif-industrie.net/",
+        "adresse": "450 Rue du Professeur Paul Milliez",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "charenton-le-pont": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16956629805737123503",
+        "nom": "SMPAC - Installation-Maintenance-Entretien de pompes à chaleurs,climatisations et Panneaux Photovoltaïques",
+        "slug": "smpac-installation-maintenance-entretien-de-pompes-a-chaleursclimatisations-et-panneaux-photovoltaiques",
+        "telephone": null,
+        "site_web": "http://smpac.fr/",
+        "adresse": "90 Rue de Paris",
+        "note": 4,
+        "avis": 69,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12212301405326238075",
+        "nom": "Clim D'T",
+        "slug": "clim-dt",
+        "telephone": null,
+        "site_web": "http://www.clim-dt.com/",
+        "adresse": "7 Pl. Henri IV",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16962156368167984315",
+        "nom": "AIR12 - Pose et entretien de VMC, Climatisation domicile, Hotte Restaurant",
+        "slug": "air12-pose-et-entretien-de-vmc-climatisation-domicile-hotte-restaurant",
+        "telephone": null,
+        "site_web": "https://ventilation-paris.fr/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5164813759591604359",
+        "nom": "EXPERT VENTIL",
+        "slug": "expert-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Alfortville",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "chennevieres-sur-marne": {
+    "artisans": [
+      {
+        "id": "2099166652627060643",
+        "nom": "AIR ENERGIE CLIMATIC (AEC)",
+        "slug": "air-energie-climatic-aec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue Liborel",
+        "note": 5,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "Ormesson-sur-Marne",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2080153659120443482",
+        "nom": "Solaris | Entreprise climatisation et pompe à chaleur (94)",
+        "slug": "solaris-entreprise-climatisation-et-pompe-a-chaleur-94",
+        "telephone": null,
+        "site_web": "https://www.solaris-climatisation.fr/",
+        "adresse": "40 Rue Gay Lussac",
+        "note": 4,
+        "avis": 52,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10957735035482500342",
+        "nom": "Solaris North Pole | Entreprise Froid et Climatisation",
+        "slug": "solaris-north-pole-entreprise-froid-et-climatisation",
+        "telephone": null,
+        "site_web": "http://www.group-solaris.com/",
+        "adresse": "40 Rue Gay Lussac",
+        "note": 4,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14101817424147883930",
+        "nom": "O2LCLIM - Entreprise Climatisation | Installation Climatisation | Maintenance Climatisation",
+        "slug": "o2lclim-entreprise-climatisation-installation-climatisation-maintenance-climatisation",
+        "telephone": null,
+        "site_web": "http://www.o2lclim.fr/",
+        "adresse": "26 Av. Claude Debussy",
+        "note": 5,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17910885496171959724",
+        "nom": "Eole Confort - Entreprise de climatisation pour professionnels",
+        "slug": "eole-confort-entreprise-de-climatisation-pour-professionnels",
+        "telephone": null,
+        "site_web": "https://eoleconfort.com/",
+        "adresse": "46 Rue Gay Lussac",
+        "note": 4,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6176331200787337242",
+        "nom": "MD Génie Climatique : Votre expert en plomberie, chauffage, ventilation et climatisation.",
+        "slug": "md-genie-climatique-votre-expert-en-plomberie-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://mdgenieclimatique.fr/",
+        "adresse": "Noiseau",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "18105964135741646603",
+        "nom": "GAZ FLUIDES ENERGIES - CHAUFFAGISTE 94-",
+        "slug": "gaz-fluides-energies-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.gaz-fluides-energies.com/?utm_source=google_my_business&utm_medium=organic&utm_content=visite_site",
+        "adresse": "30 Av. Jeanne",
+        "note": 4,
+        "avis": 492,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11281544882011303069",
+        "nom": "Solutherm",
+        "slug": "solutherm",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42 Rue Gay Lussac",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "chevilly-larue": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2690122701275168780",
+        "nom": "L'art Du Froid",
+        "slug": "lart-du-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 All. du Président Kennedy",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1732720331036665977",
+        "nom": "EGE Entreprise Générale Électricité",
+        "slug": "ege-entreprise-generale-electricite",
+        "telephone": null,
+        "site_web": "https://www.ege-elec.fr/contact",
+        "adresse": "12 Rue Pierre Brossolette",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "choisy-le-roi": {
+    "artisans": [
+      {
+        "id": "8261279353907048149",
+        "nom": "IDF Ventilation",
+        "slug": "idf-ventilation",
+        "telephone": null,
+        "site_web": "https://idf-ventilation.com/",
+        "adresse": "4 Rue de la Darse",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15079121908560409266",
+        "nom": "See Sautereau Altivec",
+        "slug": "see-sautereau-altivec",
+        "telephone": null,
+        "site_web": "http://www.altivec.fr/",
+        "adresse": "68 Rue Pasteur",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16970285385086277532",
+        "nom": "Venticoncept",
+        "slug": "venticoncept",
+        "telephone": null,
+        "site_web": "https://venti-concept.com/contact/",
+        "adresse": "2-4 Rue de la Darse",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16807548212634521091",
+        "nom": "SMIR AIRCOOL",
+        "slug": "smir-aircool",
+        "telephone": null,
+        "site_web": "https://www.laclimatisation.fr/",
+        "adresse": "64 Bis Av. Victor Hugo",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6446390141753439918",
+        "nom": "RICHARD FROID ET CLIM",
+        "slug": "richard-froid-et-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32 Av. Victor Hugo",
+        "note": 2,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "creteil": {
+    "artisans": [
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "81 Rue des Ecoles",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16048054703080477325",
+        "nom": "La Maison De La Clim",
+        "slug": "la-maison-de-la-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "31 Bd du Montaigut",
+        "note": 4,
+        "avis": 113,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14692052913038865938",
+        "nom": "MIEUX RENOVER 94",
+        "slug": "mieux-renover-94",
+        "telephone": null,
+        "site_web": "https://mieuxrenover.com/",
+        "adresse": "8 Rue d'Estienne d'Orves",
+        "note": 4,
+        "avis": 317,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1226188877938317791",
+        "nom": "Sodigaine",
+        "slug": "sodigaine",
+        "telephone": null,
+        "site_web": "http://www.sodigaine.fr/contact.php",
+        "adresse": "5 Av. des Petites Haies",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5164813759591604359",
+        "nom": "EXPERT VENTIL",
+        "slug": "expert-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Alfortville",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "fresnes": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10859799251366298349",
+        "nom": "Rolesco Fresnes",
+        "slug": "rolesco-fresnes",
+        "telephone": null,
+        "site_web": "https://www.rolesco.fr/",
+        "adresse": "Fresnes",
+        "note": 4,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "gentilly": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18246845094067691312",
+        "nom": "France Air Climatistion",
+        "slug": "france-air-climatistion",
+        "telephone": null,
+        "site_web": "https://www.franceairclimatisation.fr/",
+        "adresse": "Gentilly",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "242464748195005823",
+        "nom": "Air75 VMC - Entretien VMC Paris",
+        "slug": "air75-vmc-entretien-vmc-paris",
+        "telephone": null,
+        "site_web": "https://entretien-vmc.paris/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "lhay-les-roses": {
+    "artisans": [
+      {
+        "id": "12854427768340910649",
+        "nom": "THERMECA L'HAY LES ROSES",
+        "slug": "thermeca-lhay-les-roses",
+        "telephone": null,
+        "site_web": "http://thermeca-chauffagiste-94.fr/",
+        "adresse": "L'Haÿ-les-Roses",
+        "note": 3,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2536090906184833387",
+        "nom": "Eco Transition Services, spécialiste en solution d'économie et de valorisation énergétique",
+        "slug": "eco-transition-services-specialiste-en-solution-deconomie-et-de-valorisation-energetique",
+        "telephone": null,
+        "site_web": "https://eco-transition-services.fr/",
+        "adresse": "L'Haÿ-les-Roses",
+        "note": 4,
+        "avis": 44,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12900208416750944709",
+        "nom": "LES INSTALLATEURS .FR - Borne de recharge - Pompe à chaleur - Climatisation - Ventilation",
+        "slug": "les-installateurs-fr-borne-de-recharge-pompe-a-chaleur-climatisation-ventilation",
+        "telephone": null,
+        "site_web": "https://lesinstallateurs.fr/",
+        "adresse": "Pierrelaye",
+        "note": 4,
+        "avis": 52,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1350759495027359284",
+        "nom": "CPE Climatisation",
+        "slug": "cpe-climatisation",
+        "telephone": null,
+        "site_web": "https://www.cpe-climatisation.fr/",
+        "adresse": "Saint-Maur-des-Fossés",
+        "note": 3,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-kremlin-bicetre": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5412423376939947625",
+        "nom": "Power Innovation (Le Kremlin-Bicêtre) - Pompe à chaleur, Chauffage & Climatisation",
+        "slug": "power-innovation-le-kremlin-bicetre-pompe-a-chaleur-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://www.power-innovation.fr/contact/",
+        "adresse": "2 Rue des Fusillés",
+        "note": 5,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5742041774903463761",
+        "nom": "AIR Teste",
+        "slug": "air-teste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "60 Av. de Fontainebleau",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "905689048268671783",
+        "nom": "Renorama",
+        "slug": "renorama",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le, 48 Rue de la Convention",
+        "note": 5,
+        "avis": 34,
+        "type": "Plombier"
+      },
+      {
+        "id": "242464748195005823",
+        "nom": "Air75 VMC - Entretien VMC Paris",
+        "slug": "air75-vmc-entretien-vmc-paris",
+        "telephone": null,
+        "site_web": "https://entretien-vmc.paris/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "limeil-brevannes": {
+    "artisans": [
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17994667297070803129",
+        "nom": "Groupe Chitic",
+        "slug": "groupe-chitic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rés Limeil Village",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9485789467824125610",
+        "nom": "ENEA SOLUTIONS",
+        "slug": "enea-solutions",
+        "telephone": null,
+        "site_web": "https://www.enea-solutions.fr/",
+        "adresse": "Boissy-Saint-Léger",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "2749112943665263886",
+        "nom": "IMD ENERGIES",
+        "slug": "imd-energies",
+        "telephone": null,
+        "site_web": "https://imd-energies.fr/",
+        "adresse": "Boissy-Saint-Léger",
+        "note": 4,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3192969267419673414",
+        "nom": "MLGPRO Installation VMC Vincennes - maintenance vmc",
+        "slug": "mlgpro-installation-vmc-vincennes-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlgproisothermiquevincennes.com/",
+        "adresse": "Vincennes",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1860149779532299317",
+        "nom": "atelier pcs",
+        "slug": "atelier-pcs",
+        "telephone": null,
+        "site_web": "http://atelierpcs.fr/",
+        "adresse": "16B Av. de Verdun",
+        "note": 4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "mandres-les-roses": {
+    "artisans": [
+      {
+        "id": "10527008420212286810",
+        "nom": "PLM Climatisation",
+        "slug": "plm-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue des Perdrix",
+        "note": 5,
+        "avis": 20,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5554279117982989262",
+        "nom": "Mco Energies",
+        "slug": "mco-energies",
+        "telephone": null,
+        "site_web": "https://mco-energies.com/",
+        "adresse": "3 Rue des Perdrix",
+        "note": 4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4828879863802965139",
+        "nom": "val d'yerres froid",
+        "slug": "val-dyerres-froid",
+        "telephone": null,
+        "site_web": "http://vyfroid.fr/",
+        "adresse": "Épinay-sous-Sénart",
+        "note": 5,
+        "avis": 32,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12135286077931173099",
+        "nom": "Chauffage Clim",
+        "slug": "chauffage-clim",
+        "telephone": null,
+        "site_web": "http://www.chauffageclim.fr/",
+        "adresse": "Périgny",
+        "note": 5,
+        "avis": 87,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18080102767441365985",
+        "nom": "OD CLIM",
+        "slug": "od-clim",
+        "telephone": null,
+        "site_web": "http://www.odclim.fr/",
+        "adresse": "06 62 33 62 75",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11713192781180239464",
+        "nom": "FD chauffage - climatisation - entreprise RGE",
+        "slug": "fd-chauffage-climatisation-entreprise-rge",
+        "telephone": null,
+        "site_web": "http://www.fd-chauffage.com/",
+        "adresse": "Quincy-sous-Sénart",
+        "note": 4,
+        "avis": 23,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8374889931094250251",
+        "nom": "Omeco Energie - Climatisation et Pompe à chaleur",
+        "slug": "omeco-energie-climatisation-et-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://www.omeco-energie.fr/",
+        "adresse": "Brunoy",
+        "note": 4,
+        "avis": 63,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "marolles-en-brie": {
+    "artisans": [
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4828879863802965139",
+        "nom": "val d'yerres froid",
+        "slug": "val-dyerres-froid",
+        "telephone": null,
+        "site_web": "http://vyfroid.fr/",
+        "adresse": "Épinay-sous-Sénart",
+        "note": 5,
+        "avis": 32,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17414278063492819387",
+        "nom": "ClimQuest",
+        "slug": "climquest",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 Sq. du Héron Cendre",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8114751380288976899",
+        "nom": "entreprise marchand",
+        "slug": "entreprise-marchand",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue des Vendangeurs",
+        "note": 3,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13522407904178970805",
+        "nom": "Cheminées & Poêles de Marolles - Seguin 94",
+        "slug": "cheminees-poeles-de-marolles-seguin-94",
+        "telephone": null,
+        "site_web": "https://www.seguin-marolles-en-brie.com/",
+        "adresse": "10 Rue de la Tuilerie",
+        "note": 4,
+        "avis": 158,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "noiseau": {
+    "artisans": [
+      {
+        "id": "6176331200787337242",
+        "nom": "MD Génie Climatique : Votre expert en plomberie, chauffage, ventilation et climatisation.",
+        "slug": "md-genie-climatique-votre-expert-en-plomberie-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://mdgenieclimatique.fr/",
+        "adresse": "12 Rue Sadi Carnot",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "Ormesson-sur-Marne",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10957735035482500342",
+        "nom": "Solaris North Pole | Entreprise Froid et Climatisation",
+        "slug": "solaris-north-pole-entreprise-froid-et-climatisation",
+        "telephone": null,
+        "site_web": "http://www.group-solaris.com/",
+        "adresse": "Chennevières-sur-Marne",
+        "note": 4,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2099166652627060643",
+        "nom": "AIR ENERGIE CLIMATIC (AEC)",
+        "slug": "air-energie-climatic-aec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chennevières-sur-Marne",
+        "note": 5,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14101817424147883930",
+        "nom": "O2LCLIM - Entreprise Climatisation | Installation Climatisation | Maintenance Climatisation",
+        "slug": "o2lclim-entreprise-climatisation-installation-climatisation-maintenance-climatisation",
+        "telephone": null,
+        "site_web": "http://www.o2lclim.fr/",
+        "adresse": "Chennevières-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2080153659120443482",
+        "nom": "Solaris | Entreprise climatisation et pompe à chaleur (94)",
+        "slug": "solaris-entreprise-climatisation-et-pompe-a-chaleur-94",
+        "telephone": null,
+        "site_web": "https://www.solaris-climatisation.fr/",
+        "adresse": "Chennevières-sur-Marne",
+        "note": 4,
+        "avis": 52,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16571593235895344811",
+        "nom": "Ormesson Depannage Gaz",
+        "slug": "ormesson-depannage-gaz",
+        "telephone": null,
+        "site_web": "https://www.ormesson-depannage.fr/",
+        "adresse": "4 Rue du Président Kennedy",
+        "note": 4,
+        "avis": 84,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "perigny": {
+    "artisans": [
+      {
+        "id": "18175035672317102833",
+        "nom": "AFI Climatisation et pompe à chaleur",
+        "slug": "afi-climatisation-et-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://climatisationafi.wordpress.com/?utm_source=gmb",
+        "adresse": "Plus de 20 ans en activité, 2 Rue René Barthélemy",
+        "note": 4,
+        "avis": 71,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5625120252138842054",
+        "nom": "Eco Solutions - Climatisation & Pompe à chaleur La Rochelle",
+        "slug": "eco-solutions-climatisation-pompe-a-chaleur-la-rochelle",
+        "telephone": null,
+        "site_web": "http://eco-solutions-17.fr/?utm_source=gmb",
+        "adresse": "10 Rue Augustin Fresnel",
+        "note": 4,
+        "avis": 160,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16747965434006393986",
+        "nom": "Clim+ La Rochelle : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-la-rochelle-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/clim-la-rochelle-4419",
+        "adresse": "Av. Joliot-Curie",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8018554239032640697",
+        "nom": "Maxithermie",
+        "slug": "maxithermie",
+        "telephone": null,
+        "site_web": "https://maxithermie.com/",
+        "adresse": "15 Av. Louis Lumière",
+        "note": 4,
+        "avis": 25,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4881453947067652859",
+        "nom": "MAXENERGIES - Pompes à chaleur, chaudières, climatisation La Rochelle",
+        "slug": "maxenergies-pompes-a-chaleur-chaudieres-climatisation-la-rochelle",
+        "telephone": null,
+        "site_web": "http://www.maxenergies.fr/",
+        "adresse": "3 Rue Joseph Cugnot",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17987583618999528623",
+        "nom": "CVC17",
+        "slug": "cvc17",
+        "telephone": null,
+        "site_web": "http://www.cvc17.com/",
+        "adresse": "La Rochelle",
+        "note": 4,
+        "avis": 66,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5164495268482190475",
+        "nom": "Partedis Climatisation Ventilation - La Rochelle",
+        "slug": "partedis-climatisation-ventilation-la-rochelle",
+        "telephone": null,
+        "site_web": "https://chauffage-sanitaire.partedis.com/",
+        "adresse": "11 bis Av. Louis Lumière",
+        "note": null,
+        "avis": null,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "8564869032662556131",
+        "nom": "FHV - France Hygiene Ventilation La Rochelle",
+        "slug": "fhv-france-hygiene-ventilation-la-rochelle",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/la-rochelle/",
+        "adresse": "Nieul-sur-Mer",
+        "note": 5,
+        "avis": 54,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18198266579467119219",
+        "nom": "Ami Elec",
+        "slug": "ami-elec",
+        "telephone": null,
+        "site_web": "https://www.ami-elec.fr/",
+        "adresse": "3 Rue Joseph Cugnot",
+        "note": 5,
+        "avis": 3,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "16383572907589571874",
+        "nom": "CSC Morandini",
+        "slug": "csc-morandini",
+        "telephone": null,
+        "site_web": "http://www.csc-morandini.fr/",
+        "adresse": "10 Rue Augustin Fresnel",
+        "note": 3,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-mande": {
+    "artisans": [
+      {
+        "id": "3192969267419673414",
+        "nom": "MLGPRO Installation VMC Vincennes - maintenance vmc",
+        "slug": "mlgpro-installation-vmc-vincennes-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlgproisothermiquevincennes.com/",
+        "adresse": "Vincennes",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11436418901313264740",
+        "nom": "BOREALE CVC - Chauffage, Ventilation et Climatisation",
+        "slug": "boreale-cvc-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://borealecvc.com/",
+        "adresse": "Vincennes",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16962156368167984315",
+        "nom": "AIR12 - Pose et entretien de VMC, Climatisation domicile, Hotte Restaurant",
+        "slug": "air12-pose-et-entretien-de-vmc-climatisation-domicile-hotte-restaurant",
+        "telephone": null,
+        "site_web": "https://ventilation-paris.fr/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13229800496914321886",
+        "nom": "Ma climatisation & pompe à chaleur",
+        "slug": "ma-climatisation-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://www.pompeschaleurpro.fr/",
+        "adresse": "Montreuil",
+        "note": 4,
+        "avis": 33,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3763674333775246339",
+        "nom": "AEF Solaire",
+        "slug": "aef-solaire",
+        "telephone": null,
+        "site_web": "https://www.aefsolaire.fr/",
+        "adresse": "37 Rue du Commandant René Mouchotte",
+        "note": 4,
+        "avis": 45,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-maur-des-fosses": {
+    "artisans": [
+      {
+        "id": "17948662407331783653",
+        "nom": "Ma climatisation & pompe à chaleur",
+        "slug": "ma-climatisation-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "https://www.pompeschaleurpro.fr/agence-saint-maur-des-fosses/",
+        "adresse": "20 Rue Garibaldi",
+        "note": 4,
+        "avis": 40,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1930625394538004587",
+        "nom": "Génie climatique - Installation Climatisation - Installation pompe à chaleur saint maur des fossés- Ballon thermodynamique",
+        "slug": "genie-climatique-installation-climatisation-installation-pompe-a-chaleur-saint-maur-des-fosses-ballon-thermodynamique",
+        "telephone": null,
+        "site_web": "https://climatisation-pompe-a-chaleur-saint-maur.com/",
+        "adresse": "57 Av. Victor Hugo",
+        "note": 5,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15337117432635599239",
+        "nom": "TRANSITION ÉNERGIE 94",
+        "slug": "transition-energie-94",
+        "telephone": null,
+        "site_web": "https://saintmaurdesfosses.maclem.fr/",
+        "adresse": "Champigny-sur-Marne",
+        "note": 5,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13258996412665507357",
+        "nom": "FROID CLIMAT SERVICE - Dépannage, Matériel frigorifique, Climatisation",
+        "slug": "froid-climat-service-depannage-materiel-frigorifique-climatisation",
+        "telephone": null,
+        "site_web": "https://www.froid-climat-service.fr/",
+        "adresse": "24 Rue Garnier Pages",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1350759495027359284",
+        "nom": "CPE Climatisation",
+        "slug": "cpe-climatisation",
+        "telephone": null,
+        "site_web": "https://www.cpe-climatisation.fr/",
+        "adresse": "84 Rue Albert de Mun",
+        "note": 3,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "275202432343212037",
+        "nom": "Cool Concept Climatisation S.A.S.U.",
+        "slug": "cool-concept-climatisation-sasu",
+        "telephone": null,
+        "site_web": "http://www.coolconceptclimatisation.fr/",
+        "adresse": "24 Rue Kléber",
+        "note": 5,
+        "avis": 75,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15327687241490151577",
+        "nom": "Van froid climatisation",
+        "slug": "van-froid-climatisation",
+        "telephone": null,
+        "site_web": "https://www.vanfroid.com/",
+        "adresse": "72 Av. Louis Blanc",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5026601838004680263",
+        "nom": "James'clim",
+        "slug": "jamesclim",
+        "telephone": null,
+        "site_web": "http://www.jamesclim.com/",
+        "adresse": "10 Rue Viollet le Duc",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8214325981750161194",
+        "nom": "SMEC - Chauffage et Plomberie",
+        "slug": "smec-chauffage-et-plomberie",
+        "telephone": null,
+        "site_web": "https://smecsaintmaur.com/?utm_source=gmb&utm_medium=organic",
+        "adresse": "16 Av. François Adam",
+        "note": 4,
+        "avis": 162,
+        "type": "Plombier"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-maurice": {
+    "artisans": [
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16962156368167984315",
+        "nom": "AIR12 - Pose et entretien de VMC, Climatisation domicile, Hotte Restaurant",
+        "slug": "air12-pose-et-entretien-de-vmc-climatisation-domicile-hotte-restaurant",
+        "telephone": null,
+        "site_web": "https://ventilation-paris.fr/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "3192969267419673414",
+        "nom": "MLGPRO Installation VMC Vincennes - maintenance vmc",
+        "slug": "mlgpro-installation-vmc-vincennes-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlgproisothermiquevincennes.com/",
+        "adresse": "Vincennes",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2695408119324969527",
+        "nom": "instal repare vmc qualit11",
+        "slug": "instal-repare-vmc-qualit11",
+        "telephone": null,
+        "site_web": "https://instal-repare-vmc-qualit11.com/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 28,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "santeny": {
+    "artisans": [
+      {
+        "id": "4503601655605576419",
+        "nom": "Climapac Climatisation",
+        "slug": "climapac-climatisation",
+        "telephone": null,
+        "site_web": "http://www.climapac-climatisation.fr/?utm_source=gmb",
+        "adresse": "300 Av. des Érables",
+        "note": 5,
+        "avis": 23,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4828879863802965139",
+        "nom": "val d'yerres froid",
+        "slug": "val-dyerres-froid",
+        "telephone": null,
+        "site_web": "http://vyfroid.fr/",
+        "adresse": "Épinay-sous-Sénart",
+        "note": 5,
+        "avis": 32,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12925025870947305790",
+        "nom": "Valentin NRJ - Installation Maintenance Dépannage Climatisation - 77",
+        "slug": "valentin-nrj-installation-maintenance-depannage-climatisation-77",
+        "telephone": null,
+        "site_web": "https://www.valentin-nrj.fr/",
+        "adresse": "Brie-Comte-Robert",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15700472380956838718",
+        "nom": "VostravauxIDF",
+        "slug": "vostravauxidf",
+        "telephone": null,
+        "site_web": "https://www.vostravauxidf.fr/",
+        "adresse": "18 Av. de la Saussaye",
+        "note": 5,
+        "avis": 46,
+        "type": "Électricien"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7951056682713289876",
+        "nom": "Cardonnel Chauffage Service",
+        "slug": "cardonnel-chauffage-service",
+        "telephone": null,
+        "site_web": "http://www.cardonnel-chauffage.com/",
+        "adresse": "8 Rte de Mandres",
+        "note": 4,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "Ormesson-sur-Marne",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "sucy-en-brie": {
+    "artisans": [
+      {
+        "id": "11441467508510877658",
+        "nom": "Geni installation pompe a chaleur sucy en brie - entretien PAC-installation climatisation/réparation - ballon thermodynamique",
+        "slug": "geni-installation-pompe-a-chaleur-sucy-en-brie-entretien-pac-installation-climatisationreparation-ballon-thermodynamique",
+        "telephone": null,
+        "site_web": "https://geni-pompe-a-chaleur-sucy.com/",
+        "adresse": "1 Av. Winston Churchill",
+        "note": 5,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14761706010021510300",
+        "nom": "Pilotech",
+        "slug": "pilotech",
+        "telephone": null,
+        "site_web": "http://pilotech.eu/",
+        "adresse": "14 Rue de Champigny",
+        "note": 5,
+        "avis": 78,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "547131332867470745",
+        "nom": "Home Clim Service",
+        "slug": "home-clim-service",
+        "telephone": null,
+        "site_web": "https://www.homeclimservice.fr/agence-sucy-en-brie/",
+        "adresse": "4 Rue Christophe Colomb",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2980106956237630210",
+        "nom": "Asm climelec",
+        "slug": "asm-climelec",
+        "telephone": null,
+        "site_web": "https://www.asmclimelec.fr/",
+        "adresse": "131 Rue du Clos de ville",
+        "note": 4,
+        "avis": 5,
+        "type": "Siège social"
+      },
+      {
+        "id": "11553143001154613408",
+        "nom": "FGC Services",
+        "slug": "fgc-services",
+        "telephone": null,
+        "site_web": "http://www.fgc-services.fr/",
+        "adresse": "27 Rue de la République",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "Ormesson-sur-Marne",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10834239090358945366",
+        "nom": "IDF AIR",
+        "slug": "idf-air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Av. de la Sablière 94370",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "Villecresnes",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "559191827869593007",
+        "nom": "Chauffexpress",
+        "slug": "chauffexpress",
+        "telephone": null,
+        "site_web": "http://www.chauffexpress.fr/?utm_source=gmb",
+        "adresse": "7 Chem. Vert",
+        "note": 3,
+        "avis": 35,
+        "type": "Service de réparation de radiateurs"
+      }
+    ]
+  },
+  "thiais": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6121547863143923602",
+        "nom": "Icegreen Energie Services",
+        "slug": "icegreen-energie-services",
+        "telephone": null,
+        "site_web": "http://icegreen.fr/",
+        "adresse": "66 Av. du Général de Gaulle",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16430229418568500848",
+        "nom": "ANVOLIA",
+        "slug": "anvolia",
+        "telephone": null,
+        "site_web": "http://www.anvolia.com/?utm_source=gmb",
+        "adresse": "Parc d'activités de Thiais, 37, rue Hélène Muller Bât. G1, CS 50307",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3631090099020723015",
+        "nom": "REABIL - RGE Pompe à chaleur et Isolation thermique",
+        "slug": "reabil-rge-pompe-a-chaleur-et-isolation-thermique",
+        "telephone": null,
+        "site_web": "https://www.reabil.fr/",
+        "adresse": "Vitry-sur-Seine",
+        "note": 5,
+        "avis": 50,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "villecresnes": {
+    "artisans": [
+      {
+        "id": "14548232082258704749",
+        "nom": "Climadom Art'cool Systems - Installation Réparation Climatisation - Chauffagiste - 94",
+        "slug": "climadom-artcool-systems-installation-reparation-climatisation-chauffagiste-94",
+        "telephone": null,
+        "site_web": "https://www.climadom-artcoolsystems.fr/",
+        "adresse": "22 All. Circulaire",
+        "note": 4,
+        "avis": 152,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4828879863802965139",
+        "nom": "val d'yerres froid",
+        "slug": "val-dyerres-froid",
+        "telephone": null,
+        "site_web": "http://vyfroid.fr/",
+        "adresse": "Épinay-sous-Sénart",
+        "note": 5,
+        "avis": 32,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2002480314300372748",
+        "nom": "Sélect Gaz",
+        "slug": "select-gaz",
+        "telephone": null,
+        "site_web": "http://selectgaz.fr/",
+        "adresse": "8 bis Rue du Chemin de Fer",
+        "note": 5,
+        "avis": 53,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15969561798576069723",
+        "nom": "Laurent Marechal SARL",
+        "slug": "laurent-marechal-sarl",
+        "telephone": null,
+        "site_web": "https://laurent-marechal.fr/",
+        "adresse": "24 Chem. des Closeaux",
+        "note": 4,
+        "avis": 29,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "villejuif": {
+    "artisans": [
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "1 Av. Paul Vaillant Couturier",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11757092097579090893",
+        "nom": "Renoprobat",
+        "slug": "renoprobat",
+        "telephone": null,
+        "site_web": "https://www.renoprobat.fr/",
+        "adresse": "93 Av. de Stalingrad",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16445404604892024267",
+        "nom": "SAFC - FROID CLIMATISATION",
+        "slug": "safc-froid-climatisation",
+        "telephone": null,
+        "site_web": "http://www.safc.pro/",
+        "adresse": "5 Rue du Dr Pierre Rouques",
+        "note": 5,
+        "avis": 231,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7608992047615712908",
+        "nom": "Établissement Victor",
+        "slug": "etablissement-victor",
+        "telephone": null,
+        "site_web": "https://etsvictor.com/etablissement-victor-villejuif-94800/",
+        "adresse": "49 Av. Paul Vaillant Couturier",
+        "note": 4,
+        "avis": 196,
+        "type": "Plombier"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5412423376939947625",
+        "nom": "Power Innovation (Le Kremlin-Bicêtre) - Pompe à chaleur, Chauffage & Climatisation",
+        "slug": "power-innovation-le-kremlin-bicetre-pompe-a-chaleur-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://www.power-innovation.fr/contact/",
+        "adresse": "Le Kremlin-Bicêtre",
+        "note": 5,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10415609178265333285",
+        "nom": "EVROP'EN",
+        "slug": "evropen",
+        "telephone": null,
+        "site_web": "https://www.evropen.fr/",
+        "adresse": "3 Rue Edouard Vaillant",
+        "note": 5,
+        "avis": 7,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "vincennes": {
+    "artisans": [
+      {
+        "id": "3192969267419673414",
+        "nom": "MLGPRO Installation VMC Vincennes - maintenance vmc",
+        "slug": "mlgpro-installation-vmc-vincennes-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://mlgproisothermiquevincennes.com/",
+        "adresse": "20 Rue de la Prévoyance",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11436418901313264740",
+        "nom": "BOREALE CVC - Chauffage, Ventilation et Climatisation",
+        "slug": "boreale-cvc-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://borealecvc.com/",
+        "adresse": "110 Rue de Fontenay",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18329667739200498148",
+        "nom": "Maison Borée Climatisation",
+        "slug": "maison-boree-climatisation",
+        "telephone": null,
+        "site_web": "https://maison-boree.fr/",
+        "adresse": "70 Rue de Strasbourg",
+        "note": 5,
+        "avis": 16,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "vitry-sur-seine": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3631090099020723015",
+        "nom": "REABIL - RGE Pompe à chaleur et Isolation thermique",
+        "slug": "reabil-rge-pompe-a-chaleur-et-isolation-thermique",
+        "telephone": null,
+        "site_web": "https://www.reabil.fr/",
+        "adresse": "5 Av. Anatole France",
+        "note": 5,
+        "avis": 50,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3287341375918292267",
+        "nom": "EPMC",
+        "slug": "epmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Pl. du 19 Mars 1962",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15829819441052389069",
+        "nom": "Expert Énergie Service",
+        "slug": "expert-energie-service",
+        "telephone": null,
+        "site_web": "https://expert-energie-service.fr/",
+        "adresse": "17 Rue Camille Groult",
+        "note": 4,
+        "avis": 248,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5164813759591604359",
+        "nom": "EXPERT VENTIL",
+        "slug": "expert-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Alfortville",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "12839443026079654839",
+        "nom": "Ouest Isol & Ventil - Vitry sur Seine",
+        "slug": "ouest-isol-ventil-vitry-sur-seine",
+        "telephone": null,
+        "site_web": "https://www.ouestisolventil.fr/agences/agence-vitry-sur-seine?utm_source=gmb",
+        "adresse": "23 Quai Jules Guesde",
+        "note": 3,
+        "avis": 30,
+        "type": "Grossiste en matériaux de construction"
+      },
+      {
+        "id": "14976389020054488094",
+        "nom": "Liftasud IDF Vitry",
+        "slug": "liftasud-idf-vitry",
+        "telephone": null,
+        "site_web": "http://www.liftasud.fr/",
+        "adresse": "Z.A du plateaux, 158 Rue Julian Grimau Bâtiment C5",
+        "note": 4,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "ivry-sur-seine": {
+    "artisans": [
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "joinville-le-pont": {
+    "artisans": [
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "4 Rue Hugede",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4199646106460320811",
+        "nom": "Couver Termic",
+        "slug": "couver-termic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "81 Av. Oudinot",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2847105384875046498",
+        "nom": "ARTISAN FRANCK CHAUFFAGE",
+        "slug": "artisan-franck-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "35 Av. du Général Gallieni",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15102182245753746831",
+        "nom": "SARL PENICHAULT",
+        "slug": "sarl-penichault",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "51 Rue de Paris",
+        "note": 4,
+        "avis": 82,
+        "type": "Plombier"
+      },
+      {
+        "id": "16404857114158893562",
+        "nom": "Vntelec",
+        "slug": "vntelec",
+        "telephone": null,
+        "site_web": "https://electricien-depannage-service.com/electricien-joinville-le-pont/",
+        "adresse": "17 bis Bd de Polangis",
+        "note": 5,
+        "avis": 10,
+        "type": "Électricien"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11436418901313264740",
+        "nom": "BOREALE CVC - Chauffage, Ventilation et Climatisation",
+        "slug": "boreale-cvc-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://borealecvc.com/",
+        "adresse": "Vincennes",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "maisons-alfort": {
+    "artisans": [
+      {
+        "id": "15847411950975038405",
+        "nom": "Basire Dahan",
+        "slug": "basire-dahan",
+        "telephone": null,
+        "site_web": "https://www.basiredahan.com/",
+        "adresse": "107 Rue Raspail",
+        "note": 4,
+        "avis": 138,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11309406703776627628",
+        "nom": "Clim+ Maisons-Alfort : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-maisons-alfort-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/maisons-alfort-clim-4823",
+        "adresse": "88 Av. de la République",
+        "note": 4,
+        "avis": 37,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16392072935263493204",
+        "nom": "Jms Clim",
+        "slug": "jms-clim",
+        "telephone": null,
+        "site_web": "https://www.jms-clim.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 12,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5164813759591604359",
+        "nom": "EXPERT VENTIL",
+        "slug": "expert-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Alfortville",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "9173539326297614474",
+        "nom": "Artisan Gaz Services Plombier chauffagiste Maisons-Alfort 94",
+        "slug": "artisan-gaz-services-plombier-chauffagiste-maisons-alfort-94",
+        "telephone": null,
+        "site_web": "https://ags-plombier-chauffagiste-paris.fr/?utm_source=gmb",
+        "adresse": "194 Rue Jean Jaurès",
+        "note": 4,
+        "avis": 174,
+        "type": "Plombier"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "nogent-sur-marne": {
+    "artisans": [
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "2 Rue Paul Doumer",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1303924806387654706",
+        "nom": "Établissement Victor",
+        "slug": "etablissement-victor",
+        "telephone": null,
+        "site_web": "https://etsvictor.com/etablissement-victor-nogent-sur-marne-94130/",
+        "adresse": "3 Rue de Châteaudun",
+        "note": 4,
+        "avis": 109,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6310591152010756188",
+        "nom": "Fils & Cold",
+        "slug": "fils-cold",
+        "telephone": null,
+        "site_web": "https://filsandcold.fr/",
+        "adresse": "7 Rue du Port",
+        "note": 4,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15628675059957004338",
+        "nom": "La Centrale de I'Habitat",
+        "slug": "la-centrale-de-ihabitat",
+        "telephone": null,
+        "site_web": "http://www.maisonduchauffeau.com/",
+        "adresse": "1 Rue Brillet",
+        "note": 4,
+        "avis": 115,
+        "type": "Plombier"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11283661710884726284",
+        "nom": "EURL CHARLES LAPA",
+        "slug": "eurl-charles-lapa",
+        "telephone": null,
+        "site_web": "https://mon-installateur.atlantic.fr/Societe/LAPA-CHARLES",
+        "adresse": "61b Rue Paul Bert",
+        "note": 5,
+        "avis": 41,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11380068338563551507",
+        "nom": "VMC Air Pur Perreux",
+        "slug": "vmc-air-pur-perreux",
+        "telephone": null,
+        "site_web": "https://vmcairpurperreux.com/",
+        "adresse": "Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13620989646341632268",
+        "nom": "Pariclima",
+        "slug": "pariclima",
+        "telephone": null,
+        "site_web": "https://www.pariclima.fr/",
+        "adresse": "8 Rue Brillet",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11436418901313264740",
+        "nom": "BOREALE CVC - Chauffage, Ventilation et Climatisation",
+        "slug": "boreale-cvc-chauffage-ventilation-et-climatisation",
+        "telephone": null,
+        "site_web": "https://borealecvc.com/",
+        "adresse": "Vincennes",
+        "note": 5,
+        "avis": 11,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "orly": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "10750767118994975416",
+        "nom": "SANI-CLIMAT",
+        "slug": "sani-climat",
+        "telephone": null,
+        "site_web": "http://www.sani-climat.com/",
+        "adresse": "34 Av. de la Victoire",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11347211802978590935",
+        "nom": "CLIM'R",
+        "slug": "climr",
+        "telephone": null,
+        "site_web": "https://climr.fr/",
+        "adresse": "Villeneuve-le-Roi",
+        "note": 4,
+        "avis": 67,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6428031818207821275",
+        "nom": "Gaz Point Com",
+        "slug": "gaz-point-com",
+        "telephone": null,
+        "site_web": "https://www.gazpointcom.com/?utm_source=gmb",
+        "adresse": "8 Av. de l'Aérodrome",
+        "note": 4,
+        "avis": 174,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-perreux-sur-marne": {
+    "artisans": [
+      {
+        "id": "11380068338563551507",
+        "nom": "VMC Air Pur Perreux",
+        "slug": "vmc-air-pur-perreux",
+        "telephone": null,
+        "site_web": "https://vmcairpurperreux.com/",
+        "adresse": "11 Av. Gabriel-Péri",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4395181537106933990",
+        "nom": "malag le-perreux-sur-marne isolation thermique par l'exterieur ITE - Isolation intérieur",
+        "slug": "malag-le-perreux-sur-marne-isolation-thermique-par-lexterieur-ite-isolation-interieur",
+        "telephone": null,
+        "site_web": "https://malag-perreux-renove-arti.com/",
+        "adresse": "59 Av. Gabriel-Péri",
+        "note": 5,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6540663263890151935",
+        "nom": "PEGAZ chauffagiste / pompe à chaleur / climatisation",
+        "slug": "pegaz-chauffagiste-pompe-a-chaleur-climatisation",
+        "telephone": null,
+        "site_web": "https://pegaz.fr/",
+        "adresse": "57 Av. Ledru Rollin",
+        "note": 4,
+        "avis": 144,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8915785770722071987",
+        "nom": "Ets GERARD - Artisan",
+        "slug": "ets-gerard-artisan",
+        "telephone": null,
+        "site_web": "http://www.gerard-artisan.com/",
+        "adresse": "53 Rue Jean d'Estienne d'Orves",
+        "note": 4,
+        "avis": 192,
+        "type": "Plombier"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13417041256778668492",
+        "nom": "Air Ventisure - Nettoyage de hotte Professionnelle",
+        "slug": "air-ventisure-nettoyage-de-hotte-professionnelle",
+        "telephone": null,
+        "site_web": "https://www.air-ventisure.fr/",
+        "adresse": "23 Bd Raymond Poincaré",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "10794811692621900065",
+        "nom": "Experts Compagnons",
+        "slug": "experts-compagnons",
+        "telephone": null,
+        "site_web": "http://www.experts-compagnons.com/",
+        "adresse": "Le, 115 Av. Pierre Brossolette",
+        "note": 4,
+        "avis": 355,
+        "type": "Plombier"
+      },
+      {
+        "id": "14427188570491014519",
+        "nom": "AIRpropre entretien VMC - installation VMC Neuilly sur marne",
+        "slug": "airpropre-entretien-vmc-installation-vmc-neuilly-sur-marne",
+        "telephone": null,
+        "site_web": "https://airpropre-neuilly-marne.com/",
+        "adresse": "Neuilly-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6204270255847805811",
+        "nom": "Entreprise Marc Notal Plombier Electricien",
+        "slug": "entreprise-marc-notal-plombier-electricien",
+        "telephone": null,
+        "site_web": "http://www.notal-batiment.fr/",
+        "adresse": "153 Av. Pierre Brossolette",
+        "note": 5,
+        "avis": 292,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "le-plessis-trevise": {
+    "artisans": [
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11725442473138525877",
+        "nom": "AGC",
+        "slug": "agc",
+        "telephone": null,
+        "site_web": "http://www.installation-pompe-chaleur-agc.fr/",
+        "adresse": "5 All. des Frères Morane",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16185298947396694699",
+        "nom": "Airbux Energie",
+        "slug": "airbux-energie",
+        "telephone": null,
+        "site_web": "http://www.airbux-energie.com/?utm_source=gmb",
+        "adresse": "Ormesson-sur-Marne",
+        "note": 4,
+        "avis": 40,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1652923663636650184",
+        "nom": "BT multi-services",
+        "slug": "bt-multi-services",
+        "telephone": null,
+        "site_web": "https://www.bt-multi-service-depannage-travaux.fr/",
+        "adresse": "16 Av. Georges Foureau",
+        "note": 5,
+        "avis": 17,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14151268497149305661",
+        "nom": "bt la jolie vmc pontault",
+        "slug": "bt-la-jolie-vmc-pontault",
+        "telephone": null,
+        "site_web": "https://bt-la-jolie-vmc-pontault.com/",
+        "adresse": "Pontault-Combault",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "13358384885521957145",
+        "nom": "C. Air Ventil",
+        "slug": "c-air-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 bis Av. de la Dame Blanche",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "la-queue-en-brie": {
+    "artisans": [
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "5 Av. du Maréchal Mortier",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2212330947655439013",
+        "nom": "Clim+ La Queue en Brie : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-la-queue-en-brie-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/la-queue-en-brie-clim-5891",
+        "adresse": "20 Av Du General De Gaulle",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "villeneuve-le-roi": {
+    "artisans": [
+      {
+        "id": "11347211802978590935",
+        "nom": "CLIM'R",
+        "slug": "climr",
+        "telephone": null,
+        "site_web": "https://climr.fr/",
+        "adresse": "6 Rue des Mariniers",
+        "note": 4,
+        "avis": 67,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18295503175135035483",
+        "nom": "SCEPA",
+        "slug": "scepa",
+        "telephone": null,
+        "site_web": "https://scepa.fr/",
+        "adresse": "59 Rue Henri Laire",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16869206328646344239",
+        "nom": "Eirl Guy Plomberie",
+        "slug": "eirl-guy-plomberie",
+        "telephone": null,
+        "site_web": "https://www.guyplomberie94.fr/",
+        "adresse": "21 Rue Albert Larmé",
+        "note": 4,
+        "avis": 61,
+        "type": "Plombier"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "villeneuve-saint-georges": {
+    "artisans": [
+      {
+        "id": "13606724549153108881",
+        "nom": "Saneco",
+        "slug": "saneco",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 bis Rue Pasteur",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11347211802978590935",
+        "nom": "CLIM'R",
+        "slug": "climr",
+        "telephone": null,
+        "site_web": "https://climr.fr/",
+        "adresse": "Villeneuve-le-Roi",
+        "note": 4,
+        "avis": 67,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16291603594553792010",
+        "nom": "Sun Climat",
+        "slug": "sun-climat",
+        "telephone": null,
+        "site_web": "http://www.sunclimat.fr/?utm_source=gmb",
+        "adresse": "Bussy-Saint-Georges",
+        "note": 4,
+        "avis": 344,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10016101524716422366",
+        "nom": "Institut Français de Formation en Énergétique - IFFEN Paris",
+        "slug": "institut-francais-de-formation-en-energetique-iffen-paris",
+        "telephone": null,
+        "site_web": "https://iffen.fr/",
+        "adresse": "152 Rue de Paris",
+        "note": 4,
+        "avis": 453,
+        "type": "Centre de formation continue"
+      }
+    ]
+  },
+  "villiers-sur-marne": {
+    "artisans": [
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9258051744378471351",
+        "nom": "A L'EAUGAZ PLOMBERIE et CHAUFFAGE",
+        "slug": "a-leaugaz-plomberie-et-chauffage",
+        "telephone": null,
+        "site_web": "https://www.plombier-chauffagiste-villiers-sur-marne.fr/",
+        "adresse": "5 Rue du Chemin de Fer",
+        "note": 4,
+        "avis": 219,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14427188570491014519",
+        "nom": "AIRpropre entretien VMC - installation VMC Neuilly sur marne",
+        "slug": "airpropre-entretien-vmc-installation-vmc-neuilly-sur-marne",
+        "telephone": null,
+        "site_web": "https://airpropre-neuilly-marne.com/",
+        "adresse": "Neuilly-sur-Marne",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2894756192523865869",
+        "nom": "Aries SAS | Entreprise de rénovation intérieure (94)",
+        "slug": "aries-sas-entreprise-de-renovation-interieure-94",
+        "telephone": null,
+        "site_web": "https://ariesentreprise.com/",
+        "adresse": "120 Rue du Général de Gaulle",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "15337117432635599239",
+        "nom": "TRANSITION ÉNERGIE 94",
+        "slug": "transition-energie-94",
+        "telephone": null,
+        "site_web": "https://saintmaurdesfosses.maclem.fr/",
+        "adresse": "Champigny-sur-Marne",
+        "note": 5,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4014735691471889725",
+        "nom": "PTF vmc la queue en brie - installation vmc",
+        "slug": "ptf-vmc-la-queue-en-brie-installation-vmc",
+        "telephone": null,
+        "site_web": "https://ptf-vmc-la-queue-en-brie.com/",
+        "adresse": "La Queue-en-Brie",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11380068338563551507",
+        "nom": "VMC Air Pur Perreux",
+        "slug": "vmc-air-pur-perreux",
+        "telephone": null,
+        "site_web": "https://vmcairpurperreux.com/",
+        "adresse": "Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14403009791331559799",
+        "nom": "Art Installation VMC Fontenay-sous-bois - Nettoyage vmc",
+        "slug": "art-installation-vmc-fontenay-sous-bois-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://artlijosventilationfontenay.com/",
+        "adresse": "Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14375363670943286888",
+        "nom": "Eco Habitation",
+        "slug": "eco-habitation",
+        "telephone": null,
+        "site_web": "https://www.ecohabitation-rge.fr/",
+        "adresse": "6 Av. André Rouy",
+        "note": 4,
+        "avis": 107,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "alfortville": {
+    "artisans": [
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "46 Rue Etienne Dolet",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5164813759591604359",
+        "nom": "EXPERT VENTIL",
+        "slug": "expert-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "71 Rue Etienne Dolet",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18023719251396950920",
+        "nom": "joinville ventilation expertpro",
+        "slug": "joinville-ventilation-expertpro",
+        "telephone": null,
+        "site_web": "https://joinville-ventilation-expertpro.com/",
+        "adresse": "Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5117663346406390988",
+        "nom": "ECO AQUATHERM",
+        "slug": "eco-aquatherm",
+        "telephone": null,
+        "site_web": "https://www.eco-aquatherm.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "71 Rue Etienne Dolet",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "7857211112258890881",
+        "nom": "AB PLOMBERIE CHAUFFAGE",
+        "slug": "ab-plomberie-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 Rue de Turin",
+        "note": 5,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13666809418785840310",
+        "nom": "France affaires équipements FAE",
+        "slug": "france-affaires-equipements-fae",
+        "telephone": null,
+        "site_web": "https://france-affaires-equipements.com/",
+        "adresse": "71 Rue Etienne Dolet",
+        "note": 4,
+        "avis": 11,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "rungis": {
+    "artisans": [
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "14836085388406100211",
+        "nom": "Home Clim Chambre Froide",
+        "slug": "home-clim-chambre-froide",
+        "telephone": null,
+        "site_web": "https://www.homeclimservice.fr/agence-rungis/",
+        "adresse": "1 Rue de la Corderie",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13263333754820449200",
+        "nom": "Group installation vmc alfortville - maintenance VMC",
+        "slug": "group-installation-vmc-alfortville-maintenance-vmc",
+        "telephone": null,
+        "site_web": "https://group-installation-vmc-alfortville.com/",
+        "adresse": "Alfortville",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12710840360864935363",
+        "nom": "Sec La ventil de villejuif",
+        "slug": "sec-la-ventil-de-villejuif",
+        "telephone": null,
+        "site_web": "https://sec-la-ventil-de-villejuif.com/",
+        "adresse": "Villejuif",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14778132170375419537",
+        "nom": "Industrielle de Chauffage Entreprises IC-Entreprises",
+        "slug": "industrielle-de-chauffage-entreprises-ic-entreprises",
+        "telephone": null,
+        "site_web": "http://www.ic-entreprises.com/",
+        "adresse": "54 Rue d'Arcueil",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10667003840789325545",
+        "nom": "btair install vmc creteil",
+        "slug": "btair-install-vmc-creteil",
+        "telephone": null,
+        "site_web": "https://btair-install-vmc-creteil.com/",
+        "adresse": "Créteil",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11347211802978590935",
+        "nom": "CLIM'R",
+        "slug": "climr",
+        "telephone": null,
+        "site_web": "https://climr.fr/",
+        "adresse": "Villeneuve-le-Roi",
+        "note": 4,
+        "avis": 67,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7446916389710726064",
+        "nom": "gybt installateur vmc nogent",
+        "slug": "gybt-installateur-vmc-nogent",
+        "telephone": null,
+        "site_web": "https://gybt-installateur-vmc-nogent.com/",
+        "adresse": "Nogent-sur-Marne",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  }
+}

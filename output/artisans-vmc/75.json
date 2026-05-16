@@ -1,0 +1,116 @@
+{
+  "paris": {
+    "artisans": [
+      {
+        "id": "7018747164690793948",
+        "nom": "BT QUALIT INSTALLATION VMC PARIS et nettoyage VMC",
+        "slug": "bt-qualit-installation-vmc-paris-et-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit-travaux.com/",
+        "adresse": "176 Rue de Charenton",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3883380998380547577",
+        "nom": "air entretien nettoyage et pose vmc",
+        "slug": "air-entretien-nettoyage-et-pose-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "32 Av. Albert Bartholomé",
+        "note": 4,
+        "avis": 41,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2695408119324969527",
+        "nom": "instal repare vmc qualit11",
+        "slug": "instal-repare-vmc-qualit11",
+        "telephone": null,
+        "site_web": "https://instal-repare-vmc-qualit11.com/",
+        "adresse": "7 Rue de l'Asile Popincourt",
+        "note": 4,
+        "avis": 28,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "8 Rue du Charolais",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "242464748195005823",
+        "nom": "Air75 VMC - Entretien VMC Paris",
+        "slug": "air75-vmc-entretien-vmc-paris",
+        "telephone": null,
+        "site_web": "https://entretien-vmc.paris/",
+        "adresse": "12 Rue Coypel",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11110792092631336580",
+        "nom": "BT QUALIT Installation VMC et Entretien VMC",
+        "slug": "bt-qualit-installation-vmc-et-entretien-vmc",
+        "telephone": null,
+        "site_web": "https://btqualit.fr/",
+        "adresse": "47 Rue Orfila",
+        "note": 4,
+        "avis": 47,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4660393517954167983",
+        "nom": "Litka vmc neuilly sur seine - installation vmc - nettoyage vmc",
+        "slug": "litka-vmc-neuilly-sur-seine-installation-vmc-nettoyage-vmc",
+        "telephone": null,
+        "site_web": "http://litka-vmc-neuilly-sur-seine.com/",
+        "adresse": "Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2652292324046693311",
+        "nom": "Air Concept Maintenance",
+        "slug": "air-concept-maintenance",
+        "telephone": null,
+        "site_web": "https://www.airconcept.fr/",
+        "adresse": "74 Rue Pierre Demours",
+        "note": 5,
+        "avis": 712,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6258066495951761433",
+        "nom": "BT et KLIT - Installation vmc - maintenance vmc - nettoyage et entretien",
+        "slug": "bt-et-klit-installation-vmc-maintenance-vmc-nettoyage-et-entretien",
+        "telephone": null,
+        "site_web": "https://m-et-g-isolation-dissy.com/",
+        "adresse": "Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  }
+}

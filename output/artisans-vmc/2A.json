@@ -1,0 +1,2053 @@
+{
+  "ajaccio": {
+    "artisans": [
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Mezzavia, Chem. de Suartello",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8044343006038957197",
+        "nom": "Celsius Climatisation Ajaccio | Climatisation à Ajaccio",
+        "slug": "celsius-climatisation-ajaccio-climatisation-a-ajaccio",
+        "telephone": null,
+        "site_web": "https://celsius-climatisation.com/",
+        "adresse": "1 Av. du Mont Thabor",
+        "note": 5,
+        "avis": 25,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17733339801600719098",
+        "nom": "Baptiste Auffray Climatisation",
+        "slug": "baptiste-auffray-climatisation",
+        "telephone": null,
+        "site_web": "https://bauffrayclimatisat.wixsite.com/baptiste-auffray-cli",
+        "adresse": "Rue du Soleil Levant",
+        "note": 5,
+        "avis": 107,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Zone Industrielle du Vazzio, Anc. Rte de Sartène",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "3887481805548432022",
+        "nom": "Branca Froid",
+        "slug": "branca-froid",
+        "telephone": null,
+        "site_web": "https://www.brancafroid.fr/",
+        "adresse": "ZA du, Rte du Stiletto lot 18",
+        "note": 4,
+        "avis": 77,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "pole de Suartello, Rte de Mezzavia",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Les Ateliers de Suartello, Chem. de Suartello",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4915109833619601754",
+        "nom": "E.T.E équipement technique énergie",
+        "slug": "ete-equipement-technique-energie",
+        "telephone": null,
+        "site_web": "https://www.eteajaccio.fr/",
+        "adresse": "13 Rue Commandant Bénielli",
+        "note": 5,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15012043334831387942",
+        "nom": "MS INSTALLATION",
+        "slug": "ms-installation",
+        "telephone": null,
+        "site_web": "https://www.msinstallation.fr/",
+        "adresse": "Rue Nicolas Peraldi Résidence Pauline Bonaparte",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "alata": {
+    "artisans": [
+      {
+        "id": "7183651623656090249",
+        "nom": "JT CLIMATISATION",
+        "slug": "jt-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Alata",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9478045436072480918",
+        "nom": "MTA Climatisation/Chauffage",
+        "slug": "mta-climatisationchauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Afa",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3265035345867138367",
+        "nom": "Clim Pro",
+        "slug": "clim-pro",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14385754006537730340",
+        "nom": "Planet Clim",
+        "slug": "planet-clim",
+        "telephone": null,
+        "site_web": "https://www.planetclim2a.fr/",
+        "adresse": "Lot. de Pietrosella",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4118396709894360686",
+        "nom": "IMPEC CLIM",
+        "slug": "impec-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mezzavia",
+        "note": 4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      }
+    ]
+  },
+  "albitreccia": {
+    "artisans": [
+      {
+        "id": "12058567534404238750",
+        "nom": "Rive Sud Clim RGE",
+        "slug": "rive-sud-clim-rge",
+        "telephone": null,
+        "site_web": "https://avoliomickael6.wixsite.com/monsite",
+        "adresse": "Grosseto-Prugna",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "12629382686213268297",
+        "nom": "Ice Climatisation",
+        "slug": "ice-climatisation",
+        "telephone": null,
+        "site_web": "http://www.ice-climatisation-porticcio.com/",
+        "adresse": "06 31 98 48 10",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9478045436072480918",
+        "nom": "MTA Climatisation/Chauffage",
+        "slug": "mta-climatisationchauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Afa",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4787761744689658283",
+        "nom": "Ajaccio Climatisation",
+        "slug": "ajaccio-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ajaccioclimatisation.fr/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9047524439189086729",
+        "nom": "Sarl Carbuccia",
+        "slug": "sarl-carbuccia",
+        "telephone": null,
+        "site_web": "http://www.sarl-carbuccia.com/",
+        "adresse": "Bastelicaccia",
+        "note": 5,
+        "avis": 22,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "cauro": {
+    "artisans": [
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "conca": {
+    "artisans": [
+      {
+        "id": "9406656743120560699",
+        "nom": "Clim'air Sas - Climatisation porto vecchio",
+        "slug": "climair-sas-climatisation-porto-vecchio",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2561281192662367111",
+        "nom": "JB GROUP",
+        "slug": "jb-group",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2368709975504486041",
+        "nom": "CLIMA'FROID",
+        "slug": "climafroid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ventiseri",
+        "note": 4,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16294029639527742458",
+        "nom": "PETRUCCIANI PLOMBERIE",
+        "slug": "petrucciani-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "14957528122104387951",
+        "nom": "Climaticorse",
+        "slug": "climaticorse",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Linguizzetta",
+        "note": 4,
+        "avis": 11,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10991134109830421801",
+        "nom": "Porto-Vecchio Climatisation",
+        "slug": "porto-vecchio-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "cuttoli-corticchiato": {
+    "artisans": [
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11576683262610341432",
+        "nom": "PCV 2 A",
+        "slug": "pcv-2-a",
+        "telephone": null,
+        "site_web": "http://pcv2a.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "13736979981848829049",
+        "nom": "SOLVERTUS",
+        "slug": "solvertus",
+        "telephone": null,
+        "site_web": "http://www.solvertus.com/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "figari": {
+    "artisans": [
+      {
+        "id": "16505347742595192110",
+        "nom": "MC Climatisation",
+        "slug": "mc-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tarabucceta Lieu dit",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7580449740195150942",
+        "nom": "Domo.Sud.Corse",
+        "slug": "domosudcorse",
+        "telephone": null,
+        "site_web": "http://www.domotique-electricite-corse.fr/",
+        "adresse": "Tarabucceta",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "grosseto-prugna": {
+    "artisans": [
+      {
+        "id": "12058567534404238750",
+        "nom": "Rive Sud Clim RGE",
+        "slug": "rive-sud-clim-rge",
+        "telephone": null,
+        "site_web": "https://avoliomickael6.wixsite.com/monsite",
+        "adresse": "6 Rés Tinarello",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7452630459740325852",
+        "nom": "Rive Sud Plomberie et Climatisation 2A",
+        "slug": "rive-sud-plomberie-et-climatisation-2a",
+        "telephone": null,
+        "site_web": "http://www.rivesudplomberie2a.fr/",
+        "adresse": "Pietrosella",
+        "note": 4,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13736979981848829049",
+        "nom": "SOLVERTUS",
+        "slug": "solvertus",
+        "telephone": null,
+        "site_web": "http://www.solvertus.com/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "1533477121703397069",
+        "nom": "CITELEC Électricité",
+        "slug": "citelec-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Frasseto",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "806559619076717667",
+        "nom": "Alta Elec",
+        "slug": "alta-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 3,
+        "avis": 10,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "lecci": {
+    "artisans": [
+      {
+        "id": "12673206089801809033",
+        "nom": "Sc Climatisation",
+        "slug": "sc-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lecci",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11365527034590506237",
+        "nom": "Rclim installateur climatisation et VMC",
+        "slug": "rclim-installateur-climatisation-et-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2561281192662367111",
+        "nom": "JB GROUP",
+        "slug": "jb-group",
+        "telephone": null,
+        "site_web": "https://www.jbgroup.corsica/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9406656743120560699",
+        "nom": "Clim'air Sas - Climatisation porto vecchio",
+        "slug": "climair-sas-climatisation-porto-vecchio",
+        "telephone": null,
+        "site_web": "https://www.climatisationportovecchio.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4088512907600449234",
+        "nom": "Climatec",
+        "slug": "climatec",
+        "telephone": null,
+        "site_web": "https://climatec-corse.fr/",
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11267916835697570274",
+        "nom": "CLIMAGAZ (Installateur de Climatisation)",
+        "slug": "climagaz-installateur-de-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17740947040587963921",
+        "nom": "Climanet",
+        "slug": "climanet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7459112649923252057",
+        "nom": "MAC Clim & Froid",
+        "slug": "mac-clim-froid",
+        "telephone": null,
+        "site_web": "https://sites.google.com/mac.corsica/mac-clim-froid-porto-vecchio/accueil",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "peri": {
+    "artisans": [
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "porto-vecchio": {
+    "artisans": [
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11365527034590506237",
+        "nom": "Rclim installateur climatisation et VMC",
+        "slug": "rclim-installateur-climatisation-et-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9406656743120560699",
+        "nom": "Clim'air Sas - Climatisation porto vecchio",
+        "slug": "climair-sas-climatisation-porto-vecchio",
+        "telephone": null,
+        "site_web": "https://www.climatisationportovecchio.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2561281192662367111",
+        "nom": "JB GROUP",
+        "slug": "jb-group",
+        "telephone": null,
+        "site_web": "https://www.jbgroup.corsica/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2655921199950431702",
+        "nom": "Therm'air Climatisation",
+        "slug": "thermair-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4088512907600449234",
+        "nom": "Climatec",
+        "slug": "climatec",
+        "telephone": null,
+        "site_web": "https://climatec-corse.fr/",
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11267916835697570274",
+        "nom": "CLIMAGAZ (Installateur de Climatisation)",
+        "slug": "climagaz-installateur-de-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17740947040587963921",
+        "nom": "Climanet",
+        "slug": "climanet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7438031899743139134",
+        "nom": "Climatisation GOLFE FROID Ferracci Jose",
+        "slug": "climatisation-golfe-froid-ferracci-jose",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "propriano": {
+    "artisans": [
+      {
+        "id": "15537234809662505619",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "https://www.proclim-propriano.fr/",
+        "adresse": "ZI de Tavaria",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "8096029994232608499",
+        "nom": "Sanit'aria",
+        "slug": "sanitaria",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue Casanova d'Aracciani",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5892037964500728523",
+        "nom": "ML CLIMATISATION & PLOMBERIE",
+        "slug": "ml-climatisation-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/people/Ml-Climatisation/100077397687005/",
+        "adresse": "15 Rue des Pêcheurs",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14086886175914927317",
+        "nom": "Warton",
+        "slug": "warton",
+        "telephone": null,
+        "site_web": "https://warton.fr/",
+        "adresse": "Qur Grosseti",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "1223656756767669141",
+        "nom": "Valinco clim",
+        "slug": "valinco-clim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5021184360638249662",
+        "nom": "Valinco Plomberie",
+        "slug": "valinco-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sari-solenzara": {
+    "artisans": [
+      {
+        "id": "1728189809356643475",
+        "nom": "R.B froid climatisation et plomberie",
+        "slug": "rb-froid-climatisation-et-plomberie",
+        "telephone": null,
+        "site_web": "https://www.rb-froid-solenzara.com/",
+        "adresse": "Via di u générale gabis",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "sarrola-carcopino": {
+    "artisans": [
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Residence du Parc 2, Rue de la Colline",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "sartene": {
+    "artisans": [
+      {
+        "id": "8096029994232608499",
+        "nom": "Sanit'aria",
+        "slug": "sanitaria",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Propriano",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15537234809662505619",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "https://www.proclim-propriano.fr/",
+        "adresse": "Propriano",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "12441096368841201186",
+        "nom": "SAMPIETRO",
+        "slug": "sampietro",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 95 37 85 24",
+        "note": 4,
+        "avis": 75,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6617094897034322561",
+        "nom": "STROMBONI",
+        "slug": "stromboni",
+        "telephone": null,
+        "site_web": "https://www.stromboni-electromenager.com/",
+        "adresse": "Rizzanese",
+        "note": 3,
+        "avis": 3,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "9110686274868729597",
+        "nom": "Abdel essmimih",
+        "slug": "abdel-essmimih",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue licciola",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "1467227581732700934",
+        "nom": "Cors'AM",
+        "slug": "corsam",
+        "telephone": null,
+        "site_web": "http://www.corsam.fr/",
+        "adresse": "Propriano",
+        "note": 4,
+        "avis": 17,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "sotta": {
+    "artisans": [
+      {
+        "id": "15538650424605675396",
+        "nom": "climenager",
+        "slug": "climenager",
+        "telephone": null,
+        "site_web": "https://www.climenager.fr/",
+        "adresse": "138 Strada d'Alzeta",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2561281192662367111",
+        "nom": "JB GROUP",
+        "slug": "jb-group",
+        "telephone": null,
+        "site_web": "https://www.jbgroup.corsica/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "7580449740195150942",
+        "nom": "Domo.Sud.Corse",
+        "slug": "domosudcorse",
+        "telephone": null,
+        "site_web": "http://www.domotique-electricite-corse.fr/",
+        "adresse": "Figari",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "11267916835697570274",
+        "nom": "CLIMAGAZ (Installateur de Climatisation)",
+        "slug": "climagaz-installateur-de-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17740947040587963921",
+        "nom": "Climanet",
+        "slug": "climanet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "7459112649923252057",
+        "nom": "MAC Clim & Froid",
+        "slug": "mac-clim-froid",
+        "telephone": null,
+        "site_web": "https://sites.google.com/mac.corsica/mac-clim-froid-porto-vecchio/accueil",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "san-gavino-di-carbini": {
+    "artisans": [
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17740947040587963921",
+        "nom": "Climanet",
+        "slug": "climanet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 16,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "324107095529052326",
+        "nom": "JB PLOMBERIE (JB Group)",
+        "slug": "jb-plomberie-jb-group",
+        "telephone": null,
+        "site_web": "https://jbplomberie.corsica/",
+        "adresse": "Porto-Vecchio",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "zonza": {
+    "artisans": [
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "324107095529052326",
+        "nom": "JB PLOMBERIE (JB Group)",
+        "slug": "jb-plomberie-jb-group",
+        "telephone": null,
+        "site_web": "https://jbplomberie.corsica/",
+        "adresse": "Porto-Vecchio",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "appietto": {
+    "artisans": [
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9478045436072480918",
+        "nom": "MTA Climatisation/Chauffage",
+        "slug": "mta-climatisationchauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Afa",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "3265035345867138367",
+        "nom": "Clim Pro",
+        "slug": "clim-pro",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2880658433477576906",
+        "nom": "SariH2O - Froid / Climatisation / Cuisine professionnelle / S.A.V",
+        "slug": "sarih2o-froid-climatisation-cuisine-professionnelle-sav",
+        "telephone": null,
+        "site_web": "http://sarih2o.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4787761744689658283",
+        "nom": "Ajaccio Climatisation",
+        "slug": "ajaccio-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ajaccioclimatisation.fr/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11576683262610341432",
+        "nom": "PCV 2 A",
+        "slug": "pcv-2-a",
+        "telephone": null,
+        "site_web": "http://pcv2a.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bastelicaccia": {
+    "artisans": [
+      {
+        "id": "4787761744689658283",
+        "nom": "Ajaccio Climatisation",
+        "slug": "ajaccio-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ajaccioclimatisation.fr/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14974562009059130622",
+        "nom": "Trojani.P",
+        "slug": "trojanip",
+        "telephone": null,
+        "site_web": "http://www.plomberie-climatisation-ajaccio.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lieu-dit Mascarone, Chem. de Cuara",
+        "note": 3,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1485473026026126603",
+        "nom": "Assulana énergie",
+        "slug": "assulana-energie",
+        "telephone": null,
+        "site_web": "http://assulana-energie.com/",
+        "adresse": "Lotissement a",
+        "note": 5,
+        "avis": 41,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "12058567534404238750",
+        "nom": "Rive Sud Clim RGE",
+        "slug": "rive-sud-clim-rge",
+        "telephone": null,
+        "site_web": "https://avoliomickael6.wixsite.com/monsite",
+        "adresse": "Grosseto-Prugna",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17488113925566108518",
+        "nom": "ab plombier",
+        "slug": "ab-plombier",
+        "telephone": null,
+        "site_web": "https://www.abplombier.net/",
+        "adresse": "Lieu dit",
+        "note": 5,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "bonifacio": {
+    "artisans": [
+      {
+        "id": "10102990566984655420",
+        "nom": "BONICLIM",
+        "slug": "boniclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Quartier Brancuccio",
+        "note": 1,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17412517045950709762",
+        "nom": "Lio 98",
+        "slug": "lio-98",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lieu-dit Bancarello",
+        "note": null,
+        "avis": null,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "14968825837278679318",
+        "nom": "AM SERVICE",
+        "slug": "am-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 07 26 72 90",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "11365527034590506237",
+        "nom": "Rclim installateur climatisation et VMC",
+        "slug": "rclim-installateur-climatisation-et-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14091235714279834759",
+        "nom": "Clim Concept",
+        "slug": "clim-concept",
+        "telephone": null,
+        "site_web": "http://www.climconcept-corse.com/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2561281192662367111",
+        "nom": "JB GROUP",
+        "slug": "jb-group",
+        "telephone": null,
+        "site_web": "https://www.jbgroup.corsica/",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "9406656743120560699",
+        "nom": "Clim'air Sas - Climatisation porto vecchio",
+        "slug": "climair-sas-climatisation-porto-vecchio",
+        "telephone": null,
+        "site_web": "https://www.climatisationportovecchio.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4088512907600449234",
+        "nom": "Climatec",
+        "slug": "climatec",
+        "telephone": null,
+        "site_web": "https://climatec-corse.fr/",
+        "adresse": "Porto-Vecchio",
+        "note": 4,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7580449740195150942",
+        "nom": "Domo.Sud.Corse",
+        "slug": "domosudcorse",
+        "telephone": null,
+        "site_web": "http://www.domotique-electricite-corse.fr/",
+        "adresse": "Figari",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "cargese": {
+    "artisans": [
+      {
+        "id": "8732142330016696256",
+        "nom": "ACELEC",
+        "slug": "acelec",
+        "telephone": null,
+        "site_web": "https://www.acelec.corsica/",
+        "adresse": "Cargèse",
+        "note": 1,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "eccica-suarella": {
+    "artisans": [
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "10532477951783708905",
+        "nom": "Ferracci Climatisation",
+        "slug": "ferracci-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11183467648565899991",
+        "nom": "FANCELLO CLIMATISATION | Pose climatisation - Entretien climatisation - Réparation climatisation | Ajaccio",
+        "slug": "fancello-climatisation-pose-climatisation-entretien-climatisation-reparation-climatisation-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.fancelloclimatisation.com/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12058567534404238750",
+        "nom": "Rive Sud Clim RGE",
+        "slug": "rive-sud-clim-rge",
+        "telephone": null,
+        "site_web": "https://avoliomickael6.wixsite.com/monsite",
+        "adresse": "Grosseto-Prugna",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "668323970944121554",
+        "nom": "CECC Axenergie Ajaccio",
+        "slug": "cecc-axenergie-ajaccio",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/59-cecc-ajaccio",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 16,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "olmeto": {
+    "artisans": [
+      {
+        "id": "8096029994232608499",
+        "nom": "Sanit'aria",
+        "slug": "sanitaria",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Propriano",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "15537234809662505619",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": null,
+        "site_web": "https://www.proclim-propriano.fr/",
+        "adresse": "Propriano",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "3343178194351141501",
+        "nom": "M-TECH CLIMATISATION",
+        "slug": "m-tech-climatisation",
+        "telephone": null,
+        "site_web": "https://www.m-tech.fr/",
+        "adresse": "06 24 15 92 01",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5021184360638249662",
+        "nom": "Valinco Plomberie",
+        "slug": "valinco-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1375462705560502572",
+        "nom": "M.G ELEC",
+        "slug": "mg-elec",
+        "telephone": null,
+        "site_web": "https://www.mgelec-20.fr/",
+        "adresse": "Piatana",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "7300513789365185234",
+        "nom": "M.G ELEC",
+        "slug": "mg-elec",
+        "telephone": null,
+        "site_web": "https://www.mgelec-20.fr/",
+        "adresse": "Propriano",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "1942837703719184528",
+        "nom": "Corse Climatisation",
+        "slug": "corse-climatisation",
+        "telephone": null,
+        "site_web": "https://www.corse-climatisation.fr/",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9406656743120560699",
+        "nom": "Clim'air Sas - Climatisation porto vecchio",
+        "slug": "climair-sas-climatisation-porto-vecchio",
+        "telephone": null,
+        "site_web": "https://www.climatisationportovecchio.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Porto-Vecchio",
+        "note": 5,
+        "avis": 35,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "pietrosella": {
+    "artisans": [
+      {
+        "id": "7452630459740325852",
+        "nom": "Rive Sud Plomberie et Climatisation 2A",
+        "slug": "rive-sud-plomberie-et-climatisation-2a",
+        "telephone": null,
+        "site_web": "http://www.rivesudplomberie2a.fr/",
+        "adresse": "19 RESIDENCE SAMPIERO 1",
+        "note": 4,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "12058567534404238750",
+        "nom": "Rive Sud Clim RGE",
+        "slug": "rive-sud-clim-rge",
+        "telephone": null,
+        "site_web": "https://avoliomickael6.wixsite.com/monsite",
+        "adresse": "Grosseto-Prugna",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7478015780377757640",
+        "nom": "CONCEPT CLIMATISATION SERVICES",
+        "slug": "concept-climatisation-services",
+        "telephone": null,
+        "site_web": "https://www.concept-climatisation-services.fr/",
+        "adresse": "Sarrola-Carcopino",
+        "note": 4,
+        "avis": 55,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4787761744689658283",
+        "nom": "Ajaccio Climatisation",
+        "slug": "ajaccio-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ajaccioclimatisation.fr/?utm_source=gmb",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "7283409545452222542",
+        "nom": "PLOMBERIE ET SERVICES",
+        "slug": "plomberie-et-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "4919924087461848955",
+        "nom": "CORSE CLIM ELEC",
+        "slug": "corse-clim-elec",
+        "telephone": null,
+        "site_web": "http://www.corseclimelec.com/",
+        "adresse": "Ajaccio",
+        "note": 4,
+        "avis": 41,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15579598165181202136",
+        "nom": "C.E.C CLIMATISATION - ELECTRICITE",
+        "slug": "cec-climatisation-electricite",
+        "telephone": null,
+        "site_web": "https://www.clim-electricite-corse.fr/",
+        "adresse": "Ajaccio",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "afa": {
+    "artisans": [
+      {
+        "id": "9478045436072480918",
+        "nom": "MTA Climatisation/Chauffage",
+        "slug": "mta-climatisationchauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Afa",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17733339801600719098",
+        "nom": "Baptiste Auffray Climatisation",
+        "slug": "baptiste-auffray-climatisation",
+        "telephone": null,
+        "site_web": "https://bauffrayclimatisat.wixsite.com/baptiste-auffray-cli",
+        "adresse": "Ajaccio",
+        "note": 5,
+        "avis": 107,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4166449505547060075",
+        "nom": "MFC",
+        "slug": "mfc",
+        "telephone": null,
+        "site_web": "https://www.micaellifroidetclim.com/",
+        "adresse": "Afa",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  }
+}

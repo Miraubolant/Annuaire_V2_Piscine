@@ -1,0 +1,1059 @@
+{
+  "la-canourgue": {
+    "artisans": [
+      {
+        "id": "16380777627097598080",
+        "nom": "Sévérac Nettoyage - Dégraissage Hotte & Nettoyage Système Ventilation",
+        "slug": "severac-nettoyage-degraissage-hotte-nettoyage-systeme-ventilation",
+        "telephone": null,
+        "site_web": "http://www.severac-nettoyage.fr/",
+        "adresse": "Sévérac d'Aveyron",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18054688588060086127",
+        "nom": "Entreprise Crusco",
+        "slug": "entreprise-crusco",
+        "telephone": null,
+        "site_web": "http://entreprisecrusco.site-solocal.com/",
+        "adresse": "Mende",
+        "note": 3,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "Mont Lozère et Goulet",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9489831900040188691",
+        "nom": "Cornille Guillaume",
+        "slug": "cornille-guillaume",
+        "telephone": null,
+        "site_web": "http://eurl-cornille-guillaume.plombierweb.fr/?utm_source=gmb",
+        "adresse": "Lieu-dit",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de radiateurs"
+      },
+      {
+        "id": "4078782462973243604",
+        "nom": "Andrieu Denis",
+        "slug": "andrieu-denis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nasbinals",
+        "note": 2,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "2529098539893881352",
+        "nom": "Les Pros du Ramonage",
+        "slug": "les-pros-du-ramonage",
+        "telephone": null,
+        "site_web": "https://lesprosduramonage.fr/",
+        "adresse": "Massegros Causses Gorges",
+        "note": 4,
+        "avis": 43,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "6693412585303822645",
+        "nom": "Carel Fabien",
+        "slug": "carel-fabien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "St Geniez d'Olt et d'Aubrac",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "15333228042359920529",
+        "nom": "Sicardi Électricité - Climatisation, électricité, VMC et IRVE - RGE",
+        "slug": "sicardi-electricite-climatisation-electricite-vmc-et-irve-rge",
+        "telephone": null,
+        "site_web": "https://www.sicardi-electricite.fr/",
+        "adresse": "Montpellier",
+        "note": 5,
+        "avis": 44,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6198252233727737470",
+        "nom": "ClimFactory",
+        "slug": "climfactory",
+        "telephone": null,
+        "site_web": "http://climfactory.com/",
+        "adresse": "Saint-Bauzille-de-Putois",
+        "note": 5,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "913880545979518271",
+        "nom": "Thermatic Rodez",
+        "slug": "thermatic-rodez",
+        "telephone": null,
+        "site_web": "https://thermatic-rodez.com/",
+        "adresse": "Olemps",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "banassac-canilhac": {
+    "artisans": [
+      {
+        "id": "8926458836644091672",
+        "nom": "Sarl Seguin",
+        "slug": "sarl-seguin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Banassac-Canilhac",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "10550281874861105746",
+        "nom": "BM Chauffage",
+        "slug": "bm-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "15084833258952174394",
+        "nom": "Florentin Plomberie Chauffage",
+        "slug": "florentin-plomberie-chauffage",
+        "telephone": null,
+        "site_web": "http://www.florentin-plomberie.fr/",
+        "adresse": "Banassac-Canilhac",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chanac": {
+    "artisans": [
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18054688588060086127",
+        "nom": "Entreprise Crusco",
+        "slug": "entreprise-crusco",
+        "telephone": null,
+        "site_web": "http://entreprisecrusco.site-solocal.com/",
+        "adresse": "Mende",
+        "note": 3,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "12884441956131533227",
+        "nom": "Aluminium Systeme",
+        "slug": "aluminium-systeme",
+        "telephone": null,
+        "site_web": "http://www.aluminium-systeme.fr/",
+        "adresse": "7 allée des Artisans, Za les Plaines",
+        "note": 4,
+        "avis": 6,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "14542208290273905979",
+        "nom": "Planchon Christian SARL",
+        "slug": "planchon-christian-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mende",
+        "note": null,
+        "avis": null,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "Mont Lozère et Goulet",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16253125697187963482",
+        "nom": "LAROUMET SAS",
+        "slug": "laroumet-sas",
+        "telephone": null,
+        "site_web": "https://www.laroumet.fr/",
+        "adresse": "Langogne",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "15405250775843998002",
+        "nom": "Teissedre et Fils",
+        "slug": "teissedre-et-fils",
+        "telephone": null,
+        "site_web": "http://www.teissedre-chauffage-electricite-48.fr/",
+        "adresse": "Marvejols",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "florac-trois-rivieres": {
+    "artisans": [
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "Mont Lozère et Goulet",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14873262318166435643",
+        "nom": "Armand S.a.r.l.",
+        "slug": "armand-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rue des Aires",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "9472089243634456416",
+        "nom": "GEDIMAT Pramat Matériaux",
+        "slug": "gedimat-pramat-materiaux",
+        "telephone": null,
+        "site_web": "https://www.gedimat.fr/index.php?magDest=1559",
+        "adresse": "4 Rue de la Mimente",
+        "note": 4,
+        "avis": 66,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "marvejols": {
+    "artisans": [
+      {
+        "id": "2864946352127532542",
+        "nom": "B.F.C",
+        "slug": "bfc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 lot La Plaine",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15405250775843998002",
+        "nom": "Teissedre et Fils",
+        "slug": "teissedre-et-fils",
+        "telephone": null,
+        "site_web": "http://www.teissedre-chauffage-electricite-48.fr/",
+        "adresse": "Av. Pierre Semard",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "Mont Lozère et Goulet",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7673357669513826642",
+        "nom": "Pro&Cie Marvejols",
+        "slug": "procie-marvejols",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Procie-Marvejols-104132228551398/?utm_source=gmb",
+        "adresse": "7.1 Av. Savorgnan de Brazza",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "mende": {
+    "artisans": [
+      {
+        "id": "10202281371843665583",
+        "nom": "Thermik'Services",
+        "slug": "thermikservices",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/48thermik",
+        "adresse": "21 Rue du Vallon de Rieucros",
+        "note": 4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16567083488679598348",
+        "nom": "S.M.E. Lozère (Sanit Maintenance Equipement)",
+        "slug": "sme-lozere-sanit-maintenance-equipement",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/35-sme-loz-re",
+        "adresse": "7 Av. Jean Moulin",
+        "note": 4,
+        "avis": 47,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14844590203928273975",
+        "nom": "Midi Maintenance",
+        "slug": "midi-maintenance",
+        "telephone": null,
+        "site_web": "http://www.midi-maintenance.fr/",
+        "adresse": "7 Rue de la Combe",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "12021621423998246585",
+        "nom": "Gravil Soulis",
+        "slug": "gravil-soulis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Rue de l'Orange",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15774247772519200850",
+        "nom": "ENGIE Home Services MENDE",
+        "slug": "engie-home-services-mende",
+        "telephone": null,
+        "site_web": "https://agence.engie-homeservices.fr/233-engie-home-services-mende?utm_source=gmb",
+        "adresse": "12 Av. du Marechal Foch",
+        "note": 3,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "943173728417071704",
+        "nom": "Rodier S.A.S.",
+        "slug": "rodier-sas",
+        "telephone": null,
+        "site_web": "http://www.rodier-sas.fr/",
+        "adresse": "3 Rue des Carrières",
+        "note": 4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "18054688588060086127",
+        "nom": "Entreprise Crusco",
+        "slug": "entreprise-crusco",
+        "telephone": null,
+        "site_web": "http://entreprisecrusco.site-solocal.com/",
+        "adresse": "30 Rue Émile Zola",
+        "note": 3,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "17884035447531598121",
+        "nom": "Peixoto Energies",
+        "slug": "peixoto-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 bis Rue des Compagnons",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "694906825975320071",
+        "nom": "SNECC devient LAROUMET",
+        "slug": "snecc-devient-laroumet",
+        "telephone": null,
+        "site_web": "https://www.laroumet.fr/",
+        "adresse": "28 Av. du Père Coudrin",
+        "note": 3,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "8258288764059252266",
+        "nom": "CEDEO Mende : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-mende-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/mende-cedeo-1472",
+        "adresse": "Rue de la Crète Za Des Chabrits",
+        "note": 4,
+        "avis": 11,
+        "type": "Magasin d'articles de salle de bains"
+      }
+    ]
+  },
+  "bourgs-sur-colagne": {
+    "artisans": [
+      {
+        "id": "5833186114840641158",
+        "nom": "Société Chauffage Sanitaire",
+        "slug": "societe-chauffage-sanitaire",
+        "telephone": null,
+        "site_web": "http://www.scs-nguyenphiho.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "monts-de-randon": {
+    "artisans": [
+      {
+        "id": "9489831900040188691",
+        "nom": "Cornille Guillaume",
+        "slug": "cornille-guillaume",
+        "telephone": null,
+        "site_web": "http://eurl-cornille-guillaume.plombierweb.fr/?utm_source=gmb",
+        "adresse": "Lieu-dit",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de radiateurs"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "18054688588060086127",
+        "nom": "Entreprise Crusco",
+        "slug": "entreprise-crusco",
+        "telephone": null,
+        "site_web": "http://entreprisecrusco.site-solocal.com/",
+        "adresse": "Mende",
+        "note": 3,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "13970597709972678514",
+        "nom": "Rocher Xavier",
+        "slug": "rocher-xavier",
+        "telephone": null,
+        "site_web": "http://sarlxavierrocher.site-solocal.com/?utm_source=gmb",
+        "adresse": "lieu-dit Rieutortet",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "Mont Lozère et Goulet",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-alban-sur-limagnole": {
+    "artisans": [
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4812874880912872027",
+        "nom": "TM VENTILATION",
+        "slug": "tm-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Clonas-sur-Varèze",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6422972665388964104",
+        "nom": "Berne Climatisation / Pompe à chaleur",
+        "slug": "berne-climatisation-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": "http://berne-climatisation.fr/",
+        "adresse": "Genilac",
+        "note": 5,
+        "avis": 100,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1345688251669398711",
+        "nom": "VENTILISTE SERVICES",
+        "slug": "ventiliste-services",
+        "telephone": null,
+        "site_web": "http://www.ventiliste.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1909866762910347364",
+        "nom": "INT'AIRCLIMA - Installation de climatisation et pompe à chaleur air/eau",
+        "slug": "intairclima-installation-de-climatisation-et-pompe-a-chaleur-aireau",
+        "telephone": null,
+        "site_web": "http://intairclima.fr/",
+        "adresse": "Sathonay-Camp",
+        "note": 5,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16951331242541355473",
+        "nom": "Solarpac Enr",
+        "slug": "solarpac-enr",
+        "telephone": null,
+        "site_web": "http://www.solarpacenr.com/",
+        "adresse": "Bagard",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16183700015221460020",
+        "nom": "AQUASOL’AIR Plomberie Chauffage Climatisation",
+        "slug": "aquasolair-plomberie-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://aquasolair.fr/",
+        "adresse": "Villetelle",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6737692681538601808",
+        "nom": "Reverclim Loire",
+        "slug": "reverclim-loire",
+        "telephone": null,
+        "site_web": "https://www.linkedin.com/in/%7Breverclim%7D?utm_source=gmb",
+        "adresse": "07 67 58 50 57",
+        "note": 5,
+        "avis": 62,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14002355662608990115",
+        "nom": "Therma Confort",
+        "slug": "therma-confort",
+        "telephone": null,
+        "site_web": "https://therma-confort.fr/",
+        "adresse": "Brives-Charensac",
+        "note": 4,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12215937925175528441",
+        "nom": "Degros Nathanaël | Électricité/VMC | 2gros services",
+        "slug": "degros-nathanael-electricitevmc-2gros-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lyon",
+        "note": 4,
+        "avis": 63,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-chely-dapcher": {
+    "artisans": [
+      {
+        "id": "11976180796838540096",
+        "nom": "Sarl Barthelemy Et Fils",
+        "slug": "sarl-barthelemy-et-fils",
+        "telephone": null,
+        "site_web": "https://barthelemyetfils.fr/",
+        "adresse": "Voie Romaine",
+        "note": 3,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12793881536603292144",
+        "nom": "Bonnet Et Fils SARL",
+        "slug": "bonnet-et-fils-sarl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Bonnet-et-Fils-215599088571334/",
+        "adresse": "9 rue Artisans, Av. du Malzieu Za",
+        "note": 4,
+        "avis": 16,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "langogne": {
+    "artisans": [
+      {
+        "id": "9921236152043060428",
+        "nom": "Exbrayat Thomas (Maître Artisan)",
+        "slug": "exbrayat-thomas-maitre-artisan",
+        "telephone": null,
+        "site_web": "http://www.thomasexbrayat.com/",
+        "adresse": "11 Bd des Capucins",
+        "note": 5,
+        "avis": 102,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16253125697187963482",
+        "nom": "LAROUMET SAS",
+        "slug": "laroumet-sas",
+        "telephone": null,
+        "site_web": "https://www.laroumet.fr/",
+        "adresse": "69 Av. du Maréchal Foch",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "7409442422989757362",
+        "nom": "Testud Franck Sarl",
+        "slug": "testud-franck-sarl",
+        "telephone": null,
+        "site_web": "https://www.testud48.fr/",
+        "adresse": "18 Rte de Pignol",
+        "note": 3,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "1677585275617185822",
+        "nom": "SAS Rodier",
+        "slug": "sas-rodier",
+        "telephone": null,
+        "site_web": "https://www.rodier-sas.fr/",
+        "adresse": "24 Av. de la Gare",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "14725756057591906584",
+        "nom": "ROMEUF SARL",
+        "slug": "romeuf-sarl",
+        "telephone": null,
+        "site_web": "https://www.romeuf-tv-multimedia.fr/",
+        "adresse": "60 Av. du Maréchal Foch",
+        "note": 4,
+        "avis": 17,
+        "type": "Entretien d'antennes"
+      }
+    ]
+  },
+  "montrodat": {
+    "artisans": [
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "943173728417071704",
+        "nom": "Rodier S.A.S.",
+        "slug": "rodier-sas",
+        "telephone": null,
+        "site_web": "http://www.rodier-sas.fr/",
+        "adresse": "Mende",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14844590203928273975",
+        "nom": "Midi Maintenance",
+        "slug": "midi-maintenance",
+        "telephone": null,
+        "site_web": "http://www.midi-maintenance.fr/",
+        "adresse": "Mende",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17028087831704180045",
+        "nom": "A2LFS - Centre de Réadaptation Fonctionnelle",
+        "slug": "a2lfs-centre-de-readaptation-fonctionnelle",
+        "telephone": null,
+        "site_web": "http://www.allfs.fr/",
+        "adresse": "Rte de Vimenet",
+        "note": 4,
+        "avis": 15,
+        "type": "Centre de convalescence"
+      },
+      {
+        "id": "10093983171886398869",
+        "nom": "Ramadier Chauffage",
+        "slug": "ramadier-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Monts-Verts",
+        "note": 3,
+        "avis": 3,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "16115164768295057459",
+        "nom": "SARL RDClim85",
+        "slug": "sarl-rdclim85",
+        "telephone": null,
+        "site_web": "http://www.rdclim85.fr/",
+        "adresse": "La Genétouze",
+        "note": 5,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9489831900040188691",
+        "nom": "Cornille Guillaume",
+        "slug": "cornille-guillaume",
+        "telephone": null,
+        "site_web": "http://eurl-cornille-guillaume.plombierweb.fr/?utm_source=gmb",
+        "adresse": "Lieu-dit",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18054688588060086127",
+        "nom": "Entreprise Crusco",
+        "slug": "entreprise-crusco",
+        "telephone": null,
+        "site_web": "http://entreprisecrusco.site-solocal.com/",
+        "adresse": "Mende",
+        "note": 3,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "Mont Lozère et Goulet",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2852585952847324092",
+        "nom": "FDC Solutions",
+        "slug": "fdc-solutions",
+        "telephone": null,
+        "site_web": "http://www.fdc-solutions.com/?utm_source=gmb",
+        "adresse": "Saint-Privat-des-Vieux",
+        "note": 5,
+        "avis": 19,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "peyre-en-aubrac": {
+    "artisans": [
+      {
+        "id": "12403771430182244695",
+        "nom": "Al Distribution",
+        "slug": "al-distribution",
+        "telephone": null,
+        "site_web": "http://www.cheminee-poele.fr/",
+        "adresse": "ZA du Pêcher, Av. de la Méridienne",
+        "note": 4,
+        "avis": 25,
+        "type": "Cheministe"
+      },
+      {
+        "id": "6015107375602891693",
+        "nom": "Nurit Vgp",
+        "slug": "nurit-vgp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24 Av. de Peyre",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur d'équipement de manutention"
+      },
+      {
+        "id": "10746345245992707285",
+        "nom": "Causse et fils",
+        "slug": "causse-et-fils",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "40 Rte d'Aubrac",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "7524810573054558408",
+        "nom": "Nurit 3M48",
+        "slug": "nurit-3m48",
+        "telephone": null,
+        "site_web": "http://www.ets-nurit.com/",
+        "adresse": "24 Av. de Peyre",
+        "note": null,
+        "avis": null,
+        "type": "Entretien de machines"
+      },
+      {
+        "id": "11976180796838540096",
+        "nom": "Sarl Barthelemy Et Fils",
+        "slug": "sarl-barthelemy-et-fils",
+        "telephone": null,
+        "site_web": "https://barthelemyetfils.fr/",
+        "adresse": "Saint-Chély-d'Apcher",
+        "note": 3,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6505738557837515870",
+        "nom": "granul'et bois",
+        "slug": "granulet-bois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Longuessagne",
+        "note": 5,
+        "avis": 4,
+        "type": "Siège social"
+      },
+      {
+        "id": "5902708633133497632",
+        "nom": "Construction Métallique - SARL JOUVE",
+        "slug": "construction-metallique-sarl-jouve",
+        "telephone": null,
+        "site_web": "https://www.jouve-sarl.fr/",
+        "adresse": "Zone Artisanale du Pêcher, Avenue de la Méridienne",
+        "note": 3,
+        "avis": 10,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4876277416421713727",
+        "nom": "BATIMAN Alutex Aumont-Aubrac",
+        "slug": "batiman-alutex-aumont-aubrac",
+        "telephone": null,
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-alutex-aumont-aubrac-48130-experts-en-menuiserie",
+        "adresse": "ZAE du Pêcher, 90 Av. de la Méridienne",
+        "note": 4,
+        "avis": 104,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4078782462973243604",
+        "nom": "Andrieu Denis",
+        "slug": "andrieu-denis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Nasbinals",
+        "note": 2,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mont-lozere-et-goulet": {
+    "artisans": [
+      {
+        "id": "14844590203928273975",
+        "nom": "Midi Maintenance",
+        "slug": "midi-maintenance",
+        "telephone": null,
+        "site_web": "http://www.midi-maintenance.fr/",
+        "adresse": "Mende",
+        "note": 4,
+        "avis": 16,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "4783431530275298739",
+        "nom": "Sicard Entreprise",
+        "slug": "sicard-entreprise",
+        "telephone": null,
+        "site_web": "https://www.sicard-entreprise.fr/",
+        "adresse": "La Remise",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9489831900040188691",
+        "nom": "Cornille Guillaume",
+        "slug": "cornille-guillaume",
+        "telephone": null,
+        "site_web": "http://eurl-cornille-guillaume.plombierweb.fr/?utm_source=gmb",
+        "adresse": "Lieu-dit",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de radiateurs"
+      },
+      {
+        "id": "943173728417071704",
+        "nom": "Rodier S.A.S.",
+        "slug": "rodier-sas",
+        "telephone": null,
+        "site_web": "http://www.rodier-sas.fr/",
+        "adresse": "Mende",
+        "note": 4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "808669279570989804",
+        "nom": "Goubert SARL",
+        "slug": "goubert-sarl",
+        "telephone": null,
+        "site_web": "https://www.goubert.tel/",
+        "adresse": "Mende",
+        "note": 4,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "18054688588060086127",
+        "nom": "Entreprise Crusco",
+        "slug": "entreprise-crusco",
+        "telephone": null,
+        "site_web": "http://entreprisecrusco.site-solocal.com/",
+        "adresse": "Mende",
+        "note": 3,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "8351303077572926474",
+        "nom": "Nettoyage & Désinfection Clim – AS Artisan - Avignon",
+        "slug": "nettoyage-desinfection-clim-as-artisan-avignon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 99 32 21 23",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11693685193998376972",
+        "nom": "Andre Laurent",
+        "slug": "andre-laurent",
+        "telephone": null,
+        "site_web": "https://chauffagiste-lozere.com/",
+        "adresse": "Le Village",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "16082163253993077417",
+        "nom": "LMeau",
+        "slug": "lmeau",
+        "telephone": null,
+        "site_web": "http://lmeau.fr/",
+        "adresse": "Mende",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  }
+}

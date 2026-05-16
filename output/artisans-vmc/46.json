@@ -1,0 +1,2169 @@
+{
+  "saint-lye-la-foret": {
+    "artisans": [
+      {
+        "id": "8347312719483627792",
+        "nom": "Marteau Sébastien",
+        "slug": "marteau-sebastien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "886 Rue du Plessis",
+        "note": 5,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "2351645902969389185",
+        "nom": "EMS (ELECT MEDIA SERVICE)",
+        "slug": "ems-elect-media-service",
+        "telephone": null,
+        "site_web": "https://ems45.fr/",
+        "adresse": "2 Rue du Soleil Couchant",
+        "note": 4,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "9110777333661321806",
+        "nom": "Exo Clim",
+        "slug": "exo-clim",
+        "telephone": null,
+        "site_web": "https://www.exoclim.fr/",
+        "adresse": "Saint-Denis-en-Val",
+        "note": 5,
+        "avis": 23,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1553034820682588316",
+        "nom": "B2TKLIT vmc sainte genevieve de bois - maintenance vmc - installation vmc",
+        "slug": "b2tklit-vmc-sainte-genevieve-de-bois-maintenance-vmc-installation-vmc",
+        "telephone": null,
+        "site_web": "https://b2cmg-isolation-sainte-genevieve-de-bois.com/",
+        "adresse": "Sainte-Geneviève-des-Bois",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8137623653170463245",
+        "nom": "Eco'Energies45 - Climatisation - Pompe à chaleur - RGE QUALIPAC",
+        "slug": "ecoenergies45-climatisation-pompe-a-chaleur-rge-qualipac",
+        "telephone": null,
+        "site_web": "https://ecoenergies45.fr/",
+        "adresse": "Chécy",
+        "note": 5,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16833577946230570502",
+        "nom": "Multifroid Services",
+        "slug": "multifroid-services",
+        "telephone": null,
+        "site_web": "https://www.multi-froid-services.fr/?utm_source=gmb",
+        "adresse": "Ormes",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17198341600091089719",
+        "nom": "ClimElect45",
+        "slug": "climelect45",
+        "telephone": null,
+        "site_web": "http://www.climelect-45.fr/",
+        "adresse": "Darvoy",
+        "note": 5,
+        "avis": 25,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12900208416750944709",
+        "nom": "LES INSTALLATEURS .FR - Borne de recharge - Pompe à chaleur - Climatisation - Ventilation",
+        "slug": "les-installateurs-fr-borne-de-recharge-pompe-a-chaleur-climatisation-ventilation",
+        "telephone": null,
+        "site_web": "https://lesinstallateurs.fr/",
+        "adresse": "Pierrelaye",
+        "note": 4,
+        "avis": 52,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1298438362572311159",
+        "nom": "Entretien VMC Pro - Entretien & Nettoyage Ile-de-France",
+        "slug": "entretien-vmc-pro-entretien-nettoyage-ile-de-france",
+        "telephone": null,
+        "site_web": "https://entretien-vmc-professionnel.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "Plus de 15 ans en activité",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "saint-martin-dabbat": {
+    "artisans": [
+      {
+        "id": "17325371956033445933",
+        "nom": "JC-Connect",
+        "slug": "jc-connect",
+        "telephone": null,
+        "site_web": "https://jc-connect.fr/",
+        "adresse": "Saint-Martin-d'Abbat",
+        "note": 5,
+        "avis": 37,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "semoy": {
+    "artisans": [
+      {
+        "id": "14578584397503210916",
+        "nom": "Victeon",
+        "slug": "victeon",
+        "telephone": null,
+        "site_web": "https://victeon.fr/",
+        "adresse": "Orléans",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14387781829190222156",
+        "nom": "VIM, Experts en ventilation",
+        "slug": "vim-experts-en-ventilation",
+        "telephone": null,
+        "site_web": "https://www.vim.fr/fr/",
+        "adresse": "220 Rue de l'Orme Gâteau",
+        "note": null,
+        "avis": null,
+        "type": "Fabricant"
+      },
+      {
+        "id": "4572764002616889481",
+        "nom": "Mazeau",
+        "slug": "mazeau",
+        "telephone": null,
+        "site_web": "http://sarlmazeau.site-solocal.com/",
+        "adresse": "166 Rue de la Rocquemolle",
+        "note": 4,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "24468484730264094",
+        "nom": "Installateur pompe à chaleur & panneaux solaires à Orléans - Green Eco Energie (G2E)",
+        "slug": "installateur-pompe-a-chaleur-panneaux-solaires-a-orleans-green-eco-energie-g2e",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Orléans",
+        "note": 4,
+        "avis": 31,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13742352673223476272",
+        "nom": "SDI VENTILATION CENTRE",
+        "slug": "sdi-ventilation-centre",
+        "telephone": null,
+        "site_web": "https://www.sdiventilation.com/",
+        "adresse": "Orléans",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6348464711339209972",
+        "nom": "EC FROID45 - Pompe à chaleur - Climatisation - RGE - Orléans",
+        "slug": "ec-froid45-pompe-a-chaleur-climatisation-rge-orleans",
+        "telephone": null,
+        "site_web": "https://www.ecfroid45.com/",
+        "adresse": "Olivet",
+        "note": 5,
+        "avis": 66,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3271170866117389321",
+        "nom": "Sol' Air Centre SARL",
+        "slug": "sol-air-centre-sarl",
+        "telephone": null,
+        "site_web": "http://www.orleans-soleilentete.com/",
+        "adresse": "Saint-Jean-de-Braye",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "3279510188880860241",
+        "nom": "M'ELEC",
+        "slug": "melec",
+        "telephone": null,
+        "site_web": "http://melec45.fr/",
+        "adresse": "Saint Jean deSaint",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "248988194071745119",
+        "nom": "LS SERVICES",
+        "slug": "ls-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 46,
+        "type": "Électricien"
+      },
+      {
+        "id": "18100645796429075629",
+        "nom": "BM CAPITAL",
+        "slug": "bm-capital",
+        "telephone": null,
+        "site_web": "http://bmenvironnement.fr/contact/",
+        "adresse": "Orléans",
+        "note": 4,
+        "avis": 35,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "trigueres": {
+    "artisans": [
+      {
+        "id": "2408256779035334389",
+        "nom": "Ludo Froid/Chaud",
+        "slug": "ludo-froidchaud",
+        "telephone": null,
+        "site_web": "https://www.ludofroidchaud.fr/?utm_source=gmb",
+        "adresse": "07 87 30 03 13",
+        "note": 4,
+        "avis": 16,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "vitry-aux-loges": {
+    "artisans": [
+      {
+        "id": "8961015774145444513",
+        "nom": "Entreprise Vossion SARL",
+        "slug": "entreprise-vossion-sarl",
+        "telephone": null,
+        "site_web": "http://www.entreprise-vossion.com/",
+        "adresse": "1 A Rte de Seichebrières",
+        "note": 4,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "9956191398245962168",
+        "nom": "Md Thermique",
+        "slug": "md-thermique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Fay-aux-Loges",
+        "note": 4,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10099051106640328164",
+        "nom": "Metivier Sebastien",
+        "slug": "metivier-sebastien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Rue des Pinsons",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "9904529106447044592",
+        "nom": "Artisans Et Plus",
+        "slug": "artisans-et-plus",
+        "telephone": null,
+        "site_web": "https://artisansetplus.fr/",
+        "adresse": "36 Rte de Nombrun",
+        "note": 4,
+        "avis": 117,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16446007162934954973",
+        "nom": "Chauvot Eric maintenance pose dépannage",
+        "slug": "chauvot-eric-maintenance-pose-depannage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "20 Rte des Caduels",
+        "note": 5,
+        "avis": 3,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5994815755051770920",
+        "nom": "MD'AIR Ventilation-VMC Paris",
+        "slug": "mdair-ventilation-vmc-paris",
+        "telephone": null,
+        "site_web": "http://www.mdairventilation.fr/",
+        "adresse": "07 69 64 31 79",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17325371956033445933",
+        "nom": "JC-Connect",
+        "slug": "jc-connect",
+        "telephone": null,
+        "site_web": "https://jc-connect.fr/",
+        "adresse": "Saint-Martin-d'Abbat",
+        "note": 5,
+        "avis": 37,
+        "type": "Électricien"
+      },
+      {
+        "id": "9110777333661321806",
+        "nom": "Exo Clim",
+        "slug": "exo-clim",
+        "telephone": null,
+        "site_web": "https://www.exoclim.fr/",
+        "adresse": "Saint-Denis-en-Val",
+        "note": 5,
+        "avis": 23,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3708962426333405623",
+        "nom": "MJ Climatique",
+        "slug": "mj-climatique",
+        "telephone": null,
+        "site_web": "https://mjclimatique.com/mjclimatique?utm_source=gmb",
+        "adresse": "Saint-Denis-de-l'Hôtel",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "betaille": {
+    "artisans": [
+      {
+        "id": "439487023964882890",
+        "nom": "SARL BOUQUAND SYLVAIN",
+        "slug": "sarl-bouquand-sylvain",
+        "telephone": null,
+        "site_web": "http://www.plomberie-chauffage-bouquand.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Le Pilou",
+        "note": 4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8434954412952702086",
+        "nom": "Imbert Sébastien",
+        "slug": "imbert-sebastien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lacombe",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "biars-sur-cere": {
+    "artisans": [
+      {
+        "id": "16723828842966116007",
+        "nom": "Hydrau Thermie 46",
+        "slug": "hydrau-thermie-46",
+        "telephone": null,
+        "site_web": "https://www.hydrauthermie-quarante-six-lpa.fr/",
+        "adresse": "2 Rue Léo Lagrange",
+        "note": 2,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18101575848305002884",
+        "nom": "Hydrau-elect",
+        "slug": "hydrau-elect",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI Rue Marcel Paul",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipement hydraulique"
+      },
+      {
+        "id": "9563165240515117279",
+        "nom": "RMS Habitat",
+        "slug": "rms-habitat",
+        "telephone": null,
+        "site_web": "http://www.rmshabitat.fr/",
+        "adresse": "Zone industrielle",
+        "note": 3,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17209949413743132872",
+        "nom": "Lacombe Ets",
+        "slug": "lacombe-ets",
+        "telephone": null,
+        "site_web": "http://www.everblue.fr/?utm_source=gmb",
+        "adresse": "115 Av. de la République",
+        "note": 4,
+        "avis": 47,
+        "type": "Société de construction de piscine"
+      }
+    ]
+  },
+  "bretenoux": {
+    "artisans": [
+      {
+        "id": "16723828842966116007",
+        "nom": "Hydrau Thermie 46",
+        "slug": "hydrau-thermie-46",
+        "telephone": null,
+        "site_web": "https://www.hydrauthermie-quarante-six-lpa.fr/",
+        "adresse": "Biars-sur-Cère",
+        "note": 2,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13244114180245003805",
+        "nom": "Bladou et Fils",
+        "slug": "bladou-et-fils",
+        "telephone": null,
+        "site_web": "https://plombier-bretenoux-bladou.fr/",
+        "adresse": "534 Rte de l’hermitage",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "10578456429850725250",
+        "nom": "Multitec",
+        "slug": "multitec",
+        "telephone": null,
+        "site_web": "http://www.multitec-rms.com/FR/acces.html",
+        "adresse": "Saint-Michel-Loubéjou",
+        "note": 4,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3550595119995797724",
+        "nom": "Leymat Daniel",
+        "slug": "leymat-daniel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "729 Av. Charles de Gaulle",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "3481806931766745830",
+        "nom": "Téréva Saint-Michel-Loubéjou",
+        "slug": "tereva-saint-michel-loubejou",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394527--agence-tereva-bretenoux-(saint-michel-loubejou)",
+        "adresse": "Saint-Michel-Loubéjou",
+        "note": 3,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5876983873673915002",
+        "nom": "CEDEO Saint-Michel-Loubéjou : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-saint-michel-loubejou-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/st-cere-cedeo-4338",
+        "adresse": "Saint-Michel-Loubéjou",
+        "note": 4,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17641692629408956907",
+        "nom": "SAS SP Carvalho",
+        "slug": "sas-sp-carvalho",
+        "telephone": null,
+        "site_web": "https://www.sp-carvalho.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "740 Av. de la Libération",
+        "note": 3,
+        "avis": 5,
+        "type": "Façadier"
+      },
+      {
+        "id": "8619306969002953466",
+        "nom": "SARL A&M CARVALHO CONSTRUCTION",
+        "slug": "sarl-am-carvalho-construction",
+        "telephone": null,
+        "site_web": "https://www.amcarvalho.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "730 Av. de la Libération",
+        "note": 4,
+        "avis": 16,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9348312957800443",
+        "nom": "PRO&Cie - Ent. D. Cadiergues",
+        "slug": "procie-ent-d-cadiergues",
+        "telephone": null,
+        "site_web": "https://www.procie.com/",
+        "adresse": "35 Rue de Soupette",
+        "note": 4,
+        "avis": 54,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "9987990203552449327",
+        "nom": "RV BAT'REALISATIONS SARL",
+        "slug": "rv-batrealisations-sarl",
+        "telephone": null,
+        "site_web": "http://rvbatrealisations.fr/",
+        "adresse": "Loubressac",
+        "note": 4,
+        "avis": 13,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "cahors": {
+    "artisans": [
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "144 Chem. de la Sablière",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11145960757970030355",
+        "nom": "Eco Clim Solutions",
+        "slug": "eco-clim-solutions",
+        "telephone": null,
+        "site_web": "https://www.ecoclimsolutions.fr/depannage-plomberie",
+        "adresse": "07 71 14 49 26",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3020418500043330265",
+        "nom": "SOGECLIM à Cahors : Climatisation, Pompe à Chaleur, Ventilation et Piscine",
+        "slug": "sogeclim-a-cahors-climatisation-pompe-a-chaleur-ventilation-et-piscine",
+        "telephone": null,
+        "site_web": "https://sogeclim.fr/",
+        "adresse": "06 84 68 57 54",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15698695664247495138",
+        "nom": "DELPECH Chauffage & Climatisation CAHORS",
+        "slug": "delpech-chauffage-climatisation-cahors",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/96-delpech-cahors",
+        "adresse": "112 Chem. de Belle Croix",
+        "note": 4,
+        "avis": 90,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15528934224205036793",
+        "nom": "R Energies",
+        "slug": "r-energies",
+        "telephone": null,
+        "site_web": "https://r-energies.fr/?utm_source=gmb",
+        "adresse": "Le Montat",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7815711362279477440",
+        "nom": "ECO-CLIM-SOLUTION",
+        "slug": "eco-clim-solution",
+        "telephone": null,
+        "site_web": "http://ecoclimsolutions.fr/",
+        "adresse": "363 Chem. du Mas de Mansou",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9404426673188032172",
+        "nom": "Calderon Sarl",
+        "slug": "calderon-sarl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Calderon-SARL-400404870406739/?ref=page_internal&path=%2FCalderon-SARL-400404870406739%2F",
+        "adresse": "157 Chem. des Soliviers",
+        "note": 4,
+        "avis": 41,
+        "type": "Plombier"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15028684134458202178",
+        "nom": "Téréva Cahors",
+        "slug": "tereva-cahors",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394632--agence-tereva-cahors",
+        "adresse": "253 Chem. de la Sablière",
+        "note": 4,
+        "avis": 38,
+        "type": "Magasin de matériel de plomberie"
+      }
+    ]
+  },
+  "cajarc": {
+    "artisans": [
+      {
+        "id": "6924943841569224583",
+        "nom": "Installateur pompe à chaleur",
+        "slug": "installateur-pompe-a-chaleur",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Salvagnac-Cajarc",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "capdenac": {
+    "artisans": [
+      {
+        "id": "15536958588762309724",
+        "nom": "Climatisation Capdenacoise",
+        "slug": "climatisation-capdenacoise",
+        "telephone": null,
+        "site_web": "https://climatisationcapdenac.fr/",
+        "adresse": "Capdenac-Gare",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6491963127704031147",
+        "nom": "UXEL-M",
+        "slug": "uxel-m",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capdenac",
+        "note": 5,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "781837435656453062",
+        "nom": "SARL Truglio Plomberie",
+        "slug": "sarl-truglio-plomberie",
+        "telephone": null,
+        "site_web": "http://www.sarl-truglio-plomberie.fr/",
+        "adresse": "Capdenac-Gare",
+        "note": 4,
+        "avis": 51,
+        "type": "Plombier"
+      },
+      {
+        "id": "17299481062341162233",
+        "nom": "EURL FITENI XAVIER",
+        "slug": "eurl-fiteni-xavier",
+        "telephone": null,
+        "site_web": "https://eurl-fiteni-xavier.chauffagiste-viessmann.fr/",
+        "adresse": "Capdenac-Gare",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "2081713348848127411",
+        "nom": "Mecojit",
+        "slug": "mecojit",
+        "telephone": null,
+        "site_web": "http://www.mecojit.com/",
+        "adresse": "Capdenac-Gare",
+        "note": 4,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "castelnau-montratier": {
+    "artisans": [
+      {
+        "id": "7775521368945064733",
+        "nom": "Sarl Andrieu Et Fils",
+        "slug": "sarl-andrieu-et-fils",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Andrieu-et-Fils-1419641094944450/?utm_source=gmb",
+        "adresse": "4 Chem. de Clary",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "cressensac-sarrazac": {
+    "artisans": [
+      {
+        "id": "7195057579217792836",
+        "nom": "️ Sittélec - Climatisation, chauffagiste, électricien, plombier à Brive la Gaillarde ( Corrèze )",
+        "slug": "sittelec-climatisation-chauffagiste-electricien-plombier-a-brive-la-gaillarde-correze",
+        "telephone": null,
+        "site_web": "https://www.sittelec.fr/",
+        "adresse": "Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 97,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17276199542383827576",
+        "nom": "Travaux.com",
+        "slug": "travauxcom",
+        "telephone": null,
+        "site_web": "https://www.travaux.com/",
+        "adresse": "Aix-en-Provence",
+        "note": 3,
+        "avis": 918,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "17937033364365685953",
+        "nom": "RDCS ROBERRINI",
+        "slug": "rdcs-roberrini",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ayen",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10456045156581376167",
+        "nom": "Technitoit Brive",
+        "slug": "technitoit-brive",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/brive-renovation/?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 47,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3543873318626976537",
+        "nom": "CLIMAGO",
+        "slug": "climago",
+        "telephone": null,
+        "site_web": "https://www.climago.net/",
+        "adresse": "Puycalvel",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3901436252065278650",
+        "nom": "Do-Electricité",
+        "slug": "do-electricite",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/do.electricite",
+        "adresse": "Mansac",
+        "note": 4,
+        "avis": 14,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "espere": {
+    "artisans": [
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3020418500043330265",
+        "nom": "SOGECLIM à Cahors : Climatisation, Pompe à Chaleur, Ventilation et Piscine",
+        "slug": "sogeclim-a-cahors-climatisation-pompe-a-chaleur-ventilation-et-piscine",
+        "telephone": null,
+        "site_web": "https://sogeclim.fr/",
+        "adresse": "06 84 68 57 54",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10515826469472639162",
+        "nom": "AES Pompes à Chaleur et Climatisation",
+        "slug": "aes-pompes-a-chaleur-et-climatisation",
+        "telephone": null,
+        "site_web": "https://www.aesclim82.com/",
+        "adresse": "Montauban",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12725107741525163192",
+        "nom": "O AIR CONFORT- Climatisation, Ventilation, Chauffage",
+        "slug": "o-air-confort-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.oairconfort.fr/",
+        "adresse": "Réalmont",
+        "note": 5,
+        "avis": 15,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7557918576467009349",
+        "nom": "Eau et confort",
+        "slug": "eau-et-confort",
+        "telephone": null,
+        "site_web": "http://eauetconfort.fr/?utm_source=gmb",
+        "adresse": "Saint-Étienne-de-Tulmont",
+        "note": 5,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "242464748195005823",
+        "nom": "Air75 VMC - Entretien VMC Paris",
+        "slug": "air75-vmc-entretien-vmc-paris",
+        "telephone": null,
+        "site_web": "https://entretien-vmc.paris/",
+        "adresse": "Paris",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6923400541003236362",
+        "nom": "CLIM RENOV - Climatisation",
+        "slug": "clim-renov-climatisation",
+        "telephone": null,
+        "site_web": "http://climrenov.fr/",
+        "adresse": "Giroussens",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17976889702653597339",
+        "nom": "Clim xpert albi",
+        "slug": "clim-xpert-albi",
+        "telephone": null,
+        "site_web": "https://climxpert.fr/",
+        "adresse": "06 67 36 09 01",
+        "note": 5,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "figeac": {
+    "artisans": [
+      {
+        "id": "3686387352266326432",
+        "nom": "Enr2j SAS",
+        "slug": "enr2j-sas",
+        "telephone": null,
+        "site_web": "http://www.enr2j.fr/",
+        "adresse": "52 Av. Joseph Loubet",
+        "note": 4,
+        "avis": 25,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13256024875111713836",
+        "nom": "CVCE",
+        "slug": "cvce",
+        "telephone": null,
+        "site_web": "https://cvce-figeac.fr/",
+        "adresse": "52 Av. Joseph Loubet",
+        "note": 4,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15185107419868154425",
+        "nom": "LJS Energies Figeac",
+        "slug": "ljs-energies-figeac",
+        "telephone": null,
+        "site_web": "https://ljs-energies.fr/",
+        "adresse": "Lafarrayrie",
+        "note": 4,
+        "avis": 63,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5941018887760323132",
+        "nom": "Thermi Service SAS",
+        "slug": "thermi-service-sas",
+        "telephone": null,
+        "site_web": "https://www.thermiservice.com/?utm_source=gmb",
+        "adresse": "21 Chemin de La Croix du Cingle - Cingle Bas",
+        "note": 4,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15536958588762309724",
+        "nom": "Climatisation Capdenacoise",
+        "slug": "climatisation-capdenacoise",
+        "telephone": null,
+        "site_web": "https://climatisationcapdenac.fr/",
+        "adresse": "Capdenac-Gare",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17618410421523642113",
+        "nom": "CEDEO Figeac : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-figeac-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": "https://www.cedeo.fr/infos-agence/figeac-cedeo-1464",
+        "adresse": "Avenue Ratier Quartier, Saint-Georges",
+        "note": 4,
+        "avis": 42,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "995544485626233656",
+        "nom": "chauffage plomberie dépannage sav HERVÉ DÉPANNAGE",
+        "slug": "chauffage-plomberie-depannage-sav-herve-depannage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12 Pl. de l'Estang",
+        "note": 4,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "gourdon": {
+    "artisans": [
+      {
+        "id": "10793247605703957544",
+        "nom": "CEDEO Gourdon : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-gourdon-sanitaire-chauffage-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D704 Lieu Dit, Moulin de Bât",
+        "note": 4,
+        "avis": 62,
+        "type": "Magasin d'articles de salle de bains"
+      }
+    ]
+  },
+  "gramat": {
+    "artisans": [
+      {
+        "id": "13965881580612086974",
+        "nom": "LJS - Spécialiste en énergies renouvelables",
+        "slug": "ljs-specialiste-en-energies-renouvelables",
+        "telephone": null,
+        "site_web": "https://ljs-energies.fr/",
+        "adresse": "542 Av. Georges Clemenceau",
+        "note": 4,
+        "avis": 162,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10723812023134971055",
+        "nom": "RM Plomberie",
+        "slug": "rm-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/126795167183290",
+        "adresse": "550 Rue Alexandre Dumas",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "9693395595367387304",
+        "nom": "MC 46",
+        "slug": "mc-46",
+        "telephone": null,
+        "site_web": "http://mc46.fr/",
+        "adresse": "Caousse de Lacayrouso",
+        "note": null,
+        "avis": null,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "labastide-marnhac": {
+    "artisans": [
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10008748898087621583",
+        "nom": "FBS CLIM Climatisation -Ventilation - Chauffage (TARN)",
+        "slug": "fbs-clim-climatisation-ventilation-chauffage-tarn",
+        "telephone": null,
+        "site_web": "https://www.fbsclim.fr/?utm_source=gmb",
+        "adresse": "06 64 72 13 04",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6923400541003236362",
+        "nom": "CLIM RENOV - Climatisation",
+        "slug": "clim-renov-climatisation",
+        "telephone": null,
+        "site_web": "http://climrenov.fr/",
+        "adresse": "Giroussens",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3564841005362115867",
+        "nom": "Climeric 81",
+        "slug": "climeric-81",
+        "telephone": null,
+        "site_web": "https://climeric81.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10515826469472639162",
+        "nom": "AES Pompes à Chaleur et Climatisation",
+        "slug": "aes-pompes-a-chaleur-et-climatisation",
+        "telephone": null,
+        "site_web": "https://www.aesclim82.com/",
+        "adresse": "Montauban",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5198389085025051093",
+        "nom": "France Ventilation",
+        "slug": "france-ventilation",
+        "telephone": null,
+        "site_web": "https://www.france-ventilation.com/",
+        "adresse": "Garidech",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10609218419170082446",
+        "nom": "MP Clim Energie",
+        "slug": "mp-clim-energie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 03 30 30 20",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17976889702653597339",
+        "nom": "Clim xpert albi",
+        "slug": "clim-xpert-albi",
+        "telephone": null,
+        "site_web": "https://climxpert.fr/",
+        "adresse": "06 67 36 09 01",
+        "note": 5,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "lacapelle-marival": {
+    "artisans": [
+      {
+        "id": "3686387352266326432",
+        "nom": "Enr2j SAS",
+        "slug": "enr2j-sas",
+        "telephone": null,
+        "site_web": "http://www.enr2j.fr/",
+        "adresse": "Figeac",
+        "note": 4,
+        "avis": 25,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5063451074779652117",
+        "nom": "DR CLIM ELEC",
+        "slug": "dr-clim-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Viazac",
+        "note": 5,
+        "avis": 26,
+        "type": "Électricien"
+      },
+      {
+        "id": "3564841005362115867",
+        "nom": "Climeric 81",
+        "slug": "climeric-81",
+        "telephone": null,
+        "site_web": "https://climeric81.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10008748898087621583",
+        "nom": "FBS CLIM Climatisation -Ventilation - Chauffage (TARN)",
+        "slug": "fbs-clim-climatisation-ventilation-chauffage-tarn",
+        "telephone": null,
+        "site_web": "https://www.fbsclim.fr/?utm_source=gmb",
+        "adresse": "06 64 72 13 04",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6923400541003236362",
+        "nom": "CLIM RENOV - Climatisation",
+        "slug": "clim-renov-climatisation",
+        "telephone": null,
+        "site_web": "http://climrenov.fr/",
+        "adresse": "Giroussens",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13897524731879833446",
+        "nom": "JJ ELEC 46",
+        "slug": "jj-elec-46",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cambes",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "lalbenque": {
+    "artisans": [
+      {
+        "id": "16955258038168841224",
+        "nom": "MX Plomberie (Maxime Rembault)",
+        "slug": "mx-plomberie-maxime-rembault",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cieurac",
+        "note": 4,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15778958047158755414",
+        "nom": "baysse laurent",
+        "slug": "baysse-laurent",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lalbenque",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "3020418500043330265",
+        "nom": "SOGECLIM à Cahors : Climatisation, Pompe à Chaleur, Ventilation et Piscine",
+        "slug": "sogeclim-a-cahors-climatisation-pompe-a-chaleur-ventilation-et-piscine",
+        "telephone": null,
+        "site_web": "https://sogeclim.fr/",
+        "adresse": "06 84 68 57 54",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "luzech": {
+    "artisans": [
+      {
+        "id": "10671326034671345865",
+        "nom": "CLIM & EAU",
+        "slug": "clim-eau",
+        "telephone": null,
+        "site_web": "https://www.climeo.pro/",
+        "adresse": "06 12 22 57 95",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "3149911887150815289",
+        "nom": "Jaulhac Damien",
+        "slug": "jaulhac-damien",
+        "telephone": null,
+        "site_web": "http://www.jde-jaulhac.com/",
+        "adresse": "Zone artisanale de marges, 4 impasse de la Siaq",
+        "note": 4,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13673007590516458271",
+        "nom": "JDE - Jaulhac Damien",
+        "slug": "jde-jaulhac-damien",
+        "telephone": null,
+        "site_web": "https://www.jde-jaulhac.fr/",
+        "adresse": "4 IMPASSE DE LA SIAQ",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "516171340065662539",
+        "nom": "EURL PMP",
+        "slug": "eurl-pmp",
+        "telephone": null,
+        "site_web": "https://sites.google.com/view/eurl-pmp-plomberie-chauffage/accueil",
+        "adresse": "07 86 90 73 18",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "2893509363868647326",
+        "nom": "Grinfan Fabien",
+        "slug": "grinfan-fabien",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12037830319994469001",
+        "nom": "Castanier Adrien Eirl",
+        "slug": "castanier-adrien-eirl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Parnac",
+        "note": 4,
+        "avis": 41,
+        "type": "Plombier"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18059281643587521701",
+        "nom": "BASSOT Électricité",
+        "slug": "bassot-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Castelfranc",
+        "note": 5,
+        "avis": 17,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "martel": {
+    "artisans": [
+      {
+        "id": "4890757119058435944",
+        "nom": "Sarl Moulin",
+        "slug": "sarl-moulin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Martel",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "17786365169458182670",
+        "nom": "Sarl Guinot",
+        "slug": "sarl-guinot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Capel",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "mercues": {
+    "artisans": [
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "le-montat": {
+    "artisans": [
+      {
+        "id": "15528934224205036793",
+        "nom": "R Energies",
+        "slug": "r-energies",
+        "telephone": null,
+        "site_web": "https://r-energies.fr/?utm_source=gmb",
+        "adresse": "ZI, La Crozette",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3020418500043330265",
+        "nom": "SOGECLIM à Cahors : Climatisation, Pompe à Chaleur, Ventilation et Piscine",
+        "slug": "sogeclim-a-cahors-climatisation-pompe-a-chaleur-ventilation-et-piscine",
+        "telephone": null,
+        "site_web": "https://sogeclim.fr/",
+        "adresse": "06 84 68 57 54",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "montcuq-en-quercy-blanc": {
+    "artisans": [
+      {
+        "id": "6948924811724311021",
+        "nom": "Ei Plomberie Service",
+        "slug": "ei-plomberie-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1905 Chem. de Gayrac",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3719672240251835538",
+        "nom": "Quercy blanc",
+        "slug": "quercy-blanc",
+        "telephone": null,
+        "site_web": "https://festivalnamastefrance.fr/festival/festival-du-quercy-blanc-et-des-arts/",
+        "adresse": null,
+        "note": 4,
+        "avis": 5,
+        "type": "Réserve naturelle"
+      },
+      {
+        "id": "5950907103291465822",
+        "nom": "FT CLIMA",
+        "slug": "ft-clima",
+        "telephone": null,
+        "site_web": "https://www.ftclima.fr/",
+        "adresse": "Finhan",
+        "note": 5,
+        "avis": 24,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pradines": {
+    "artisans": [
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3020418500043330265",
+        "nom": "SOGECLIM à Cahors : Climatisation, Pompe à Chaleur, Ventilation et Piscine",
+        "slug": "sogeclim-a-cahors-climatisation-pompe-a-chaleur-ventilation-et-piscine",
+        "telephone": null,
+        "site_web": "https://sogeclim.fr/",
+        "adresse": "06 84 68 57 54",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15528934224205036793",
+        "nom": "R Energies",
+        "slug": "r-energies",
+        "telephone": null,
+        "site_web": "https://r-energies.fr/?utm_source=gmb",
+        "adresse": "Le Montat",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7815711362279477440",
+        "nom": "ECO-CLIM-SOLUTION",
+        "slug": "eco-clim-solution",
+        "telephone": null,
+        "site_web": "http://ecoclimsolutions.fr/",
+        "adresse": "Cahors",
+        "note": 1,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11831667307361196345",
+        "nom": "Ets Codet",
+        "slug": "ets-codet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22 Rue René Delpech",
+        "note": null,
+        "avis": null,
+        "type": "Siège social"
+      },
+      {
+        "id": "2893509363868647326",
+        "nom": "Grinfan Fabien",
+        "slug": "grinfan-fabien",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "prayssac": {
+    "artisans": [
+      {
+        "id": "8073729581530626673",
+        "nom": "Les Ateliers",
+        "slug": "les-ateliers",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36 Bd de la Paix",
+        "note": 3,
+        "avis": 24,
+        "type": "Plombier"
+      },
+      {
+        "id": "10037118829364167591",
+        "nom": "Pinto Américo",
+        "slug": "pinto-americo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Labrousse",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15851374439111926666",
+        "nom": "Maxime Energies",
+        "slug": "maxime-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Laborie Rouge",
+        "note": 3,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "12258304008634440493",
+        "nom": "ECONERGY SUD OUEST",
+        "slug": "econergy-sud-ouest",
+        "telephone": null,
+        "site_web": "https://www.econergy-sudouest.fr/",
+        "adresse": "Duravel",
+        "note": 4,
+        "avis": 130,
+        "type": "Entrepreneur en énergie solaire"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "puybrun": {
+    "artisans": [
+      {
+        "id": "8459949407724485336",
+        "nom": "PUYMELEC SOLAIRE",
+        "slug": "puymelec-solaire",
+        "telephone": null,
+        "site_web": "http://www.puymelecsolaire.fr/",
+        "adresse": "Prudhomat",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "saint-cere": {
+    "artisans": [
+      {
+        "id": "3083074538117143272",
+        "nom": "Therm D'oc",
+        "slug": "therm-doc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "70 Rue Pierre Rouvière",
+        "note": 5,
+        "avis": 5,
+        "type": "installateur VMC ventilation"
+      },
+      {
+        "id": "13740756273286731865",
+        "nom": "CHAUSSADAS PLOMBERIE",
+        "slug": "chaussadas-plomberie",
+        "telephone": null,
+        "site_web": "http://www.chaussadasplomberie.com/",
+        "adresse": "Rue Jean Moulin",
+        "note": 4,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "4148881088553656533",
+        "nom": "Mazel Laurent",
+        "slug": "mazel-laurent",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/LaurentMazelSaintCere/?ref=br_rs",
+        "adresse": "147 Rue des Rampeaux bât M12",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "1869555561300589586",
+        "nom": "TECH NET",
+        "slug": "tech-net",
+        "telephone": null,
+        "site_web": "http://www.technet-proprete.com/",
+        "adresse": "zone industrielle Pommier, 417 chemin d'envernhe",
+        "note": 4,
+        "avis": 14,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "salviac": {
+    "artisans": [
+      {
+        "id": "11141931120911082390",
+        "nom": "Technic Froid",
+        "slug": "technic-froid",
+        "telephone": null,
+        "site_web": "https://www.technicfroid.fr/",
+        "adresse": "Calviac-en-Périgord",
+        "note": 3,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13761163767110201500",
+        "nom": "myhomeElec",
+        "slug": "myhomeelec",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/myhomeelec",
+        "adresse": "06 86 49 58 04",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "15072224968249987244",
+        "nom": "Julien Ponticelli Électricien",
+        "slug": "julien-ponticelli-electricien",
+        "telephone": null,
+        "site_web": "https://electricien46.odoo.com/prestations",
+        "adresse": "Frayssinet-le-Gélat",
+        "note": 5,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3564841005362115867",
+        "nom": "Climeric 81",
+        "slug": "climeric-81",
+        "telephone": null,
+        "site_web": "https://climeric81.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10008748898087621583",
+        "nom": "FBS CLIM Climatisation -Ventilation - Chauffage (TARN)",
+        "slug": "fbs-clim-climatisation-ventilation-chauffage-tarn",
+        "telephone": null,
+        "site_web": "https://www.fbsclim.fr/?utm_source=gmb",
+        "adresse": "06 64 72 13 04",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3543873318626976537",
+        "nom": "CLIMAGO",
+        "slug": "climago",
+        "telephone": null,
+        "site_web": "https://www.climago.net/",
+        "adresse": "Puycalvel",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17976889702653597339",
+        "nom": "Clim xpert albi",
+        "slug": "clim-xpert-albi",
+        "telephone": null,
+        "site_web": "https://climxpert.fr/",
+        "adresse": "06 67 36 09 01",
+        "note": 5,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15175770473535889586",
+        "nom": "ATSE BORDES",
+        "slug": "atse-bordes",
+        "telephone": null,
+        "site_web": "http://www.atsebordes.com/",
+        "adresse": "Saint-Geniès",
+        "note": 4,
+        "avis": 17,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "souillac": {
+    "artisans": [
+      {
+        "id": "3564841005362115867",
+        "nom": "Climeric 81",
+        "slug": "climeric-81",
+        "telephone": null,
+        "site_web": "https://climeric81.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9182403095842159300",
+        "nom": "Clim Energie",
+        "slug": "clim-energie",
+        "telephone": null,
+        "site_web": "https://www.clim-energie19.fr/",
+        "adresse": "Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 30,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13761163767110201500",
+        "nom": "myhomeElec",
+        "slug": "myhomeelec",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/myhomeelec",
+        "adresse": "06 86 49 58 04",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "6269084041642271723",
+        "nom": "Dulout Et Fils",
+        "slug": "dulout-et-fils",
+        "telephone": null,
+        "site_web": "http://duloutetfils.site-solocal.com/",
+        "adresse": "Souillac",
+        "note": 4,
+        "avis": 5,
+        "type": "Tapissier décorateur"
+      }
+    ]
+  },
+  "sousceyrac-en-quercy": {
+    "artisans": [
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "bellefont-la-rauze": {
+    "artisans": [
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3020418500043330265",
+        "nom": "SOGECLIM à Cahors : Climatisation, Pompe à Chaleur, Ventilation et Piscine",
+        "slug": "sogeclim-a-cahors-climatisation-pompe-a-chaleur-ventilation-et-piscine",
+        "telephone": null,
+        "site_web": "https://sogeclim.fr/",
+        "adresse": "06 84 68 57 54",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12206021278101599663",
+        "nom": "MARCILLAC XAVIER",
+        "slug": "marcillac-xavier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Arcambal",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15603571406608722228",
+        "nom": "Ets Bouscasse Froid Climatisation Cuis",
+        "slug": "ets-bouscasse-froid-climatisation-cuis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cahors",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15698695664247495138",
+        "nom": "DELPECH Chauffage & Climatisation CAHORS",
+        "slug": "delpech-chauffage-climatisation-cahors",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/96-delpech-cahors",
+        "adresse": "Cahors",
+        "note": 4,
+        "avis": 90,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10008748898087621583",
+        "nom": "FBS CLIM Climatisation -Ventilation - Chauffage (TARN)",
+        "slug": "fbs-clim-climatisation-ventilation-chauffage-tarn",
+        "telephone": null,
+        "site_web": "https://www.fbsclim.fr/?utm_source=gmb",
+        "adresse": "06 64 72 13 04",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10609218419170082446",
+        "nom": "MP Clim Energie",
+        "slug": "mp-clim-energie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 03 30 30 20",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      }
+    ]
+  }
+}

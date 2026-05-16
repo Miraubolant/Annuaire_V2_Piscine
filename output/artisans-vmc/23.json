@@ -1,0 +1,1839 @@
+{
+  "saint-agnant-de-versillat": {
+    "artisans": [
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8059240488546614037",
+        "nom": "Menuiserie ADAM SAS ( Conception, fabrication et pose de Menuiseries Bois - Alu - PVC )",
+        "slug": "menuiserie-adam-sas-conception-fabrication-et-pose-de-menuiseries-bois-alu-pvc",
+        "telephone": null,
+        "site_web": "https://menuiseries-adam.fr/",
+        "adresse": "18 Rte de la Souterraine",
+        "note": 4,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "3564269416002515273",
+        "nom": "Mathieu Francis",
+        "slug": "mathieu-francis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "414374706716559589",
+        "nom": "Toti Rocco Et Fils SAS",
+        "slug": "toti-rocco-et-fils-sas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Bis La Chenedière",
+        "note": 5,
+        "avis": 7,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "ajain": {
+    "artisans": [
+      {
+        "id": "10400600055190660967",
+        "nom": "TmtlCROUTEIX",
+        "slug": "tmtlcrouteix",
+        "telephone": null,
+        "site_web": "https://tmtlcrouteix.fr/",
+        "adresse": "Ajain",
+        "note": 4,
+        "avis": 8,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "6537727258448662426",
+        "nom": "ROUSSY AVIGNON ENTREPRISE - 23380",
+        "slug": "roussy-avignon-entreprise-23380",
+        "telephone": null,
+        "site_web": "http://roussy-avignon.fr/",
+        "adresse": "Rameix",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1824882721132533083",
+        "nom": "MENUISERIE ROBIN",
+        "slug": "menuiserie-robin",
+        "telephone": null,
+        "site_web": "http://www.fabrication-menuiserierobin.fr/",
+        "adresse": "Rte de Guéret",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10982365688817288751",
+        "nom": "Oméga23",
+        "slug": "omega23",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Champsanglard",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11811244512337477952",
+        "nom": "Magadoux Demarty",
+        "slug": "magadoux-demarty",
+        "telephone": null,
+        "site_web": "http://www.sas-demarty.fr/?utm_source=gmb",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "14582678082133636240",
+        "nom": "Ener'J (pompes à chaleur, climatisation, ventilation)",
+        "slug": "enerj-pompes-a-chaleur-climatisation-ventilation",
+        "telephone": null,
+        "site_web": "https://enerj86.fr/",
+        "adresse": "Lavoux",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "aubusson": {
+    "artisans": [
+      {
+        "id": "17541932357058320228",
+        "nom": "Thibaut Clement Energies",
+        "slug": "thibaut-clement-energies",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100076198990441&utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5129094373844799159",
+        "nom": "PUYBARET AUBUSSON",
+        "slug": "puybaret-aubusson",
+        "telephone": null,
+        "site_web": "http://www.puybaret.com/",
+        "adresse": "Z.I. DU MONT",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "14060551316017498197",
+        "nom": "Sauvanet Mazuel",
+        "slug": "sauvanet-mazuel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "05 55 66 18 61",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11699483595157920971",
+        "nom": "Deschamps Abel SAS",
+        "slug": "deschamps-abel-sas",
+        "telephone": null,
+        "site_web": "http://www.abeldeschamps.fr/",
+        "adresse": "40 Grande R.",
+        "note": 4,
+        "avis": 5,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4062451447501377289",
+        "nom": "Aubusson Électricité",
+        "slug": "aubusson-electricite",
+        "telephone": null,
+        "site_web": "http://www.electricien-aubusson-electricite-hager.fr/",
+        "adresse": "10 Le Mont",
+        "note": 4,
+        "avis": 2,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "boussac": {
+    "artisans": [
+      {
+        "id": "4984310818959318164",
+        "nom": "D.S.C.S",
+        "slug": "dscs",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/sarl.dscs/",
+        "adresse": "Bétête",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15915692011038398872",
+        "nom": "Chauffage Central Plomberie Installation C.C.P.I",
+        "slug": "chauffage-central-plomberie-installation-ccpi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-le-Bost",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "9102824085050652596",
+        "nom": "VE CHAUFFAGE",
+        "slug": "ve-chauffage",
+        "telephone": null,
+        "site_web": "https://www.vechauffage.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14421642094489239773",
+        "nom": "Deschatre",
+        "slug": "deschatre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29 Av. Pierre Leroux",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7044300564332613501",
+        "nom": "Boussac Electricité",
+        "slug": "boussac-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19 Av. d'Auvergne",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin"
+      },
+      {
+        "id": "17976022891102116713",
+        "nom": "Costa clim’air",
+        "slug": "costa-climair",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/1X9TWC6yxq/?mibextid=LQQJ4d",
+        "adresse": "Domérat",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17252678885034968444",
+        "nom": "Frot Sylvestre - Hmc Diagnostic",
+        "slug": "frot-sylvestre-hmc-diagnostic",
+        "telephone": null,
+        "site_web": "http://www.hmc-diagnostic.com/",
+        "adresse": "16 Rue Vincent",
+        "note": null,
+        "avis": null,
+        "type": "Inspecteur immobilier"
+      },
+      {
+        "id": "9863485186425559257",
+        "nom": "SAS MRB",
+        "slug": "sas-mrb",
+        "telephone": null,
+        "site_web": "http://sasmrb.fr/",
+        "adresse": "Bussière-Dunoise",
+        "note": 4,
+        "avis": 28,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16051885687854148086",
+        "nom": "Home Energie Solutions",
+        "slug": "home-energie-solutions",
+        "telephone": null,
+        "site_web": "https://www.home-energiesolutions.fr/",
+        "adresse": "Guéret",
+        "note": 5,
+        "avis": 27,
+        "type": "Électricien"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "bussiere-dunoise": {
+    "artisans": [
+      {
+        "id": "9863485186425559257",
+        "nom": "SAS MRB",
+        "slug": "sas-mrb",
+        "telephone": null,
+        "site_web": "http://sasmrb.fr/",
+        "adresse": "5 rue du Fontchinaud",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "4417775854975009797",
+        "nom": "Mauchaussat sarl",
+        "slug": "mauchaussat-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Pl. de l'Église",
+        "note": 4,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "gouzon": {
+    "artisans": [
+      {
+        "id": "11647879107295806873",
+        "nom": "Saccoton électricité",
+        "slug": "saccoton-electricite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lachaud",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "1681610869767007852",
+        "nom": "POQUET-électricien",
+        "slug": "poquet-electricien",
+        "telephone": null,
+        "site_web": "https://www.poquet-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Bellevue Zac",
+        "note": 3,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "4847999010076972097",
+        "nom": "Socalec",
+        "slug": "socalec",
+        "telephone": null,
+        "site_web": "http://www.vinci.com/",
+        "adresse": "Bellevue",
+        "note": 3,
+        "avis": 13,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10303817812615827414",
+        "nom": "Magnier Philippe",
+        "slug": "magnier-philippe",
+        "telephone": null,
+        "site_web": "http://magnier-couverture-23.fr/",
+        "adresse": "20 La Perrière",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "9863485186425559257",
+        "nom": "SAS MRB",
+        "slug": "sas-mrb",
+        "telephone": null,
+        "site_web": "http://sasmrb.fr/",
+        "adresse": "Bussière-Dunoise",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17976022891102116713",
+        "nom": "Costa clim’air",
+        "slug": "costa-climair",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/1X9TWC6yxq/?mibextid=LQQJ4d",
+        "adresse": "Domérat",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5865346960124723440",
+        "nom": "SAS MAGNIER",
+        "slug": "sas-magnier",
+        "telephone": null,
+        "site_web": "https://www.magnier-couverture-23.fr/contactez-nous.php",
+        "adresse": "20 La Perrière",
+        "note": null,
+        "avis": null,
+        "type": "installateur VMC ventilation"
+      }
+    ]
+  },
+  "le-grand-bourg": {
+    "artisans": [
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "gueret": {
+    "artisans": [
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Rte de Cher du Prat",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16051885687854148086",
+        "nom": "Home Energie Solutions",
+        "slug": "home-energie-solutions",
+        "telephone": null,
+        "site_web": "https://www.home-energiesolutions.fr/",
+        "adresse": "7 Rue Jean Auclair",
+        "note": 5,
+        "avis": 27,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "635023033641550984",
+        "nom": "ProxiFroid",
+        "slug": "proxifroid",
+        "telephone": null,
+        "site_web": "http://www.proxifroid.fr/",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8634039720004607221",
+        "nom": "Entreprise Bonnyaud",
+        "slug": "entreprise-bonnyaud",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/entreprisebonnyaud/",
+        "adresse": "2 Rue Victor Hugo",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11089914926036763459",
+        "nom": "DESCHAMPS ABEL",
+        "slug": "deschamps-abel",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/16-deschamps-abel-fils",
+        "adresse": "15 Rue Marc Bloch",
+        "note": 4,
+        "avis": 64,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11096552732459412647",
+        "nom": "Téréva Guéret",
+        "slug": "tereva-gueret",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394531--agence-tereva-gueret",
+        "adresse": "Zone Artisanale Les Varennes",
+        "note": 4,
+        "avis": 26,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "13473614077766274786",
+        "nom": "D. PAROTON (Electricité - Chauffage - Plomberie - Climatisation)",
+        "slug": "d-paroton-electricite-chauffage-plomberie-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue Henri Rol-Tanguy",
+        "note": 3,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "11811244512337477952",
+        "nom": "Magadoux Demarty",
+        "slug": "magadoux-demarty",
+        "telephone": null,
+        "site_web": "http://www.sas-demarty.fr/?utm_source=gmb",
+        "adresse": "9 Rue Montplaisir",
+        "note": 4,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5336870785553140181",
+        "nom": "Sav Darthou Et Fils",
+        "slug": "sav-darthou-et-fils",
+        "telephone": null,
+        "site_web": "https://www.chauffage-darthou.fr/",
+        "adresse": "24 Rue Franklin Roosevelt",
+        "note": 3,
+        "avis": 15,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "la-souterraine": {
+    "artisans": [
+      {
+        "id": "15873954903670133545",
+        "nom": "C.A.C (Chauffage Automatique Creusois)",
+        "slug": "cac-chauffage-automatique-creusois",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/pages/category/Business-Service/Chauffage-Automatique-Creusois-322827754809058",
+        "adresse": "ZA, Bd Belmont",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9267770131587705845",
+        "nom": "Confort En Marche",
+        "slug": "confort-en-marche",
+        "telephone": null,
+        "site_web": "https://www.leconfortenmarche.com/",
+        "adresse": "2 Rue des Peupliers",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8275873417167409405",
+        "nom": "Téréva La Souterraine",
+        "slug": "tereva-la-souterraine",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394533--agence-tereva-la-souterraine",
+        "adresse": "8 Rue Henri Pluyaud",
+        "note": 4,
+        "avis": 20,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "3943498730876020018",
+        "nom": "Parbaud",
+        "slug": "parbaud",
+        "telephone": null,
+        "site_web": "http://parbaud-chauffage.com/",
+        "adresse": "2 Rue Henri Pluyaud",
+        "note": 3,
+        "avis": 49,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10672908674475562016",
+        "nom": "D. PAROTON (Electricité - Chauffage - Plomberie - Climatisation)",
+        "slug": "d-paroton-electricite-chauffage-plomberie-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 Bd Belmont",
+        "note": 3,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "1268049623508521771",
+        "nom": "B.S.T",
+        "slug": "bst",
+        "telephone": null,
+        "site_web": "https://www.bst-plomberiechauffage.fr/",
+        "adresse": "Saint-Maurice-la-Souterraine",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "17325415980775816181",
+        "nom": "Ets Goussaud",
+        "slug": "ets-goussaud",
+        "telephone": null,
+        "site_web": "https://m.facebook.com/ets.goussaud/?ref=bookmarks",
+        "adresse": "25 Rue Henri Pluyaud",
+        "note": 4,
+        "avis": 9,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "2203752666713568631",
+        "nom": "Gerbaud Christophe",
+        "slug": "gerbaud-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4b Rue René Gillet",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "15692247234741295666",
+        "nom": "NSPCE",
+        "slug": "nspce",
+        "telephone": null,
+        "site_web": "https://nathan-sherrard.fr/",
+        "adresse": "Saint-Maurice-la-Souterraine",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-dizier-masbaraud": {
+    "artisans": [
+      {
+        "id": "18384081544994368372",
+        "nom": "Fab élec 23",
+        "slug": "fab-elec-23",
+        "telephone": null,
+        "site_web": "http://fab-elec.hubside.fr/",
+        "adresse": "7 Baloumier",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "15743569000934135681",
+        "nom": "SAS Da Silva",
+        "slug": "sas-da-silva",
+        "telephone": null,
+        "site_web": "https://sas-dasilva.fr/",
+        "adresse": "6 Teillet",
+        "note": null,
+        "avis": null,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3916402311384136614",
+        "nom": "Chris'Elec 23",
+        "slug": "chriselec-23",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "8268603323761983355",
+        "nom": "SARL DEMARGNE Menuiserie Charpente Couverture Zinguerie Isolation",
+        "slug": "sarl-demargne-menuiserie-charpente-couverture-zinguerie-isolation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "32 Peuillot",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7682508081316936816",
+        "nom": "Sarl Pouzeaud",
+        "slug": "sarl-pouzeaud",
+        "telephone": null,
+        "site_web": "http://www.sarl-pouzeaud.fr/",
+        "adresse": "Saint-Vaury",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8634039720004607221",
+        "nom": "Entreprise Bonnyaud",
+        "slug": "entreprise-bonnyaud",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/entreprisebonnyaud/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7225506372249202471",
+        "nom": "IDE Climatisation",
+        "slug": "ide-climatisation",
+        "telephone": null,
+        "site_web": "https://www.ide-climatisation.com/",
+        "adresse": "Valcourt",
+        "note": 5,
+        "avis": 20,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "11811244512337477952",
+        "nom": "Magadoux Demarty",
+        "slug": "magadoux-demarty",
+        "telephone": null,
+        "site_web": "http://www.sas-demarty.fr/?utm_source=gmb",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "8427089562506007586",
+        "nom": "Blaise Elec SAS",
+        "slug": "blaise-elec-sas",
+        "telephone": null,
+        "site_web": "http://www.blaiselec52.com/?utm_source=gmb",
+        "adresse": "Saint-Dizier",
+        "note": 5,
+        "avis": 92,
+        "type": "Ingénieur électricien"
+      }
+    ]
+  },
+  "fursac": {
+    "artisans": [
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18336524427241610764",
+        "nom": "Installation de Ventilation - VMC - SAS BVC - À La Courneuve",
+        "slug": "installation-de-ventilation-vmc-sas-bvc-a-la-courneuve",
+        "telephone": null,
+        "site_web": "http://sasbvc.fr/",
+        "adresse": "La Courneuve",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "05 87 15 00 48",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "9267770131587705845",
+        "nom": "Confort En Marche",
+        "slug": "confort-en-marche",
+        "telephone": null,
+        "site_web": "https://www.leconfortenmarche.com/",
+        "adresse": "La Souterraine",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3026301773281714980",
+        "nom": "FHV - France Hygiene Ventilation Deux-Sèvres Vienne",
+        "slug": "fhv-france-hygiene-ventilation-deux-sevres-vienne",
+        "telephone": null,
+        "site_web": "https://francehygieneventilation.fr/agences/agence-niort/",
+        "adresse": "05 79 68 03 32",
+        "note": 5,
+        "avis": 53,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "11617860372533517702",
+        "nom": "BP Clim RGE QUALIPAC",
+        "slug": "bp-clim-rge-qualipac",
+        "telephone": null,
+        "site_web": "http://www.bpclim.com/",
+        "adresse": "Bordeaux",
+        "note": 5,
+        "avis": 235,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7887779753127538997",
+        "nom": "Abiopac",
+        "slug": "abiopac",
+        "telephone": null,
+        "site_web": "https://abiopac.fr/",
+        "adresse": "Inzinzac-Lochrist",
+        "note": 5,
+        "avis": 14,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "673368929066939019",
+        "nom": "VMC Alsace",
+        "slug": "vmc-alsace",
+        "telephone": null,
+        "site_web": "https://vmc-alsace.fr/",
+        "adresse": "Ribeauvillé",
+        "note": 4,
+        "avis": 6,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "saint-fiel": {
+    "artisans": [
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "635023033641550984",
+        "nom": "ProxiFroid",
+        "slug": "proxifroid",
+        "telephone": null,
+        "site_web": "http://www.proxifroid.fr/",
+        "adresse": "9 All. des Prades",
+        "note": 4,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "16051885687854148086",
+        "nom": "Home Energie Solutions",
+        "slug": "home-energie-solutions",
+        "telephone": null,
+        "site_web": "https://www.home-energiesolutions.fr/",
+        "adresse": "Guéret",
+        "note": 5,
+        "avis": 27,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Z.A. Du Cher des Cerisiers, 1 All. des Prades",
+        "note": 4,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7637656541131399454",
+        "nom": "Concept Froid 23",
+        "slug": "concept-froid-23",
+        "telephone": null,
+        "site_web": "https://www.concept-froid-23.fr/",
+        "adresse": "Saint-Sulpice-le-Guérétois",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "2761212562002441795",
+        "nom": "A.e.i.d",
+        "slug": "aeid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "25 Le Roudeau",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "1246072882676531573",
+        "nom": "SARL MILLET Vivien",
+        "slug": "sarl-millet-vivien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 ZA Laschamps de Chavanat",
+        "note": 4,
+        "avis": 13,
+        "type": "Maçon"
+      },
+      {
+        "id": "17976022891102116713",
+        "nom": "Costa clim’air",
+        "slug": "costa-climair",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/1X9TWC6yxq/?mibextid=LQQJ4d",
+        "adresse": "Domérat",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-sulpice-le-gueretois": {
+    "artisans": [
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16896572796379842457",
+        "nom": "Redondo Chauffage",
+        "slug": "redondo-chauffage",
+        "telephone": null,
+        "site_web": "http://www.redondochauffage.fr/",
+        "adresse": "12 Le, Masgerot",
+        "note": 4,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "635023033641550984",
+        "nom": "ProxiFroid",
+        "slug": "proxifroid",
+        "telephone": null,
+        "site_web": "http://www.proxifroid.fr/",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10736909083078615215",
+        "nom": "SL Thermique",
+        "slug": "sl-thermique",
+        "telephone": null,
+        "site_web": "https://www.sl-thermique.fr/",
+        "adresse": "Limoges",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10949408131234848785",
+        "nom": "Creuse plomberie",
+        "slug": "creuse-plomberie",
+        "telephone": null,
+        "site_web": "http://creuseplomberie.com/?utm_source=gmb&utm_medium=referral",
+        "adresse": "Guéret",
+        "note": 5,
+        "avis": 35,
+        "type": "Plombier"
+      },
+      {
+        "id": "5086526373727695548",
+        "nom": "Avy energie",
+        "slug": "avy-energie",
+        "telephone": null,
+        "site_web": "https://avyenergie.fr/",
+        "adresse": "Saint-Sulpice-la-Pointe",
+        "note": 4,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11714191178108158533",
+        "nom": "Energiair",
+        "slug": "energiair",
+        "telephone": null,
+        "site_web": "https://energiair.fr/",
+        "adresse": "Limoges",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-vaury": {
+    "artisans": [
+      {
+        "id": "5911218081209899376",
+        "nom": "Gabor Fabrice - Plombier, Chauffagiste et Ramonage",
+        "slug": "gabor-fabrice-plombier-chauffagiste-et-ramonage",
+        "telephone": null,
+        "site_web": "https://www.gabor-fabrice.fr/",
+        "adresse": "36 Rue de la Marche",
+        "note": 4,
+        "avis": 32,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7682508081316936816",
+        "nom": "Sarl Pouzeaud",
+        "slug": "sarl-pouzeaud",
+        "telephone": null,
+        "site_web": "http://www.sarl-pouzeaud.fr/",
+        "adresse": "Le Masbrenier",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14859296565986091305",
+        "nom": "Peynaud Aurelien",
+        "slug": "peynaud-aurelien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19 Rue Saint-Michel",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "auzances": {
+    "artisans": [
+      {
+        "id": "1269596269425196817",
+        "nom": "bc plomberie - rénovation",
+        "slug": "bc-plomberie-renovation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Rue Saint-Jacques",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "49461301135334942",
+        "nom": "Ezzouaoui Halim",
+        "slug": "ezzouaoui-halim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 Rue Paul Doumer",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "bourganeuf": {
+    "artisans": [
+      {
+        "id": "14474439612678022349",
+        "nom": "SAS LAFONT JONATHAN",
+        "slug": "sas-lafont-jonathan",
+        "telephone": null,
+        "site_web": "https://sas-lafont-jonathan.fr/",
+        "adresse": "Bourganeuf",
+        "note": 4,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "3177926285139344842",
+        "nom": "Alain Cancalon",
+        "slug": "alain-cancalon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Bourganeuf",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "dun-le-palestel": {
+    "artisans": [
+      {
+        "id": "8192595018508480585",
+        "nom": "Lafont Yvan",
+        "slug": "lafont-yvan",
+        "telephone": null,
+        "site_web": "http://www.lafontyvan.fr/",
+        "adresse": "Z.A. DE",
+        "note": 4,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18322919473957712858",
+        "nom": "AZ conception 23",
+        "slug": "az-conception-23",
+        "telephone": null,
+        "site_web": "https://www.az-conception23.com/",
+        "adresse": "10 Av. Auguste Lacote",
+        "note": 5,
+        "avis": 5,
+        "type": "Artisanat"
+      },
+      {
+        "id": "10211816009946261991",
+        "nom": "Clément Artisan électricien",
+        "slug": "clement-artisan-electricien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Av. Charles de Gaulle",
+        "note": 3,
+        "avis": 2,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "evaux-les-bains": {
+    "artisans": [
+      {
+        "id": "1879718329658872875",
+        "nom": "Ets André",
+        "slug": "ets-andre",
+        "telephone": null,
+        "site_web": "http://www.ets-andre.fr/",
+        "adresse": "25 Rue de Rentière",
+        "note": 3,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1805448726487447359",
+        "nom": "SARL SAINTEMARTINE",
+        "slug": "sarl-saintemartine",
+        "telephone": null,
+        "site_web": "https://www.saintemartine-construction-bois.fr/",
+        "adresse": "9 Av. Armand Fourot",
+        "note": 5,
+        "avis": 6,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "felletin": {
+    "artisans": [
+      {
+        "id": "5649453719211818757",
+        "nom": "SARL AP Plomberie",
+        "slug": "sarl-ap-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "55 Les, Combes",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3189996174611766853",
+        "nom": "Bruno Barlaud",
+        "slug": "bruno-barlaud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Pl. Courtaud",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "6957857379140829391",
+        "nom": "ETS BARLAUD",
+        "slug": "ets-barlaud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rte d'Aubusson",
+        "note": 3,
+        "avis": 7,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "5722286516111443744",
+        "nom": "DOMO CONFORT",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "9034689240176254183",
+        "nom": "L'ELAN POUR BATIR",
+        "slug": "lelan-pour-batir",
+        "telephone": null,
+        "site_web": "https://www.lelan23.fr/",
+        "adresse": "43 Rte d'Aubusson",
+        "note": null,
+        "avis": null,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "9863485186425559257",
+        "nom": "SAS MRB",
+        "slug": "sas-mrb",
+        "telephone": null,
+        "site_web": "http://sasmrb.fr/",
+        "adresse": "Bussière-Dunoise",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9088714778382019663",
+        "nom": "Maçons de la Creuse",
+        "slug": "macons-de-la-creuse",
+        "telephone": null,
+        "site_web": "http://www.lesmaconsdelacreuse.fr/",
+        "adresse": "2 Pt Rue du Clocher",
+        "note": 4,
+        "avis": 3,
+        "type": "Association culturelle"
+      }
+    ]
+  },
+  "sainte-feyre": {
+    "artisans": [
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16051885687854148086",
+        "nom": "Home Energie Solutions",
+        "slug": "home-energie-solutions",
+        "telephone": null,
+        "site_web": "https://www.home-energiesolutions.fr/",
+        "adresse": "Guéret",
+        "note": 5,
+        "avis": 27,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "635023033641550984",
+        "nom": "ProxiFroid",
+        "slug": "proxifroid",
+        "telephone": null,
+        "site_web": "http://www.proxifroid.fr/",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": null,
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Saint-Fiel",
+        "note": 4,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1835448784152541984",
+        "nom": "SANICENTRE Guéret - SARP Sud Ouest",
+        "slug": "sanicentre-gueret-sarp-sud-ouest",
+        "telephone": null,
+        "site_web": "https://www.sarp-habitatservices.fr/",
+        "adresse": "1 Laschamp",
+        "note": 5,
+        "avis": 105,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "9765231270260641153",
+        "nom": "DEBARD PATRICK",
+        "slug": "debard-patrick",
+        "telephone": null,
+        "site_web": "https://www.patrick-debard.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "15 Lieu-dit, Les Vergnes",
+        "note": 5,
+        "avis": 4,
+        "type": "Maçon"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "11811244512337477952",
+        "nom": "Magadoux Demarty",
+        "slug": "magadoux-demarty",
+        "telephone": null,
+        "site_web": "http://www.sas-demarty.fr/?utm_source=gmb",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "5336870785553140181",
+        "nom": "Sav Darthou Et Fils",
+        "slug": "sav-darthou-et-fils",
+        "telephone": null,
+        "site_web": "https://www.chauffage-darthou.fr/",
+        "adresse": "Guéret",
+        "note": 3,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7682508081316936816",
+        "nom": "Sarl Pouzeaud",
+        "slug": "sarl-pouzeaud",
+        "telephone": null,
+        "site_web": "http://www.sarl-pouzeaud.fr/",
+        "adresse": "Saint-Vaury",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-maurice-la-souterraine": {
+    "artisans": [
+      {
+        "id": "1268049623508521771",
+        "nom": "B.S.T",
+        "slug": "bst",
+        "telephone": null,
+        "site_web": "https://www.bst-plomberiechauffage.fr/",
+        "adresse": "4 Le brajaud",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15873954903670133545",
+        "nom": "C.A.C (Chauffage Automatique Creusois)",
+        "slug": "cac-chauffage-automatique-creusois",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/pages/category/Business-Service/Chauffage-Automatique-Creusois-322827754809058",
+        "adresse": "La Souterraine",
+        "note": 4,
+        "avis": 15,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15692247234741295666",
+        "nom": "NSPCE",
+        "slug": "nspce",
+        "telephone": null,
+        "site_web": "https://nathan-sherrard.fr/",
+        "adresse": "26 Grand Rue",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1086850578740451776",
+        "nom": "BST",
+        "slug": "bst",
+        "telephone": null,
+        "site_web": "https://www.bst-plomberiechauffage.com/devis-gratuit-chauffagiste-plombier-climatisation-bst-a-saint-maurice-la-souterrain",
+        "adresse": "17 Bordessoule",
+        "note": 5,
+        "avis": 1,
+        "type": "installateur VMC ventilation"
+      },
+      {
+        "id": "8275873417167409405",
+        "nom": "Téréva La Souterraine",
+        "slug": "tereva-la-souterraine",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394533--agence-tereva-la-souterraine",
+        "adresse": "La Souterraine",
+        "note": 4,
+        "avis": 20,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "9267770131587705845",
+        "nom": "Confort En Marche",
+        "slug": "confort-en-marche",
+        "telephone": null,
+        "site_web": "https://www.leconfortenmarche.com/",
+        "adresse": "La Souterraine",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3943498730876020018",
+        "nom": "Parbaud",
+        "slug": "parbaud",
+        "telephone": null,
+        "site_web": "http://parbaud-chauffage.com/",
+        "adresse": "La Souterraine",
+        "note": 3,
+        "avis": 49,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10672908674475562016",
+        "nom": "D. PAROTON (Electricité - Chauffage - Plomberie - Climatisation)",
+        "slug": "d-paroton-electricite-chauffage-plomberie-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Souterraine",
+        "note": 3,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "7742222679567400594",
+        "nom": "Sherrard Nathan",
+        "slug": "sherrard-nathan",
+        "telephone": null,
+        "site_web": "https://www.nspce.net/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 23,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9863485186425559257",
+        "nom": "SAS MRB",
+        "slug": "sas-mrb",
+        "telephone": null,
+        "site_web": "http://sasmrb.fr/",
+        "adresse": "Bussière-Dunoise",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "bonnat": {
+    "artisans": [
+      {
+        "id": "12940649749954849379",
+        "nom": "Brunet Prudhomme SA",
+        "slug": "brunet-prudhomme-sa",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/SAS-Brunet-Prudhomme-100338048424505/?utm_source=gmb",
+        "adresse": "16 Rte de Guéret",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9259982557874418959",
+        "nom": "l'artisan plombier",
+        "slug": "lartisan-plombier",
+        "telephone": null,
+        "site_web": "https://sites.google.com/view/lartisanplombier?usp=sharing",
+        "adresse": "1 Les Contredis",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "5303675798405772213",
+        "nom": "MCVF Solutions",
+        "slug": "mcvf-solutions",
+        "telephone": null,
+        "site_web": "https://mcvf-solutions.fr/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13367010994793993242",
+        "nom": "Barret Guy",
+        "slug": "barret-guy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Pl. du Foirail",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "8634039720004607221",
+        "nom": "Entreprise Bonnyaud",
+        "slug": "entreprise-bonnyaud",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/entreprisebonnyaud/",
+        "adresse": "Guéret",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": null,
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 28,
+        "type": "Électricien"
+      },
+      {
+        "id": "3272063810633187854",
+        "nom": "KM Nouvel Air / Nettoyage hotte de cuisine , nettoyage VMC ,pose hotte proféssionnel ,conduit ,et moteur",
+        "slug": "km-nouvel-air-nettoyage-hotte-de-cuisine-nettoyage-vmc-pose-hotte-professionnel-conduit-et-moteur",
+        "telephone": null,
+        "site_web": "https://www.nouvelairkm.com/",
+        "adresse": "07 56 84 58 13",
+        "note": 4,
+        "avis": 15,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "8846654149080672856",
+        "nom": "Lebrun Gérard",
+        "slug": "lebrun-gerard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17 Le Montilloux",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      }
+    ]
+  }
+}

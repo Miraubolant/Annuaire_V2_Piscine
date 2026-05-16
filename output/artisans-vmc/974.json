@@ -1,0 +1,1414 @@
+{
+  "saint-pierre": {
+    "artisans": [
+      {
+        "id": "3073653387661741953",
+        "nom": "Climatisation La Réunion - Clim Tech OI",
+        "slug": "climatisation-la-reunion-clim-tech-oi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "55 A Rue Caumont",
+        "note": 4,
+        "avis": 79,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "ZONE 3, 18 BIS Rue Benjamin Hoareau",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7691993545516714488",
+        "nom": "CLIMATIS | Climatisation Île de La Réunion",
+        "slug": "climatis-climatisation-ile-de-la-reunion",
+        "telephone": null,
+        "site_web": "http://climatis.re/",
+        "adresse": "Local n° 5, Bât C, 46 Bd Hubert Delisle",
+        "note": 4,
+        "avis": 45,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16271344956905360879",
+        "nom": "Vinchon et Fils",
+        "slug": "vinchon-et-fils",
+        "telephone": null,
+        "site_web": "https://www.vinchonetfils.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "149 Rue Marius et Ary Leblond",
+        "note": null,
+        "avis": null,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "15297702981224224732",
+        "nom": "AB Sud Plomberie",
+        "slug": "ab-sud-plomberie",
+        "telephone": null,
+        "site_web": "http://absudplomberie.com/",
+        "adresse": "Le Tampon, La Réunion",
+        "note": 4,
+        "avis": 170,
+        "type": "Plombier"
+      },
+      {
+        "id": "16260119749231839516",
+        "nom": "A.V.2.S",
+        "slug": "av2s",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-du-Mont",
+        "note": 5,
+        "avis": 23,
+        "type": "Centre de formation continue"
+      },
+      {
+        "id": "13193946272599269409",
+        "nom": "CLIM T'AIR - PAC Air / Air, Climatisation 69 Rhône",
+        "slug": "clim-tair-pac-air-air-climatisation-69-rhone",
+        "telephone": null,
+        "site_web": "https://www.climtair.fr/",
+        "adresse": "Saint-Pierre-de-Chandieu",
+        "note": 5,
+        "avis": 31,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8567132313429967741",
+        "nom": "Adveneris",
+        "slug": "adveneris",
+        "telephone": null,
+        "site_web": "https://adveneris.com/",
+        "adresse": "Saint-Pierre-du-Perray",
+        "note": 5,
+        "avis": 124,
+        "type": "Électricien"
+      },
+      {
+        "id": "11588166997533714506",
+        "nom": "Ravate Saint-Pierre",
+        "slug": "ravate-saint-pierre",
+        "telephone": null,
+        "site_web": "http://ravate.com/",
+        "adresse": "Rue De La Cayenne",
+        "note": 3,
+        "avis": 513,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "bras-panon": {
+    "artisans": [
+      {
+        "id": "12613540666016863563",
+        "nom": "LDC Réunion",
+        "slug": "ldc-reunion",
+        "telephone": null,
+        "site_web": "https://www.ldc-climatisation-974.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Bras-Panon, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "entre-deux": {
+    "artisans": [
+      {
+        "id": "5164813759591604359",
+        "nom": "EXPERT VENTIL",
+        "slug": "expert-ventil",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Alfortville",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "petite-ile": {
+    "artisans": [
+      {
+        "id": "17131067051930666868",
+        "nom": "Joly Père et Fils",
+        "slug": "joly-pere-et-fils",
+        "telephone": null,
+        "site_web": "https://www.jolyfroidclim.fr/?utm_source=gmb",
+        "adresse": "Petite-Île, La Réunion",
+        "note": 4,
+        "avis": 23,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8227096882612843019",
+        "nom": "CLIM PASSION PLOMBERIE",
+        "slug": "clim-passion-plomberie",
+        "telephone": null,
+        "site_web": "https://depannage-climatisation-reunion-97.com/",
+        "adresse": "Saint-Joseph, La Réunion",
+        "note": 5,
+        "avis": 49,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "la-plaine-des-palmistes": {
+    "artisans": [
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3073653387661741953",
+        "nom": "Climatisation La Réunion - Clim Tech OI",
+        "slug": "climatisation-la-reunion-clim-tech-oi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 79,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8227096882612843019",
+        "nom": "CLIM PASSION PLOMBERIE",
+        "slug": "clim-passion-plomberie",
+        "telephone": null,
+        "site_web": "https://depannage-climatisation-reunion-97.com/",
+        "adresse": "Saint-Joseph, La Réunion",
+        "note": 5,
+        "avis": 49,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15480329259522242943",
+        "nom": "Cfc Climatisation en commercial",
+        "slug": "cfc-climatisation-en-commercial",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Lot. les Citronnelles",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11245809140160549515",
+        "nom": "Fresh&Clim",
+        "slug": "freshclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 77,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3750042261858976204",
+        "nom": "PROCHAUFECO",
+        "slug": "prochaufeco",
+        "telephone": null,
+        "site_web": "https://www.prochaufeco.fr/",
+        "adresse": "Le Tampon, La Réunion",
+        "note": 4,
+        "avis": 6,
+        "type": "Cheministe"
+      },
+      {
+        "id": "3989312712350184014",
+        "nom": "Vdielect",
+        "slug": "vdielect",
+        "telephone": null,
+        "site_web": "https://www.vdielect.com/?utm_source=gmb",
+        "adresse": "Entre-Deux, La Réunion",
+        "note": 5,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "18444717735124335471",
+        "nom": "Océanic Froid",
+        "slug": "oceanic-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "45 Rue Marchande",
+        "note": 3,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8181942638995722830",
+        "nom": "RS ELECTRIC",
+        "slug": "rs-electric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Tampon, La Réunion",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-denis": {
+    "artisans": [
+      {
+        "id": "10498385809947509092",
+        "nom": "FO-YAM Climatisation",
+        "slug": "fo-yam-climatisation",
+        "telephone": null,
+        "site_web": "http://www.foyam.com/",
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 4,
+        "avis": 690,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6269409387762811078",
+        "nom": "Bourbon Clim",
+        "slug": "bourbon-clim",
+        "telephone": null,
+        "site_web": "https://bourbonclim.fr/?utm_source=gmb",
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 4,
+        "avis": 25,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "11170730731972309487",
+        "nom": "Clima Services",
+        "slug": "clima-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 4,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3831388303834849076",
+        "nom": "DOM CLIM ELEC",
+        "slug": "dom-clim-elec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 4,
+        "avis": 23,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9220320138938341752",
+        "nom": "AEROLIK Réunion (Saint Denis)",
+        "slug": "aerolik-reunion-saint-denis",
+        "telephone": null,
+        "site_web": "http://www.aerolik.com/",
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "10104493337283167052",
+        "nom": "Climatisation Saint Denis -Roulof Energie Frigoriste La Réunion",
+        "slug": "climatisation-saint-denis-roulof-energie-frigoriste-la-reunion",
+        "telephone": null,
+        "site_web": "http://www.roulof-energie.com/",
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "16782313753495777344",
+        "nom": "BAGNOLET AIR SAIN VMC EXPERT",
+        "slug": "bagnolet-air-sain-vmc-expert",
+        "telephone": null,
+        "site_web": "https://bagnoletairsainvmcexpert.com/",
+        "adresse": "Bagnolet",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3166467126891263450",
+        "nom": "Sanigere alsace",
+        "slug": "sanigere-alsace",
+        "telephone": null,
+        "site_web": "http://www.sanigerealsace.fr/",
+        "adresse": "Saint-Louis",
+        "note": 4,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "14604443719815103656",
+        "nom": "ETS Schurrer",
+        "slug": "ets-schurrer",
+        "telephone": null,
+        "site_web": "https://www.ets-schurrer.com/?utm_source=gmb",
+        "adresse": "Hésingue",
+        "note": 4,
+        "avis": 199,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-philippe": {
+    "artisans": [
+      {
+        "id": "12250465976108461341",
+        "nom": "BM FROID CLIMAT",
+        "slug": "bm-froid-climat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Philippe, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-marie": {
+    "artisans": [
+      {
+        "id": "6358131363156738665",
+        "nom": "Sani Elec",
+        "slug": "sani-elec",
+        "telephone": null,
+        "site_web": "http://pro.solocal.com/chauffage-electricite-54/?utm_source=gmb",
+        "adresse": "Sainte-Marie-aux-Chênes",
+        "note": 4,
+        "avis": 43,
+        "type": "Plombier"
+      },
+      {
+        "id": "2875831984828935593",
+        "nom": "Ventil'Pro'Concept'",
+        "slug": "ventilproconcept",
+        "telephone": null,
+        "site_web": "https://ventilproconcept.com/",
+        "adresse": "Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'équipement de ventilation"
+      },
+      {
+        "id": "9955983956768071542",
+        "nom": "ATRF Voillot SAS",
+        "slug": "atrf-voillot-sas",
+        "telephone": null,
+        "site_web": "https://www.atrfvoillot.com/",
+        "adresse": "Pont-Sainte-Marie",
+        "note": 4,
+        "avis": 25,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3605753015842127170",
+        "nom": "bdp plomberie climatisation",
+        "slug": "bdp-plomberie-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/BDPplomberie",
+        "adresse": "Sainte-Marie-la-Mer",
+        "note": 4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "11888093675280986754",
+        "nom": "Marco Climatisation",
+        "slug": "marco-climatisation",
+        "telephone": null,
+        "site_web": "http://www.marco-clim.fr/",
+        "adresse": "La Chapelle-Saint-Luc",
+        "note": 5,
+        "avis": 111,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15767795972308854847",
+        "nom": "Air Et Eau",
+        "slug": "air-et-eau",
+        "telephone": null,
+        "site_web": "http://www.air-eau-ventilation.com/",
+        "adresse": "Grenoble",
+        "note": 4,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15833336316558717192",
+        "nom": "Leroy Merlin Sainte-Marie-la-Réunion - Saint-Denis",
+        "slug": "leroy-merlin-sainte-marie-la-reunion-saint-denis",
+        "telephone": null,
+        "site_web": "https://www.leroymerlin.fr/magasins/sainte-marie-la-reunion-saint-denis.html",
+        "adresse": "43 Rue Michel Ange",
+        "note": 3,
+        "avis": 919,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "sainte-suzanne": {
+    "artisans": [
+      {
+        "id": "15098837068023942765",
+        "nom": "Topclim Réunion",
+        "slug": "topclim-reunion",
+        "telephone": null,
+        "site_web": "http://www.topclimreunion.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Sainte-Suzanne, La Réunion",
+        "note": 2,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "salazie": {
+    "artisans": [
+      {
+        "id": "11833641515469743517",
+        "nom": "AZ CLIM",
+        "slug": "az-clim",
+        "telephone": null,
+        "site_web": "https://az-clim.com/",
+        "adresse": "+262 692 55 53 54",
+        "note": 5,
+        "avis": 13,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3924145088297091379",
+        "nom": "S . h . r . a Sce d Hygiene des Reseaux Aerauliques",
+        "slug": "s-h-r-a-sce-d-hygiene-des-reseaux-aerauliques",
+        "telephone": null,
+        "site_web": "https://www.shra-reunion.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "6974961092020174836",
+        "nom": "Tornado Extracteur d’Air à la Réunion",
+        "slug": "tornado-extracteur-dair-a-la-reunion",
+        "telephone": null,
+        "site_web": "https://www.tornado.re/",
+        "adresse": "+262 692 26 24 00",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "les-trois-bassins": {
+    "artisans": [
+      {
+        "id": "12070664980758867386",
+        "nom": "SCMOI",
+        "slug": "scmoi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5849657342540722905",
+        "nom": "Espace Clim & Froid - ECF Réunion",
+        "slug": "espace-clim-froid-ecf-reunion",
+        "telephone": null,
+        "site_web": "https://www.climatisation-reunion-974.fr/",
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11245809140160549515",
+        "nom": "Fresh&Clim",
+        "slug": "freshclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 77,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15876687941097190586",
+        "nom": "DA SILVA DIAS PLOMBERIE",
+        "slug": "da-silva-dias-plomberie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "12062473563058173866",
+        "nom": "Couverture Letien",
+        "slug": "couverture-letien",
+        "telephone": null,
+        "site_web": "https://www.instagram.com/couvertureletien",
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18189603174746776738",
+        "nom": "FRANCE AIR EXPORT La Réunion",
+        "slug": "france-air-export-la-reunion",
+        "telephone": null,
+        "site_web": "https://www.france-air-export.com/",
+        "adresse": "Le Port, La Réunion",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3989312712350184014",
+        "nom": "Vdielect",
+        "slug": "vdielect",
+        "telephone": null,
+        "site_web": "https://www.vdielect.com/?utm_source=gmb",
+        "adresse": "Entre-Deux, La Réunion",
+        "note": 5,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "1411663528809455049",
+        "nom": "NEC OI",
+        "slug": "nec-oi",
+        "telephone": null,
+        "site_web": "https://www.nec-oi.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "La Possession, La Réunion",
+        "note": 4,
+        "avis": 46,
+        "type": "Service de rénovation de bureaux"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "les-avirons": {
+    "artisans": [
+      {
+        "id": "5738423352824256226",
+        "nom": "CIR CLIM",
+        "slug": "cir-clim",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/cir.clim/",
+        "adresse": "Saint-Joseph, La Réunion",
+        "note": 5,
+        "avis": 37,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3989312712350184014",
+        "nom": "Vdielect",
+        "slug": "vdielect",
+        "telephone": null,
+        "site_web": "https://www.vdielect.com/?utm_source=gmb",
+        "adresse": "Entre-Deux, La Réunion",
+        "note": 5,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "12062473563058173866",
+        "nom": "Couverture Letien",
+        "slug": "couverture-letien",
+        "telephone": null,
+        "site_web": "https://www.instagram.com/couvertureletien",
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      },
+      {
+        "id": "9309341468815667302",
+        "nom": "AEROLIK Réunion Ouest",
+        "slug": "aerolik-reunion-ouest",
+        "telephone": null,
+        "site_web": "http://www.aerolik.com/",
+        "adresse": "17 Av. Grand Piton",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9220320138938341752",
+        "nom": "AEROLIK Réunion (Saint Denis)",
+        "slug": "aerolik-reunion-saint-denis",
+        "telephone": null,
+        "site_web": "http://www.aerolik.com/",
+        "adresse": "Saint-Denis, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "17702876348591090230",
+        "nom": "AMD Ventilation",
+        "slug": "amd-ventilation",
+        "telephone": null,
+        "site_web": "http://www.amdventilation.fr/",
+        "adresse": "Fresnes",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "16814835990223301135",
+        "nom": "AIREDIS - Air équipement distribution - VMC Paris",
+        "slug": "airedis-air-equipement-distribution-vmc-paris",
+        "telephone": null,
+        "site_web": "https://www.airedis.fr/",
+        "adresse": "Paris",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de filtres d'air"
+      },
+      {
+        "id": "3110065467790780942",
+        "nom": "LES COMPAGNONS DU VENT",
+        "slug": "les-compagnons-du-vent",
+        "telephone": null,
+        "site_web": "https://www.lescompagnonsduvent.bzh/",
+        "adresse": "Guipavas",
+        "note": 4,
+        "avis": 306,
+        "type": "Service de nettoyage de conduits de ventilation"
+      }
+    ]
+  },
+  "letang-sale": {
+    "artisans": [
+      {
+        "id": "13583022888335906675",
+        "nom": "ACC SYSTEM BIOCLEANAIR",
+        "slug": "acc-system-biocleanair",
+        "telephone": null,
+        "site_web": "https://www.biocleanair-oi.re/",
+        "adresse": "L'Étang-Salé, La Réunion",
+        "note": 4,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "la-possession": {
+    "artisans": [
+      {
+        "id": "652518515281722336",
+        "nom": "Mcc - Maintenance climatisation cuisine",
+        "slug": "mcc-maintenance-climatisation-cuisine",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/15kwMxJmYg/?mibextid=LQQJ4d&utm_source=gmb",
+        "adresse": "La, La Réunion",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "848904854493971825",
+        "nom": "EGL Réunion",
+        "slug": "egl-reunion",
+        "telephone": null,
+        "site_web": "https://www.egl-reunion.com/",
+        "adresse": "21 Rue Emmanuel Texer",
+        "note": 4,
+        "avis": 74,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5984822643638238317",
+        "nom": "Fritec La Réunion - La Possession",
+        "slug": "fritec-la-reunion-la-possession",
+        "telephone": null,
+        "site_web": "http://www.fritec.fr/",
+        "adresse": "ZAC Ravine à Marquet, 17 Rue Patrice Lumumba",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9793466969924928909",
+        "nom": "Aergaine",
+        "slug": "aergaine",
+        "telephone": null,
+        "site_web": "https://aergaine.re/contacts.html",
+        "adresse": "La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14499369986248306557",
+        "nom": "NFPROSERVICES",
+        "slug": "nfproservices",
+        "telephone": null,
+        "site_web": "http://nfproservices.re/",
+        "adresse": "La Réunion",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9325480998311100294",
+        "nom": "SRCA",
+        "slug": "srca",
+        "telephone": null,
+        "site_web": "https://www.srca-pro.re/",
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2948739391030145380",
+        "nom": "Hervé Thermique",
+        "slug": "herve-thermique",
+        "telephone": null,
+        "site_web": "https://www.herve-thermique.com/",
+        "adresse": "Bureau B17, Centre d’Affaires Savanna, 2 Rue Patrice Lumumba",
+        "note": 3,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-andre": {
+    "artisans": [
+      {
+        "id": "10653148011499115606",
+        "nom": "GM Froid Climatisation",
+        "slug": "gm-froid-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/Leprofessioneldelaclimatisation/",
+        "adresse": "Saint-André, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-joseph": {
+    "artisans": [
+      {
+        "id": "5738423352824256226",
+        "nom": "CIR CLIM",
+        "slug": "cir-clim",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/cir.clim/",
+        "adresse": "Saint-Joseph, La Réunion",
+        "note": 5,
+        "avis": 37,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8227096882612843019",
+        "nom": "CLIM PASSION PLOMBERIE",
+        "slug": "clim-passion-plomberie",
+        "telephone": null,
+        "site_web": "https://depannage-climatisation-reunion-97.com/",
+        "adresse": "Saint-Joseph, La Réunion",
+        "note": 5,
+        "avis": 49,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15503179293934010424",
+        "nom": "Delta Froid",
+        "slug": "delta-froid",
+        "telephone": null,
+        "site_web": "http://www.delta-froid.net/",
+        "adresse": "Saint-Joseph, Martinique",
+        "note": 4,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-paul": {
+    "artisans": [
+      {
+        "id": "11245809140160549515",
+        "nom": "Fresh&Clim",
+        "slug": "freshclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Résidence splendid, 146 Rue Marius et Ary Leblond",
+        "note": 5,
+        "avis": 77,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14383570152484400336",
+        "nom": "CLIMEO",
+        "slug": "climeo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Réunion",
+        "note": 3,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9325480998311100294",
+        "nom": "SRCA",
+        "slug": "srca",
+        "telephone": null,
+        "site_web": "https://www.srca-pro.re/",
+        "adresse": "Zone industrielle Cambaie, 18 bis Av. Piton Treport, Saint-Paul, France",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17390932156545320375",
+        "nom": "Entretien Climatisation la Réunion : Clim 974",
+        "slug": "entretien-climatisation-la-reunion-clim-974",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 11,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3609745523631309936",
+        "nom": "Alclima",
+        "slug": "alclima",
+        "telephone": null,
+        "site_web": "http://alclima.re/",
+        "adresse": "18 Chemin Gonneau",
+        "note": 4,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5849657342540722905",
+        "nom": "Espace Clim & Froid - ECF Réunion",
+        "slug": "espace-clim-froid-ecf-reunion",
+        "telephone": null,
+        "site_web": "https://www.climatisation-reunion-974.fr/",
+        "adresse": "81 Rue des Ecoles",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1027825249418582064",
+        "nom": "Omnium Génie Climatique - SARL OGEC",
+        "slug": "omnium-genie-climatique-sarl-ogec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Réunion",
+        "note": 3,
+        "avis": 3,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9309341468815667302",
+        "nom": "AEROLIK Réunion Ouest",
+        "slug": "aerolik-reunion-ouest",
+        "telephone": null,
+        "site_web": "http://www.aerolik.com/",
+        "adresse": "La Réunion",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "12062473563058173866",
+        "nom": "Couverture Letien",
+        "slug": "couverture-letien",
+        "telephone": null,
+        "site_web": "https://www.instagram.com/couvertureletien",
+        "adresse": "15 impasse du Grand hotel",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7690839287221918317",
+        "nom": "Clim & Cool",
+        "slug": "clim-cool",
+        "telephone": null,
+        "site_web": "https://climatisation-entretien-reparation-reunion-974.fr/",
+        "adresse": "La Réunion",
+        "note": 3,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "14874815280654777423",
+        "nom": "Dam Climatisation",
+        "slug": "dam-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "+262 692 30 19 27",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-tampon": {
+    "artisans": [
+      {
+        "id": "2409812303416115332",
+        "nom": "Entreprise SORRES Climatisation",
+        "slug": "entreprise-sorres-climatisation",
+        "telephone": null,
+        "site_web": "https://www.entreprisesorres.fr/",
+        "adresse": "31 Bis Rue Benjamin Hoarau",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15935570827261703282",
+        "nom": "Clim'Nature",
+        "slug": "climnature",
+        "telephone": null,
+        "site_web": "https://www.climnature.re/",
+        "adresse": "LOCAL N°3, 60 Rue Charles Baudelaire",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3931464536085902011",
+        "nom": "DARTY CLIM",
+        "slug": "darty-clim",
+        "telephone": null,
+        "site_web": "https://dartyclim.my.canva.site/",
+        "adresse": "+262 693 60 69 57",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3925203038225147630",
+        "nom": "Jbl Clim",
+        "slug": "jbl-clim",
+        "telephone": null,
+        "site_web": "https://www.jbl-clim.re/",
+        "adresse": "Entre-Deux, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12690651799041242386",
+        "nom": "Sanit'Air",
+        "slug": "sanitair",
+        "telephone": null,
+        "site_web": "http://sanitair.re/",
+        "adresse": "54 Chemin Mondon ZA",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "1032235693711368665",
+        "nom": "RDZiles Réunion Transition énergétique",
+        "slug": "rdziles-reunion-transition-energetique",
+        "telephone": null,
+        "site_web": "https://rdziles.re/",
+        "adresse": "70 Rue Alverdy",
+        "note": 4,
+        "avis": 9,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "saint-benoit": {
+    "artisans": [
+      {
+        "id": "7127497864857598639",
+        "nom": "Renov & Moi - La Réunion 974",
+        "slug": "renov-moi-la-reunion-974",
+        "telephone": null,
+        "site_web": "https://renovetmoi.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Apprt. 33, Résidence Saint-Hubert, 92 Rue Montfleury",
+        "note": 5,
+        "avis": 5,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "14874815280654777423",
+        "nom": "Dam Climatisation",
+        "slug": "dam-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "+262 692 30 19 27",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "cilaos": {
+    "artisans": [
+      {
+        "id": "3989312712350184014",
+        "nom": "Vdielect",
+        "slug": "vdielect",
+        "telephone": null,
+        "site_web": "https://www.vdielect.com/?utm_source=gmb",
+        "adresse": "Entre-Deux, La Réunion",
+        "note": 5,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": null,
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "Saint-Pierre, La Réunion",
+        "note": 4,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5849657342540722905",
+        "nom": "Espace Clim & Froid - ECF Réunion",
+        "slug": "espace-clim-froid-ecf-reunion",
+        "telephone": null,
+        "site_web": "https://www.climatisation-reunion-974.fr/",
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4399117841980671404",
+        "nom": "Villa VETYVER de CILAOS",
+        "slug": "villa-vetyver-de-cilaos",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": null,
+        "avis": null,
+        "type": "Location de vacances"
+      },
+      {
+        "id": "11257552345120745314",
+        "nom": "CILAOS ALAIN",
+        "slug": "cilaos-alain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "27 Impasse des Filaos",
+        "note": 4,
+        "avis": 7,
+        "type": "Logement meublé"
+      },
+      {
+        "id": "10332933965965756071",
+        "nom": "Villa Passiflora location saisonnière",
+        "slug": "villa-passiflora-location-saisonniere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Chemin du Four",
+        "note": 4,
+        "avis": 8,
+        "type": "Hébergement"
+      },
+      {
+        "id": "12062473563058173866",
+        "nom": "Couverture Letien",
+        "slug": "couverture-letien",
+        "telephone": null,
+        "site_web": "https://www.instagram.com/couvertureletien",
+        "adresse": "Saint-Paul, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2842503215303852910",
+        "nom": "Thermes de Cilaos",
+        "slug": "thermes-de-cilaos",
+        "telephone": null,
+        "site_web": "http://www.thermescilaos.re/",
+        "adresse": "Rte du Bras-Sec",
+        "note": 3,
+        "avis": 215,
+        "type": "Centre de bien-être"
+      },
+      {
+        "id": "1027825249418582064",
+        "nom": "Omnium Génie Climatique - SARL OGEC",
+        "slug": "omnium-genie-climatique-sarl-ogec",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Réunion",
+        "note": 3,
+        "avis": 3,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Denis, La Réunion",
+        "note": null,
+        "avis": null,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-leu": {
+    "artisans": [
+      {
+        "id": "14973475687256054060",
+        "nom": "Ilot Clim - Climatisation à la Réunion depuis 20 ans",
+        "slug": "ilot-clim-climatisation-a-la-reunion-depuis-20-ans",
+        "telephone": null,
+        "site_web": "https://ilotclim.re/",
+        "adresse": "32 All. des Flamboyants",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "875651946488564282",
+        "nom": "DMclim | Climatisation île de la Réunion",
+        "slug": "dmclim-climatisation-ile-de-la-reunion",
+        "telephone": null,
+        "site_web": "https://dmclim.re/",
+        "adresse": "+262 693 87 43 66",
+        "note": 5,
+        "avis": 18,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  }
+}

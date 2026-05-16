@@ -1,0 +1,5621 @@
+{
+  "bagnac-sur-cele": {
+    "artisans": [
+      {
+        "id": "5629466708064576121",
+        "nom": "Clavies Frederic",
+        "slug": "clavies-frederic",
+        "telephone": null,
+        "site_web": "https://plombier-figeac-clavies.fr/",
+        "adresse": "Le Mas",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "3686387352266326432",
+        "nom": "Enr2j SAS",
+        "slug": "enr2j-sas",
+        "telephone": null,
+        "site_web": "http://www.enr2j.fr/",
+        "adresse": "Figeac",
+        "note": 4,
+        "avis": 25,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13256024875111713836",
+        "nom": "CVCE",
+        "slug": "cvce",
+        "telephone": null,
+        "site_web": "https://cvce-figeac.fr/",
+        "adresse": "Figeac",
+        "note": 4,
+        "avis": 26,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "puy-leveque": {
+    "artisans": [
+      {
+        "id": "12091363181450854283",
+        "nom": "CLIM SUD OUEST",
+        "slug": "clim-sud-ouest",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Caumon lieu dit",
+        "note": 5,
+        "avis": 11,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6472457521549874461",
+        "nom": "Schmutz Didier",
+        "slug": "schmutz-didier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Campastie",
+        "note": 1,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vayrac": {
+    "artisans": [
+      {
+        "id": "13781260847390527386",
+        "nom": "SARL Leonard Julien",
+        "slug": "sarl-leonard-julien",
+        "telephone": null,
+        "site_web": "http://sarl-leonard-julien.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "le-vigan": {
+    "artisans": [
+      {
+        "id": "17015226217339280925",
+        "nom": "HAKA ENERGY LE VIGAN",
+        "slug": "haka-energy-le-vigan",
+        "telephone": null,
+        "site_web": "https://haka-energy.com/fr",
+        "adresse": "832 RTE DE GOURDON, Rue des Prés Vignals ZA",
+        "note": 4,
+        "avis": 68,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "12534553169976402246",
+        "nom": "Eurl Linol Max",
+        "slug": "eurl-linol-max",
+        "telephone": null,
+        "site_web": "http://linolmax.site-solocal.com/",
+        "adresse": "Le Bourg",
+        "note": 4,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4203325817272864377",
+        "nom": "Cévennes Climatisation",
+        "slug": "cevennes-climatisation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Vigan",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14388940874742432516",
+        "nom": "Valette et Calazel",
+        "slug": "valette-et-calazel",
+        "telephone": null,
+        "site_web": "https://valetteetcalazel.site-solocal.com/",
+        "adresse": "Le Vigan",
+        "note": 4,
+        "avis": 3,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "aiguillon": {
+    "artisans": [
+      {
+        "id": "17066161243422226236",
+        "nom": "Burattini-Larrey",
+        "slug": "burattini-larrey",
+        "telephone": null,
+        "site_web": "https://www.chauffage-burattini-larrey-aiguillon.fr/",
+        "adresse": "11 Av. du Stade",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1073750673320264969",
+        "nom": "AJ Plomberie",
+        "slug": "aj-plomberie",
+        "telephone": null,
+        "site_web": "https://ajplomberie.fr/",
+        "adresse": "Rue les, Rue des Jardins de Salomon",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "2261688352267965003",
+        "nom": "Aiguillon Confort",
+        "slug": "aiguillon-confort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 Rue Jean-Jacques-Rousseau",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "3227580763125575129",
+        "nom": "CLOUPEAU SARL",
+        "slug": "cloupeau-sarl",
+        "telephone": null,
+        "site_web": "http://cloupeau.fr/",
+        "adresse": "11 Rue Lucie Aubrac",
+        "note": 4,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "9128893407865311003",
+        "nom": "COLOMBERA ENERGIE",
+        "slug": "colombera-energie",
+        "telephone": null,
+        "site_web": "https://www.colombera-energie.com/",
+        "adresse": "8 Rue des Jardins de Salomon",
+        "note": null,
+        "avis": null,
+        "type": "Siège social"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3783732212282671000",
+        "nom": "CG IRRIGATION 47",
+        "slug": "cg-irrigation-47",
+        "telephone": null,
+        "site_web": "http://www.cg-irrigation.com/",
+        "adresse": "2282 Rte de Villeneuve",
+        "note": 4,
+        "avis": 12,
+        "type": "Fournisseur d'équipement d'irrigation"
+      }
+    ]
+  },
+  "astaffort": {
+    "artisans": [
+      {
+        "id": "2339638917981711852",
+        "nom": "Climaf",
+        "slug": "climaf",
+        "telephone": null,
+        "site_web": "https://climaf-47.fr/",
+        "adresse": "Layrac",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "aubiac": {
+    "artisans": [
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6923400541003236362",
+        "nom": "CLIM RENOV - Climatisation",
+        "slug": "clim-renov-climatisation",
+        "telephone": null,
+        "site_web": "http://climrenov.fr/",
+        "adresse": "Giroussens",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10008748898087621583",
+        "nom": "FBS CLIM Climatisation -Ventilation - Chauffage (TARN)",
+        "slug": "fbs-clim-climatisation-ventilation-chauffage-tarn",
+        "telephone": null,
+        "site_web": "https://www.fbsclim.fr/?utm_source=gmb",
+        "adresse": "06 64 72 13 04",
+        "note": 5,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3564841005362115867",
+        "nom": "Climeric 81",
+        "slug": "climeric-81",
+        "telephone": null,
+        "site_web": "https://climeric81.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "barbaste": {
+    "artisans": [
+      {
+        "id": "4037650644078967768",
+        "nom": "Remy Equipement",
+        "slug": "remy-equipement",
+        "telephone": null,
+        "site_web": "https://www.remyequipement.fr/",
+        "adresse": "Rte de Bordeaux",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16830343702903649264",
+        "nom": "Galatherm Sarl",
+        "slug": "galatherm-sarl",
+        "telephone": null,
+        "site_web": "https://galatherm.com/",
+        "adresse": "Nérac",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10693157549443277779",
+        "nom": "Lazartigues Et Fils",
+        "slug": "lazartigues-et-fils",
+        "telephone": null,
+        "site_web": "https://www.lazartiguesetfils.fr/",
+        "adresse": "27 Chem. du Manistre",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "boe": {
+    "artisans": [
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10515826469472639162",
+        "nom": "AES Pompes à Chaleur et Climatisation",
+        "slug": "aes-pompes-a-chaleur-et-climatisation",
+        "telephone": null,
+        "site_web": "https://www.aesclim82.com/",
+        "adresse": "Montauban",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16260119749231839516",
+        "nom": "A.V.2.S",
+        "slug": "av2s",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Saint-Pierre-du-Mont",
+        "note": 5,
+        "avis": 23,
+        "type": "Centre de formation continue"
+      },
+      {
+        "id": "8014587258768899897",
+        "nom": "Go Froid 31",
+        "slug": "go-froid-31",
+        "telephone": null,
+        "site_web": "https://gofroid.com/",
+        "adresse": "Launaguet",
+        "note": 5,
+        "avis": 39,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14748519796157635549",
+        "nom": "C2 Climea",
+        "slug": "c2-climea",
+        "telephone": null,
+        "site_web": "https://www.c2climea.fr/",
+        "adresse": "Toulouse",
+        "note": 4,
+        "avis": 92,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18263602229197975068",
+        "nom": "GARBAY Energies",
+        "slug": "garbay-energies",
+        "telephone": null,
+        "site_web": "http://www.garbayenergies.com/",
+        "adresse": "76 Rue de la ZI",
+        "note": 4,
+        "avis": 58,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "bon-encontre": {
+    "artisans": [
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15866241702269004188",
+        "nom": "Genestet",
+        "slug": "genestet",
+        "telephone": null,
+        "site_web": "http://agenestet.fr/",
+        "adresse": "Castelculier",
+        "note": 4,
+        "avis": 35,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6614048989494253438",
+        "nom": "Aquitaine Thermique Confort",
+        "slug": "aquitaine-thermique-confort",
+        "telephone": null,
+        "site_web": "https://plombier-chauffagiste-atc.fr/",
+        "adresse": "Pont-du-Casse",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "14954365775302327221",
+        "nom": "Poli Christian",
+        "slug": "poli-christian",
+        "telephone": null,
+        "site_web": "http://poli-christian.chauffagiste-viessmann.fr/",
+        "adresse": "Lescloupet",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": null,
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "Brax",
+        "note": 4,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1169730635204134963",
+        "nom": "SARL AC2'air",
+        "slug": "sarl-ac2air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pont-du-Casse",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "brax": {
+    "artisans": [
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": null,
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "Brax",
+        "note": 4,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "cancon": {
+    "artisans": [
+      {
+        "id": "12592084358597683301",
+        "nom": "Cierneski Nicolas",
+        "slug": "cierneski-nicolas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue du Pigeonnier",
+        "note": 3,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13249839209618908921",
+        "nom": "Sarl Logique Eco Trade",
+        "slug": "sarl-logique-eco-trade",
+        "telephone": null,
+        "site_web": "https://www.logique-eco-trade.fr/",
+        "adresse": "11 Rue du Pigeonnier",
+        "note": null,
+        "avis": null,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "casseneuil": {
+    "artisans": [
+      {
+        "id": "12115154357166086179",
+        "nom": "EURL DB Climatisation",
+        "slug": "eurl-db-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/DBCLIMATISATION02",
+        "adresse": "07 68 39 23 80",
+        "note": 5,
+        "avis": 25,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15673384048034561213",
+        "nom": "ACA Rénov'",
+        "slug": "aca-renov",
+        "telephone": null,
+        "site_web": "https://www.acarenov.fr/?utm_source=gmb",
+        "adresse": "07 78 07 58 64",
+        "note": 5,
+        "avis": 32,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "10580963402335300721",
+        "nom": "Gungui plomberie chauffage climatisation",
+        "slug": "gungui-plomberie-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://gungui-plomberie-chauffage-climatisation-47.fr/",
+        "adresse": "Saint-Étienne-de-Fougères",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15995413080764442094",
+        "nom": "AQUI-THERM RAMONAGE - DEPANNAGE PLOMBERIE",
+        "slug": "aqui-therm-ramonage-depannage-plomberie",
+        "telephone": null,
+        "site_web": "https://aquitherm.fr/",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 3,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17221202197235568817",
+        "nom": "Ecolomique",
+        "slug": "ecolomique",
+        "telephone": null,
+        "site_web": "http://www.ecolomique-renove.com/?utm_source=gmb",
+        "adresse": "Bias",
+        "note": 4,
+        "avis": 62,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1169730635204134963",
+        "nom": "SARL AC2'air",
+        "slug": "sarl-ac2air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pont-du-Casse",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "castelculier": {
+    "artisans": [
+      {
+        "id": "15866241702269004188",
+        "nom": "Genestet",
+        "slug": "genestet",
+        "telephone": null,
+        "site_web": "http://agenestet.fr/",
+        "adresse": "273 Rue des artisans Za La Tuque",
+        "note": 4,
+        "avis": 35,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15278798774436781265",
+        "nom": "Clauger Lot et Garonne",
+        "slug": "clauger-lot-et-garonne",
+        "telephone": null,
+        "site_web": "https://www.clauger.com/fr/?utm_source=gmb",
+        "adresse": "140 Chem. des Cèdres",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "casteljaloux": {
+    "artisans": [
+      {
+        "id": "14517125742345760747",
+        "nom": "CPL Lanzutti",
+        "slug": "cpl-lanzutti",
+        "telephone": null,
+        "site_web": "https://www.cpl-lanzutti.fr/",
+        "adresse": "Casteljaloux",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "castelmoron-sur-lot": {
+    "artisans": [
+      {
+        "id": "14685460505010535113",
+        "nom": "Attouk Energie",
+        "slug": "attouk-energie",
+        "telephone": null,
+        "site_web": "https://www.attouk-energie.fr/",
+        "adresse": "Le Temple-sur-Lot",
+        "note": 4,
+        "avis": 20,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16498363619940067047",
+        "nom": "Aquitec Froid Courret",
+        "slug": "aquitec-froid-courret",
+        "telephone": null,
+        "site_web": "https://www.aquitecfroidcourret.fr/",
+        "adresse": "Sainte-Livrade-sur-Lot",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": null,
+        "site_web": "https://lghabitat.com/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 68,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "clairac": {
+    "artisans": [
+      {
+        "id": "16351533250667770380",
+        "nom": "Therm'Energy",
+        "slug": "thermenergy",
+        "telephone": null,
+        "site_web": "http://www.thermenergy47.fr/",
+        "adresse": "8 rue plaine de La Molère",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "7682154348797708355",
+        "nom": "ELJ Élec",
+        "slug": "elj-elec",
+        "telephone": null,
+        "site_web": "https://eljelec47.wixsite.com/elj-elec",
+        "adresse": "Longeville Est",
+        "note": 4,
+        "avis": 87,
+        "type": "Électricien"
+      },
+      {
+        "id": "9560182853624077330",
+        "nom": "ETS TECHNIC 47 DIAZ PHILIPPE",
+        "slug": "ets-technic-47-diaz-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16 Pl. Vicoze",
+        "note": 4,
+        "avis": 21,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "colayrac-saint-cirq": {
+    "artisans": [
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "2742 Rte d'Agen",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2375865552942608352",
+        "nom": "INZA GROUPE - PHOTOVOLTAIQUE AGEN",
+        "slug": "inza-groupe-photovoltaique-agen",
+        "telephone": null,
+        "site_web": "https://inzagroupe.com/",
+        "adresse": "1190 Rte d'Agen",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "2237570568533548710",
+        "nom": "David Georges SA",
+        "slug": "david-georges-sa",
+        "telephone": null,
+        "site_web": "https://g-david.fr/?utm_source=gmb",
+        "adresse": "Le Rey, 2268 route Agen, Rte Nationale 113",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "16218114419505374575",
+        "nom": "La Maison Du Gainable Agen",
+        "slug": "la-maison-du-gainable-agen",
+        "telephone": null,
+        "site_web": "http://www.la-maison-du-gainable.fr/",
+        "adresse": "Saint-Hilaire-de-Lusignan",
+        "note": 4,
+        "avis": 45,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7968210791430665368",
+        "nom": "Sarl Regade",
+        "slug": "sarl-regade",
+        "telephone": null,
+        "site_web": "https://sarlregade.fr/",
+        "adresse": "864 Rte d'Agen",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16113123279044315514",
+        "nom": "CM CLIM ELEC",
+        "slug": "cm-clim-elec",
+        "telephone": null,
+        "site_web": "https://cm-climelec.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-croix-blanche": {
+    "artisans": [
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6285930958328986850",
+        "nom": "Installation VMC - Maintenance VMC - Ivry-sur-seine Vent Frais",
+        "slug": "installation-vmc-maintenance-vmc-ivry-sur-seine-vent-frais",
+        "telephone": null,
+        "site_web": "https://installationairivryventfrais.com/",
+        "adresse": "Ivry-sur-Seine",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8123309610000442761",
+        "nom": "CLIM AND PROTECT",
+        "slug": "clim-and-protect",
+        "telephone": null,
+        "site_web": "https://www.climandprotect.fr/",
+        "adresse": "Saint-Gilles-Croix-de-Vie",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1939720586732376124",
+        "nom": "Calmel Lois EURL",
+        "slug": "calmel-lois-eurl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100050519449373",
+        "adresse": "Saint-Antoine-de-Ficalba",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3110065467790780942",
+        "nom": "LES COMPAGNONS DU VENT",
+        "slug": "les-compagnons-du-vent",
+        "telephone": null,
+        "site_web": "https://www.lescompagnonsduvent.bzh/",
+        "adresse": "Guipavas",
+        "note": 4,
+        "avis": 306,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "damazan": {
+    "artisans": [
+      {
+        "id": "6829538277483018899",
+        "nom": "Comin - D'Ambroso",
+        "slug": "comin-dambroso",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/88-sarl-comin-d-ambroso",
+        "adresse": "22 Rte de Mahourat",
+        "note": 3,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16956938861141135682",
+        "nom": "Carioli-stampetta Anthony",
+        "slug": "carioli-stampetta-anthony",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Damazan",
+        "note": 4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "13512177624313113291",
+        "nom": "ACEP",
+        "slug": "acep",
+        "telephone": null,
+        "site_web": "http://www.acep47.fr/",
+        "adresse": "Samazan",
+        "note": 2,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6441148509298152975",
+        "nom": "QUALI2C",
+        "slug": "quali2c",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 7 ans en activité",
+        "note": 1,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "duras": {
+    "artisans": [
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15544780786970987928",
+        "nom": "Yohann Ducasse",
+        "slug": "yohann-ducasse",
+        "telephone": null,
+        "site_web": "https://ducasseyohann.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "7903123136256785794",
+        "nom": "Vincent Patrice E.c.s Sarl",
+        "slug": "vincent-patrice-ecs-sarl",
+        "telephone": null,
+        "site_web": "https://patricevincentecs.fr/",
+        "adresse": "Roumagne",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": null,
+        "site_web": "https://lghabitat.com/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 68,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11586399819458404433",
+        "nom": "MP Clim & Sol Air - Installation climatisation",
+        "slug": "mp-clim-sol-air-installation-climatisation",
+        "telephone": null,
+        "site_web": "https://www.mpclimsolair.com/",
+        "adresse": "07 82 67 51 94",
+        "note": 5,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "feugarolles": {
+    "artisans": [
+      {
+        "id": "14139080785127989212",
+        "nom": "Jeremy Energies",
+        "slug": "jeremy-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Terrefort",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12658748045824309306",
+        "nom": "JPM Services 47 Multiservices",
+        "slug": "jpm-services-47-multiservices",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/JPM-Services-47-101808486149872",
+        "adresse": "103 Rue de la Gare",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "16830343702903649264",
+        "nom": "Galatherm Sarl",
+        "slug": "galatherm-sarl",
+        "telephone": null,
+        "site_web": "https://galatherm.com/",
+        "adresse": "Nérac",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1134346138641301164",
+        "nom": "SOS Multi Services",
+        "slug": "sos-multi-services",
+        "telephone": null,
+        "site_web": "http://www.sosmultiservices47.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lieudit Fraguet",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": null,
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "Fauillet",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "foulayronnes": {
+    "artisans": [
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16491665456328706587",
+        "nom": "Cochard et Fils SARL",
+        "slug": "cochard-et-fils-sarl",
+        "telephone": null,
+        "site_web": "http://www.cochard-fils.com/",
+        "adresse": "2 bis Rue Saint-Martin",
+        "note": 3,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": null,
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "Brax",
+        "note": 4,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "6614048989494253438",
+        "nom": "Aquitaine Thermique Confort",
+        "slug": "aquitaine-thermique-confort",
+        "telephone": null,
+        "site_web": "https://plombier-chauffagiste-atc.fr/",
+        "adresse": "Pont-du-Casse",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "4394677628274337093",
+        "nom": "Nouailles Epc",
+        "slug": "nouailles-epc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 ZA le Rouge",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "16218114419505374575",
+        "nom": "La Maison Du Gainable Agen",
+        "slug": "la-maison-du-gainable-agen",
+        "telephone": null,
+        "site_web": "http://www.la-maison-du-gainable.fr/",
+        "adresse": "Saint-Hilaire-de-Lusignan",
+        "note": 4,
+        "avis": 45,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "fourques-sur-garonne": {
+    "artisans": [
+      {
+        "id": "15809019143989596783",
+        "nom": "Climtech Aquitaine",
+        "slug": "climtech-aquitaine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Marmande",
+        "note": 5,
+        "avis": 119,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16563292567625336712",
+        "nom": "JVELEC MARMANDE",
+        "slug": "jvelec-marmande",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "182 Chem. de Bernata",
+        "note": 4,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "4380333346387005321",
+        "nom": "CLIM'ELEC",
+        "slug": "climelec",
+        "telephone": null,
+        "site_web": "https://www.clim-elec47.fr/",
+        "adresse": "Marmande",
+        "note": 5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10262137863096269645",
+        "nom": "SAS Larroche",
+        "slug": "sas-larroche",
+        "telephone": null,
+        "site_web": "https://www.saslarroche.fr/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 10,
+        "type": "Usine de panneaux solaires photovoltaïques"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": null,
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "Fauillet",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16917871436726151730",
+        "nom": "Bat Imm",
+        "slug": "bat-imm",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 All. des Rosiers",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1603212602898241518",
+        "nom": "SAS Bonotto",
+        "slug": "sas-bonotto",
+        "telephone": null,
+        "site_web": "https://www.sasbonotto-47.fr/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 100,
+        "type": "Électricien"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "fumel": {
+    "artisans": [
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": null,
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Centre Commercial Florimont, 410 route Périgueux",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10060653973445910998",
+        "nom": "E.D.I.F SARL",
+        "slug": "edif-sarl",
+        "telephone": null,
+        "site_web": "http://edif-fumel47.fr/?utm_source=gmb",
+        "adresse": "8 Av. de l'Usine",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13524779304351659787",
+        "nom": "METI CHAUFFAGE ( Maintenance des Equipements Thermiques Individuels)",
+        "slug": "meti-chauffage-maintenance-des-equipements-thermiques-individuels",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 70 09 28 98",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6449132862623528662",
+        "nom": "Martin Fils SARL",
+        "slug": "martin-fils-sarl",
+        "telephone": null,
+        "site_web": "http://www.martin-fils.com/?utm_source=gmb",
+        "adresse": "Montayral",
+        "note": 4,
+        "avis": 232,
+        "type": "Plombier"
+      },
+      {
+        "id": "1115151355868197557",
+        "nom": "BFA2 - Plomberie / Chauffage",
+        "slug": "bfa2-plomberie-chauffage",
+        "telephone": null,
+        "site_web": "https://bfa2.fr/",
+        "adresse": "119 Rte de Périgueux",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "3521046630006051886",
+        "nom": "Plomberie , Climatisation et Chauffage",
+        "slug": "plomberie-climatisation-et-chauffage",
+        "telephone": null,
+        "site_web": "https://www.plomberie-jardin.fr/contact.php?lng=fr&tconfig=0",
+        "adresse": "Condezaygues",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "2902538387182792774",
+        "nom": "Clim concept47",
+        "slug": "clim-concept47",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "07 72 06 35 00",
+        "note": 5,
+        "avis": 16,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4197341975228088318",
+        "nom": "Esclafert Garrigue",
+        "slug": "esclafert-garrigue",
+        "telephone": null,
+        "site_web": "https://www.esclafertgarrigue.fr/",
+        "adresse": "Monsempron-Libos",
+        "note": 3,
+        "avis": 18,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "gontaud-de-nogaret": {
+    "artisans": [
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13201845363202555662",
+        "nom": "Boulangerie Goualc'h",
+        "slug": "boulangerie-goualch",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue de Gajac",
+        "note": 4,
+        "avis": 318,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "16115164768295057459",
+        "nom": "SARL RDClim85",
+        "slug": "sarl-rdclim85",
+        "telephone": null,
+        "site_web": "http://www.rdclim85.fr/",
+        "adresse": "La Genétouze",
+        "note": 5,
+        "avis": 29,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8014587258768899897",
+        "nom": "Go Froid 31",
+        "slug": "go-froid-31",
+        "telephone": null,
+        "site_web": "https://gofroid.com/",
+        "adresse": "Launaguet",
+        "note": 5,
+        "avis": 39,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "hautefage-la-tour": {
+    "artisans": [
+      {
+        "id": "15219479336886429039",
+        "nom": "Aussignac Bruno",
+        "slug": "aussignac-bruno",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Courbonne",
+        "note": 4,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1169730635204134963",
+        "nom": "SARL AC2'air",
+        "slug": "sarl-ac2air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pont-du-Casse",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2145766506595108847",
+        "nom": "Jordi",
+        "slug": "jordi",
+        "telephone": null,
+        "site_web": "https://www.jordi-pac.fr/",
+        "adresse": "Moirax",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6913463159274622905",
+        "nom": "Sarl Jerome Victor",
+        "slug": "sarl-jerome-victor",
+        "telephone": null,
+        "site_web": "http://plaquiste-victor.fr/",
+        "adresse": "Granges Basses",
+        "note": 5,
+        "avis": 7,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "14074401402484853321",
+        "nom": "AIRCLIMEAU",
+        "slug": "airclimeau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Dolmayrac",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "lafox": {
+    "artisans": [
+      {
+        "id": "10110947942514996600",
+        "nom": "Fillastre",
+        "slug": "fillastre",
+        "telephone": null,
+        "site_web": "http://www.fillastre.com/?utm_source=gmb",
+        "adresse": "491 Route d'Agen",
+        "note": 3,
+        "avis": 46,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5842094395045854459",
+        "nom": "Entreprise Vinas SARL",
+        "slug": "entreprise-vinas-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Ostande",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15866241702269004188",
+        "nom": "Genestet",
+        "slug": "genestet",
+        "telephone": null,
+        "site_web": "http://agenestet.fr/",
+        "adresse": "Castelculier",
+        "note": 4,
+        "avis": 35,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2145766506595108847",
+        "nom": "Jordi",
+        "slug": "jordi",
+        "telephone": null,
+        "site_web": "https://www.jordi-pac.fr/",
+        "adresse": "Moirax",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "laplume": {
+    "artisans": [
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "6026615682750631016",
+        "nom": "Sarl Guyalink - Électricité, pompe à chaleur et photovoltaïques à Agen",
+        "slug": "sarl-guyalink-electricite-pompe-a-chaleur-et-photovoltaiques-a-agen",
+        "telephone": null,
+        "site_web": "https://guyalink.fr/",
+        "adresse": "Boé",
+        "note": 5,
+        "avis": 123,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "laroque-timbaut": {
+    "artisans": [
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "4 Rue Ribalous",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2303205121741959148",
+        "nom": "BM Froid 47",
+        "slug": "bm-froid-47",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Laroque-Timbaut",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5734809559638429897",
+        "nom": "Electricien Climatisation Candelibes à Laroque Timbaut",
+        "slug": "electricien-climatisation-candelibes-a-laroque-timbaut",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Rue du 19 Mars 1962",
+        "note": 4,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "7282762623279891312",
+        "nom": "Iod Gts",
+        "slug": "iod-gts",
+        "telephone": null,
+        "site_web": "http://www.iodgts.com/",
+        "adresse": "Rue Aristide Salères",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "7830283768560155264",
+        "nom": "MCONNECT",
+        "slug": "mconnect",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "17777297558478793256",
+        "nom": "SARL SEBASTIEN CHIROL",
+        "slug": "sarl-sebastien-chirol",
+        "telephone": null,
+        "site_web": "https://www.sarl-chirol.fr/",
+        "adresse": "La Sauvetat-de-Savères",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "5994943155223211324",
+        "nom": "SARL Jalacroix",
+        "slug": "sarl-jalacroix",
+        "telephone": null,
+        "site_web": "https://www.jalacroix.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 5,
+        "avis": 5,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "lavardac": {
+    "artisans": [
+      {
+        "id": "4037650644078967768",
+        "nom": "Remy Equipement",
+        "slug": "remy-equipement",
+        "telephone": null,
+        "site_web": "https://www.remyequipement.fr/",
+        "adresse": "Barbaste",
+        "note": 4,
+        "avis": 9,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "18319722110907793543",
+        "nom": "SARL Les 5 Élements",
+        "slug": "sarl-les-5-elements",
+        "telephone": null,
+        "site_web": "http://les5elements.fr/",
+        "adresse": "7 Laprade",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "10693157549443277779",
+        "nom": "Lazartigues Et Fils",
+        "slug": "lazartigues-et-fils",
+        "telephone": null,
+        "site_web": "https://www.lazartiguesetfils.fr/",
+        "adresse": "Barbaste",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "1844208672151009548",
+        "nom": "CT Electricité",
+        "slug": "ct-electricite",
+        "telephone": null,
+        "site_web": "https://www.ctelectricite-capeletto.fr/",
+        "adresse": "Barbaste",
+        "note": 3,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "layrac": {
+    "artisans": [
+      {
+        "id": "2339638917981711852",
+        "nom": "Climaf",
+        "slug": "climaf",
+        "telephone": null,
+        "site_web": "https://climaf-47.fr/",
+        "adresse": "La Sablère",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "ledat": {
+    "artisans": [
+      {
+        "id": "12115154357166086179",
+        "nom": "EURL DB Climatisation",
+        "slug": "eurl-db-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/DBCLIMATISATION02",
+        "adresse": "07 68 39 23 80",
+        "note": 5,
+        "avis": 25,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7029938607658482040",
+        "nom": "Logiwatt SARL",
+        "slug": "logiwatt-sarl",
+        "telephone": null,
+        "site_web": "https://www.logiwatt.fr/",
+        "adresse": "Bias",
+        "note": 5,
+        "avis": 14,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "52458204938960995",
+        "nom": "Electricité Froid Frigoriste",
+        "slug": "electricite-froid-frigoriste",
+        "telephone": null,
+        "site_web": "http://froid-solution47.fr/",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "9184940625408452005",
+        "nom": "Atelier Technique Froid Climatisation - Climatisation Villeneuve-sur-Lot",
+        "slug": "atelier-technique-froid-climatisation-climatisation-villeneuve-sur-lot",
+        "telephone": null,
+        "site_web": "https://atfc.fr/",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1939720586732376124",
+        "nom": "Calmel Lois EURL",
+        "slug": "calmel-lois-eurl",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100050519449373",
+        "adresse": "Saint-Antoine-de-Ficalba",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "marmande": {
+    "artisans": [
+      {
+        "id": "4380333346387005321",
+        "nom": "CLIM'ELEC",
+        "slug": "climelec",
+        "telephone": null,
+        "site_web": "https://www.clim-elec47.fr/",
+        "adresse": "12 Rue Bayle de Seyches",
+        "note": 5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16465368262086100170",
+        "nom": "Beauger et fils",
+        "slug": "beauger-et-fils",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Beaupuy",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10015473964282449313",
+        "nom": "Doux Bruno EURL",
+        "slug": "doux-bruno-eurl",
+        "telephone": null,
+        "site_web": "http://www.plombier-marmande.fr/",
+        "adresse": "Plus de 10 ans en activité",
+        "note": 4,
+        "avis": 52,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1603212602898241518",
+        "nom": "SAS Bonotto",
+        "slug": "sas-bonotto",
+        "telephone": null,
+        "site_web": "https://www.sasbonotto-47.fr/",
+        "adresse": "Chem. Jean Bart",
+        "note": 4,
+        "avis": 100,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3361474885784915442",
+        "nom": "Agbtherme",
+        "slug": "agbtherme",
+        "telephone": null,
+        "site_web": "https://www.agbtherme.fr/",
+        "adresse": "Marcellus",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10262137863096269645",
+        "nom": "SAS Larroche",
+        "slug": "sas-larroche",
+        "telephone": null,
+        "site_web": "https://www.saslarroche.fr/",
+        "adresse": "380 Rue Jean Mermoz",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15548944283859608861",
+        "nom": "POITEVIN ÉNERGIES",
+        "slug": "poitevin-energies",
+        "telephone": null,
+        "site_web": "https://www.poitevinenergies.fr/",
+        "adresse": "Sainte-Bazeille",
+        "note": 4,
+        "avis": 62,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4492755158936532625",
+        "nom": "Axima Réfrigération / Groupe Equans",
+        "slug": "axima-refrigeration-groupe-equans",
+        "telephone": null,
+        "site_web": "https://www.equans.fr/nos-solutions/refrigerationn",
+        "adresse": "36 Av. Rondereau",
+        "note": 4,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1970809268197416857",
+        "nom": "Pro Energie 47",
+        "slug": "pro-energie-47",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/marquestiago47/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13924002411774140193",
+        "nom": "Pierre PISTRIN - Piela électricité",
+        "slug": "pierre-pistrin-piela-electricite",
+        "telephone": null,
+        "site_web": "http://pielaelectricite.wordpress.com/",
+        "adresse": "32 Rue de la Rose",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "meilhan-sur-garonne": {
+    "artisans": [
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1931349902330164198",
+        "nom": "Anthony Clim Services",
+        "slug": "anthony-clim-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "06 74 98 22 30",
+        "note": null,
+        "avis": null,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7841530149126189706",
+        "nom": "CARNIEL GUILLAUME Plâtrier Plaquiste",
+        "slug": "carniel-guillaume-platrier-plaquiste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lieu dit Laborde",
+        "note": 5,
+        "avis": 2,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14397179989807888430",
+        "nom": "SARL RIGO JEAN PIERRE",
+        "slug": "sarl-rigo-jean-pierre",
+        "telephone": null,
+        "site_web": "http://www.rigo-chauffage-clim.com/",
+        "adresse": "Sainte-Bazeille",
+        "note": 4,
+        "avis": 72,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11586399819458404433",
+        "nom": "MP Clim & Sol Air - Installation climatisation",
+        "slug": "mp-clim-sol-air-installation-climatisation",
+        "telephone": null,
+        "site_web": "https://www.mpclimsolair.com/",
+        "adresse": "07 82 67 51 94",
+        "note": 5,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13016341046739726587",
+        "nom": "Surl'air",
+        "slug": "surlair",
+        "telephone": null,
+        "site_web": "https://www.surlairaquitaine.com/",
+        "adresse": "Saint-Martial",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mezin": {
+    "artisans": [
+      {
+        "id": "15114416398172593373",
+        "nom": "PN Plomberie-chauffage",
+        "slug": "pn-plomberie-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "346 Av. Jacques Bertrand",
+        "note": 4,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "5010228352334632986",
+        "nom": "Donois Froid Elec",
+        "slug": "donois-froid-elec",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/Donois-Froid-Elec-611562422345264/?ref=page_internal",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 3,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10897676223703486932",
+        "nom": "Mendes Frédéric SARL",
+        "slug": "mendes-frederic-sarl",
+        "telephone": null,
+        "site_web": "http://sarlmendesfrederic.com/",
+        "adresse": "Réaup-Lisse",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "5812237325828396651",
+        "nom": "Albret Energies",
+        "slug": "albret-energies",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100077550165562",
+        "adresse": "Lavardac",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11572486575407139667",
+        "nom": "Ets Sabathe",
+        "slug": "ets-sabathe",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100088399543227",
+        "adresse": "Av. Jacques Bertrand",
+        "note": 4,
+        "avis": 10,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "7377656846199193494",
+        "nom": "Batiland Armagnac Materiaux (Drive)",
+        "slug": "batiland-armagnac-materiaux-drive",
+        "telephone": null,
+        "site_web": "https://urthaler.batiland.fr/",
+        "adresse": "2 avenue Max Grosselle",
+        "note": 4,
+        "avis": 26,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "11163067385723080072",
+        "nom": "L'Utile & l'Agréable",
+        "slug": "lutile-lagreable",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/share/1JrCwSJ1Fr/",
+        "adresse": "2 avenue Max Grosselle",
+        "note": 4,
+        "avis": 27,
+        "type": "Magasin d'alimentation animale"
+      }
+    ]
+  },
+  "miramont-de-guyenne": {
+    "artisans": [
+      {
+        "id": "12585945578295415609",
+        "nom": "Enriquez Ferboeuf SASU",
+        "slug": "enriquez-ferboeuf-sasu",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/ENRIQUEZFERBOEUF?utm_source=gmb",
+        "adresse": "700 Av. Alfred Court",
+        "note": 4,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "7903123136256785794",
+        "nom": "Vincent Patrice E.c.s Sarl",
+        "slug": "vincent-patrice-ecs-sarl",
+        "telephone": null,
+        "site_web": "https://patricevincentecs.fr/",
+        "adresse": "Roumagne",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "3458529513473951985",
+        "nom": "C2R menuiserie",
+        "slug": "c2r-menuiserie",
+        "telephone": null,
+        "site_web": "https://www.menuiserie-c2r.fr/?utm_source=gmb&utm_medium=referral&utm_campaign=lien-principal-fiche-gmb",
+        "adresse": "53 Av. de Paris",
+        "note": 4,
+        "avis": 58,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": null,
+        "site_web": "https://lghabitat.com/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 68,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": null,
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "Fauillet",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10853512255298468517",
+        "nom": "BADIE - Tonneins",
+        "slug": "badie-tonneins",
+        "telephone": null,
+        "site_web": "http://www.badie-installateur.com/",
+        "adresse": "Tonneins",
+        "note": 3,
+        "avis": 83,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "moirax": {
+    "artisans": [
+      {
+        "id": "2145766506595108847",
+        "nom": "Jordi",
+        "slug": "jordi",
+        "telephone": null,
+        "site_web": "https://www.jordi-pac.fr/",
+        "adresse": "160 Chem. de Pujos",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15244930564329892298",
+        "nom": "SARL GREGOIRE",
+        "slug": "sarl-gregoire",
+        "telephone": null,
+        "site_web": "https://sarlgregoire.fr/",
+        "adresse": "365 Chem. de Pujos",
+        "note": 3,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "monflanquin": {
+    "artisans": [
+      {
+        "id": "5693255517514316636",
+        "nom": "chauffagiste Bonnel - monflanquin",
+        "slug": "chauffagiste-bonnel-monflanquin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rte de Savignac",
+        "note": 3,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "monsempron-libos": {
+    "artisans": [
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": null,
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Fumel",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17022410851398698958",
+        "nom": "Rapid Plombier",
+        "slug": "rapid-plombier",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/Rapid-plombier-1300492196656124/?utm_source=gmb",
+        "adresse": "Montayral",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "le-passage": {
+    "artisans": [
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "penne-dagenais": {
+    "artisans": [
+      {
+        "id": "4333811675981118050",
+        "nom": "KMS Energie",
+        "slug": "kms-energie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=61552734368611",
+        "adresse": "203 ZI DE PAYSSEL",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12673897924758079290",
+        "nom": "CLIM47",
+        "slug": "clim47",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3372978956277573996",
+        "nom": "Aquitaine Energy",
+        "slug": "aquitaine-energy",
+        "telephone": null,
+        "site_web": "https://www.climatisation-kolher-agen.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "542 Rte du Fontey",
+        "note": 4,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "3894242819308651205",
+        "nom": "Etablissements Fontanie",
+        "slug": "etablissements-fontanie",
+        "telephone": null,
+        "site_web": "http://www.froid-fontanie.fr/?utm_source=gmb",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": null,
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Fumel",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "pont-du-casse": {
+    "artisans": [
+      {
+        "id": "6614048989494253438",
+        "nom": "Aquitaine Thermique Confort",
+        "slug": "aquitaine-thermique-confort",
+        "telephone": null,
+        "site_web": "https://plombier-chauffagiste-atc.fr/",
+        "adresse": "Za De Borie, 20 Rue des Entrepreneurs",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "16113123279044315514",
+        "nom": "CM CLIM ELEC",
+        "slug": "cm-clim-elec",
+        "telephone": null,
+        "site_web": "https://cm-climelec.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "1169730635204134963",
+        "nom": "SARL AC2'air",
+        "slug": "sarl-ac2air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "14 route de riols Cazelles",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13059277677290632103",
+        "nom": "Dalbin Claude Sarl",
+        "slug": "dalbin-claude-sarl",
+        "telephone": null,
+        "site_web": "http://www.dalbin-plomberie-chauffage.fr/",
+        "adresse": "Sainte Foi de Jérusalem",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "16266104627298151401",
+        "nom": "Le Comptoir de la Ventilation",
+        "slug": "le-comptoir-de-la-ventilation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pont-du-Château",
+        "note": 4,
+        "avis": 13,
+        "type": "Magasin de matériel de cuisine"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15866241702269004188",
+        "nom": "Genestet",
+        "slug": "genestet",
+        "telephone": null,
+        "site_web": "http://agenestet.fr/",
+        "adresse": "Castelculier",
+        "note": 4,
+        "avis": 35,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "beaupuy": {
+    "artisans": [
+      {
+        "id": "16465368262086100170",
+        "nom": "Beauger et fils",
+        "slug": "beauger-et-fils",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Av. Belle Colline",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4380333346387005321",
+        "nom": "CLIM'ELEC",
+        "slug": "climelec",
+        "telephone": null,
+        "site_web": "https://www.clim-elec47.fr/",
+        "adresse": "Marmande",
+        "note": 5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1603212602898241518",
+        "nom": "SAS Bonotto",
+        "slug": "sas-bonotto",
+        "telephone": null,
+        "site_web": "https://www.sasbonotto-47.fr/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 100,
+        "type": "Électricien"
+      },
+      {
+        "id": "15465027187154397041",
+        "nom": "Plotherm",
+        "slug": "plotherm",
+        "telephone": null,
+        "site_web": "http://www.plotherm.com/?utm_source=gmb",
+        "adresse": "Beaupuy",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4492755158936532625",
+        "nom": "Axima Réfrigération / Groupe Equans",
+        "slug": "axima-refrigeration-groupe-equans",
+        "telephone": null,
+        "site_web": "https://www.equans.fr/nos-solutions/refrigerationn",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 2,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3681231529470764887",
+        "nom": "Téréva Marmande",
+        "slug": "tereva-marmande",
+        "telephone": null,
+        "site_web": "https://www.tereva.fr/document/A-394612--agence-tereva-marmande",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 27,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "14397179989807888430",
+        "nom": "SARL RIGO JEAN PIERRE",
+        "slug": "sarl-rigo-jean-pierre",
+        "telephone": null,
+        "site_web": "http://www.rigo-chauffage-clim.com/",
+        "adresse": "Sainte-Bazeille",
+        "note": 4,
+        "avis": 72,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "bias": {
+    "artisans": [
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "buzet-sur-baise": {
+    "artisans": [
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5576599290170895989",
+        "nom": "AFEnergies (climatisation / chauffage / plomberie/ vmc)",
+        "slug": "afenergies-climatisation-chauffage-plomberie-vmc",
+        "telephone": null,
+        "site_web": "https://www.afenergies.com/",
+        "adresse": "06 11 65 12 43",
+        "note": 5,
+        "avis": 143,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15640219362445377607",
+        "nom": "B Alexis Thermique",
+        "slug": "b-alexis-thermique",
+        "telephone": null,
+        "site_web": "http://www.alexis-thermique.fr/",
+        "adresse": "Laplume",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5305156383390832132",
+        "nom": "Albret Distribution Alain Véniel",
+        "slug": "albret-distribution-alain-veniel",
+        "telephone": null,
+        "site_web": "http://www.albret-distribution.com/",
+        "adresse": "Nérac",
+        "note": 3,
+        "avis": 29,
+        "type": "installateur VMC ventilation"
+      },
+      {
+        "id": "14853680622362017083",
+        "nom": "AlluloClim",
+        "slug": "alluloclim",
+        "telephone": null,
+        "site_web": "http://alluloclim.fr/",
+        "adresse": "Bourret",
+        "note": 5,
+        "avis": 86,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "caudecoste": {
+    "artisans": [
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16885381019163320447",
+        "nom": "CFM Sud-Ouest",
+        "slug": "cfm-sud-ouest",
+        "telephone": null,
+        "site_web": "http://www.cfmsudouest.com/",
+        "adresse": "Goudourville",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16113123279044315514",
+        "nom": "CM CLIM ELEC",
+        "slug": "cm-clim-elec",
+        "telephone": null,
+        "site_web": "https://cm-climelec.fr/",
+        "adresse": "Plus de 7 ans en activité",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2145766506595108847",
+        "nom": "Jordi",
+        "slug": "jordi",
+        "telephone": null,
+        "site_web": "https://www.jordi-pac.fr/",
+        "adresse": "Moirax",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "6614048989494253438",
+        "nom": "Aquitaine Thermique Confort",
+        "slug": "aquitaine-thermique-confort",
+        "telephone": null,
+        "site_web": "https://plombier-chauffagiste-atc.fr/",
+        "adresse": "Pont-du-Casse",
+        "note": 4,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "estillac": {
+    "artisans": [
+      {
+        "id": "2146806850033315193",
+        "nom": "BENOIT BIGOT ELECTRICITE CLIMATISATION",
+        "slug": "benoit-bigot-electricite-climatisation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/p/SAS-BIGOT-Benoit-%C3%A9lectricit%C3%A9-100093330581931/",
+        "adresse": "ZA Les, Zone des Portes d’Estillac",
+        "note": 5,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9380421280331067860",
+        "nom": "Cortesi Éric - Electricien, plombier, chauffagiste",
+        "slug": "cortesi-eric-electricien-plombier-chauffagiste",
+        "telephone": null,
+        "site_web": "https://www.cortesi-depannage-47.fr/",
+        "adresse": "3 Chem. de Castex",
+        "note": 3,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17563445103463344759",
+        "nom": "CCP VITALE",
+        "slug": "ccp-vitale",
+        "telephone": null,
+        "site_web": "https://www.plombier-chauffagiste-agen.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "35 Rte Mestre Marty",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2339638917981711852",
+        "nom": "Climaf",
+        "slug": "climaf",
+        "telephone": null,
+        "site_web": "https://climaf-47.fr/",
+        "adresse": "Layrac",
+        "note": 4,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "montayral": {
+    "artisans": [
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": null,
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Fumel",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6449132862623528662",
+        "nom": "Martin Fils SARL",
+        "slug": "martin-fils-sarl",
+        "telephone": null,
+        "site_web": "http://www.martin-fils.com/?utm_source=gmb",
+        "adresse": "ZA du haut agenais",
+        "note": 4,
+        "avis": 232,
+        "type": "Plombier"
+      },
+      {
+        "id": "10060653973445910998",
+        "nom": "E.D.I.F SARL",
+        "slug": "edif-sarl",
+        "telephone": null,
+        "site_web": "http://edif-fumel47.fr/?utm_source=gmb",
+        "adresse": "Fumel",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17022410851398698958",
+        "nom": "Rapid Plombier",
+        "slug": "rapid-plombier",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/Rapid-plombier-1300492196656124/?utm_source=gmb",
+        "adresse": "72 Av. de Libos",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "nerac": {
+    "artisans": [
+      {
+        "id": "16830343702903649264",
+        "nom": "Galatherm Sarl",
+        "slug": "galatherm-sarl",
+        "telephone": null,
+        "site_web": "https://galatherm.com/",
+        "adresse": "Lieu dit Guilhem bas, Rue de Bordeaux",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10545173753617344189",
+        "nom": "Moulinié (SAS)",
+        "slug": "moulinie-sas",
+        "telephone": null,
+        "site_web": "http://www.moulinie.fr/",
+        "adresse": "110 Av. Georges Clemenceau",
+        "note": 4,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": null,
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "Brax",
+        "note": 4,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "15658115210697623427",
+        "nom": "Chauff'O Eco",
+        "slug": "chauffo-eco",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/p/Chauffo-Eco-61567476178970/?utm_source=gmb",
+        "adresse": "06 81 57 21 41",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10529957011568253552",
+        "nom": "Schobert Olivier",
+        "slug": "schobert-olivier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21 Quai Lusignan",
+        "note": 5,
+        "avis": 8,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "agen": {
+    "artisans": [
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "46 Imp. Alexandre Dumas",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": null,
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 91,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "100 Av. Dr Jean Bru avenue du",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8003116942857889984",
+        "nom": "3C Clim Agen",
+        "slug": "3c-clim-agen",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Boé",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6026615682750631016",
+        "nom": "Sarl Guyalink - Électricité, pompe à chaleur et photovoltaïques à Agen",
+        "slug": "sarl-guyalink-electricite-pompe-a-chaleur-et-photovoltaiques-a-agen",
+        "telephone": null,
+        "site_web": "https://guyalink.fr/",
+        "adresse": "Boé",
+        "note": 5,
+        "avis": 123,
+        "type": "Électricien"
+      },
+      {
+        "id": "3847660173811560885",
+        "nom": "Euro Tech",
+        "slug": "euro-tech",
+        "telephone": null,
+        "site_web": "http://www.eurotech47.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 44,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "13460483852630244369",
+        "nom": "SARL SANI CHAUFF",
+        "slug": "sarl-sani-chauff",
+        "telephone": null,
+        "site_web": "http://www.sanichauff47.fr/",
+        "adresse": "Plus de 30 ans en activité",
+        "note": 4,
+        "avis": 94,
+        "type": "Plombier"
+      },
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": null,
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "Brax",
+        "note": 4,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-mas-dagenais": {
+    "artisans": [
+      {
+        "id": "8804878476613969755",
+        "nom": "EIRL Yannick Calmejane",
+        "slug": "eirl-yannick-calmejane",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Chem. de venteuilh",
+        "note": null,
+        "avis": null,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": null,
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "Fauillet",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "castillonnes": {
+    "artisans": [
+      {
+        "id": "10541497169922334966",
+        "nom": "Pôle energie",
+        "slug": "pole-energie",
+        "telephone": null,
+        "site_web": "https://pole-energie47.fr/",
+        "adresse": "Cahuzac",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13025097286363358130",
+        "nom": "Ecsjj",
+        "slug": "ecsjj",
+        "telephone": null,
+        "site_web": "https://www.ecs-jj.fr/",
+        "adresse": "Montauriol",
+        "note": 4,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "15730754677750429194",
+        "nom": "Nicolas Dall’armi",
+        "slug": "nicolas-dallarmi",
+        "telephone": null,
+        "site_web": "https://pole-energie47.fr/",
+        "adresse": "Cahuzac",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "4420385012365571658",
+        "nom": "SARL VETTOREL",
+        "slug": "sarl-vettorel",
+        "telephone": null,
+        "site_web": "https://sarlvettorel.com/",
+        "adresse": "8 Grand Rue",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "1169730635204134963",
+        "nom": "SARL AC2'air",
+        "slug": "sarl-ac2air",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pont-du-Casse",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17866267755587328171",
+        "nom": "MAZEAU Eric sarl FCEB",
+        "slug": "mazeau-eric-sarl-fceb",
+        "telephone": null,
+        "site_web": "https://mazeau-monmadales.site-solocal.com/",
+        "adresse": "Monmadalès",
+        "note": 4,
+        "avis": 6,
+        "type": "Fournisseur de réfrigérateurs commerciaux"
+      },
+      {
+        "id": "1765078374169414228",
+        "nom": "SARL BALSERA",
+        "slug": "sarl-balsera",
+        "telephone": null,
+        "site_web": "https://www.sarlbalsera.com/",
+        "adresse": "Lalinde",
+        "note": 4,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9618458579692789760",
+        "nom": "Maison de santé pluriprofessionnelle de Castillonnès",
+        "slug": "maison-de-sante-pluriprofessionnelle-de-castillonnes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3b Av. de la République",
+        "note": 5,
+        "avis": 1,
+        "type": "Maison de santé"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1864879412855219071",
+        "nom": "Sauvanet TP",
+        "slug": "sauvanet-tp",
+        "telephone": null,
+        "site_web": "http://etr24.fr/",
+        "adresse": "Palanque d'Henri Ouest",
+        "note": 5,
+        "avis": 6,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "cocumont": {
+    "artisans": [
+      {
+        "id": "11517577005806275983",
+        "nom": "semat renov",
+        "slug": "semat-renov",
+        "telephone": null,
+        "site_web": "https://semat-renov.fr/",
+        "adresse": "Cocumont",
+        "note": 5,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "port-sainte-marie": {
+    "artisans": [
+      {
+        "id": "18292215207618234252",
+        "nom": "Sas Séguès et Fils",
+        "slug": "sas-segues-et-fils",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Rue du Bac",
+        "note": 3,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2451476470380781516",
+        "nom": "A.e.r. Avenir Energies Renouvelables",
+        "slug": "aer-avenir-energies-renouvelables",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Ponchut",
+        "note": null,
+        "avis": null,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-sylvestre-sur-lot": {
+    "artisans": [
+      {
+        "id": "3241837882227012881",
+        "nom": "Adep Service- chauffagiste",
+        "slug": "adep-service-chauffagiste",
+        "telephone": null,
+        "site_web": "http://www.adepservice.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "10 Rue du Lot",
+        "note": 4,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": null,
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Fumel",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16252680240805936177",
+        "nom": "CVC 46",
+        "slug": "cvc-46",
+        "telephone": null,
+        "site_web": "https://www.eirlcvc46.fr/",
+        "adresse": "Douelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16118094073416410986",
+        "nom": "Maison de Santé",
+        "slug": "maison-de-sante",
+        "telephone": null,
+        "site_web": "https://www.saintsylvestresurlot.com/sante-medecine.html",
+        "adresse": "16 Av. de Galiane",
+        "note": 3,
+        "avis": 17,
+        "type": "Médecin"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11353947376744133836",
+        "nom": "VICENTE ENERGIES",
+        "slug": "vicente-energies",
+        "telephone": null,
+        "site_web": "http://www.vicente-energies.fr/",
+        "adresse": "Mercuès",
+        "note": 4,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pujols": {
+    "artisans": [
+      {
+        "id": "52458204938960995",
+        "nom": "Electricité Froid Frigoriste",
+        "slug": "electricite-froid-frigoriste",
+        "telephone": null,
+        "site_web": "http://froid-solution47.fr/",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5500014236902189790",
+        "nom": "Sarl Lompech-Tesquet",
+        "slug": "sarl-lompech-tesquet",
+        "telephone": null,
+        "site_web": "http://www.lompech-tesquet.fr/",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 3,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "15995413080764442094",
+        "nom": "AQUI-THERM RAMONAGE - DEPANNAGE PLOMBERIE",
+        "slug": "aqui-therm-ramonage-depannage-plomberie",
+        "telephone": null,
+        "site_web": "https://aquitherm.fr/",
+        "adresse": "Villeneuve-sur-Lot",
+        "note": 3,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "685486545025519342",
+        "nom": "Pujol Chauffage & Climatisation",
+        "slug": "pujol-chauffage-climatisation",
+        "telephone": null,
+        "site_web": "https://www.pujolchauffage.fr/",
+        "adresse": "Castres",
+        "note": 4,
+        "avis": 90,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-hilaire-de-lusignan": {
+    "artisans": [
+      {
+        "id": "16218114419505374575",
+        "nom": "La Maison Du Gainable Agen",
+        "slug": "la-maison-du-gainable-agen",
+        "telephone": null,
+        "site_web": "http://www.la-maison-du-gainable.fr/",
+        "adresse": "895 Av. Jean-François Poncet",
+        "note": 4,
+        "avis": 45,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": null,
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "Brax",
+        "note": 4,
+        "avis": 43,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "7968210791430665368",
+        "nom": "Sarl Regade",
+        "slug": "sarl-regade",
+        "telephone": null,
+        "site_web": "https://sarlregade.fr/",
+        "adresse": "Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10110947942514996600",
+        "nom": "Fillastre",
+        "slug": "fillastre",
+        "telephone": null,
+        "site_web": "http://www.fillastre.com/?utm_source=gmb",
+        "adresse": "Lafox",
+        "note": 3,
+        "avis": 46,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7899618554389343743",
+        "nom": "EURL VAN-DEN-KERKHOF",
+        "slug": "eurl-van-den-kerkhof",
+        "telephone": null,
+        "site_web": "https://eurl-alexvdk.fr/contact/",
+        "adresse": "Madaillan",
+        "note": 5,
+        "avis": 1,
+        "type": "installateur VMC ventilation"
+      }
+    ]
+  },
+  "sainte-livrade-sur-lot": {
+    "artisans": [
+      {
+        "id": "16498363619940067047",
+        "nom": "Aquitec Froid Courret",
+        "slug": "aquitec-froid-courret",
+        "telephone": null,
+        "site_web": "https://www.aquitecfroidcourret.fr/",
+        "adresse": "382 impasse Peyremail",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5549835490649784717",
+        "nom": "sos depannage",
+        "slug": "sos-depannage",
+        "telephone": null,
+        "site_web": "https://www.sos-depannage-pompe-a-chaleur-climatisation.fr/",
+        "adresse": "2302 Rte de Casseneuil",
+        "note": 5,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7273933131426923852",
+        "nom": "Bernard Renzema",
+        "slug": "bernard-renzema",
+        "telephone": null,
+        "site_web": "https://bernardrenzema.com/",
+        "adresse": "95 Av. d'Agen",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14626988454013069796",
+        "nom": "COMIN SARL",
+        "slug": "comin-sarl",
+        "telephone": null,
+        "site_web": "https://www.axenergie.eu/agences/82-sarl-comin-",
+        "adresse": "Allez-et-Cazeneuve",
+        "note": 3,
+        "avis": 45,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2896212601821991128",
+        "nom": "Boudon Sarl",
+        "slug": "boudon-sarl",
+        "telephone": null,
+        "site_web": "http://www.boudonelectricite.fr/",
+        "adresse": "Zone Artisanale Peyremail",
+        "note": 4,
+        "avis": 23,
+        "type": "Électricien"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16902615921314728044",
+        "nom": "SARL JFS - Plaquiste - Plâtrerie sèche et isolation",
+        "slug": "sarl-jfs-plaquiste-platrerie-seche-et-isolation",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "489 Chem. de Lacoste",
+        "note": 5,
+        "avis": 13,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "14685460505010535113",
+        "nom": "Attouk Energie",
+        "slug": "attouk-energie",
+        "telephone": null,
+        "site_web": "https://www.attouk-energie.fr/",
+        "adresse": "Le Temple-sur-Lot",
+        "note": 4,
+        "avis": 20,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": null,
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "Laroque-Timbaut",
+        "note": 4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-pardoux-isaac": {
+    "artisans": [
+      {
+        "id": "7903123136256785794",
+        "nom": "Vincent Patrice E.c.s Sarl",
+        "slug": "vincent-patrice-ecs-sarl",
+        "telephone": null,
+        "site_web": "https://patricevincentecs.fr/",
+        "adresse": "Roumagne",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11882717131739887208",
+        "nom": "AEG Aquitaine - Electric Rénov Energies - Installateur RGE en climatisation, ventilation et photovoltaïque.",
+        "slug": "aeg-aquitaine-electric-renov-energies-installateur-rge-en-climatisation-ventilation-et-photovoltaique",
+        "telephone": null,
+        "site_web": "http://www.aeg-aquitaine.fr/",
+        "adresse": "Yvrac",
+        "note": 4,
+        "avis": 28,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Virazeil",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13016341046739726587",
+        "nom": "Surl'air",
+        "slug": "surlair",
+        "telephone": null,
+        "site_web": "https://www.surlairaquitaine.com/",
+        "adresse": "Saint-Martial",
+        "note": 5,
+        "avis": 8,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "15544780786970987928",
+        "nom": "Yohann Ducasse",
+        "slug": "yohann-ducasse",
+        "telephone": null,
+        "site_web": "https://ducasseyohann.fr/",
+        "adresse": "Plus de 5 ans en activité",
+        "note": 5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "11586399819458404433",
+        "nom": "MP Clim & Sol Air - Installation climatisation",
+        "slug": "mp-clim-sol-air-installation-climatisation",
+        "telephone": null,
+        "site_web": "https://www.mpclimsolair.com/",
+        "adresse": "07 82 67 51 94",
+        "note": 5,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "seyches": {
+    "artisans": [
+      {
+        "id": "6370438601118912380",
+        "nom": "Faugere kevin climatique",
+        "slug": "faugere-kevin-climatique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36 Rue des Écoles",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-temple-sur-lot": {
+    "artisans": [
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16498363619940067047",
+        "nom": "Aquitec Froid Courret",
+        "slug": "aquitec-froid-courret",
+        "telephone": null,
+        "site_web": "https://www.aquitecfroidcourret.fr/",
+        "adresse": "Sainte-Livrade-sur-Lot",
+        "note": 4,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "tonneins": {
+    "artisans": [
+      {
+        "id": "10853512255298468517",
+        "nom": "BADIE - Tonneins",
+        "slug": "badie-tonneins",
+        "telephone": null,
+        "site_web": "http://www.badie-installateur.com/",
+        "adresse": "11 Av. Pierre Mendès France",
+        "note": 3,
+        "avis": 83,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": null,
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "Fauillet",
+        "note": 4,
+        "avis": 66,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8358706473409999226",
+        "nom": "CARESMEL",
+        "slug": "caresmel",
+        "telephone": null,
+        "site_web": "http://www.caresmelpatricechauffagiste.com/",
+        "adresse": "Rue Henri Fabre",
+        "note": 3,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12777124295919220363",
+        "nom": "ETS DUPLAN",
+        "slug": "ets-duplan",
+        "telephone": null,
+        "site_web": "http://www.mours-duplan-chauffagiste.fr/",
+        "adresse": "37 Rue Tarride",
+        "note": 3,
+        "avis": 39,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16351533250667770380",
+        "nom": "Therm'Energy",
+        "slug": "thermenergy",
+        "telephone": null,
+        "site_web": "http://www.thermenergy47.fr/",
+        "adresse": "Clairac",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "8647176749161054232",
+        "nom": "Duhamel-Granprey Ludovic",
+        "slug": "duhamel-granprey-ludovic",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Caillaud",
+        "note": 4,
+        "avis": 10,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "5397760681971172566",
+        "nom": "JORIS ENERGIE (SARL)",
+        "slug": "joris-energie-sarl",
+        "telephone": null,
+        "site_web": "https://www.joris-energie.fr/",
+        "adresse": "Av. Blanche Peyron",
+        "note": 5,
+        "avis": 1,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "4816867793142749880",
+        "nom": "Deleuze-Dordron Thomas",
+        "slug": "deleuze-dordron-thomas",
+        "telephone": null,
+        "site_web": "https://deleuzedordronservices.fr/",
+        "adresse": "Fauillet",
+        "note": 3,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "11053416672409314991",
+        "nom": "HN Soudure",
+        "slug": "hn-soudure",
+        "telephone": null,
+        "site_web": "https://hnsoudure.com/?utm_source=gmb",
+        "adresse": "6 Rue de Suriray",
+        "note": 4,
+        "avis": 22,
+        "type": "Soudeur"
+      }
+    ]
+  },
+  "villeneuve-sur-lot": {
+    "artisans": [
+      {
+        "id": "12673897924758079290",
+        "nom": "CLIM47",
+        "slug": "clim47",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 3 ans en activité",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3894242819308651205",
+        "nom": "Etablissements Fontanie",
+        "slug": "etablissements-fontanie",
+        "telephone": null,
+        "site_web": "http://www.froid-fontanie.fr/?utm_source=gmb",
+        "adresse": "ZI La Bouldene, 954 Rue Alfred Nobel",
+        "note": 4,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9184940625408452005",
+        "nom": "Atelier Technique Froid Climatisation - Climatisation Villeneuve-sur-Lot",
+        "slug": "atelier-technique-froid-climatisation-climatisation-villeneuve-sur-lot",
+        "telephone": null,
+        "site_web": "https://atfc.fr/",
+        "adresse": "6753 route de Lacaussade",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "52458204938960995",
+        "nom": "Electricité Froid Frigoriste",
+        "slug": "electricite-froid-frigoriste",
+        "telephone": null,
+        "site_web": "http://froid-solution47.fr/",
+        "adresse": "ElGhazzard Mohammed Bordeneuve sud",
+        "note": 4,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4218301792311822081",
+        "nom": "MNI Chauffage",
+        "slug": "mni-chauffage",
+        "telephone": null,
+        "site_web": "http://www.mnichauffage.fr/",
+        "adresse": "1 avenue du mal de lattre de tassigny",
+        "note": 3,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15995413080764442094",
+        "nom": "AQUI-THERM RAMONAGE - DEPANNAGE PLOMBERIE",
+        "slug": "aqui-therm-ramonage-depannage-plomberie",
+        "telephone": null,
+        "site_web": "https://aquitherm.fr/",
+        "adresse": "10B Av. de Fumel",
+        "note": 3,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "4980625402598409374",
+        "nom": "Climatisation réversible",
+        "slug": "climatisation-reversible",
+        "telephone": null,
+        "site_web": "https://atfc.fr/contact/",
+        "adresse": "6753 Rte de Lacaussade",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5500014236902189790",
+        "nom": "Sarl Lompech-Tesquet",
+        "slug": "sarl-lompech-tesquet",
+        "telephone": null,
+        "site_web": "http://www.lompech-tesquet.fr/",
+        "adresse": "30 Chem. de fauché",
+        "note": 3,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "18343869913520683262",
+        "nom": "Climat 47 Sarl",
+        "slug": "climat-47-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Zoning Industriel Barbière",
+        "note": 3,
+        "avis": 12,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "roquefort": {
+    "artisans": [
+      {
+        "id": "15721426946637944880",
+        "nom": "Polloni magnolo",
+        "slug": "polloni-magnolo",
+        "telephone": null,
+        "site_web": "http://www.polloni-magnolo.fr/",
+        "adresse": "Roquefort",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-bazeille": {
+    "artisans": [
+      {
+        "id": "18399083551799424856",
+        "nom": "Langlois Jérémie",
+        "slug": "langlois-jeremie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Bazeille",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15548944283859608861",
+        "nom": "POITEVIN ÉNERGIES",
+        "slug": "poitevin-energies",
+        "telephone": null,
+        "site_web": "https://www.poitevinenergies.fr/",
+        "adresse": "Sainte-Bazeille",
+        "note": 4,
+        "avis": 62,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14397179989807888430",
+        "nom": "SARL RIGO JEAN PIERRE",
+        "slug": "sarl-rigo-jean-pierre",
+        "telephone": null,
+        "site_web": "http://www.rigo-chauffage-clim.com/",
+        "adresse": "Sainte-Bazeille",
+        "note": 4,
+        "avis": 72,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12336563872993020900",
+        "nom": "Entreprise Morassut Lionel",
+        "slug": "entreprise-morassut-lionel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sainte-Bazeille",
+        "note": null,
+        "avis": null,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1603212602898241518",
+        "nom": "SAS Bonotto",
+        "slug": "sas-bonotto",
+        "telephone": null,
+        "site_web": "https://www.sasbonotto-47.fr/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 100,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "sainte-colombe-en-bruilhois": {
+    "artisans": [
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": null,
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Ld Lamothe, 733 Rte de Manau",
+        "note": 4,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-vite": {
+    "artisans": [
+      {
+        "id": "8383818924614700798",
+        "nom": "Installation vmc argenteuil - maintenance VMC btqualit",
+        "slug": "installation-vmc-argenteuil-maintenance-vmc-btqualit",
+        "telephone": null,
+        "site_web": "https://laventilation-argenteuil-btqualit.com/",
+        "adresse": "Argenteuil",
+        "note": 5,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4106830717347215712",
+        "nom": "évole énergies – Agence de Saint-Vit (ex A.T.M.C)",
+        "slug": "evole-energies-agence-de-saint-vit-ex-atmc",
+        "telephone": null,
+        "site_web": "https://www.evole-energies.fr/",
+        "adresse": "Saint-Vit",
+        "note": 4,
+        "avis": 59,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6449132862623528662",
+        "nom": "Martin Fils SARL",
+        "slug": "martin-fils-sarl",
+        "telephone": null,
+        "site_web": "http://www.martin-fils.com/?utm_source=gmb",
+        "adresse": "Montayral",
+        "note": 4,
+        "avis": 232,
+        "type": "Plombier"
+      },
+      {
+        "id": "4685211603169423465",
+        "nom": "PROMATECH",
+        "slug": "promatech",
+        "telephone": null,
+        "site_web": "http://pro-ma-tech.fr/",
+        "adresse": "Saint-Vit",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13770043643082307814",
+        "nom": "Mclimatic",
+        "slug": "mclimatic",
+        "telephone": null,
+        "site_web": "https://www.mclimatic-avis.fr/avis-clients/",
+        "adresse": "Saint-Cyr-sur-Loire",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8729047174270193077",
+        "nom": "CLIM’STER",
+        "slug": "climster",
+        "telephone": null,
+        "site_web": "https://www.climster.fr/",
+        "adresse": "Saint-Ouen-l'Aumône",
+        "note": 5,
+        "avis": 40,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "139186969747243908",
+        "nom": "Kemp'air Ventilation",
+        "slug": "kempair-ventilation",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/pages/category/Cleaning-Service/Kempair-ventilation-456241538507794/?utm_source=gmb",
+        "adresse": "Saint-Yvi",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17022410851398698958",
+        "nom": "Rapid Plombier",
+        "slug": "rapid-plombier",
+        "telephone": null,
+        "site_web": "http://www.facebook.com/Rapid-plombier-1300492196656124/?utm_source=gmb",
+        "adresse": "Montayral",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "serignac-sur-garonne": {
+    "artisans": [
+      {
+        "id": "17736233834337494762",
+        "nom": "LGA rénovations Electricien - Plombier, Sérignac-sur-Garonne, rénovation complète de salle de bain et dépannage",
+        "slug": "lga-renovations-electricien-plombier-serignac-sur-garonne-renovation-complete-de-salle-de-bain-et-depannage",
+        "telephone": null,
+        "site_web": "https://www.google.com/search?q=LGA+r%C3%A9novations+Electricien+-+Plombier&rlz=1C1UEAD_frFR1139FR1141&oq=lga&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7MggIABBFGCcYOzIRCAEQRRg5GEMYsQMYgAQYigUyCAgCEEUYJxg7MhAIAxAuGK8BGMcBGIAEGI4FMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg9MgYIBxBFGD3SAQgzODYyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&zx=1744128130674&no_sw_cr=1",
+        "adresse": "7 chemin de plaisance haut",
+        "note": 5,
+        "avis": 21,
+        "type": "Électricien"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": null,
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "Boé",
+        "note": 4,
+        "avis": 36,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "3573552839580376018",
+        "nom": "PAC / CLIM / VMC - Fluide Eco Energie",
+        "slug": "pac-clim-vmc-fluide-eco-energie",
+        "telephone": null,
+        "site_web": "https://www.fluideecoenergie.com/",
+        "adresse": "06 34 19 85 24",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "324191245462827621",
+        "nom": "Vmc Solutions",
+        "slug": "vmc-solutions",
+        "telephone": null,
+        "site_web": "https://www.vmc-solutions.fr/",
+        "adresse": "Bègles",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "9142346833014965241",
+        "nom": "Paillas Gilles",
+        "slug": "paillas-gilles",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Plus de 10 ans en activité",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "5576599290170895989",
+        "nom": "AFEnergies (climatisation / chauffage / plomberie/ vmc)",
+        "slug": "afenergies-climatisation-chauffage-plomberie-vmc",
+        "telephone": null,
+        "site_web": "https://www.afenergies.com/",
+        "adresse": "06 11 65 12 43",
+        "note": 5,
+        "avis": 143,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13523074188966730458",
+        "nom": "Alexandre Van-Den-Kerkhof",
+        "slug": "alexandre-van-den-kerkhof",
+        "telephone": null,
+        "site_web": "https://alexvdk.fr/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "11586399819458404433",
+        "nom": "MP Clim & Sol Air - Installation climatisation",
+        "slug": "mp-clim-sol-air-installation-climatisation",
+        "telephone": null,
+        "site_web": "https://www.mpclimsolair.com/",
+        "adresse": "07 82 67 51 94",
+        "note": 5,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "villereal": {
+    "artisans": [
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": null,
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": "Plus de 3 ans en activité",
+        "note": 4,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": null,
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "Agen",
+        "note": 4,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12501508974738664092",
+        "nom": "Albatros : Installation -Entretien -Dépannage Climatisation /Ventilation/ Chauffage",
+        "slug": "albatros-installation-entretien-depannage-climatisation-ventilation-chauffage",
+        "telephone": null,
+        "site_web": "http://www.albatros-ad.fr/",
+        "adresse": "Bouloc",
+        "note": 4,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": null,
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "Agen",
+        "note": 5,
+        "avis": 47,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "virazeil": {
+    "artisans": [
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1464, Route de Miramont de Guyenne",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "17740866517125683606",
+        "nom": "ANVITECH",
+        "slug": "anvitech",
+        "telephone": null,
+        "site_web": "https://www.anvitech.fr/",
+        "adresse": "61 route de Saint Pardoux du Breuil",
+        "note": 5,
+        "avis": 3,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "10262137863096269645",
+        "nom": "SAS Larroche",
+        "slug": "sas-larroche",
+        "telephone": null,
+        "site_web": "https://www.saslarroche.fr/",
+        "adresse": "Marmande",
+        "note": 4,
+        "avis": 10,
+        "type": "Usine de panneaux solaires photovoltaïques"
+      }
+    ]
+  }
+}
