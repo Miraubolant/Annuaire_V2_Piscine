@@ -3,7 +3,7 @@ http_response_code(404);
 require_once __DIR__ . '/../config.php';
 require_once __DIR__ . '/../functions.php';
 $title       = 'Page introuvable — ' . SITE_NAME;
-$description = 'La page que vous recherchez n\'existe pas. Trouvez un installateur VMC près de chez vous.';
+$description = 'La page que vous recherchez n\'existe pas. Trouvez un pisciniste près de chez vous.';
 $robots      = 'noindex,follow';
 $canonical_url = SITE_URL . '/';
 $jsonLd      = [];
@@ -15,7 +15,7 @@ require __DIR__ . '/header.php';
     <h1 class="text-4xl font-bold text-gray-800 mb-4">Page introuvable</h1>
     <p class="text-gray-500 text-lg mb-8">
         Cette page n'existe pas ou a été déplacée.
-        Cherchez un installateur VMC dans votre ville ci-dessous.
+        Cherchez un pisciniste dans votre ville ci-dessous.
     </p>
 
     <!-- Barre de recherche -->

@@ -1,8 +1,8 @@
 <?php
-// $dept        (array) — {code, nom, slug, artisans_vmc, communes_avec_artisans}
+// $dept        (array) — {code, nom, slug, artisans_piscine, communes_avec_artisans}
 // $regionSlug  (string)
 $url  = urlDepartement($regionSlug, $dept['slug']);
-$nb   = $dept['artisans_vmc'] ?? 0;
+$nb   = $dept['artisans_piscine'] ?? 0;
 $com  = $dept['communes_avec_artisans'] ?? 0;
 ?>
 <a href="<?= htmlspecialchars($url) ?>"

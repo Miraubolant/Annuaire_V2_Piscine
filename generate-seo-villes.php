@@ -1,6 +1,6 @@
 <?php
 /**
- * Generation SEO -- VMC
+ * Generation SEO -- Piscine
  * Toutes les communes (avec ET sans artisan reference)
  * Sortie : JSON {text, meta} par commune
  *
@@ -26,7 +26,7 @@ $forceRegen = isset($argv[2]) && $argv[2] === 'force';
 $deptMap = getDeptMapping();
 $stats   = ['done' => 0, 'skipped' => 0, 'errors' => 0, 'tokens_in' => 0, 'tokens_out' => 0];
 
-echo "=== SEO VMC — toutes communes ===\n";
+echo "=== SEO Piscine — toutes communes ===\n";
 echo 'Filtre dept : ' . ($filterDept ?? 'tous') . ' | Force : ' . ($forceRegen ? 'oui' : 'non') . "\n\n";
 
 foreach ($deptMap as $deptCode => $deptInfo) {
@@ -97,35 +97,30 @@ function buildPromptAvecArtisans(array $c, string $dept, string $region, int $nb
     $nom      = $c['nom'];
     $cp       = $c['code_postal'];
     $pop      = $ctx['population'];
-    $zone     = $ctx['zone'];
-    $zLabel   = $ctx['zone_label'];
-    $pct      = $ctx['pct_avant_1990'];
-    $humLabel = $ctx['humidite_label'];
+    $zone     = $ctx['zone_label'];
     $aidesSpe = $ctx['aides_speciales'];
 
     return <<<PROMPT
-Tu es redacteur SEO specialise en installation VMC et ventilation des batiments. Genere le contenu SEO pour la page d'annuaire des installateurs VMC a {$nom} ({$cp}).
+Tu es redacteur SEO specialise en construction et entretien de piscines. Genere le contenu SEO pour la page d'annuaire des piscinistes a {$nom} ({$cp}).
 
 DONNEES LOCALES :
 - Commune : {$nom}, {$dept} ({$region})
 - Population : {$pop} hab.
-- Installateurs VMC references : {$nb}
-- Zone climatique : {$zone} — {$zLabel}
-- Logements avant 1990 : {$pct}% (majoritairement sans VMC ou avec installation obsolete)
-- Contexte humidite : {$humLabel}
+- Piscinistes references : {$nb}
+- Contexte climatique : {$zone}
 {$aidesSpe}
 
 CONSIGNES TEXTE (280-340 mots) :
-- Pas de nom de marque ni d'artisan specifique
-- Angle editorial : qualite de l'air interieur, sante, economies d'energie et aides disponibles
-- Mots-cles naturels : installateur VMC {$nom}, VMC double flux {$nom}, remplacement VMC {$nom}, ventilation {$nom}
-- Aides a citer absolument : TVA 5,5%, prime CEE BAR-TH-125 (double flux), prime CEE BAR-TH-187 (hygro B), MaPrimeRenov
-- Mentionner : VMC double flux, VMC hygro B, remplacement VMC, entretien VMC selon le contexte
-- Insister sur les risques de moisissures et problemes d'humidite sans ventilation adequate
+- Pas de nom de marque ni de pisciniste specifique
+- Angle editorial : qualite de vie, loisirs, valorisation immobiliere, securite et normes
+- Mots-cles naturels : pisciniste {$nom}, construction piscine {$nom}, piscine beton {$nom}, piscine coque {$nom}
+- Financements a mentionner : TVA 10% sur travaux de renovation, financement pisciniste, credit impot PAC piscine
+- Services a mentionner : construction piscine beton, piscine coque polyester, liner et revetement, traitement eau, hivernage, pompe a chaleur piscine, abri piscine, electrolyseur sel
+- Mentionner les normes de securite obligatoires (alarme, barriere, couverture — NF P90-306/307/308)
 - Paragraphes courts (3-4 lignes), pas de titre H1/H2, texte brut
 
 CONSIGNES META (130-155 caracteres) :
-- Inclure : installateur VMC {$nom}, devis gratuit, une aide cle (prime CEE ou MaPrimeRenov)
+- Inclure : pisciniste {$nom}, devis gratuit, un service cle (construction ou renovation)
 - Formule comme une invitation a l'action
 
 FORMAT DE REPONSE — JSON valide uniquement, sans markdown ni balise :
@@ -140,32 +135,30 @@ function buildPromptSansArtisans(array $c, string $dept, string $region): string
     $nom      = $c['nom'];
     $cp       = $c['code_postal'];
     $pop      = $ctx['population'];
-    $zone     = $ctx['zone'];
-    $zLabel   = $ctx['zone_label'];
-    $pct      = $ctx['pct_avant_1990'];
+    $zone     = $ctx['zone_label'];
     $aidesSpe = $ctx['aides_speciales'];
 
     return <<<PROMPT
-Tu es redacteur SEO specialise en installation VMC et ventilation des batiments. Genere le contenu SEO pour la page d'annuaire installateurs VMC pres de {$nom} ({$cp}).
+Tu es redacteur SEO specialise en construction et entretien de piscines. Genere le contenu SEO pour la page d'annuaire piscinistes pres de {$nom} ({$cp}).
 
-SITUATION : aucun installateur VMC n'est repertorie a {$nom}, mais des artisans de {$proches} couvrent ce secteur.
+SITUATION : aucun pisciniste n'est repertorie a {$nom}, mais des professionnels de {$proches} couvrent ce secteur.
 
 DONNEES LOCALES :
 - Commune : {$nom}, {$dept} ({$region})
 - Population : {$pop} hab.
-- Zone climatique : {$zone} — {$zLabel}
-- Logements avant 1990 : {$pct}% (sans VMC ou installation obsolete)
+- Contexte climatique : {$zone}
 {$aidesSpe}
 
 CONSIGNES TEXTE (240-300 mots) :
-- Mentionne que les installateurs VMC de {$proches} interviennent a {$nom} et alentours
-- Valorise les deplacements gratuits pour devis et les aides accessibles partout
-- Mots-cles : installateur VMC pres de {$nom}, VMC {$nom}, ventilation {$nom}
-- Aides : TVA 5,5%, prime CEE BAR-TH-125 (double flux), BAR-TH-187 (hygro B), MaPrimeRenov
+- Mentionne que les piscinistes de {$proches} interviennent a {$nom} et alentours
+- Valorise les deplacements gratuits pour devis et les solutions de financement accessibles partout
+- Mots-cles : pisciniste pres de {$nom}, piscine {$nom}, construction piscine {$nom}
+- Financements : TVA 10%, financement pisciniste, credit impot PAC piscine
+- Mentionner les normes de securite obligatoires (NF P90-306/307/308)
 - Paragraphes courts, pas de titre H1/H2, texte brut
 
 CONSIGNES META (130-155 caracteres) :
-- Inclure : installateur VMC {$nom}, devis gratuit
+- Inclure : pisciniste {$nom}, devis gratuit
 - Formule comme une invitation a l'action
 
 FORMAT DE REPONSE — JSON valide uniquement, sans markdown ni balise :
@@ -184,27 +177,21 @@ function communeContext(array $c): array
 
     $zone = (string)($c['aides_etat']['zone_climatique'] ?? 'H2');
     $zoneLabels = [
-        'H1' => 'nord/est de la France, hivers rigoureux — VMC double flux fortement recommandee pour reduire les deperditions thermiques',
-        'H2' => 'centre de la France, temperatures moderees — VMC hygro B ou double flux selon le type de logement',
-        'H3' => 'sud de la France — VMC essentielle pour evacuer la chaleur estivale et controler l humidite',
-    ];
-    $humiditeLabels = [
-        'H1' => 'forte humidite hivernale : risque de condensation et moisissures sans VMC performante',
-        'H2' => 'humidite moderee : VMC hygro B suffisante pour la plupart des logements',
-        'H3' => 'chaleur et humidite estivale : ventilation nocturne indispensable',
+        'H1' => 'nord/est de la France, hivers froids — piscine couverte ou chauffee recommandee, saison de baignade avril-septembre',
+        'H2' => 'centre de la France, climat tempere — saison de baignade mai-octobre, pompe a chaleur conseillée pour prolonger la saison',
+        'H3' => 'sud de la France, climat chaud — forte demande piscines, saison de baignade avril-novembre, traitement eau intensif en ete',
     ];
 
     $aides = [];
-    if (!empty($c['aides_etat']['qpv'])) $aides[] = "- QPV : MaPrimeRenov' majoree pour l'installation VMC";
-    if (!empty($c['aides_etat']['action_coeur_de_ville'])) $aides[] = '- Action Coeur de Ville : aides rehabilitation renforcees';
-    if (!empty($c['aides_etat']['petites_villes_de_demain'])) $aides[] = '- Petites Villes de Demain : subventions locales renovation';
+    if (!empty($c['aides_etat']['qpv'])) $aides[] = '- QPV : aides locales possibles pour amenagement exterieur';
+    if (!empty($c['aides_etat']['action_coeur_de_ville'])) $aides[] = '- Action Coeur de Ville : subventions rehabilitation et amenagement';
+    if (!empty($c['aides_etat']['petites_villes_de_demain'])) $aides[] = '- Petites Villes de Demain : soutien amenagement cadre de vie';
 
     return [
         'population'      => number_format((int)($c['population'] ?? 0), 0, ',', ' '),
         'pct_avant_1990'  => $pct,
         'zone'            => $zone,
         'zone_label'      => $zoneLabels[$zone] ?? '',
-        'humidite_label'  => $humiditeLabels[$zone] ?? '',
         'aides_speciales' => $aides ? implode("\n", $aides) : '',
     ];
 }
@@ -235,7 +222,7 @@ function callDeepSeek(string $prompt, array &$stats): ?string
     $payload = json_encode([
         'model'       => DEEPSEEK_MODEL,
         'messages'    => [
-            ['role' => 'system', 'content' => 'Tu es redacteur SEO expert en installation VMC et ventilation des batiments. Reponds UNIQUEMENT avec un objet JSON valide contenant les cles "text" et "meta". Aucun markdown, aucun commentaire, aucune balise.'],
+            ['role' => 'system', 'content' => 'Tu es redacteur SEO expert en construction et entretien de piscines. Reponds UNIQUEMENT avec un objet JSON valide contenant les cles "text" et "meta". Aucun markdown, aucun commentaire, aucune balise.'],
             ['role' => 'user',   'content' => $prompt],
         ],
         'max_tokens'  => 700,
