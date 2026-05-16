@@ -50,8 +50,8 @@ $communesAvecArtisans = array_filter($communes, fn($c) => $getCount($c) > 0);
 usort($communes, fn($a, $b) => $getCount($b) - $getCount($a));
 
 $artDept = articleDepartement($deptCode);
-$title         = seoTitle('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_isolation_thermique' => $totalArtisans, 'zone' => $zoneDominante]);
-$description   = seoDescription('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_isolation_thermique' => $totalArtisans, 'zone' => $zoneDominante]);
+$title         = seoTitle('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_vmc' => $totalArtisans, 'zone' => $zoneDominante]);
+$description   = seoDescription('departement', ['code' => $deptCode, 'nom' => $deptNom, 'artisans_vmc' => $totalArtisans, 'zone' => $zoneDominante]);
 $canonical_url = urlDepartement($regionSlug, $deptSlug);
 $robots        = 'index,follow';
 
@@ -63,16 +63,16 @@ $trail = [
 $jsonLd = [jsonLdBreadcrumbs($trail)];
 
 $faq = [
-    ['q' => "Combien de isolants exercent {$artDept} ?",
-     'r' => "Il y a {$totalArtisans} isolants référencés {$artDept}, répartis dans " . count($communesAvecArtisans) . " communes. Trouvez un artisan qualifié près de chez vous et demandez un devis gratuit."],
-    ['q' => "Quelles aides sont disponibles pour les travaux de toiture {$artDept} ?",
-     'r' => "Les habitants {$artDept} peuvent bénéficier de la TVA à 5,5% pour tous les travaux d'isolation, de la prime CEE BAR-EN-101 (combles, zone {$zoneDominante}), BAR-EN-102 (murs), BAR-EN-103 (planchers), de l'Éco-PTZ et de MaPrimeRénov'. Votre isolant peut vous aider à monter les dossiers."],
-    ['q' => "Quel est le coût d'une réfection de toiture {$artDept} ?",
-     'r' => "La réfection d'une toiture {$artDept} coûte entre 80 € et 250 €/m² selon les matériaux. Sur 100 m², comptez entre 8 000 € et 25 000 €. Avec les aides disponibles, le reste à charge peut être significativement réduit. Demandez plusieurs devis pour comparer."],
-    ['q' => "Comment trouver un isolant certifié RGE {$artDept} ?",
-     'r' => "Cherchez votre ville dans notre annuaire pour trouver les isolants certifiés RGE {$artDept}. La certification RGE est obligatoire pour bénéficier des aides à la rénovation énergétique (prime CEE combles, MaPrimeRénov')."],
+    ['q' => "Combien d'installateurs VMC exercent {$artDept} ?",
+     'r' => "Il y a {$totalArtisans} installateurs VMC référencés {$artDept}, répartis dans " . count($communesAvecArtisans) . " communes. Trouvez un artisan qualifié près de chez vous et demandez un devis gratuit."],
+    ['q' => "Quelles aides sont disponibles pour les travaux de ventilation VMC {$artDept} ?",
+     'r' => "Les habitants {$artDept} peuvent bénéficier de la TVA à 5,5% pour tous les travaux de ventilation VMC, de la prime CEE BAR-TH-125 (VMC double flux, zone {$zoneDominante}), BAR-TH-187 (VMC hygroréglable), de l'Éco-PTZ et de MaPrimeRénov'. Votre installateur VMC peut vous aider à monter les dossiers."],
+    ['q' => "Quel est le coût d'une installation VMC double flux {$artDept} ?",
+     'r' => "L'installation d'une VMC double flux {$artDept} coûte entre 3 000 € et 8 000 € selon la surface et le modèle. Avec les aides disponibles (prime CEE BAR-TH-125 et MaPrimeRénov'), le reste à charge peut être significativement réduit. Demandez plusieurs devis pour comparer."],
+    ['q' => "Comment trouver un installateur VMC certifié RGE {$artDept} ?",
+     'r' => "Cherchez votre ville dans notre annuaire pour trouver les installateurs VMC certifiés RGE {$artDept}. La certification RGE est obligatoire pour bénéficier des aides à la rénovation énergétique (prime CEE VMC double flux, MaPrimeRénov')."],
     ['q' => "{$pctAvant1990}% des logements {$artDept} ont plus de 35 ans — comment en profiter ?",
-     'r' => "Les logements construits avant 1990 ont souvent des toitures et des combles à rénover. Ils sont éligibles à toutes les aides : TVA à 5,5% sur l'isolation, prime CEE BAR-EN-101, Éco-PTZ et MaPrimeRénov'. Un isolant {$artDept} peut vous accompagner dans les démarches."],
+     'r' => "Les logements construits avant 1990 ont souvent des systèmes de ventilation obsolètes ou inexistants. Ils sont éligibles à toutes les aides : TVA à 5,5% sur l'installation VMC, prime CEE BAR-TH-125, Éco-PTZ et MaPrimeRénov'. Un installateur VMC {$artDept} peut vous accompagner dans les démarches."],
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
@@ -94,18 +94,18 @@ require __DIR__ . '/../templates/header.php';
         <!-- Colonne gauche : éditorial -->
         <div>
             <h1 style="font-family:var(--font-display);font-size:clamp(26px,3.5vw,44px);font-weight:700;color:#fff;line-height:1.2;margin-bottom:14px;letter-spacing:-.02em;">
-                isolants <?= htmlspecialchars($artDept) ?><br>
+                Installateurs VMC <?= htmlspecialchars($artDept) ?><br>
                 <em style="color:#F0A07A;font-style:italic;"><?= htmlspecialchars($deptNom) ?> (<?= htmlspecialchars($deptCode) ?>)</em>
             </h1>
 
             <p style="font-size:15px;color:rgba(255,255,255,.65);margin-bottom:28px;line-height:1.7;">
-                Trouvez un isolant certifié RGE <?= htmlspecialchars($artDept) ?> — devis gratuit, TVA 5,5%, prime CEE zone <?= htmlspecialchars($zoneDominante) ?> disponibles.
+                Trouvez un installateur VMC certifié RGE <?= htmlspecialchars($artDept) ?> — devis gratuit, TVA 5,5%, prime CEE zone <?= htmlspecialchars($zoneDominante) ?> disponibles.
             </p>
 
             <div class="ph-stat-row">
                 <div class="ph-stat">
                     <div class="ph-stat-num"><?= number_format($totalArtisans, 0, ',', ' ') ?></div>
-                    <div class="ph-stat-label">isolants</div>
+                    <div class="ph-stat-label">Installateurs VMC</div>
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
@@ -128,7 +128,7 @@ require __DIR__ . '/../templates/header.php';
                     </div>
                 </div>
                 <div class="ph-badge">
-                    <div class="ph-badge-icon">🌡️</div>
+                    <div class="ph-badge-icon">💨</div>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:13px;">Zone <?= htmlspecialchars($zoneDominante) ?></div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Prime CEE majorée</div>
@@ -150,7 +150,7 @@ require __DIR__ . '/../templates/header.php';
         <div>
             <div class="ph-widget-card">
                 <div class="ph-widget-header">
-                    <span style="font-size:22px;">🏠</span>
+                    <span style="font-size:22px;">💨</span>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:15px;">Obtenir un devis gratuit</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.55);">Réponse sous 48h · Sans engagement</div>
@@ -179,7 +179,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- Communes (triées par nb artisans) -->
     <section class="mb-8">
         <h2 class="text-2xl font-bold text-gray-800 mb-4">
-            isolants par ville <?= htmlspecialchars($artDept) ?>
+            Installateurs VMC par ville <?= htmlspecialchars($artDept) ?>
         </h2>
         <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
             <?php foreach (array_slice($communes, 0, 60) as $ville): ?>

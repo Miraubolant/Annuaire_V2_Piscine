@@ -2,8 +2,8 @@
 require_once __DIR__ . '/../config.php';
 require_once __DIR__ . '/../functions.php';
 
-$title         = 'Aides à l\'isolation thermique — TVA 5,5%, CEE, MaPrimeRénov\' — ' . SITE_NAME;
-$description   = 'Toutes les aides financières pour vos travaux d\'isolation : TVA à 5,5%, prime CEE BAR-EN-101/102/103, Éco-PTZ jusqu\'à 50 000 €, MaPrimeRénov\'. Cumulables et applicables partout en France.';
+$title         = 'Aides à la ventilation VMC — TVA 5,5%, CEE, MaPrimeRénov\' — ' . SITE_NAME;
+$description   = 'Toutes les aides financières pour vos travaux de ventilation VMC : TVA à 5,5%, prime CEE BAR-TH-125/BAR-TH-187, Éco-PTZ jusqu\'à 50 000 €, MaPrimeRénov\'. Cumulables et applicables partout en France.';
 $canonical_url = SITE_URL . '/aides/';
 $robots        = 'index,follow';
 $jsonLd        = [];
@@ -23,10 +23,10 @@ require __DIR__ . '/../templates/header.php';
             💶 Financements 2025
         </span>
         <h1 style="font-family:var(--font-display);font-size:clamp(26px,4vw,44px);font-weight:700;color:#fff;line-height:1.2;letter-spacing:-.02em;margin-bottom:14px;">
-            Aides à la rénovation<br>toiture & combles
+            Aides à la rénovation<br>ventilation VMC
         </h1>
         <p style="font-size:16px;color:rgba(255,255,255,.65);line-height:1.7;max-width:560px;margin:0 auto 28px;">
-            TVA réduite, primes CEE, Éco-PTZ, MaPrimeRénov' — des financements cumulables pour réduire le coût de vos travaux de isolation.
+            TVA réduite, primes CEE, Éco-PTZ, MaPrimeRénov' — des financements cumulables pour réduire le coût de vos travaux de ventilation VMC.
         </p>
         <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
             <span style="background:rgba(255,255,255,.12);color:#fff;font-size:12px;font-weight:600;padding:6px 14px;border-radius:100px;">✓ Cumulables entre eux</span>
@@ -43,7 +43,7 @@ require __DIR__ . '/../templates/header.php';
     <section style="margin-bottom:64px;">
         <div style="margin-bottom:32px;">
             <span class="section-eyebrow">🏛️ Aides nationales</span>
-            <h2 class="section-title" style="margin-top:8px;">Financements disponibles pour la isolation</h2>
+            <h2 class="section-title" style="margin-top:8px;">Financements disponibles pour la ventilation VMC</h2>
             <p class="section-subtitle">Ces aides sont accessibles à tous les propriétaires en France métropolitaine et en outre-mer.</p>
         </div>
 
@@ -105,7 +105,7 @@ require __DIR__ . '/../templates/header.php';
             <div style="display:flex;gap:12px;align-items:flex-start;">
                 <span style="background:var(--forest);color:#fff;font-size:11px;font-weight:800;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;">1</span>
                 <div>
-                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Choisissez un isolant RGE</p>
+                    <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">Choisissez un installateur VMC RGE</p>
                     <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Obligatoire pour débloquer la prime CEE, l'Éco-PTZ et MaPrimeRénov'.</p>
                 </div>
             </div>
@@ -127,7 +127,7 @@ require __DIR__ . '/../templates/header.php';
                 <span style="background:var(--forest);color:#fff;font-size:11px;font-weight:800;width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;">4</span>
                 <div>
                     <p style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:2px;">La TVA réduite s'applique automatiquement</p>
-                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">Le isolant applique directement le taux réduit sur sa facture.</p>
+                    <p style="font-size:12px;color:var(--text-muted);line-height:1.6;">L'installateur VMC applique directement le taux réduit sur sa facture.</p>
                 </div>
             </div>
         </div>
@@ -136,9 +136,9 @@ require __DIR__ . '/../templates/header.php';
     <!-- ─── Zones climatiques ─────────────────────────────────────────────────── -->
     <section style="margin-bottom:64px;">
         <div style="margin-bottom:32px;">
-            <span class="section-eyebrow">🌡️ Primes selon votre région</span>
+            <span class="section-eyebrow">💨 Primes selon votre région</span>
             <h2 class="section-title" style="margin-top:8px;">Zones climatiques & montants CEE</h2>
-            <p class="section-subtitle">Le montant de la prime CEE BAR-EN-101 (isolation des combles) varie selon votre zone géographique.</p>
+            <p class="section-subtitle">Le montant de la prime CEE BAR-TH-125 (installation VMC double flux) varie selon votre zone géographique.</p>
         </div>
         <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px;">
             <?php
@@ -200,10 +200,10 @@ require __DIR__ . '/../templates/header.php';
     <!-- ─── CTA devis ─────────────────────────────────────────────────────────── -->
     <section style="background:var(--forest);border-radius:var(--radius-lg);padding:48px 32px;text-align:center;">
         <span class="section-eyebrow" style="color:rgba(255,255,255,.6);background:rgba(255,255,255,.1);margin-bottom:16px;">
-            🏠 Obtenir un devis
+            💨 Obtenir un devis
         </span>
         <h2 style="font-family:var(--font-display);font-size:clamp(20px,3vw,32px);font-weight:700;color:#fff;margin-bottom:10px;letter-spacing:-.02em;">
-            Trouvez un isolant RGE près de chez vous
+            Trouvez un installateur VMC RGE près de chez vous
         </h2>
         <p style="font-size:15px;color:rgba(255,255,255,.65);line-height:1.7;max-width:480px;margin:0 auto 28px;">
             Un artisan certifié RGE est obligatoire pour débloquer CEE, Éco-PTZ et MaPrimeRénov'. Devis gratuit, sans engagement, réponse sous 48h.

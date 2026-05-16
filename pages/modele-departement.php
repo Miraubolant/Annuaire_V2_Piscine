@@ -36,9 +36,9 @@ $zone = array_key_first($zoneCounts) ?? 'H2';
 
 // Éditorial selon zone
 $zoneTexts = [
-    'H1' => "Le département {$deptNom} est classé en zone climatique H1 (nord de la France). Les températures hivernales basses et le risque de gel imposent des normes élevées pour les toitures et l'isolation. Les primes CEE atteignent leurs montants maximaux en zone H1 pour les travaux de rénovation énergétique. Un " . METIER . " certifié RGE peut constituer le dossier d'aides.",
-    'H2' => "Le département {$deptNom} est classé en zone climatique H2 (centre de la France). Ce climat tempéré est propice aux travaux de couverture et d'isolation toute l'année. Les aides CEE et MaPrimeRénov' s'appliquent pleinement aux travaux de rénovation énergétique réalisés par un " . METIER . " certifié RGE.",
-    'H3' => "Le département {$deptNom} est classé en zone climatique H3 (sud de la France). Les étés chauds et les pluies intenses exigent une étanchéité parfaite et une isolation thermique performante. Les travaux d'isolation permettent de réduire les besoins en climatisation et sont éligibles aux aides CEE.",
+    'H1' => "Le département {$deptNom} est classé en zone climatique H1 (nord de la France). Les températures hivernales basses et les écarts thermiques importants imposent une ventilation performante pour renouveler l'air intérieur tout en limitant les déperditions. Les primes CEE atteignent leurs montants maximaux en zone H1 pour les travaux de ventilation VMC. Un " . METIER . " certifié RGE peut constituer le dossier d'aides.",
+    'H2' => "Le département {$deptNom} est classé en zone climatique H2 (centre de la France). Ce climat tempéré est propice aux travaux de ventilation VMC toute l'année. Les aides CEE et MaPrimeRénov' s'appliquent pleinement aux travaux de ventilation VMC réalisés par un " . METIER . " certifié RGE.",
+    'H3' => "Le département {$deptNom} est classé en zone climatique H3 (sud de la France). Les étés chauds et l'humidité liée aux pluies intenses exigent une ventilation efficace pour assurer la qualité de l'air et éviter les problèmes d'humidité. Les travaux d'installation VMC sont éligibles aux aides CEE.",
 ];
 $editorialText = $zoneTexts[$zone] ?? $zoneTexts['H2'];
 
@@ -68,7 +68,7 @@ $faq = [
     ['q' => "Quel est le tarif pour \"{$modNom}\" {$artDept} ?",
      'r' => "Le tarif pour {$modNom} {$artDept} dépend des matériaux, de la surface et de la complexité des travaux. En zone {$zone}, demandez plusieurs devis gratuits aux " . METIER_PLURIEL . " référencés dans le département."],
     ['q' => "Quelles aides pour \"{$modNom}\" {$artDept} ?",
-     'r' => "En zone {$zone}, les travaux d'isolation et de rénovation sont éligibles à la prime CEE, MaPrimeRénov' et l'Éco-PTZ. Votre " . METIER . " certifié RGE peut constituer le dossier d'aides à votre place."],
+     'r' => "En zone {$zone}, les travaux de ventilation VMC sont éligibles à la prime CEE BAR-TH-125/BAR-TH-187, MaPrimeRénov' et l'Éco-PTZ. Votre " . METIER . " certifié RGE peut constituer le dossier d'aides à votre place."],
     ['q' => "Combien de " . METIER_PLURIEL . " pour \"{$modNom}\" {$artDept} ?",
      'r' => "{$nbArtisans} " . METIER_PLURIEL . " référencés {$artDept} peuvent réaliser ces travaux. Consultez la liste ci-dessus pour trouver un artisan dans votre commune et demandez un devis."],
     ['q' => "Quelle TVA s'applique pour \"{$modNom}\" {$artDept} ?",

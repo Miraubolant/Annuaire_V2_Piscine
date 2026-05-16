@@ -46,17 +46,17 @@ $zoneEditorial = [
     'H1' => [
         'label' => 'Zone H1 — Climat froid',
         'cee'   => 'maximales en zone H1',
-        'text'  => "La région {$regionNom} est classée en zone climatique H1 (nord de la France). Les hivers rigoureux et le risque de gel imposent des exigences élevées pour les toitures et les travaux d'isolation. En zone H1, les primes CEE atteignent leurs montants les plus élevés, rendant le recours à un " . METIER . " certifié RGE particulièrement avantageux pour maximiser les aides.",
+        'text'  => "La région {$regionNom} est classée en zone climatique H1 (nord de la France). Les hivers rigoureux et les écarts de température importants imposent des exigences élevées en matière de ventilation et de qualité de l'air intérieur. En zone H1, les primes CEE atteignent leurs montants les plus élevés, rendant le recours à un " . METIER . " certifié RGE particulièrement avantageux pour maximiser les aides.",
     ],
     'H2' => [
         'label' => 'Zone H2 — Climat tempéré',
         'cee'   => 'disponibles en zone H2',
-        'text'  => "La région {$regionNom} est classée en zone climatique H2 (centre de la France). Ce climat tempéré permet des chantiers de couverture et d'isolation toute l'année. Les aides CEE et MaPrimeRénov' s'appliquent pleinement aux travaux de rénovation énergétique réalisés par un " . METIER . " certifié RGE.",
+        'text'  => "La région {$regionNom} est classée en zone climatique H2 (centre de la France). Ce climat tempéré permet des chantiers VMC toute l'année. Les aides CEE et MaPrimeRénov' s'appliquent pleinement aux travaux de ventilation VMC réalisés par un " . METIER . " certifié RGE.",
     ],
     'H3' => [
         'label' => 'Zone H3 — Climat méditerranéen',
         'cee'   => 'disponibles en zone H3',
-        'text'  => "La région {$regionNom} est classée en zone climatique H3 (sud de la France). Les étés chauds et les épisodes pluviométriques intenses exigent une étanchéité et une isolation thermique de haute performance. Un " . METIER . " qualifié peut vous accompagner pour optimiser le confort thermique et bénéficier des aides à la rénovation énergétique.",
+        'text'  => "La région {$regionNom} est classée en zone climatique H3 (sud de la France). Les étés chauds et l'humidité liée aux épisodes pluviométriques exigent une ventilation performante pour assurer le confort thermique et la qualité de l'air. Un " . METIER . " qualifié peut vous accompagner pour optimiser votre ventilation VMC et bénéficier des aides à la rénovation énergétique.",
     ],
 ];
 $editorial = $zoneEditorial[$zone];
