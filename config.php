@@ -1,4 +1,5 @@
-<?php
+﻿<?php
+define('SITE_EMAIL', 'admin@miraubolant.com');
 // ─── Identité site ────────────────────────────────────────────────────────────
 define('SITE_NAME',    'Annuaire Pisciniste');
 define('SITE_URL',     rtrim(getenv('SITE_URL') ?: 'https://annuaire-pisciniste-france.fr', '/'));
